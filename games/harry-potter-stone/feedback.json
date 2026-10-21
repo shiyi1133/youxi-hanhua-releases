@@ -1,0 +1,190 @@
+{
+  "schema": "public_harry_game_feedback_excerpts_v1",
+  "game_id": "harry-potter-stone",
+  "game_name": "哈利波特与魔法石",
+  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154025248449",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025248449#154025248449",
+      "created_at": "2026-10-12T21:25:52+08:00",
+      "quote": "楼主太牛了，大字体版会有零星乱码现象",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8ca321381f30e924e3874e370a086e061c95f7c5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "9bd516f01ec85800271ff8aa316b677c148fcd77ed27ecf9b40c324541c4fead"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025842621",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025842621#154025842621",
+      "created_at": "2026-10-13T00:34:42+08:00",
+      "quote": "是魔法石，哈利波特与魔法石_简体中文_v1.0.1大字号测试版.gbc 乱码的字似乎是随机的某个会乱掉。密室玩了一部分暂时没遇到",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046569100",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046569100#154046569100",
+      "created_at": "2026-10-18T23:09:36+08:00",
+      "quote": "报错，大字版在上飞行课时 进入追逐马尔福剧情会直接卡死。小字版正常。存档如下，读取后直接往右走就触发剧情：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046608310",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046608310#154046608310",
+      "created_at": "2026-10-18T23:21:32+08:00",
+      "quote": "补充：卡死的是哈利波特与魔法石，而且后续测试进入追逐猫头鹰模式也会卡死，推测大字版进入追逐战就会卡死",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047337909",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047337909#154047337909",
+      "created_at": "2026-10-19T07:39:34+08:00",
+      "quote": "哈利波特与魔法石_简体中文 _v1.0.3_10px.gbc",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154053058855",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154053058855#154053058855",
+      "created_at": "2026-10-20T20:34:54+08:00",
+      "quote": "bug报告：后面追逐龙的剧情再次卡死，确认大字体版只要进入追逐战就会卡死，换小字体版正常rom版本：哈利波特与魔法石_简体中文 _v1.0.3_10px.gbc",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154053196484",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154053196484#154053196484",
+      "created_at": "2026-10-20T21:18:03+08:00",
+      "quote": "bug报告：更换了今天发布的新大字体版：哈利波特与魔法石_简体中文_v1.0.4_10px-dialogue.gbc 仍然在飞行小游戏死机。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "BUGs": [
+    {
+      "public_bug_key": "bug-19581e27de7c",
+      "summary": "旧v1.0.1大字版零星乱码；v1.0.2已修字体bank中断恢复问题。",
+      "state": "closed",
+      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "reported_version": "v1.0.1",
+      "reported_font": "大字号测试版",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "current_published_reference_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "feedback_pids": [
+        "154025248449",
+        "154025842621"
+      ],
+      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
+      "public_issue_url": null
+    },
+    {
+      "public_bug_key": "bug-b4944c6ff08d",
+      "summary": "大字版飞行／追逐场景卡死反馈。v1.0.5已有具名受控入口修订；玩家自然场景复测仍待。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "reported_version": null,
+      "reported_font": "大字（具体字号未确认）",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "current_published_reference_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "feedback_pids": [
+        "154046569100",
+        "154046608310",
+        "154047337909",
+        "154053058855",
+        "154053196484"
+      ],
+      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
+      "public_issue_url": null
+    }
+  ],
+  "scope": "公开证据摘录与实际状态；未复制私有Issue正文，未创建公开Issue。"
+}

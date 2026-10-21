@@ -1,0 +1,60 @@
+{
+  "schema": "public_harry_game_feedback_excerpts_v1",
+  "game_id": "harry-potter-chamber",
+  "game_name": "哈利波特与密室",
+  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154032022148",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032022148#154032022148",
+      "created_at": "2026-10-14T20:06:21+08:00",
+      "quote": "提一个非程序问题，哈利波特与密室的游戏开头画面 logo 少了个“与”字 变成了《哈利波特 密室》，你的截图里就能看见。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "BUGs": [
+    {
+      "public_bug_key": "bug-624b60c58c9d",
+      "summary": "哈利波特与密室：标题Logo漏“与”字",
+      "state": "open",
+      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "current_published_reference_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "02246189b6a410574c43d0a60890433fdb65c0135e1b7209fb3cb19d3b430d20",
+          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "bc1331e74dee231df31ae42fae32d76393c6cce1021f6c99dc148234c767ba50",
+          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "feedback_pids": [
+        "154032022148"
+      ],
+      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
+      "public_issue_url": null
+    }
+  ],
+  "scope": "公开证据摘录与实际状态；未复制私有Issue正文，未创建公开Issue。"
+}

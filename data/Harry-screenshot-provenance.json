@@ -1,0 +1,107 @@
+{
+  "schema": "actual_exact_current_Harry_screenshot_Git_full_byte_copy_v1",
+  "checked_at": "2026-10-22T01:44:59.460919+08:00",
+  "screenshots": [
+    {
+      "game_id": "harry-potter-chamber",
+      "version": "v1.0.3",
+      "font": "8px",
+      "target_rom_sha256": "02246189b6a410574c43d0a60890433fdb65c0135e1b7209fb3cb19d3b430d20",
+      "original_input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+      "sha256": "257ad0ec2e8ec8c4b9f84817f87ce8302552dc537fddd3bb66f35f40c7536588",
+      "destination_public_path": "games/harry-potter-chamber/screenshots/v1.0.3-8px-257ad0ec2e8e.png",
+      "caption": "v1.0.3 8px final native CGB: opening/menu/save/cold/battle; cells8/9 diagnostically unlock minigame then native score/name; UI8px; no fullgame/hardware claim",
+      "classification": "CONTROLLED_RUNTIME_NOT_NATURAL_SCENE",
+      "bytes": 74593,
+      "dimensions": [
+        960,
+        1040
+      ],
+      "actual_full_Git_blob_bytes_and_SHA256_verified": true,
+      "not_emulator_reexecution": true,
+      "real_final_ROM_binding_from_existing_verified_catalog": true
+    },
+    {
+      "game_id": "harry-potter-chamber",
+      "version": "v1.0.3",
+      "font": "10px-dialogue",
+      "target_rom_sha256": "bc1331e74dee231df31ae42fae32d76393c6cce1021f6c99dc148234c767ba50",
+      "original_input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+      "sha256": "d42d55fbe973f5ec5df02f8703a41a46f69b2ac2f725c15e6c62836e995c40d1",
+      "destination_public_path": "games/harry-potter-chamber/screenshots/v1.0.3-10px-dialogue-d42d55fbe973.png",
+      "caption": "v1.0.3 10px-dialogue final native CGB: opening/menu/save/cold/battle; cells8/9 diagnostically unlock minigame then native score/name; UI8px; no fullgame/hardware claim",
+      "classification": "CONTROLLED_RUNTIME_NOT_NATURAL_SCENE",
+      "bytes": 76157,
+      "dimensions": [
+        960,
+        1040
+      ],
+      "actual_full_Git_blob_bytes_and_SHA256_verified": true,
+      "not_emulator_reexecution": true,
+      "real_final_ROM_binding_from_existing_verified_catalog": true
+    },
+    {
+      "game_id": "harry-potter-stone",
+      "version": "v1.0.4",
+      "font": "8px",
+      "target_rom_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
+      "original_input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+      "sha256": "fb1b0435b44ae0f09df8460c55ecb216814588964bf5af38b9127dc14258177d",
+      "destination_public_path": "games/harry-potter-stone/screenshots/v1.0.4-8px-fb1b0435b44a.png",
+      "caption": "v1.0.4 8px final native CGB:earlydialogue/menu/manualsave/newprocessbatteryread/battle;own test batteries;no fullgame/hardware claim",
+      "classification": "FINAL_ROM_RUNTIME_GRID_WITH_STATED_LIMITS",
+      "bytes": 87906,
+      "dimensions": [
+        1000,
+        1005
+      ],
+      "actual_full_Git_blob_bytes_and_SHA256_verified": true,
+      "not_emulator_reexecution": true,
+      "real_final_ROM_binding_from_existing_verified_catalog": true
+    },
+    {
+      "game_id": "harry-potter-stone",
+      "version": "v1.0.5",
+      "font": "10px-dialogue",
+      "target_rom_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
+      "original_input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+      "sha256": "32ab7e984c1be607edbef9f6ee2572cb4c7deed02201caccda62b73cde666972",
+      "destination_public_path": "games/harry-potter-stone/screenshots/v1.0.5-10px-dialogue-32ab7e984c1b.png",
+      "caption": "v1.0.5仅对白10px实际CGB自然开场/原生菜单/保存/新进程普通电池冷读9图；菜单仍8px，非全流程/实机。",
+      "classification": "FINAL_ROM_RUNTIME_GRID_WITH_STATED_LIMITS",
+      "bytes": 105626,
+      "dimensions": [
+        1048,
+        1090
+      ],
+      "actual_full_Git_blob_bytes_and_SHA256_verified": true,
+      "not_emulator_reexecution": true,
+      "real_final_ROM_binding_from_existing_verified_catalog": true
+    },
+    {
+      "game_id": "harry-potter-stone",
+      "version": "v1.0.5",
+      "font": "10px-dialogue",
+      "target_rom_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
+      "original_input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+      "sha256": "cfda007ab80bb438546995ec4f0fc54e25be80febaef9e741b47269b494fa152",
+      "destination_public_path": "games/harry-potter-stone/screenshots/v1.0.5-10px-dialogue-cfda007ab80b.png",
+      "caption": "v1.0.5实际ROM受控马尔福/猫头鹰追逐及随后正常按键9图；显式RAM队列前提，非自然学校入口/玩家档/追逐胜利。",
+      "classification": "CONTROLLED_RUNTIME_NOT_NATURAL_SCENE",
+      "bytes": 103999,
+      "dimensions": [
+        1048,
+        1090
+      ],
+      "actual_full_Git_blob_bytes_and_SHA256_verified": true,
+      "not_emulator_reexecution": true,
+      "real_final_ROM_binding_from_existing_verified_catalog": true
+    }
+  ],
+  "count": 5,
+  "ROM_downloads": 0,
+  "Git_writes": 0,
+  "Issue_creations": 0,
+  "private_paths_or_credentials_in_receipt": false,
+  "all_five_images_actually_viewed_this_export": true
+}

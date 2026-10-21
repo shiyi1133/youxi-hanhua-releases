@@ -1,0 +1,2798 @@
+{
+  "schema": "public_game_version_index_pending_asset_sync_v1",
+  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "game_count": 134,
+  "entries": [
+    {
+      "game_id": "azure-dreams",
+      "game_name": "魔物之塔",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.9",
+          "audio_variant": "unchanged",
+          "output_sha256": "bdfc61ac6c46fc2d2efd17b938a211b4ac92d56532be93ea3494236a524e823b",
+          "input_sha256": "42bba6b43d20fb84daf259499100607ac8b1f401d961cdac21f3a17ed4410e31",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.11",
+          "audio_variant": "unchanged",
+          "output_sha256": "7bd560a35d6c35cc7ed6033e6f5715d0bdf2587149d9962cc628c79765e246ca",
+          "input_sha256": "42bba6b43d20fb84daf259499100607ac8b1f401d961cdac21f3a17ed4410e31",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-gb3",
+      "game_name": "炸弹人GB3",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "eafd8fe7dd8d71b38a5d0b3da8c6ac7596514504e4e98eee2c05a2634891eec7",
+          "input_sha256": "604db636c45af3cd1fec52e206701a8969a8a3e610df281f7461769bd86729ea",
+          "scope": "以该版本说明为准",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "tenchi-o-kurau",
+      "game_name": "吞食天地",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "ordinary",
+          "version": "v1.0.3限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "06cb17f41a0d428f1fb1ba0e5505df2be2647237215a5a5d1e356e879b05fd00",
+          "input_sha256": "2884676b3bb261204f480767ba716dfc5266e536b7628fc73f9243c1e0efa8c7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "conan-underground",
+      "game_name": "名侦探柯南：地下游乐园杀人事件",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "c2882fbf7542f0ed4b0980becf952f975a40dcf0f58ff343b7aaad5d70388e8c",
+          "input_sha256": "1d171bb6a5d3b3f0101d5581f29e1e86dcfec37bc1e9ba16a3ded4e4a11d6ac2",
+          "scope": "以该版本说明为准",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "202a9d602fbe48f0f0412eb01b7268a3bd7213d70af35e47afee5a4586aba098",
+          "input_sha256": "1d171bb6a5d3b3f0101d5581f29e1e86dcfec37bc1e9ba16a3ded4e4a11d6ac2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "conan-island",
+      "game_name": "名侦探柯南：奇岩岛秘宝传说",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "66546613be071e7f36a42f1760e12d457f5fbb1699336c66ffc47968de9021a0",
+          "input_sha256": "72b99a05d52d5e658a757ac2051f2fd6c4c2f138950ba9bbb7d27d481911e548",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "d02a528e6f5452dd593a62faf5e62d1a369b20e77e62f6c0bba372746afe0979",
+          "input_sha256": "72b99a05d52d5e658a757ac2051f2fd6c4c2f138950ba9bbb7d27d481911e548",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "conan-train",
+      "game_name": "名侦探柯南：疑惑的豪华列车",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "539afdded9e89e0fdd0076f23cb99db768215ea016bad3835b5fe67379d9c70c",
+          "input_sha256": "f2bc6aa3b75a69ee1d970218921fd8dec67d63231a1f8f32b6b0dbf18214e604",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "d48608ec1bea379180aa56361b7a4a55eadbd34db95ff8e8a3c3b15e6efe2828",
+          "input_sha256": "f2bc6aa3b75a69ee1d970218921fd8dec67d63231a1f8f32b6b0dbf18214e604",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "gaiamaster-duel",
+      "game_name": "盖亚大师决斗：卡片攻击者",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "583130a63bdefdc2fb7344213e9eb3c08a98306454936a760eddae5639d2206e",
+          "input_sha256": "6ecaa2ef65991a9435670dc33a653189ab5eda5c665bfb8992e1609424529a28",
+          "scope": "以该版本说明为准",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "915974387bd4e21518ec38fd3d18458ae53cc366dbf03c21d3928a9a50913019",
+          "input_sha256": "6ecaa2ef65991a9435670dc33a653189ab5eda5c665bfb8992e1609424529a28",
+          "scope": "以该版本说明为准",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "last-bible-ii",
+      "game_name": "最后的圣经2",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "b5303c68558684982f8b993854fa229884ca4975f3df8756c1affdeeaadb7d66",
+          "input_sha256": "70768b99f7ad8878da5051785fc464578d4321ef21249e5602a4db836e3e5199",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "f66ef91ea6608579896e543e6e08484c08ff70a335c48042b66c88db6ad2d73d",
+          "input_sha256": "70768b99f7ad8878da5051785fc464578d4321ef21249e5602a4db836e3e5199",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "shiren-gb",
+      "game_name": "风来之西林GB",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "20261021-r4",
+          "audio_variant": "unchanged",
+          "output_sha256": "dd6f5b88f819d30ef2f1c05d5ca8e470aa0e720feeeff3de5851d9616d19cb16",
+          "input_sha256": "e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "20261021-r4",
+          "audio_variant": "unchanged",
+          "output_sha256": "65022072b5cf566744f47dcc9f52d04dfab7f704c941b3f1e0045b35141118df",
+          "input_sha256": "e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "drururuaga",
+      "game_name": "攻防迷宫 德鲁鲁阿加",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "2026-10-20 r2 原生8px已接入正文排版修订",
+          "audio_variant": "unchanged",
+          "output_sha256": "b04e53e4c4b741452b11879f00fcdbe25328448dfabb4650514f70fc7e3f3b64",
+          "input_sha256": "c0e86d6e6d3c2bf6f7b823a2d99e97fb5a8f7ec333eb6f755d62defd90b565b5",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-limited-menu",
+          "version": "v1.0.5 有限菜单10px已接入正文排版修订",
+          "audio_variant": "unchanged",
+          "output_sha256": "15039822b4ab57cfbffb48fc0f49f63a2e18219584c6a929595f8a0d1737a504",
+          "input_sha256": "c0e86d6e6d3c2bf6f7b823a2d99e97fb5a8f7ec333eb6f755d62defd90b565b5",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "digimon-crystal",
+      "game_name": "宝可梦水晶数码暴龙",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2地图及招式限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "78049b698bc13a0aa2480db4550d74ff91f221e66c2df1a3da5930767360cd97",
+          "input_sha256": "a333699c83a7a9adaf62c942aa8215e9a0f3d9d598c62a96093fc671781113ae",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3地图及招式限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "6af82acd8e3bc94709ab0c40f02df817a1f31eb9f6c91cca7d7ad2b48ae5e6c9",
+          "input_sha256": "a333699c83a7a9adaf62c942aa8215e9a0f3d9d598c62a96093fc671781113ae",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "one-piece-grand-line",
+      "game_name": "海贼王 幻之伟大航路冒险记",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.7测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "b226b1244208d66ac6f8a90c7cd555426332c1393ee7c41a5b0c001fa55c643c",
+          "input_sha256": "de6b8d2982bbb53ecbc5db2e7277ac928dbdff01de568400cf2a64dcc5686915",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.12大字号测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "3c1108bc53856227e63bcfc3dabae22c5a5742791a486fba79a6a9b558b1c764",
+          "input_sha256": "de6b8d2982bbb53ecbc5db2e7277ac928dbdff01de568400cf2a64dcc5686915",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "harry-potter-stone",
+      "game_name": "哈利波特与魔法石",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.5",
+          "audio_variant": "unchanged",
+          "output_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
+          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "harry-potter-chamber",
+      "game_name": "哈利波特与密室",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "02246189b6a410574c43d0a60890433fdb65c0135e1b7209fb3cb19d3b430d20",
+          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "bc1331e74dee231df31ae42fae32d76393c6cce1021f6c99dc148234c767ba50",
+          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-jidaigeki",
+      "game_name": "热血时代剧",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "78668755e3bfa3938544528db1054b667cd603e735873cd5b8b1348ee0286ce8",
+          "input_sha256": "8fa401d71fa6d6b02773a72dd1eea55b866abb3e94f6644b57616c3e30cf05d4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "ebaf23279f46a3e7e27ca400b6e3fe11b4da0ffa183861ce5d0cd805303f3326",
+          "input_sha256": "8fa401d71fa6d6b02773a72dd1eea55b866abb3e94f6644b57616c3e30cf05d4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "metal-walker",
+      "game_name": "爆走战记 钢铁行者GB：钢铁的友情",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "154e4f0b9c1912077fdeec2c1e7683c149490f70feaf98dd82c5fdf46bb22269",
+          "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1大字号限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "d99a0c1f2dc024b79f10f0effc99cb32fde879f4d2483a8606fae24626174e64",
+          "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "momotarou-densetsu-1-2",
+      "game_name": "桃太郎传说1→2",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "b0962fabbf100396f014f7c4c8dc84fc0c845873d395859cfd8f850a481b3714",
+          "input_sha256": "7d0d8bdb9c52e381862277271e3e0fe474af69cf9ea92053147cdfb1de32785b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "cde693110a689a8dd12b9b55e3d5cea2f3b4c8f17f87c2bdfd132d3bbe5d6794",
+          "input_sha256": "7d0d8bdb9c52e381862277271e3e0fe474af69cf9ea92053147cdfb1de32785b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-beach-volley",
+      "game_name": "热血沙滩排球",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "204182e4db87e10e93b89accdcc35b348cb17d7ca2500e3f4ec299bc0718e090",
+          "input_sha256": "310a362b8eed5b6246585d947f9fd1ba5b22127b83f4fdc79d1d56039748b770",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "1276b54c91562c0bd31209c0022ec887392e78784b9b3a7506f1ed3336b40bfb",
+          "input_sha256": "310a362b8eed5b6246585d947f9fd1ba5b22127b83f4fdc79d1d56039748b770",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-shinkiroku",
+      "game_name": "惊奇热血新纪录",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "45a3865194697aad0d44b75df819bcb9453b8a4bc2ee4dcc3d8016e167a9735d",
+          "input_sha256": "ec530379bee82d89a97acfd8e0cafadddbae687550ee81e9b1c11e285720a2f4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "3427632461fa73b3820b4c23c7c07c0387bf34155cb6624774d5d3aef8581bd7",
+          "input_sha256": "ec530379bee82d89a97acfd8e0cafadddbae687550ee81e9b1c11e285720a2f4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-dodgeball",
+      "game_name": "热血高校躲避球部",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "2ffa6fdd733d03d622c0cd564c02be4e81c01ec4143bf8d1f5ff0389c7aae16f",
+          "input_sha256": "9eadcd25c2f364a1d0320e4e74ca3a7083469e53e41747bf7eeb555e5f233f0c",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "de5fff70dc92cd75992a5ea74fccbc2f9636b386c231a02c8f0c49584fcf7c55",
+          "input_sha256": "9eadcd25c2f364a1d0320e4e74ca3a7083469e53e41747bf7eeb555e5f233f0c",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-soccer",
+      "game_name": "热血高校足球部世界杯篇",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "b0fa46a36dac9d6e55f16d420278f8bc31640698ff72d1d8c6d6859e38c5ee8f",
+          "input_sha256": "5958d4c17aafb262dd0a5be16bbc88c29251f57bcb4e79face47feeffcf97974",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.0大字号测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "9de97d8700f6b6f8f4e885859415ac7f6aac3aa3ab068d523f2de3c327928a70",
+          "input_sha256": "5958d4c17aafb262dd0a5be16bbc88c29251f57bcb4e79face47feeffcf97974",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kunio-bangai",
+      "game_name": "热血硬派国夫君番外乱斗篇",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "fb8fb8c806965da9fdebc35d2fdfcd6b3c50b76488c266eb62136965bc2ef097",
+          "input_sha256": "d912c10d466586b633812ecbccc9bc20eb425f8f11b6b5e80c72ea2a760908ed",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "5dd4f255fc1a00f14707f306432578434f8dc9c277ea03c04310287972488743",
+          "input_sha256": "d912c10d466586b633812ecbccc9bc20eb425f8f11b6b5e80c72ea2a760908ed",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bugsite-beta",
+      "game_name": "网络冒险记 虫网世界 贝塔版",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "552eac0abe276efe30eb76a8b67c56310dc36f8dc30262d3c839beadf75bffe1",
+          "input_sha256": "fd7b902f7c7dc0ac0ef425b17995bdb1196eda0920b0a5bbbd65b0e13b72ea50",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1大字号排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "a6a99001a4c152da690ead867b1ddcf0588db92254a3991d3d4552d042ec01aa",
+          "input_sha256": "fd7b902f7c7dc0ac0ef425b17995bdb1196eda0920b0a5bbbd65b0e13b72ea50",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "dt-lords-of-genomes",
+      "game_name": "DT：基因组领主",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "12px",
+          "version": "v1.0.1原生12px开场排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "2c0fdb4c7a1112bd665552ff7ff89916a8469872a26c6170f0eaaa357070c951",
+          "input_sha256": "cc25aa1c06b5425f29f38af0cd7eb947b51cffa71e783612218e0325dff3654f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "monster-traveler",
+      "game_name": "怪兽旅行者",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "20261021补译修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "7448e1ed45732209089ca88623f5adf6e69f5abf36f2734a61acf8000a049c07",
+          "input_sha256": "5e567dcde1aa5e5e1fb61e9a614b9ca5fdd0c7748993c3687ae78f8eb7216ce9",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2补译修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "e5c0139932eeb2c3f226083ae64628d1856189b208e65303f2822a1f7743d8d6",
+          "input_sha256": "5e567dcde1aa5e5e1fb61e9a614b9ca5fdd0c7748993c3687ae78f8eb7216ce9",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "shuihu-shenshou",
+      "game_name": "水浒神兽：简体非官方修复",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "original",
+          "version": "r0.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "2865f26e2af7014964d8b3439d0ad89e0f41184cebba9b454f77c35a94dd8bad",
+          "input_sha256": "d7cac5007f7037ec87af81c587f80de729a414d1da795cffbf7dc4c643094338",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "cross-hunter-treasure",
+      "game_name": "十字猎人：财宝猎人篇",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.4普通字全文排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "d21da502a17466f07acfec159f7232307a545f5cf47e1983bfac612308e43103",
+          "input_sha256": "e82bde1a7832301df1c28cd14923cd0b1084d99f5e20a0e203e1713be468d55a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.5大字号全文排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "4c55d272ce208f9432e4b4086a403aaf65975be61e998e71ba6c787ca8cd855e",
+          "input_sha256": "e82bde1a7832301df1c28cd14923cd0b1084d99f5e20a0e203e1713be468d55a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "cross-hunter-monster",
+      "game_name": "十字猎人：怪物猎人篇",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2普通字对白排版修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "5f781935034da48599048b7ea24e5d8e5c1ff7b6aef0126782137bf2532952b9",
+          "input_sha256": "332b2bb70e080baacce644de32478e712aaee4653eb8f2ce37ce36e3e9958d2b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3大字号对白排版修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "3751b1f58cf1ece8c0f33acfe8fd44391cda75de59a1e00c2d61d826b20e6f8d",
+          "input_sha256": "332b2bb70e080baacce644de32478e712aaee4653eb8f2ce37ce36e3e9958d2b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "cross-hunter-x",
+      "game_name": "十字猎人：X猎人篇",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2普通字全文排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "1286daaaef796c9b1a122783cf3d2f80698b083a9c7960c1ccb3f3e27beb17ef",
+          "input_sha256": "af01d67235cf2c049a1bf62aa3f7c6887b8db019fead786e2f4f55f721838971",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3大字号全文排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "a0fdb0dee55ade728a01d09886907aec2ccd1cedf636341c0cb6ec30cb996d7d",
+          "input_sha256": "af01d67235cf2c049a1bf62aa3f7c6887b8db019fead786e2f4f55f721838971",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "beast-shooter-gba",
+      "game_name": "兽斗射手",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "12px",
+          "version": "v1.0.1原生12px开场排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "f070fcba782f95960cde8d9c5b55fc6ce032f4a356770bbfb49e4a8260c6774b",
+          "input_sha256": "e3a06c5f35d663cb83f6a8ef99cb767096a30507c73b6eb0016b3f8f6dc4e4f7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "gegege-kitarou",
+      "game_name": "鬼太郎：妖怪创造主现身！",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "587c4c0f6e6392d0f71b9fb0d657c396dc333a63063eb553b4280d3f365c3551",
+          "input_sha256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "48817cd179761d95f279781c585a170085a8a58f1ca79e02c29717b0e03a5af7",
+          "input_sha256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "devil-children-shiro",
+      "game_name": "真·女神转生 恶魔之子 白之书",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "8d7390b77946642c410e1e236cd295dc15586261d2c5f76bf0bd57fa81cc19ec",
+          "input_sha256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "de78131f3b4e13baeb58411efcf44b269eb1f5f3b801cc183b1ac1743122a3da",
+          "input_sha256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "devil-children-kuro",
+      "game_name": "真·女神转生 恶魔之子 黑之书",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b",
+          "input_sha256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "9770b8accd70d8849a24f5ae2a18c95979f2d1186e5fcd02d0edd3b08553a2e1",
+          "input_sha256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "devil-children-aka",
+      "game_name": "真·女神转生 恶魔之子 赤之书",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "57f00d02102ad58e1efea30c44dd43a4d8bd1306b115a9fd59a72fab7edf503d",
+          "input_sha256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "b1ba13697119913cb470d7bf40811ade8687c74ca0a02728a55daac0fa795a7f",
+          "input_sha256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-1",
+      "game_name": "沙加1／魔界塔士",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1-test",
+          "audio_variant": "music",
+          "output_sha256": "d1b3c80260ea434314e938dbc131d0c565f102882f789f462b86cf0639fd69d0",
+          "input_sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1-test",
+          "audio_variant": "no-music",
+          "output_sha256": "e1558221802de0cee04f0018c0e869b4b3046e1c02dff4aafdffa2394a1e3fad",
+          "input_sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v1.0.1-test",
+          "audio_variant": "music",
+          "output_sha256": "b839bea596428ecda63a74343d110ab54ff9ffcb36ee47963e46c004878e90d2",
+          "input_sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v1.0.1-test",
+          "audio_variant": "no-music",
+          "output_sha256": "56cf00ba5df1bee155a92d118d43b1233c9f043457f4875f9ef61258eeb3c701",
+          "input_sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-2",
+      "game_name": "沙加2：秘宝传说",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "music",
+          "output_sha256": "8744d992316d38bca41d22b38f2e6434c21966adb9bb63aa9a54b9eb180712be",
+          "input_sha256": "31477ea9ae09d98e4170938d91ba5a9f5ab94072db4c289988882e0de7e48851",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.1",
+          "audio_variant": "no-music",
+          "output_sha256": "99cd83849efa5049f24de21f7cb6e368e451fb397d6f9817c0fd9314be9871c0",
+          "input_sha256": "31477ea9ae09d98e4170938d91ba5a9f5ab94072db4c289988882e0de7e48851",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "music",
+          "output_sha256": "698adbfa4460945a67259c2d07a3b4742b3b05d22eae7e9e4a37b7888c581113",
+          "input_sha256": "31477ea9ae09d98e4170938d91ba5a9f5ab94072db4c289988882e0de7e48851",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "no-music",
+          "output_sha256": "106a920d2645c94f49b311b829cdf270038ce5916d8caaf1b3867f5785a64a88",
+          "input_sha256": "31477ea9ae09d98e4170938d91ba5a9f5ab94072db4c289988882e0de7e48851",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "poyon-dungeon-1",
+      "game_name": "波永的迷宫1",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.3限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "8c190a34ce0baaf413f42a5a6db18b70e42686854cd1c8446879dbeea9f901e4",
+          "input_sha256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.5限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "aff1722da6ac58bcfb046eb0bc6ff20057ca3f5e94605eefbb855d1925584109",
+          "input_sha256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "knight-quest",
+      "game_name": "骑士冒险",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "b9bfdaabc5291527b92afab83c20cd38a8b6bcd5fd92175f0ee105d13733cbcc",
+          "input_sha256": "e473331f0c302d2730ce8b0e948276890b817f6e09f3e4b2a3596fec049f7519",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "c859163435e69adc1f3b12a2163d5d682f7bb04c386ce6eb87b5218c54f9408e",
+          "input_sha256": "e473331f0c302d2730ce8b0e948276890b817f6e09f3e4b2a3596fec049f7519",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saint-seiya-gb",
+      "game_name": "圣斗士星矢：乐园 最强的战士们",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "1f89cfd29b9902b5361b490d924c2d8588ad89a690924af5965cc0f6d4b8f1c6",
+          "input_sha256": "e29db8694cb553fef5a56ed1045f0a3fedda2cd154125e35a0e487bf3fa76deb",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "nobunaga-gb",
+      "game_name": "信长之野望GB",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "0925949e44495e86bcd6e5c2a8dd6b157a4f580b7e55f8ddf47dd5a406f904ee",
+          "input_sha256": "44d026ad7c479815408ac3e05fec4f19507f1384627543298a0667d4a4944e39",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "poyon-dungeon-2",
+      "game_name": "波永的迷宫2",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff",
+          "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-max-hikari",
+      "game_name": "炸弹人MAX 光之勇者",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "79ee2d20f90e3e944a866766c42941d6a9e1366f610b67883f0d6fa781afd03c",
+          "input_sha256": "53b6b5c16b34345974a87d498f787cc816b216373e29568777433112bca99bd3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v1.0.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "bb1533dcc3f84b9a5194de36c314aa1375f0f4f14c893cb616ec7447948fea05",
+          "input_sha256": "53b6b5c16b34345974a87d498f787cc816b216373e29568777433112bca99bd3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "xtreme-sports",
+      "game_name": "极限运动",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.9.2",
+          "audio_variant": "unchanged",
+          "output_sha256": "e3e408080ff223ed17b88f84915e0a4a4e1e229f72978536f1123db63aab8cbe",
+          "input_sha256": "c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "soul-getter",
+      "game_name": "放课后冒险RPG",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.9.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98",
+          "input_sha256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v0.9.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "e54d26ce9953f93cd3c8eaad483d987c9ed631217dc0d018037c889a365a46fa",
+          "input_sha256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "pokemon-black-white-3",
+      "game_name": "黑白3：创世",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "6fc8607be3e51bcf0e0a115c94cb78ac91721597a28266b46100168c687b1436",
+          "input_sha256": "46f1ed26e5e4df7bd5a2c5d662a6aab3d5e6b48475ed45ca1d79a05a9b8ba64d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-story",
+      "game_name": "炸弹人物语",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "2d4e24139fa4644f36b373c4d7a09764097aae8dd6622d604391999d226f23a2",
+          "input_sha256": "138df33ff85dbfdc5c0e75b2e1c091982e898f8137e1de94057df757fadc1ba8",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-max-yami",
+      "game_name": "炸弹人MAX黑暗战士",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "fcfff5686bdca53ab0f9f3d7b1eb6ee99ac7e639b981bd112f041d7093184cd4",
+          "input_sha256": "65f2488ae1a5be5a2e0a7392e950ca1d48f4912bf0566ca29d32dd7fda8068e4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "opening10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "fb4eccf8f6489ffa5ac19b8af91de5516c7b78820f1c38c2f9cf677db591bbcc",
+          "input_sha256": "65f2488ae1a5be5a2e0a7392e950ca1d48f4912bf0566ca29d32dd7fda8068e4",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-max-ain",
+      "game_name": "炸弹人MAX艾因版",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "856b10ab53d215ae6863486f28ed5f768450905746379ac80de5e13cb9486a91",
+          "input_sha256": "41529aff78a11f826824abe2a9b0646c0fa9196f8c8df1aaee6d6d161159eac7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "opening10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "ff474d5643327ba2e1bba3c5a15fae7f76dccb66820bbddf4afec751b468d954",
+          "input_sha256": "41529aff78a11f826824abe2a9b0646c0fa9196f8c8df1aaee6d6d161159eac7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "formation-soccer-2002",
+      "game_name": "立体足球2002",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "native16cell-8ui",
+          "version": "v0.1.2限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "477e61ce5746f30d2b78518ef5e7530223e7029af1cf1b9df16773c767db66d3",
+          "input_sha256": "5dfa54d26c3845a49e4258b3940e69f128796815f9c613b28211ff872a665b77",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "world-advance-soccer",
+      "game_name": "世界足球迈向胜利之路",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "native8-12",
+          "version": "v0.1.4限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "9e6d4a9041a762f49dd5d0dd4eda6aa9bb50855a4d0829588362c279fad21375",
+          "input_sha256": "36ad536b794755155b57cc4a451284a60fa8cb331723c34a6aa6bcaa30362834",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-jetters",
+      "game_name": "炸弹人Jetters 传说的炸弹人",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "a565eaa10f47618afaa1b31ca0638542ba0489e212b6784fd355898cb9e27513",
+          "input_sha256": "8627870dbe38e1fbc732ae9e07005000790687a766311e49a09d07cdf1734b5f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-max2-bomberman",
+      "game_name": "炸弹人MAX2炸弹人版",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "opening10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "ebf573ba67ed619b3d3c8d0715a2c4b5857e510c83af7887362bc173ee0e4aef",
+          "input_sha256": "971be60d8cd3409928ea67f23e39ec91ef262db954326d37a5c436434878cbe3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "5d5513066900eda0b6de5b7b96d24428a2f8728877ac934eea38bf96e4d6349e",
+          "input_sha256": "971be60d8cd3409928ea67f23e39ec91ef262db954326d37a5c436434878cbe3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bomberman-max2-max",
+      "game_name": "炸弹人MAX2 MAX版",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "293b30d2453a7e518560f48f3c58086ff2b430c0fecbd8285e6cf4708bd4d060",
+          "input_sha256": "03b06c4df0aca1127d4561408a0d8982e248d8faacd260ca0b3139436e912a24",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "opening10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "d14cf273834b4b6fddb4dec024d057d3947500376c4e0784652ca0fd7471b33d",
+          "input_sha256": "03b06c4df0aca1127d4561408a0d8982e248d8faacd260ca0b3139436e912a24",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "j-league-winning-eleven-advance-2002",
+      "game_name": "J联赛胜利十一人Advance2002",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "native8-12",
+          "version": "v0.1.3限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "a52c12571048850d7221f105d13325a21274b1cb7e57d1af03b0db7100655df4",
+          "input_sha256": "ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-gaiden-2",
+      "game_name": "巫术外传Ⅱ古代皇帝的诅咒",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "3257a6a54245de8912aca154a2417a8be1891838cff73c0a0edc5f426b9b3989",
+          "input_sha256": "2e2d7ed9efbd9b972bac2e248a4a02bb03603d456aca1cafc3ca5658e4d755cd",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-gaiden-3",
+      "game_name": "巫术外传Ⅲ暗之圣典",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "6b704e43b03570904c37a81799a41e71df9e7b5be905b4f2a7381cd666c3079e",
+          "input_sha256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-empire",
+      "game_name": "巫术帝国",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.4限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "e19270e65f2393c87993dfaa54171f46c2a92a54bfd84847422b0ca3921965bb",
+          "input_sha256": "cd7f00d398bf30c3302cb814cb849761caa8aa0183ba7b4460677ec98d7f1472",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-empire-2",
+      "game_name": "巫术帝国Ⅱ 复活之杖",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.3限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "0a11c2f5246d9b91ea9c544fee75ebb452831ba7f3a16b6ae3c481c46627f8f4",
+          "input_sha256": "b066a8fc2f9b6d04e5d61ca732c53da2cf1dbe51b7c613319d5a47adbf15d060",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-1-gbc",
+      "game_name": "巫术Ⅰ狂王的试炼场",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "a2fe3b741114a2201ba1bfde717d56d8e422f77335e7c686f9232baea26d2d77",
+          "input_sha256": "00609843f9670ad5d3ee069bf84fef1d07cf48d1aa6f9255efe1741257ad5a08",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-2-gbc",
+      "game_name": "巫术Ⅱ利尔伽敏的遗产",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "f322757a36ac05adfce3f5e6789aa406d5e16c13f13b869baf49dfacdce245e1",
+          "input_sha256": "87fb3a0e1f7a8990f77125fb968f556ad1a108cdc953e7a010d73f5cb9efbfca",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-3-gbc",
+      "game_name": "巫术Ⅲ钻石骑士",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "445210159d6b2d5cb33adbe863ac6cc76820c00014cf830d7213fce57abfb72a",
+          "input_sha256": "6553ffd786bfe49dc40145895225664f821ff0d1be66124a9f370bacae931ebc",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "oni-iii",
+      "game_name": "ONIⅢ黑之破坏神",
+      "platform": null,
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "619926552eb15dfbb569f2ba6fa0b9618b2d83f9f287d72aa8b63e2094a9b720",
+          "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "oni-iv",
+      "game_name": "ONIⅣ鬼神之血族",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.2限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "0b27b9ede35f04aa43410b988e30ea41e9bb6037191bf0051f6ea211f605bfcc",
+          "input_sha256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "oni-v",
+      "game_name": "ONIⅤ隐忍继承者",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.2限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "80d68a27cc91f8f398d8913787af22d2ecaa619951e6c9f03138f80d77c2f94b",
+          "input_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "guranbo",
+      "game_name": "格兰宝",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native8x12-8ui",
+          "version": "v0.1.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "a15849054b7515b0ded6900666ae0b6576e37393c2e5fb31d91433376b6cf3bc",
+          "input_sha256": "d11a31fa34801c24219df3d64876f9577ddfe30200ca65fe720e3ff8a9c8828b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "robot-ponkottsu-2-cross",
+      "game_name": "机甲宝贝2 十字版",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native12-8",
+          "version": "v0.1.4",
+          "audio_variant": "unchanged",
+          "output_sha256": "ebb8f4b8ddbab0ebfd7e4d11f2a0243e24f937df870776c632dd43dd37a18104",
+          "input_sha256": "f64b71f18458de35b24af085319b4fb0a7345e2415ba2631ec499b6e92a4f57e",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "pocket-love",
+      "game_name": "口袋恋爱",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "ff36e258141219e2baddbc399f6f4f204ffc3831a1d3dae64fc1b49a60df9747",
+          "input_sha256": "0ad10696e24bdc996e395928919d49ad736685babe5cb9b191a9e863becf926a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "opening10px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "9c9ce76189ac6c22238c45e9057d0a45d1bd5b911d59c06beced1d6b12496737",
+          "input_sha256": "0ad10696e24bdc996e395928919d49ad736685babe5cb9b191a9e863becf926a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "pocket-love-2",
+      "game_name": "口袋恋爱2",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "c2af1f0c46031f361c622bbb7fae1dbb9b5ce89abf9971e9cd889a82831501f2",
+          "input_sha256": "3cd40abd13e8991461ce59f14776723d1d1f27f8b3d1fb2ae46c487d6f3ee851",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "telefang-speed",
+      "game_name": "携带电兽 速度版",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "ae0f6a72d4ca6889fc9fe9615baefd2f7c3882834fe7003cb1edf21c60498a89",
+          "input_sha256": "5e7efa5e2abda66eee1577b4507983f5c9c1fdf7c4450aab47191c9c92838098",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "kalos-crystal",
+      "game_name": "卡洛斯水晶",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.3限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "cb25e2e1cd3338435b6b5780d7e61f13d0c1320cbd44366103ff50cf7a032597",
+          "input_sha256": "7cd8957e47a04bf0542de5d6a65affb369704e85ce11e03022be491be7dc1050",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "gb-harobots",
+      "game_name": "GB哈罗机器人",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "b92433030951144351503f4f57abe9a5171f96c35486bd27d24baec9f97844e8",
+          "input_sha256": "859d69833e8d422440a4268d30bec4df238550b969cb3bc3b2f262136de63b6f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bakusou-dekotora-densetsu-gb-special",
+      "game_name": "暴走货车传说GB特别版",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "156f3986db428dab7347f42aec8f3d6105903d07430eea07cdca1ac0dc89864f",
+          "input_sha256": "3cff4a025a86425bf4fa7659859ae836eaf25dc769982c12d9503ed4ccbcfd3c",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bishoujo-senshi-sailor-moon",
+      "game_name": "美少女战士",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0限定验证测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "36338d2f3b2591bac77b969b08f7afd3e27a503847657334e6fe0ff4ba07eeee",
+          "input_sha256": "b1090ad4909f8222e4c325d8f939cb8b80de6430f80343fda501edc9166ce847",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bokujou-monogatari-gb2",
+      "game_name": "牧场物语GB2",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "8d0fe69eec6fbe7c9984289636879c2e99dd1ac6d4dd4496bac2f6a8de2a3b2e",
+          "input_sha256": "9db8a6fbdbd9492a03fa66b1cb0635a35070d21c2d3f4a6878aac2dfeceeb9fe",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "double-dragon-2",
+      "game_name": "双截龙2（美国版）",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "53552bf15a68b4293626673c5d64aee49e2bdb9bda2b7128ec4e9f180ac271f0",
+          "input_sha256": "21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bokujou-monogatari-gb3",
+      "game_name": "牧场物语GB3：男孩遇见女孩",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "3eb0202d1a90c5617b22f78e8f6e2e42ed2eff908ff0305b319e633c329ea012",
+          "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wizardry-gaiden-1",
+      "game_name": "巫术外传1：女王的受难",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "c13368fc52350094336b49eaa4176da2d313c6105c05c7ef2d2a2b1874856a1e",
+          "input_sha256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "mini-yonku-gb",
+      "game_name": "四驱兄弟GB初代",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "grandia-parallel-trippers",
+      "game_name": "格兰蒂亚：平行旅途",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.3",
+          "audio_variant": "unchanged",
+          "output_sha256": "2ff32dbabb6f57bde0ff6e4a6723ba0e4689b5854c871c3133106ed2041e2685",
+          "input_sha256": "2bda2c70c23ae86851c2a4a7e4b4af26f6af5f8973e848147e7362d198842505",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "mario-tennis-gb",
+      "game_name": "马里奥网球GB",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.2限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "fff3c4a157a544ea1286a58599b42bd83cfac2da1c26ca84fc8d25ca6aff3745",
+          "input_sha256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "nectaris-gb",
+      "game_name": "月球战争（Nectaris GB）",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "native8px-12px",
+          "version": "v1.0.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "82ea44390551e97c3ac118904ef2c38bbaa82e0b701eb0ad1a9872a06518d30f",
+          "input_sha256": "a890dd16d6120f386795d43da3527f2a0b6710abbd424fac7833b09400674f5b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "sylvanian-families-4",
+      "game_name": "森林家族4：四季的挂毯",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native8px-12px",
+          "version": "v0.1.0限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "decbcafd6eca04c3e7b67fe1df99aaa1d00fec71caebc28dc26a31754c425ff5",
+          "input_sha256": "cd67965b69e032e7450d6316a3b0069b964cafbb123c23374a42716c8b3e17ee",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "sylvanian-families-fashion-designer",
+      "game_name": "森林家族：想成为时装设计师",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native8px-12px",
+          "version": "v0.1.0限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "58e5b496799c6cf62201fa64f9a4efd6a2386606cd2901aa3f4a7751894fa3ec",
+          "input_sha256": "38b89dff9b4eb6ee3ab6fdca1ce9150a64b3a641ed72e86570251ee9a23b489b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "mini-yonku-gb-2",
+      "game_name": "四驱兄弟：全明星对战",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "3844aaa2843eea34a62f24ae133a2c1c0ac1fae1ec471288868b4eba74f03fd9",
+          "input_sha256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "tetris-gb",
+      "game_name": "俄罗斯方块（GB初代）",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "09ab8800397be2a4c500af131270038300814d509a6e07c3d613e546e7cce422",
+          "input_sha256": "7fde11dd4e594a6905deccd57943d2909ecb37665a030741c42155aeb346323b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-3",
+      "game_name": "沙加3：时空之霸者（彩色DX基底）",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.5",
+          "audio_variant": "music",
+          "output_sha256": "9a22a18846f9787f2384b4a29482d7fc2d497ec0446357157aab917a8d89bfb1",
+          "input_sha256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v1.0.5",
+          "audio_variant": "no-music",
+          "output_sha256": "13c37bbcef4c8f12d31c0c24bcf1907aa9485276eb13bffc77427893f9512a92",
+          "input_sha256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v1.0.8",
+          "audio_variant": "music",
+          "output_sha256": "7a61f03647c67ee815a86350060e263124d06ddff3cea74ea06dacabfa1b4991",
+          "input_sha256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v1.0.8",
+          "audio_variant": "no-music",
+          "output_sha256": "da1267a2486abc158de5df6fee525b1d19e2417c33635f590dc96038563f7aa3",
+          "input_sha256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "bakuchou-retrieve-master",
+      "game_name": "爆钓少年王",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "17b7915aa63bbcb17d1d8d0673062e624bbfcae757ad1ae2b06f51ba1d96dbae",
+          "input_sha256": "ead03c064b8592297772c999e8538b8b1e90b5909a7fe567c238b947c9f71a74",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "miracle-of-the-zone-2",
+      "game_name": "大贝兽物语外传 奇迹地带2",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.3限定修复测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "db626b33fa8365b2158a2c57c2d6d3940ce4042932d8b52768f604756864ed94",
+          "input_sha256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-1-dx",
+      "game_name": "沙加1 DX彩色改版",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "music",
+          "output_sha256": "27f06e524c02bcd7fd97fa5823868c619055435a152f78ca782fd0cbe8e942f6",
+          "input_sha256": "e0b1d738905d014c74ea712d1250d97aa59c7fddea471da3cf4dff0aca857b49",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "no-music",
+          "output_sha256": "76115e8f7df94ce218c680dd2b28251f8a05953d4af41e02ad0d2de405f184a4",
+          "input_sha256": "e0b1d738905d014c74ea712d1250d97aa59c7fddea471da3cf4dff0aca857b49",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v0.1.1",
+          "audio_variant": "music",
+          "output_sha256": "8cc77a324c55c8dc007a224518a43491e4a81c713eb63e4e584f41aecc7b4f04",
+          "input_sha256": "e0b1d738905d014c74ea712d1250d97aa59c7fddea471da3cf4dff0aca857b49",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v0.1.1",
+          "audio_variant": "no-music",
+          "output_sha256": "04093951bdfcb251caa93da147bbe1a51c08962b67addc8a0499256b986acdaf",
+          "input_sha256": "e0b1d738905d014c74ea712d1250d97aa59c7fddea471da3cf4dff0aca857b49",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-2-dx",
+      "game_name": "沙加2 DX",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "music",
+          "output_sha256": "fd70fc973fcdd432dfeb8c67b2b1e97922552ea7b0045aebcd5bd798cffd83b0",
+          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "no-music",
+          "output_sha256": "d6ccd0cc2b53eb0194f6bb815176efcf81b47c1ad6a5df76edbf2962fa602fd8",
+          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v0.1.1",
+          "audio_variant": "music",
+          "output_sha256": "1543c710b42a7e11de38c7a92b542f241d58a910a2e6c914a1a0880b2605486a",
+          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "8x12",
+          "version": "v0.1.1",
+          "audio_variant": "no-music",
+          "output_sha256": "2456bf2a4f480357c864ab1c5b2c61de23165f085ec753045ab436002790e75a",
+          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "game_name": "心跳回忆Pocket：文化篇",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "native8px-12px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "532cba16528c17a2c0ff698a2afe65e98a7f0804e7880e2284b220a86f180e6f",
+          "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "game_name": "心跳回忆Pocket：运动篇",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "native8px-12px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4",
+          "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zoids-hakugin-no-raiger-zero",
+      "game_name": "Zoids：白银零式",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0限定测试版",
+          "audio_variant": "unchanged",
+          "output_sha256": "9b39a2bf98ce61e4e46e8462dca8239469b25ce7dfc3e5373b9feb57b9e6f8d8",
+          "input_sha256": "01e1f16087e1ee3efeff19e4c8890d7aaa76016961d07b00b5f31f6b26035022",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "yuu-yuu-hakusho-4",
+      "game_name": "幽游白书4",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "715fffa9289efed9a7ea54a6de89670ccd78009b7c462eac76e982dd991a97e9",
+          "input_sha256": "9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "saga-3-gb",
+      "game_name": "沙加3 时空的霸者 黑白GB版",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "9985a6b08eb049eb07209f905bec106216bd13e155e00d304ad1cf8059213bc0",
+          "input_sha256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "7c9ac176fdf72e08a1618f56ce7a326a748f940f5ed565ff934f958bc6854006",
+          "input_sha256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "fleet-commander-vs",
+      "game_name": "舰队指挥官VS",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "83a50a20b91c5c1801e5f7b381fb50f89f3501a393052426fa7b3e5bc1797b9c",
+          "input_sha256": "a6ac3d3a8c7144a5e1ed8ca9d0283fc34ab134210170297e53504ada4dccb485",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "slam-dunk-1",
+      "game_name": "灌篮高手1",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "7ae5304577b401ea92c7ba95fd71f805905d8b5b14160d64fb5746ea11ec3580",
+          "input_sha256": "9a4f40bbd5b4a8cbdb99d22df0f7672c8d67aa5dd4717ddcd56c4c9a4d4c5b2d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "slam-dunk-2",
+      "game_name": "灌篮高手2",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "54b4a086b2a781bf83087b2f991282dd66dcbda2fa5773dafd4035801807cb58",
+          "input_sha256": "cbb113a5c126caf6ef2a0f31ddb12bd4fab2eea597d72e7810c4b75fabf199b2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "gargoyles-quest",
+      "game_name": "魔界村红魔外传",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "23fdbcda6f1ed9cc66dac8f5822cafcc2e47795145bfd945bf22b6a0f300f090",
+          "input_sha256": "ad6f9fe97a40418279d3b834a64d9c6c52c0da209f430718f2bd02611892326f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zerd-no-densetsu",
+      "game_name": "扎德传说",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "1f1d91fb4830d9f325374d7ff1213e7431924c62c62e4776807fad464936b657",
+          "input_sha256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "57d7d4d5fa0812c5e8aa5596bd8f0d5a85fa967361b35ffd575d084493af7fbd",
+          "input_sha256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zerd-no-densetsu-2",
+      "game_name": "扎德传说2：伪神的领域",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "58beec57ed1fe841d50061c87c9122f17bbec1d61363b750cdd395c23823f2ef",
+          "input_sha256": "c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "urusei-yatsura-miss-tomobiki-o-sagase",
+      "game_name": "福星小子：寻找友引小姐",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "e2f2f358a5755fc184d9a3bfb171f45647bb50695e4bcc48a7371afe6ba4e6f9",
+          "input_sha256": "65429bd2a36a33cd8ab696be2f485b647260b327039887931cec4775c718424f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "opening10px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "b3f0ca536ae029b144e82491dcbf4f5d9f03874a98d4d5607a2880749e4ddf8d",
+          "input_sha256": "65429bd2a36a33cd8ab696be2f485b647260b327039887931cec4775c718424f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "hamtaro-ham-hams-unite",
+      "game_name": "哈姆太郎：哈姆哈姆大联合",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "1808df354cac677e74f5337aedeb151175b39b3446b5bfdaa91997cfd002c45e",
+          "input_sha256": "fb84ba6003d614c07d7917d67782c89330a38f0cec56bfb406301413591bf15d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        },
+        {
+          "font": "10px",
+          "version": "v0.1.1",
+          "audio_variant": "unchanged",
+          "output_sha256": "dbf714ebc89b7377f57e8290a2562f45869c5e11cfc8988586dc52adf7ae488e",
+          "input_sha256": "fb84ba6003d614c07d7917d67782c89330a38f0cec56bfb406301413591bf15d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "shantae",
+      "game_name": "桑塔",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "1115515e2ab10783dd3e053a14eab74d611120b121bf97fc860d2b3aa50abe6a",
+          "input_sha256": "1b92e22d5510c51bab97d23074e4aad7464d93eb15f7596ef7da0a5efa27a19d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "medarot-1-kuwagata",
+      "game_name": "徽章战士 初代锹形虫版",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "352d20da181f952d8d2c586d7f26c742f10477f93f0dbd7a5a588bc52b6494c4",
+          "input_sha256": "19762a746f413714810c12ed41ddf0b09ee4a7eb538f6c820a6b9efa0b7dbe1a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "medarot-1-kabuto",
+      "game_name": "徽章战士 初代独角仙版",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "face4be35d94feae401ad3112d41454d6d1110474711221fb0d6cd7446a32d54",
+          "input_sha256": "3ee50992a8cde0c1e7bb2bf1d812bf3d9577cd1f0c3da0c072d52806b5a774ec",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "metroid-2",
+      "game_name": "银河战士2 萨姆斯归来",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "4f79f0011ba2b9931836867eacc209aac214a5aa339c9fa6b0de5c10841a5ae9",
+          "input_sha256": "3080bcc2eb9965de463f5f4e02f0dabbb13b060e1654a18da8b50948c10af4a6",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zelda-links-awakening-gb",
+      "game_name": "塞尔达传说 梦见岛 黑白GB版",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "da51080f3300841d1f0c9ee0950b38b857df2ae543cf9bc771fca11de545b355",
+          "input_sha256": "d37d36cc47e42a42146ef04bed47d2fe127f5f98daf9cb499dc1a0e676574e78",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "selection-1-and-2-gb",
+      "game_name": "抉择一、二代合集",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "1add81b5da0678720b398e22d35271ae2fffc01d305ab79f7a00023b8ebb5d5a",
+          "input_sha256": "3eeaa33a6e9741f5aece3beeaddf13101f52f22e8901d8af51d7bfc48ee2b642",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "space-net-cosmo-blue",
+      "game_name": "Space-Net 宇宙蓝版（暂译）",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "19ad0fca14e340117066a8125890bc25cc51b9bf11e846de88d1cde0a4f0c050",
+          "input_sha256": "788128d6871d51dba34cf8763e4fa457acc230bdb7079e01aba5b43e2b6252c7",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "space-net-cosmo-red",
+      "game_name": "Space-Net 宇宙红版（暂译）",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "5704593dd3f66d3e750f9c00f57b265c9272f6fb7973691d94ef0db4a9446c68",
+          "input_sha256": "c473cf44bd274435c7bc46aae877a3a6e114af425fde23248ebb05b55aab5f7d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "marie-no-atelier-gb",
+      "game_name": "玛丽的炼金工坊GB",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "native12px-names8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "3a3614424bca5f9f311d5319029107c157ca868c20376638f5e721b974bd86e7",
+          "input_sha256": "12c844ad512d2b210fb61847161606ba0e8a7349c27a2b0f896d687f4d6fba8e",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "mobile-golf",
+      "game_name": "迷你高尔夫 Mobile Golf",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "874e01a9915c9a3cda48095301e3e41e7113acffe8337656972f83e84721b567",
+          "input_sha256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "game_name": "蜡笔小新 电影乐园大冒险",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "12px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zephyrs-pass",
+      "game_name": "西风之口",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "a00d707ed5ad256575b2ce4ad00c809244ea15a09a21524ce13194da7186ca4f",
+          "input_sha256": "885f46e9a24b5ca822bb36cd5be7384e29fdc5a969391ff84ff00f4e46f8f8ad",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "first-contact-protocol",
+      "game_name": "第一次接触协议",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "d8ce2fa6ca3b6697e537f61d6b3187d3ee8f91b30eb823efa48445e1b00a5629",
+          "input_sha256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "hotel-s",
+      "game_name": "旅馆S",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "6b8e3ff8544cf52bb308fc8588a8b346af445792aa348690511fcd89371918a8",
+          "input_sha256": "450eaffb065ce555ea224751b7412349ccb91d4f640e9c5989536dd50b6966b8",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "cryohazard",
+      "game_name": "冰冻危机",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "0e0dbe28e11b50f0911a202b490f1566917eb13d54e38abfcdcd39ee20eb2efb",
+          "input_sha256": "7d6f512b66300934c7564f1fd4ee86619a1125eb56482c52972b5d4b025b3bc0",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "mayor-of-sanctuary",
+      "game_name": "庇护区区长",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "97f22b397e70523db7b910df798c437ee919c218e935a8545fd40a0d20dd7e2d",
+          "input_sha256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "wicked-plague",
+      "game_name": "邪恶瘟疫",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "a60240350f81ce787a7c9846a21bc1187e172d9b5bb85c342ca0a2a61acb7afe",
+          "input_sha256": "e76d3b831d40907161818506a312809251157b3311446837e596f4f744ddf820",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "sound-of-thunder-gba",
+      "game_name": "雷霆之音",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "8px+12px-native",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "fe0753de322fc7db6d19ffc8e8320df151414d0c84e40f0d6c3d874f294824dc",
+          "input_sha256": "bcfcf623a1addb0fbf251aeeab4f47275388f166a325c23c88b2741f01e070f3",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "max-payne-gba",
+      "game_name": "马克思·佩恩",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "8px+12px-native",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "5726f8ab312b188279c596b9ccd93e1bf9fec42222df695ace310441aa45be91",
+          "input_sha256": "f40118daf0fa2a80169edcfe82b030e4c01aa9d7397f7a462ea25ac3c155b3e8",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "pokemon-yellow-three-protagonists",
+      "game_name": "口袋黄：三主角改版",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "ec81df5c1512a06161e2b844d05613389ea70ec1038628c171dada3096cce93f",
+          "input_sha256": "08707a21f3552f7d279d995cadb8b2cf47eaf8b4e6000e3125a19da3b9a05c4b",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "shaman-king-card-game-chou-senjiryakketsu-2",
+      "game_name": "通灵王 超占事略决2",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "3604d8d4f59962ef2e8850e3fd7e135c6614319d68c2a15251f3936d89065d62",
+          "input_sha256": "be5421eda8eac576fa64210c4779194ed8ead7853593ea9c533508ccb809879e",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "shaman-king-card-game-chou-senjiryakketsu-3",
+      "game_name": "通灵王 超占事略决3",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "928c976d158db86e90ea54ff5e11d49f437e61b8dbc2b3f9f788d67812aa4b6d",
+          "input_sha256": "5199ec51c238d1cb5fd2667a92b8bcda55165bcac80c7c071ee0249c44de584f",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "game_name": "恶魔城：暗影诅咒 黄金贝尔蒙特",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "5b5e9a96e6d1ff65b7e69729e21bd7d3efa6f31a524623f60f0f8de4f01d7818",
+          "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "dracula-dark-reign",
+      "game_name": "德古拉黑暗统治",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "21cf09649d8fe9072e985de00b580f8bfdfcd2fab7d453ae33c1cb57384a4773",
+          "input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket",
+      "game_name": "实况世界足球Pocket",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native-8-12px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad",
+          "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "medarot-parts-collection-2",
+      "game_name": "徽章战士 零件合集2",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "5b9ef4b17af4aa0439f08367e51bbb3297b1b05c87502226d70d8bfa7b9563a3",
+          "input_sha256": "9a522a7361dbef01a5e299a2ad9372dc293cd103723236a9290ba3f40a3b0ee5",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "god-medicine-fukkokuban",
+      "game_name": "世界之诞生 复刻版",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "c3bba6717ba87852d25d0478b89d8b041fe1ba59b6f7d74e90d41972e96be100",
+          "input_sha256": "185f092bbebd5fa29a82ffb7d18c8242f75d6f8fee968cf6dee00b32a879febb",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "medarot-3-kuwagata",
+      "game_name": "徽章战士3 锹形虫版",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "2654ac1019ebe1a2c42e0477afb28ab9a4f15c7e00e8dad97ecf18ee5d247158",
+          "input_sha256": "b0577f44de79b82bab9167e9fcd19bf139ab0023e44d7901e29e6a9b2b400182",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "medarot-parts-collection-1",
+      "game_name": "徽章战士 零件合集1",
+      "platform": "GB",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "0522f0b860cd6379234adad86695cd6980b3ff46946672e521fb94ea63033f59",
+          "input_sha256": "590c824ea7db3613258ac5d97b3c32d59691ce9db125c864b19adc044bd4ef89",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "pokemon-prism",
+      "game_name": "宝可梦棱镜",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "ac912524bfe6a2eb1c109d5faf946e30456938ffe8f5af1b1470f391207e3562",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    },
+    {
+      "game_id": "zelda-moonrise-regalia",
+      "game_name": "塞尔达月升之歌",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "output_sha256": "1348bf23240bfe6f242f8a7c700223bd540e779c62111b3dbd658df8d8e51265",
+          "input_sha256": "5369091fd491cacad9be15d39860aaa04d741b3804d6b129c735dc32af03f35d",
+          "scope": "限定测试版",
+          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
+        }
+      ],
+      "public_asset_sync_status": "PENDING_PER_GAME_VERIFICATION_AND_PUBLICATION"
+    }
+  ]
+}

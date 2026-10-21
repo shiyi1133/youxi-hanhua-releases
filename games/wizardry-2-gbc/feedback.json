@@ -1,0 +1,77 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-2-gbc",
+  "game_name": "巫术Ⅱ利尔伽敏的遗产",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038551244",
+      "parent_pid": "154026916777",
+      "floor": 69,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038551244#154038551244",
+      "created_at": "2026-10-16T16:57:50+08:00",
+      "quote": "人物名字没有翻译，同样影响不大哈",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7d8f62600c338744b39a037b170fd9f9d62aa081.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-30f6289092c08c6c",
+      "public_problem_key": "problem-763fc318a0e21c53",
+      "game_ids": [
+        "wizardry-2-gbc"
+      ],
+      "summary": "[覆盖改进／保留预设姓名] 巫术Ⅱ利尔伽敏的遗产：预置队员名保留日文，记录中文化覆盖建议",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038551244"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-763fc318a0e21c53",
+      "game_ids": [
+        "wizardry-2-gbc"
+      ],
+      "summary": "[覆盖改进／保留预设姓名] 巫术Ⅱ利尔伽敏的遗产：预置队员名保留日文，记录中文化覆盖建议",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-30f6289092c08c6c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038551244"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -1,0 +1,785 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "devil-children-shiro",
+  "game_name": "真·女神转生 恶魔之子 白之书",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154025780591",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "EastAsian_梵肆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025780591#154025780591",
+      "created_at": "2026-10-13T00:12:57+08:00",
+      "quote": "上面说的都是黑之书小字版。另外，白之书日文原版就有一个开局没声音，流程走到玩家获得第一只精灵之后游戏才有声音的bug。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "EastAsian_梵肆"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024013324",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "流火X星雨",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024013324#154024013324",
+      "created_at": "2026-10-12T14:41:31+08:00",
+      "quote": "这个我喜欢，非常支持",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "流火X星雨"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024075587",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024075587#154024075587",
+      "created_at": "2026-10-12T15:02:25+08:00",
+      "quote": "悄悄地说，但凡是点赞就代表开始汉化了。 但是目前AI汉化好了还依赖我手工上传，我正在研究全自动化交付。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024521026",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "EastAsian_梵肆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024521026#154024521026",
+      "created_at": "2026-10-12T17:29:33+08:00",
+      "quote": "要不大佬您把这个ai汉化过的都放在一个共享链接吧，能被人提出来想汉化的游戏都是珍贵的回忆，把这些回忆都整合在一起大家一起玩。不好玩的游戏也不会有人求。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "EastAsian_梵肆"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024555323",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024555323#154024555323",
+      "created_at": "2026-10-12T17:41:14+08:00",
+      "quote": "我以为能汉化几个了不起了，结果这两天汉化了30个..... 后面我整理一下，单独发个帖子吧。把所有的都放进去。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024874470",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024874470#154024874470",
+      "created_at": "2026-10-12T19:29:15+08:00",
+      "quote": "黑之书！童年啊！！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024990734",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024990734#154024990734",
+      "created_at": "2026-10-12T20:05:00+08:00",
+      "quote": "黑之书和赤之书 小时候玩了好久！绝对的神作，可能初中玩的，那时候没有攻略，怎么骑宠越过地形都卡了好久！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025350013",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "戛家人✆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025350013#154025350013",
+      "created_at": "2026-10-12T21:57:51+08:00",
+      "quote": "坐等这个",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "戛家人✆"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025452758",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025452758#154025452758",
+      "created_at": "2026-10-12T22:30:00+08:00",
+      "quote": "@EastAsian_梵肆 《真·女神转生 恶魔之子 白之书》v1.0.0测试版已交付，普通8px和对白10px大字版都已放进统一分享的“GBC/真·女神转生 恶魔之子 白之书”目录。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8288d454564e925835ef54e8da82d158cdbf4e0d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3795b83533fa828b56f84fe5bb1f4134960a5a0d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025464081",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025464081#154025464081",
+      "created_at": "2026-10-12T22:33:25+08:00",
+      "quote": "@EastAsian_梵肆 《真·女神转生 恶魔之子 赤之书》v1.0.0测试版已交付，普通8px和对白10px大字版都已放进统一分享的“GBC/真·女神转生 恶魔之子 赤之书”目录。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38b78e01a18b87d6728e7919410828381e30fd10.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/15840e0828381f30b3d55fafef014c086f06f010.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025473016",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025473016#154025473016",
+      "created_at": "2026-10-12T22:36:05+08:00",
+      "quote": "@EastAsian_梵肆 《真·女神转生 恶魔之子 黑之书》v1.0.0测试版已交付，普通8px和对白10px大字版都已放进统一分享的“GBC/真·女神转生 恶魔之子 黑之书”目录。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18bd32cc049d82f07082938fe19.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22aa45086e061d956a81e53e3df40ad163d9ca19.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025627678",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025627678#154025627678",
+      "created_at": "2026-10-12T23:23:32+08:00",
+      "quote": "不可思议！太厉害了！很舒服 我发现习惯小字体后省去很多麻烦，大字体有一点显示错误，小字体就完全没有",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/56ff5f4e9258d109575574b49758ccbf6d814daa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "13a64a553c9f3b8fd15e15c758261372c086038279c8b6126fccdb1d87bb7b49"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/dde59b58d109b3de7909396e8abf6c81810a4caa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "791c2431a41f3f3330057fdaa50e1fbf457f73eddf3346198d43e26891e8b486"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1729d858ccbf6c816981f1eefa3eb13532fa40aa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "3e39df76b1abaab539842901ab7ee0773c5f02469c461a6f3868d102234b19b4"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38759582d158ccbf840a683c5fd8bc3eb03541aa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "1aff6f98c9ce73c47feb6edba80a3d728219b27cd4a19378308793311703f38a"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025662129",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025662129#154025662129",
+      "created_at": "2026-10-12T23:34:33+08:00",
+      "quote": "@球总好学 大字版的显示问题已记录。麻烦发一下是哪一本和ROM文件名（含版本号）。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025663106",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "EastAsian_梵肆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025663106#154025663106",
+      "created_at": "2026-10-12T23:34:52+08:00",
+      "quote": "图1的白海狮，使用一个什么技能之后，会像图4一样，全屏会被0覆盖，之后只有部分活动块能显示出来，不过这个全屏0是纯图像bug，不影响程序结算，战斗结束之后就正常了。图2的冰凉地图，右边应该是已购买或者购入济，结果显示刹李贝利。图358，背包里面的道具名字全都一样，但是道具数量和道具说明是正确的。图6是打开随身电脑里的选项里的note，大概功能是游戏世界观的专属名词解释，列表里面的名字全都重复了，但是点开看某个名词的具体解释是正常的。图7打开精灵中心的电脑，好几个入口都能到这个浏览身上+电脑里面的所有精灵，这里的精灵名字重复了，并且UI文字也错误。图8偶尔会出现UI的边框上面有汉字。图9游戏的精灵图鉴功能，里面几乎都是中文乱码，但是功能好像都正常。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b361839c6ebe5cc7cd98c109dbd.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "3eef48e3bd73bce88bd9abfb3af0e56ebcd043b1fcb4049df1aa46734089c27e"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "EastAsian_梵肆"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025679995",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025679995#154025679995",
+      "created_at": "2026-10-12T23:40:12+08:00",
+      "quote": "@EastAsian_梵肆 战斗全屏0、列表重名和图鉴/UI乱码都已记录。麻烦发一下是哪一本、ROM文件名和是否大字版。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027494472",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "viczeno",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027494472#154027494472",
+      "created_at": "2026-10-13T14:45:59+08:00",
+      "quote": "大佬，白之书战斗里的魔法详情AI翻译得全部都看不懂，不知道这些魔法有什么用",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "viczeno"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025839729",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025839729#154025839729",
+      "created_at": "2026-10-13T00:33:37+08:00",
+      "quote": "@EastAsian_梵肆 黑之书小字版的信息已补上。白之书开局无声也记下了，汉化版同样会无声吗？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026087167",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026087167#154026087167",
+      "created_at": "2026-10-13T03:04:29+08:00",
+      "quote": "@EastAsian_梵肆 黑之书普通/大字v1.0.1测试版已更新，修复道具与NOTE重名、恶魔中心列表、地图已购状态错字及图鉴乱码。请从原网盘目录重新下载测试。 图1普通8px，图2对白10px（菜单等仍8px），均为真实SGB画面；图3左至右为旧普通、新普通、新大字的菜单对照。 大字版更容易出现拖慢、刷新残留等问题，遇到请及时在这楼反馈。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40f65ef11dbed64034f78f01932.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab64325b92c6b136afc379311e32.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/88e471f0f736afc34c25e063f519ebc4b7451232.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027540020",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027540020#154027540020",
+      "created_at": "2026-10-13T15:01:25+08:00",
+      "quote": "黑之书，10px 1.01版，有字体超出到第二行的情况",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c09da5af2edda3cccc5a622647e93901203f92a2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "cbaa396baa9ff3d50ee412d6f9bf7e93dc85cc0c4cf695e2d580220b703f3768"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40447f094b36acaf805e4cfa3ad98d1000e99ca2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "34145d8c7a95f3e123544785e9948aac55af3a787d30f9456903a1d499ee3075"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef7609e7b5439968dda3cc7dd99ea2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "8c90ce60eaaa3da65ab8bfefd46707e9a8b4309720aabf18645f8fec42877a5d"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fda24236acaf2edd0c4f93efcb1001e9380193a2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "5f0c2afc961dd6c57d6a3ea10967f802babda18d2191c4b0cd038e8d78a74471"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b36012cc1ebe5cc7cd98c109da2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "c09ebadf25a59ead0e04af50e6e0890306b10884489ebd6ede89bcd9eb6c2854"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027646329",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "EastAsian_梵肆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027646329#154027646329",
+      "created_at": "2026-10-13T15:35:48+08:00",
+      "quote": "图1，在融合精灵的界面，左上角和底部的ui文字乱码。图4，融合精灵结束之后的继承技能界面，左上角ui文字错误。图2，背包里面查看特殊道具，右上角和底部ui文字乱码。图3，在旅馆复活死亡的精灵的界面，左上角ui文字，精灵列表下面的确定底下的框上面的文字，都是乱码。图5，战斗中偶尔出现敌人在使用招式的时候敌人的名字乱码。图6，战斗中进行交涉，就是说服对方加入我的队伍，敌人的名字乱码。图7，图鉴里面的精灵右边文字乱码，应该是显示普通、精英之类的。图8，我方右边的精灵在战斗中死了，可能会触发全屏显示0，纯图像bug，不影响程序，战斗结束就恢复。图9，在精灵列表内查看hp为0的精灵，生命值显示乱码。补充，红之书和黑之书的引擎应该是完全一样，所以所有的黑之书小字版的bug红之书小字版都有。补充2，白之书小字版在战斗中的魔法和必杀的技能说明乱码。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a65ee9fe9925bc318e8edb9e18df8db1ca137015.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "2bd3c0ac24571c6c4b96fd61eb4697dd7dd77c3832e37570f9de8e68250c5b93"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "EastAsian_梵肆"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027554977",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027554977#154027554977",
+      "created_at": "2026-10-13T15:06:14+08:00",
+      "quote": "但不是所有时候都超出",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027584097",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027584097#154027584097",
+      "created_at": "2026-10-13T15:16:03+08:00",
+      "quote": "黑之书，10px 1.01版，这个文本是正常的吗？原理大概懂，自己取的名字是小字8px，一般文本是10px大字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7046a264034f78f0d98640f53f310a55b2191c56.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "28f79d22ce72cbd90d299949bdb6a67d13fb39cf8dfa6abd410c90ec2003d78b"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027686364",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027686364#154027686364",
+      "created_at": "2026-10-13T15:46:59+08:00",
+      "quote": "@viczeno 已记录魔法说明难懂的问题。你用的 ROM 是什么版本、普通还是大字？请举一个魔法名称或贴一张详情图，我对照原文核查。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027687196",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027687196#154027687196",
+      "created_at": "2026-10-13T15:47:15+08:00",
+      "quote": "@球总好学 五张截图已收到，已并入对白排版集中排查，后续继续处理。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154028410792",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "viczeno",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154028410792#154028410792",
+      "created_at": "2026-10-13T19:38:53+08:00",
+      "quote": "普通和大字都是这个问题，如下图，完全看不懂这个魔法是做什么的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18bce07d549d82f07082938fe70.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "a03e37d5632a6c6c45528005bb592d228342bd724cb4eeb88c438dc8a8a1722c"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "viczeno"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027865964",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027865964#154027865964",
+      "created_at": "2026-10-13T16:41:06+08:00",
+      "quote": "@EastAsian_梵肆 这些问题已补充记录。黑之书小字最新版是 v1.0.1，红、白之书小字是 v1.0.0，请用各自最新版再试，并告诉我三份实际 ROM 文件名或版本。已有截图够用，后续继续排查。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027866788",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027866788#154027866788",
+      "created_at": "2026-10-13T16:41:21+08:00",
+      "quote": "@球总好学 当前大字版是对白10px，自己取的名字和菜单仍用8px，所以名字混排属于现有覆盖范围。截图中的越框和分页问题会继续排查。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-42e42035bc7c3d99",
+      "public_problem_key": "problem-671434cba9ccb982",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书日文原版开局无声观察（是否原生行为或汉化版复现待确认）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-faeefcb583f12fc2",
+      "public_problem_key": "problem-1089e221d863f18d",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书战斗魔法详情译文难懂",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "8px and 10px-dialogue (same reporter followup)",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154027865964",
+        "11092365551|154027866788",
+        "11092365551|154028410792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-671434cba9ccb982",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书日文原版开局无声观察（是否原生行为或汉化版复现待确认）",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-42e42035bc7c3d99"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-1089e221d863f18d",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书战斗魔法详情译文难懂",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-faeefcb583f12fc2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154027865964",
+        "11092365551|154027866788",
+        "11092365551|154028410792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -1,0 +1,198 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "fleet-commander-vs",
+  "game_name": "舰队指挥官VS",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154049434339",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154049434339#154049434339",
+      "created_at": "2026-10-19T19:44:26+08:00",
+      "quote": "舰队指挥官开始界面三个选项 单人游戏，联机游戏，读取进度的第一个字好像没了，要看看",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "炽天火3"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154050812789",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154050812789#154050812789",
+      "created_at": "2026-10-20T07:30:49+08:00",
+      "quote": "舰船点移动指令时候，右侧都会有一处图形错乱",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c469dc628535e5dd80ecd8d830c6a7efcf1b6224.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "炽天火3"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154050822750",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154050822750#154050822750",
+      "created_at": "2026-10-20T07:36:46+08:00",
+      "quote": "进入作战室界面感觉会卡顿一下（在选地图介绍界面好像也有），和日版对比大约慢1-2秒，先纯白然后出图像",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "炽天火3"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-d2d25f6788a85946",
+      "public_problem_key": "problem-173fda5b13ff78c3",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154049434339"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-9c7b7803d3a2af27",
+      "public_problem_key": "problem-97fc3c832eefcfaf",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050812789"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-677b4e7a28d20c12",
+      "public_problem_key": "problem-6c683d590ea6d219",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050822750"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-173fda5b13ff78c3",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-d2d25f6788a85946"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154049434339"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-97fc3c832eefcfaf",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-9c7b7803d3a2af27"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154050812789"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-6c683d590ea6d219",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-677b4e7a28d20c12"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154050822750"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

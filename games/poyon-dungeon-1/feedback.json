@@ -1,0 +1,1275 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "poyon-dungeon-1",
+  "game_name": "波永的迷宫1",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154026569308",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026569308#154026569308",
+      "created_at": "2026-10-13T09:22:53+08:00",
+      "quote": "1.02版，战斗时，敌人的名称显示日文",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38b78e01a18b87d676d77519410828381e30fd4f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "9f4315fba7c0e00bc7f841a205ea3351eac308a445fc56c30ce5037647c1388d"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a3931630e924b899f1a9a73e28061d950b7bf64f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "0a47437bb6774c9aebfd26d11d3003ff2697e90cf4d3838968d8dff97555036f"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0caaa88b87d6277fcc87ec3e6e381f30e824fc4f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "88eee92d8c4e0fc407120d9ca5470e87914f423cb1a346ff8f9ca8078cbb49d2"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026571134",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026571134#154026571134",
+      "created_at": "2026-10-13T09:23:32+08:00",
+      "quote": "1.02版，战斗时，敌人使用招式时，招式名称是日文",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18bd77ccc49d82f07082938fe49.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "52ec7272c004f63bedeb362263aa7af82a4798a3e4a633784f06112d8476ea5c"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026573645",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026573645#154026573645",
+      "created_at": "2026-10-13T09:24:29+08:00",
+      "quote": "1.02版，战斗中，来回几回合后，指令选项下面的说明文字显示乱码（刚进入战斗时正常）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f4956e09c93d70cfc06c740bbedcd100bba12b4a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "18927286d9b6a4634c15e0a6e5bf0ef624a776aba14f108c35a0a08e64656ced"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42bc763e6709c93d8a64d0f1d93df8dcd000544a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "0899df2dad9d079158eeb99253fbce1bc28255ad4b202bbb39592e4b597d8f07"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026590158",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026590158#154026590158",
+      "created_at": "2026-10-13T09:30:24+08:00",
+      "quote": "第二次战斗时，一开始，这两个指令选项下方的说明就是乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5af3c5bf6c81800afe635708f73533fa838b475a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "84be89f6fbc73930fcd235ae9230717421616100d0887315750261c6e9f82b45"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/47146581800a19d854855a0375fa828ba71e465a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "374d34beb5720c0d75b771d4974360caf518ef9c3553c2fc86cc5014954289d0"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026594716",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026594716#154026594716",
+      "created_at": "2026-10-13T09:32:06+08:00",
+      "quote": "怪物使用的招式是日文，另外这里怪物的名字是“花皮”，有可能是翻译错误或者显示错误",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5298c195d143ad4bf9ad98c6c4025aafa50f0664.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "46ec04906b9902d1db4410e0d28664f3f3469d6e9f916585b2080f69ecab75a8"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd1135a4e69341cafa40f4afb0564.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "920cd4a1f2fd6cab786349b79e65e5fea1a4c8e6c76aafcb3a785d219cb1c38d"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026605630",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026605630#154026605630",
+      "created_at": "2026-10-13T09:36:07+08:00",
+      "quote": "怪物使用的招式是日文或者长串假名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d335e7fae9efec8a136227cc6a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "5aae2520e1b7ca2b435a24b781f5ebfae609e1d0e7405efa624cb0f066e45859"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026610050",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026610050#154026610050",
+      "created_at": "2026-10-13T09:37:44+08:00",
+      "quote": "战斗中，主角变成异常状态时，状态情况显示是日文（左下方），但战斗结束后的状态显示是中文（画面上方，\"黑暗\"）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38b0b951f81986187eb731820ced2e738ad4e674.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "fdccf88e9721b9108c06b60e9a9b684bbfa2bc16408154fa581532a860c49981"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bdd1d3b44aed2e73c719582ac101a18b86d6fa74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "6e09fcdddbeb29077e6a80a2749551a74315d9cfcfbd8b506246b0b72e2fd508"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027966982",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027966982#154027966982",
+      "created_at": "2026-10-13T17:10:54+08:00",
+      "quote": "10px，1.03版，存档后，这些选项下面的备注说明乱码，进大地图回到村庄后正常，但存档后又是乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef7609e1255d9968dda3cc7cd99e32.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "337bb0debda924e9df5536e7aa018c414309756ceb7da4b3fc6c277765d6ab5e"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fda24236acaf2edd0edf8defcb1001e939019332.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "adee81e70ba65888f6882e5ae166f806b2a8ddd90aaedd4af41d76adbccdd1e7"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/270427dda3cc7cd92203f0df7f01213fb80e9132.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "96e4906c0f1a1f4c82a5de0fa730688a22d3d509845d3de331601211f00cefaf"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c09da5af2edda3ccd2ca7c2647e93901213f9232.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "d7940625a6a7858d521f4531dd7fb2455bcde38185ceaf639e9c9c8ce7aa5828"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b3607bcdfebe5cc7cd98d109d32.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "288ec6553d1fd7c0e6fcb4f42044490dfe7a8806929f0f11e88179187fbeca0c"
+          ]
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40447f094b36acaf82ce52fa3ad98d1001e99c32.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "3d7f0dd0a91d0f70cb2dac76c19aadcfe6342248a44a1303582a380dc1701391"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024600532",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024600532#154024600532",
+      "created_at": "2026-10-12T17:57:09+08:00",
+      "quote": "平台：Game Boy Color，兼容初代 GB 与 SGB 超任 GB 适配器；开发商为 AIM、发行商是 Hudson 哈德森，1999 年 2 月 26 日发售，定价 3980 日元，属于挖掘迷宫回合制 RPG 兼宠物收集类游戏，卡带容量 8M，支持 GB 联机线，能够交换道具、复制召唤兽以及对战。游戏剧情承接 SFC《大贝兽物语》，主角是人气贝兽波永（ポヨン），波永原为前作退役勇者，平日贪吃偷懒，在贝兽岛勇者升级大赛中被后辈普利林轻松击败，自信心彻底崩塌，贝兽仙人给予他最后的机会，需要闯过 7 座地下迷宫，集齐各迷宫深处古龙的印章，就能再度与普利林对战、重夺勇者名号，这 7 条古龙并非反派，仅仅是试炼守护者，战胜后可以收服作为召唤兽伙伴来破解迷宫机关，主线目标只需集齐 7 枚印章即可通关，另外还有隐藏内容，可以反复挑战古龙，收集完整的召唤兽图鉴。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024601397",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024601397#154024601397",
+      "created_at": "2026-10-12T17:57:28+08:00",
+      "quote": "麻烦大佬了！感谢！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024715120",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "指点江山云玩家",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024715120#154024715120",
+      "created_at": "2026-10-12T18:36:23+08:00",
+      "quote": "对对对这个游戏超有意思的！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024728555",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "草薙京zero",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024728555#154024728555",
+      "created_at": "2026-10-12T18:41:03+08:00",
+      "quote": "前来支持，等了十多年了，感谢大佬能汉化",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024866725",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024866725#154024866725",
+      "created_at": "2026-10-12T19:26:57+08:00",
+      "quote": "不好意思 资源放错了，应该是这个：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024970266",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "wayouxiwang",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024970266#154024970266",
+      "created_at": "2026-10-12T19:58:38+08:00",
+      "quote": "是个好游戏，我也想玩，知道这个游戏只是苦于日文 优秀的迷宫探索游戏 可惜了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025119210",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "jccg2014",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025119210#154025119210",
+      "created_at": "2026-10-12T20:46:12+08:00",
+      "quote": "搞咯！你这些图片都没显示啊！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025129052",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025129052#154025129052",
+      "created_at": "2026-10-12T20:49:28+08:00",
+      "quote": "显示啊 显示不出来吗？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026135981",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026135981#154026135981",
+      "created_at": "2026-10-13T04:06:39+08:00",
+      "quote": "@球总好学 《波永的迷宫1》普通8px v1.0.0汉化测试版已上传，欢迎测试～ 目录：汉化项目/GBC/波永的迷宫1",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/511f43ed2e738bd4fd5b6d37e78b87d6267ff9ee.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18bd691cd49d82f07082938feee.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026316611",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026316611#154026316611",
+      "created_at": "2026-10-13T07:35:49+08:00",
+      "quote": "@球总好学 《波永的迷宫1》普通v1.0.1和大字v1.0.2测试版已上传，修复仓库物品名显示，欢迎测试～",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/da962f9759ee3d6d241a58cd05166d224e4ade00.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d245346d55fbb2fb30f78714094a20a44723dc00.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026601074",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026601074#154026601074",
+      "created_at": "2026-10-13T09:34:25+08:00",
+      "quote": "@球总好学 敌人名、招式名残留日文已一起记录，后续排查，感谢反馈～",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026718956",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026718956#154026718956",
+      "created_at": "2026-10-13T10:16:20+08:00",
+      "quote": "谢谢！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027312649",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027312649#154027312649",
+      "created_at": "2026-10-13T13:41:41+08:00",
+      "quote": "请问这个之后的更新，是小字版和大字版并行，还是只考虑大字版？我看大字版版本号比小字版要更新？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027382802",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027382802#154027382802",
+      "created_at": "2026-10-13T14:07:04+08:00",
+      "quote": "@球总好学 两版都会继续维护，分别更新。目前普通版 v1.0.1、对白大字版 v1.0.2。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027897294",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027897294#154027897294",
+      "created_at": "2026-10-13T16:50:13+08:00",
+      "quote": "@球总好学 《波永的迷宫1》普通8px v1.0.2、对白大字10px v1.0.3测试版已更新。敌人名、行动和状态残留日文，以及大字版多回合、下一战的命令说明乱码已修；“花皮”名称继续核对。 图1：普通8px v1.0.2；图2：对白10px v1.0.3，菜单、选项、取名和命令仍8px。两版均验证了CGB/SGB连续两战，第7、8格为标注的诊断场景。 请从统一分享的“GBC/波永的迷宫1”目录下载对应最新版测试，有问题继续在这楼反馈。 大字版更容易出现拖慢、刷新残留等问题，遇到请及时在这楼反馈。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7c9da6c379310a5582cc1bf2f14543a983261073.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38b2e2c4b74543a9b7f33fca58178a82b8011473.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027930804",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027930804#154027930804",
+      "created_at": "2026-10-13T16:59:48+08:00",
+      "quote": "辛苦了！",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154030785343",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154030785343#154030785343",
+      "created_at": "2026-10-14T13:11:16+08:00",
+      "quote": "对白大字版 v1.0.4，测试后，存档后乱码问题大幅减少，表现为存档后乱码持续约0.3秒，之后立马恢复正常的中文翻译文字。反复测试后大部分情况下都是上述情况，只有一两次是之前版本的“存档后一直乱码”的情况",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154030917995",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154030917995#154030917995",
+      "created_at": "2026-10-14T13:58:44+08:00",
+      "quote": "大字1.04，站在前方这种方块地板上先出现提示，但出现提示后，画面上方会出现乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef7609ebc1579968dda3cc7dd99e1e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/391cd9a20cf431ad55188d3f0d36acaf2fdd981e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5b0905f431adcbefe9feb000eaaf2edda2cc9f1e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fd6daeefce1b9d16470d5467b5deb48f8d54641e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/06bb08e93901213f11f980da12e736d12e2e951e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/aa94b10e7bec54e79a26d418ff389b504ec26a1e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154030922196",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154030922196#154030922196",
+      "created_at": "2026-10-14T14:00:15+08:00",
+      "quote": "大字，1.04版，打开菜单-道具-使用时，光标所指处（画面左上方）文字异常，重新打开菜单会恢复",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/88e471f0f736afc35dc8f163f519ebc4b645121f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032177091",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032177091#154032177091",
+      "created_at": "2026-10-14T20:58:40+08:00",
+      "quote": "大字，1.04版，不仅是走过方形地板，比如对着一条沟调查的时候，上方也会出现乱码，基本上100%的出现概率",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/dc8718dfa9ec8a13332663e7b103918fa0ecc020.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8758deca7bcb0a469b1ebf3e2d63f6246b60af20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/817a6bd9f2d3572c5cdea8dbcc13632762d0c320.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5c6172cb0a46f21fd4086a54b0246b600c33ae20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e5ad14950a7b020833f50be624d9f2d3572cc820.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032179870",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032179870#154032179870",
+      "created_at": "2026-10-14T20:59:34+08:00",
+      "quote": "这种情况较为常见，点使用道具后汉字显示异常（左上方箭头所指）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d8e8f2f2b21193133b7dcbb723380cd791238d22.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032310002",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032310002#154032310002",
+      "created_at": "2026-10-14T21:39:48+08:00",
+      "quote": "大字1.04版，在迷宫中跟npc对话，画面上方也会显示乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/9b935a43fbf2b2111991b1498c8065380dd78ea1.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/877c982397dda1443fb658b5f4b7d0a20df486a1.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032312811",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032312811#154032312811",
+      "created_at": "2026-10-14T21:40:41+08:00",
+      "quote": "大字1.04版，上方显示乱码后，调出的左侧菜单整个都是乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0600346f21fbe0900e7f7132d600c338644ada3.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154034733763",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154034733763#154034733763",
+      "created_at": "2026-10-15T15:45:38+08:00",
+      "quote": "小字1.02版，点道具-装备武器后文字显示异常和乱码，画面左上方箭头处文字异常，画面下方文本说明里文字异常，以无法看到武器装备后数值的变化。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/33a572ec54e736d1b1e9b30fdd504fc2d462696e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1b447fc6a7efce1b37d1f7cde951f3deb58f656e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bd7a262eb9389b50ee05df55c335e5dde6116e6e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/329392504fc2d56226f2efeaa11190ef77c66c6e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044042480",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044042480#154044042480",
+      "created_at": "2026-10-18T08:35:36+08:00",
+      "quote": "菜单-道具-使用，武器和盾牌点击装备时，文本被覆盖或者显示不全（画面下方），装备后数值变化显示不全（或被覆盖）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154035178372",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154035178372#154035178372",
+      "created_at": "2026-10-15T18:14:54+08:00",
+      "quote": "小字1.02版，我本来有四只召唤兽，玩了半小时后只剩了两只，下面那两只消失不见了，不知道是不是bug",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3a9e3afa828ba61e644ef1280734970a314e5944.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3795b83533fa828b6d83a4e4bb1f4134960a5a44.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154035215226",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154035215226#154035215226",
+      "created_at": "2026-10-15T18:28:00+08:00",
+      "quote": "这个如果确实是bug，那是恶性bug了，需考虑优先解决",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044030798",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044030798#154044030798",
+      "created_at": "2026-10-18T08:29:51+08:00",
+      "quote": "小字 1.0.2，战斗中各个中文指令未左对齐",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044033293",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044033293#154044033293",
+      "created_at": "2026-10-18T08:31:03+08:00",
+      "quote": "小字 1.0.2，战斗中各个中文指令未左对齐",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044035881",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044035881#154044035881",
+      "created_at": "2026-10-18T08:32:19+08:00",
+      "quote": "这个角色移动和选择去处的界面，功能房间（目的地）的中文名称显示未左对齐",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046220938",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046220938#154046220938",
+      "created_at": "2026-10-18T21:24:50+08:00",
+      "quote": "8px 1.0.3，画面下方可移动地点名称“召唤兽馆”没有与其他地名，如“朋友大叔”“道具仓库”统一左对齐，请调整“召唤兽馆”与其他统一左对齐",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046225079",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046225079#154046225079",
+      "created_at": "2026-10-18T21:26:08+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 8px 1.0.3，1.战斗界面，底部指令选项文字：防守攻击、能力、逃跑的文字没有左对齐，“逃跑”“能力”文字位置偏右，“防守攻击”文字偏左。每个选项文字位置不一致。请把“防守攻击”“逃跑”“能力”与“召唤”“道具”“观察”“全力攻击”“攻击”统一，左对齐",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046193465",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046193465#154046193465",
+      "created_at": "2026-10-18T21:16:26+08:00",
+      "quote": "8px 1.0.3，菜单-图鉴中的“门”图鉴（图鉴中的左1，门形标记），进入后显示异常",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-bfd93e9418e6bdf3",
+      "public_problem_key": "problem-83ec46f28e6518d4",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：战斗敌人名、招式名残留日文（待排查）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "1.02版",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024600532",
+        "11092365551|154024601397",
+        "11092365551|154024715120",
+        "11092365551|154024728555",
+        "11092365551|154024866725",
+        "11092365551|154024970266",
+        "11092365551|154025119210",
+        "11092365551|154025129052",
+        "11092365551|154026135981",
+        "11092365551|154026316611",
+        "11092365551|154026569308",
+        "11092365551|154026571134",
+        "11092365551|154026573645",
+        "11092365551|154026590158",
+        "11092365551|154026594716",
+        "11092365551|154026601074",
+        "11092365551|154026605630",
+        "11092365551|154026610050",
+        "11092365551|154026718956",
+        "11092365551|154027312649",
+        "11092365551|154027382802",
+        "11092365551|154027897294",
+        "11092365551|154027930804",
+        "11092365551|154027966982"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-cafffaf7481c785a",
+      "public_problem_key": "problem-83ec46f28e6518d4",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永1：大字v1.0.4调查/对白后上方和菜单乱码；普通v1.0.2装备说明异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154030785343",
+        "11092365551|154030917995",
+        "11092365551|154030922196",
+        "11092365551|154032177091",
+        "11092365551|154032179870",
+        "11092365551|154032310002",
+        "11092365551|154032312811",
+        "11092365551|154034733763",
+        "11092365551|154044042480"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-345411ebfe8ddf9f",
+      "public_problem_key": "problem-c873de91f1a5f654",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永1：普通v1.0.2召唤兽四只变两只，原因待核",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "小字1.02版",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154035178372",
+        "11092365551|154035215226"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e2f8617f838f1123",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "旧v1.0.2及新v1.0.3",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154046220938",
+        "11092365551|154046225079"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4d1a86f445f000b1",
+      "public_problem_key": "problem-f4242e0551aa150d",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "菜单-图鉴的左一门形图标进入后异常，附三图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v1.0.3",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046193465"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "gegege-kitarou",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11097560613|154043716841",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-83ec46f28e6518d4",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：战斗敌人名、招式名残留日文（待排查）；波永1：大字v1.0.4调查/对白后上方和菜单乱码；普通v1.0.2装备说明异常",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-bfd93e9418e6bdf3",
+        "case-cafffaf7481c785a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154024600532",
+        "11092365551|154024601397",
+        "11092365551|154024715120",
+        "11092365551|154024728555",
+        "11092365551|154024866725",
+        "11092365551|154024970266",
+        "11092365551|154025119210",
+        "11092365551|154025129052",
+        "11092365551|154026135981",
+        "11092365551|154026316611",
+        "11092365551|154026569308",
+        "11092365551|154026571134",
+        "11092365551|154026573645",
+        "11092365551|154026590158",
+        "11092365551|154026594716",
+        "11092365551|154026601074",
+        "11092365551|154026605630",
+        "11092365551|154026610050",
+        "11092365551|154026718956",
+        "11092365551|154027312649",
+        "11092365551|154027382802",
+        "11092365551|154027897294",
+        "11092365551|154027930804",
+        "11092365551|154027966982",
+        "11092365551|154030785343",
+        "11092365551|154030917995",
+        "11092365551|154030922196",
+        "11092365551|154032177091",
+        "11092365551|154032179870",
+        "11092365551|154032310002",
+        "11092365551|154032312811",
+        "11092365551|154034733763",
+        "11092365551|154044042480"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-c873de91f1a5f654",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永1：普通v1.0.2召唤兽四只变两只，原因待核",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-345411ebfe8ddf9f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154035178372",
+        "11092365551|154035215226"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f4242e0551aa150d",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "菜单-图鉴的左一门形图标进入后异常，附三图。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-4d1a86f445f000b1"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154046193465"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

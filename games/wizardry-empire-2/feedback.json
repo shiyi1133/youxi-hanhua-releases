@@ -1,0 +1,122 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-empire-2",
+  "game_name": "巫术帝国Ⅱ 复活之杖",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038505875",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038505875#154038505875",
+      "created_at": "2026-10-16T16:43:15+08:00",
+      "quote": "巫术帝国2复活之杖，酒馆里没翻译，迷宫里遇到怪物也没翻译，怪物名称栏也是乱码，和巫术帝国1一样，在迷宫里查看队伍信息有概率死机。退出游戏后在迷宫继续冒险也有概率无法继续而直接黑屏卡死。有一次甚至弹出了GBC卡带专用警告……",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c2ff0023dd54564e2376c83ef5de9c82d0584fd5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/47146581800a19d80610a80275fa828ba71e46d5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2c2dc0177f3e6709021369f87dc79f3df9dc55d5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039543671",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039543671#154039543671",
+      "created_at": "2026-10-16T22:24:57+08:00",
+      "quote": "ROM名称： 巫术帝国_简体中文_v0.1.2_普通8px取名修复测试版.gbc Wizardry Empire - Fukkatsu no Tsue (J) [C][!] (ZH-v0.1.0-8px).gbc 二者触发死机条件完全相同： 1：在迷宫里打开队伍信息，查看角色角色信息死机。 2：在迷宫里退出游戏之后，再次进入游戏，选择继续冒险>查看队伍>查看角色，此时随便选一个角色来查看，就会各种花屏和死机。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044879507",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044879507#154044879507",
+      "created_at": "2026-10-18T13:48:49+08:00",
+      "quote": "经测试，最新版：Wizardry Empire - Fukkatsu no Tsue (J) [C][!] (ZH-v0.1.2-8px).gbc ，仍有几处漏翻。 图1是在城内酒馆的场景未翻译。 图2是在酒馆组建队伍之后在城内移动光标时，我方角色名称是乱码。 图3是在地牢里遇到敌人，敌人的名字未翻译，敌人的队伍名称是乱码。 图4是在迷宫冒险是重启游戏，在酒馆里的提示页面未翻译。 图5是在地牢里查看我方角色的信息时有部分漏翻译。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-25c397c8b8686d47",
+      "public_problem_key": "problem-d8ee9c0a20c60ce5",
+      "game_ids": [
+        "wizardry-empire-2"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国Ⅱ 复活之杖：酒馆/怪物名未译与乱码，查看队伍或继续迷宫时概率卡死/出现GBC警告",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038505875",
+        "11092365551|154039543671",
+        "11092365551|154044879507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-d8ee9c0a20c60ce5",
+      "game_ids": [
+        "wizardry-empire-2"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国Ⅱ 复活之杖：酒馆/怪物名未译与乱码，查看队伍或继续迷宫时概率卡死/出现GBC警告",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-25c397c8b8686d47"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038505875",
+        "11092365551|154039543671",
+        "11092365551|154044879507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

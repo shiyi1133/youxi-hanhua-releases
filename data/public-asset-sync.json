@@ -1,0 +1,72 @@
+{
+  "schema": "public_actual_Source_patch_and_PNG_sync_snapshot_v1",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "Source64": {
+    "status": "ACTUAL_SOURCE64_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+    "assets": 64,
+    "associated_current_targets": 89,
+    "receipt_sha256": "f267918626e9a90c2392d560a73aa7c8b46bdffaefcdd3beb0230c1df79547f8"
+  },
+  "Source2": {
+    "02a": {
+      "status": "ACTUAL_SOURCE2_GROUP_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+      "assets": 20,
+      "associated_current_targets": 21,
+      "receipt_sha256": "2d5d213db726c631edc90560b447c17b0c31430bc5eaaa0d11f01fea3b7c9b47",
+      "manifest_sha256": "b6dee85bb8b5896a483be74941df36851840a24030d52a584aef4bfcd4bdc633",
+      "supported_build_scope_sha256": "de5d01dab0ce10c6aadf4ff43eaede7fc4cfd97416455e16116b72a2c4a21833"
+    },
+    "02b": {
+      "status": "ACTUAL_SOURCE2_GROUP_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+      "assets": 20,
+      "associated_current_targets": 36,
+      "receipt_sha256": "742bcc0b3eef21a152ad4890a93520b020e535eae4cb24302f5f903150df9614",
+      "manifest_sha256": "b6dee85bb8b5896a483be74941df36851840a24030d52a584aef4bfcd4bdc633",
+      "supported_build_scope_sha256": "de5d01dab0ce10c6aadf4ff43eaede7fc4cfd97416455e16116b72a2c4a21833"
+    },
+    "02c": {
+      "status": "ACTUAL_SOURCE2_GROUP_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+      "assets": 20,
+      "associated_current_targets": 22,
+      "receipt_sha256": "0eb6922df91d20eaf61eb14758fe71813eb60d7f581ddc3fd018a382c7814e62",
+      "manifest_sha256": "b6dee85bb8b5896a483be74941df36851840a24030d52a584aef4bfcd4bdc633",
+      "supported_build_scope_sha256": "de5d01dab0ce10c6aadf4ff43eaede7fc4cfd97416455e16116b72a2c4a21833"
+    }
+  },
+  "Source3": {
+    "status": "ACTUAL_SOURCE3_HAMTARO_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+    "assets": 1,
+    "associated_current_targets": 2,
+    "receipt_sha256": "63fcbccf3482ddb67eefcc4c8b3b7d712d0ad208236a665c671ed59a46d7d2d4",
+    "manifest_sha256": "18dfe93a75559b305af7ac22e23ce6f4f8d996c8f6074eebc849d0515ac20538"
+  },
+  "Source4": {
+    "status": "ACTUAL_SOURCE4_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+    "assets": 19,
+    "associated_current_targets": 21,
+    "receipt_sha256": "7a64133bdd5e7153b80bb2cc75be1dc508dc6502442d9475e121cea3bec107ef",
+    "manifest_sha256": "0cc2e82fc42dccad8dc905e4e830d8962d05ffbb9820eb1b8ccb99741f4baaac",
+    "scope_manifest_sha256": "eb9daf9be5b4fb3df0851169e7633568765e78d2fbee75511d5dcc268857ef48"
+  },
+  "patch134": {
+    "status": "ACTUAL_PATCH134_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+    "assets": 134,
+    "associated_current_targets": 191,
+    "receipt_sha256": "8f73b214893f347b3b00a1803973e8ccd888c168b461f2325b04fb2033ddf220"
+  },
+  "screenshots": {
+    "status": "ALL_CURRENT_SCREENSHOT_PNG_FULL_BYTES_VERIFIED",
+    "bindings": 195,
+    "unique_public_PNG_files": 188,
+    "actual_new_remote_PNG_files": 188,
+    "readback_proof_sha256": "0f9024fa63d1d480f895e82bd3565ea822656049cb345c404daa0dc70793744a"
+  },
+  "other_Source_batches": "NONE_REQUIRED_FOR_CURRENT_TARGETS",
+  "game_count": 134,
+  "target_count": 191,
+  "ROM_files_or_ROM_download_links": 0,
+  "private_Issue_bodies": 0,
+  "Source_executions": 0,
+  "new_rebuilds": 0,
+  "new_runtime_tests": 0
+}

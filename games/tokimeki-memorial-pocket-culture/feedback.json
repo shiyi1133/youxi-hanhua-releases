@@ -1,0 +1,306 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "tokimeki-memorial-pocket-culture",
+  "game_name": "心跳回忆Pocket：文化篇",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154043129954",
+      "parent_pid": "0",
+      "floor": 137,
+      "public_nickname": "hmzcyh1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154043129954#154043129954",
+      "created_at": "2026-10-17T23:08:32+08:00",
+      "quote": "LZ你好，我测试了一下你ai汉化的心跳回忆，结果比我想象的要好得多，不过有一个问题看看能不能处理一下\n除主角外的角色对话时，名字后面本来有一个引号，但这个汉化版把引号完全去掉了，这样看起来很难受，能不能把引号给恢复回来呢？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "hmzcyh1"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044579110",
+      "parent_pid": "154043129954",
+      "floor": 137,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044579110#154044579110",
+      "created_at": "2026-10-18T12:01:29+08:00",
+      "quote": "大佬你也在这，我也发现这个问题，一些对话，人物名字和对话内容的\"间隔符号框\"被吞掉了……",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "简单Matser"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045190365",
+      "parent_pid": "154043129954",
+      "floor": 137,
+      "public_nickname": "星之逍遥",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045190365#154045190365",
+      "created_at": "2026-10-18T15:39:04+08:00",
+      "quote": "确实有这个问题，我试了也发现了，希望可以修复",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "星之逍遥"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045579206",
+      "parent_pid": "154043129954",
+      "floor": 137,
+      "public_nickname": "重音teto乄初音未来",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045579206#154045579206",
+      "created_at": "2026-10-18T17:55:24+08:00",
+      "quote": "跟贴，求大佬回复这个问题。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "重音teto乄初音未来"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047244311",
+      "parent_pid": "154043129954",
+      "floor": 137,
+      "public_nickname": "hmzcyh1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047244311#154047244311",
+      "created_at": "2026-10-19T06:31:15+08:00",
+      "quote": "是要原版ROM还是已经发布的汉化ROM?tokimeki_memorial_pocket_sport是体育篇，tokimeki_memorial_pocket_culture是文艺篇，都在你发布的网盘里。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048193305",
+      "parent_pid": "154043129954",
+      "floor": 137,
+      "public_nickname": "hmzcyh1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048193305#154048193305",
+      "created_at": "2026-10-19T12:47:14+08:00",
+      "quote": "汉化ROM就在你发布的网盘gbc文件夹里，文艺体育文件夹你自己也已经分好了，还需要原日版ROM吗",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046690982",
+      "parent_pid": "0",
+      "floor": 158,
+      "public_nickname": "重音teto乄初音未来",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046690982#154046690982",
+      "created_at": "2026-10-18T23:47:32+08:00",
+      "quote": "大佬，心跳回忆文艺片偷看女生洗澡事件这里对话和选项都是日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "重音teto乄初音未来"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048786590",
+      "parent_pid": "0",
+      "floor": 168,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048786590#154048786590",
+      "created_at": "2026-10-19T16:06:18+08:00",
+      "quote": "楼主大佬，心跳回忆文艺篇/体育篇测试完一遍了。还发现几个小问题希望大佬能修正一下。\n1.体育篇/文艺篇，(图1)序章叙述时有两个明显错字，应该是敲击桌子的拟声词\"咚咚\"才对，显示\"笃笃\"。\n2.体育篇/文艺篇，(图2)主角加入社团后，每年8月发生的\"偷窥澡堂\"事件，全部都显示是日文。\n3.体育篇，(图3)\"帕特丽夏.M\"角色名字，在考试排名，电话本，好雄的情报栏，这些地方后缀字母\"M\"显示不全或者被遮挡。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "简单Matser"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154052614561",
+      "parent_pid": "0",
+      "floor": 179,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052614561#154052614561",
+      "created_at": "2026-10-20T18:09:12+08:00",
+      "quote": "楼主大佬，心跳回忆 文艺篇 又测了一遍(如截图)，还有一个小问题，每次\"成绩名单\"\"伊集院丽的尾字\"丽\"只显示日文，游戏里其他地方显示却正常。体育篇汉化版本就没有这样的情况。\n其他没有问题了，之前都列出来了，希望大佬尽快修正一下出新版本， 感谢大佬。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5aa2bade9c82d158b3d23cb6c60a19d8bd3e4294.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "简单Matser"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-f1fff43df66ca1c8",
+      "public_problem_key": "problem-6c4e274e6733b343",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "多位玩家称非主角姓名后原有引号或间隔符号框被去掉。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154043129954",
+        "11092365551|154044579110",
+        "11092365551|154045190365",
+        "11092365551|154045579206",
+        "11092365551|154047244311",
+        "11092365551|154048193305"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-733f46a2cb8a1c77",
+      "public_problem_key": "problem-6172579ccd76d65f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文化篇偷看洗澡事件对话/选项残留日文；公开照片可见日文选项。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046690982",
+        "11092365551|154048786590"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-0a940b33ee9327e7",
+      "public_problem_key": "problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "原话未给出；当前v0.1.0仅参考",
+      "reported_font": "原话未给出；当前原生混排仅参考",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052614561"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-6c4e274e6733b343",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "多位玩家称非主角姓名后原有引号或间隔符号框被去掉。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-f1fff43df66ca1c8"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154043129954",
+        "11092365551|154044579110",
+        "11092365551|154045190365",
+        "11092365551|154045579206",
+        "11092365551|154047244311",
+        "11092365551|154048193305"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-6172579ccd76d65f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文化篇偷看洗澡事件对话/选项残留日文；公开照片可见日文选项。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-733f46a2cb8a1c77"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154046690982",
+        "11092365551|154048786590"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-0a940b33ee9327e7"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154052614561"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

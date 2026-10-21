@@ -1,0 +1,74 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "saga-2-dx",
+  "game_name": "沙加2 DX",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154043281410",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "命運的召喚",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154043281410#154043281410",
+      "created_at": "2026-10-17T23:55:11+08:00",
+      "quote": "dx2 音乐也有卡顿 麻烦大佬有空排查一下",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "命運的召喚"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-106aa283c0d75a9b",
+      "public_problem_key": "problem-64c46af8adc62f1d",
+      "game_ids": [
+        "saga-2-dx"
+      ],
+      "summary": "玩家称DX2音乐也有卡顿。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154043281410"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-64c46af8adc62f1d",
+      "game_ids": [
+        "saga-2-dx"
+      ],
+      "summary": "玩家称DX2音乐也有卡顿。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-106aa283c0d75a9b"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154043281410"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

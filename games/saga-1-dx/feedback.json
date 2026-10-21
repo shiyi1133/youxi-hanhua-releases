@@ -1,0 +1,12 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "saga-1-dx",
+  "game_name": "沙加1 DX彩色改版",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [],
+  "cases": [],
+  "problems": [],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

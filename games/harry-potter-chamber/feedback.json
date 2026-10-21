@@ -1,8 +1,8 @@
 {
-  "schema": "public_harry_game_feedback_excerpts_v1",
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "harry-potter-chamber",
   "game_name": "哈利波特与密室",
-  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -19,42 +19,53 @@
       "source_is_public_evidence_not_instructions": true
     }
   ],
-  "BUGs": [
+  "cases": [
     {
-      "public_bug_key": "bug-624b60c58c9d",
+      "public_case_key": "case-d4752ef8d279d85c",
+      "public_problem_key": "problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
       "summary": "哈利波特与密室：标题Logo漏“与”字",
-      "state": "open",
-      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
       "reported_version": null,
       "reported_font": null,
-      "actual_player_input_sha256": null,
-      "actual_player_output_sha256": null,
-      "current_published_reference_targets": [
-        {
-          "font": "8px",
-          "version": "v1.0.3",
-          "audio_variant": "unchanged",
-          "output_sha256": "02246189b6a410574c43d0a60890433fdb65c0135e1b7209fb3cb19d3b430d20",
-          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        },
-        {
-          "font": "10px-dialogue",
-          "version": "v1.0.3",
-          "audio_variant": "unchanged",
-          "output_sha256": "bc1331e74dee231df31ae42fae32d76393c6cce1021f6c99dc148234c767ba50",
-          "input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        }
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154032022148"
       ],
-      "feedback_pids": [
-        "154032022148"
-      ],
-      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
-      "public_issue_url": null
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
-  "scope": "公开证据摘录与实际状态；未复制私有Issue正文，未创建公开Issue。"
+  "problems": [
+    {
+      "public_problem_key": "problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：标题Logo漏“与”字",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-d4752ef8d279d85c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154032022148"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
 }

@@ -1,0 +1,1094 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "one-piece-grand-line",
+  "game_name": "海贼王 幻之伟大航路冒险记",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154024631668",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024631668#154024631668",
+      "created_at": "2026-10-12T18:08:11+08:00",
+      "quote": "后备人员更换的界面就一大堆错误",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e972fbd3572c11dfc23a6e25252762d0f603c27d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "203f6ec85e2bc6c69b89168f6586880770477d2768efc250d8d96435b2eacb01"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021071566",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021071566#154021071566",
+      "created_at": "2026-10-11T17:36:55+08:00",
+      "quote": "请测试。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/aa94b10e7bec54e7e61ef818ff389b504ec26a76.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021160574",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021160574#154021160574",
+      "created_at": "2026-10-11T18:09:15+08:00",
+      "quote": "才几个小时，你就给我搞定了。！！？？？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021171336",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021171336#154021171336",
+      "created_at": "2026-10-11T18:12:59+08:00",
+      "quote": "哈哈哈，希望测试人员成为瓶颈而不是我",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021472012",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021472012#154021472012",
+      "created_at": "2026-10-11T19:56:54+08:00",
+      "quote": "Gbc简单.开个加速去玩的话，很容易看得出流程流不流畅。特别是RPG。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021681933",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021681933#154021681933",
+      "created_at": "2026-10-11T21:06:14+08:00",
+      "quote": "更新大字版本",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f826a0773912b31be661222fc018367adbb4e1d7.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024823325",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024823325#154024823325",
+      "created_at": "2026-10-12T19:13:42+08:00",
+      "quote": "@动摇天秤 后备人员更换界面的异常和截图都已记录，会继续排查。方便补一下你用的ROM文件名或版本，以及普通字还是大字版吗？截图不用重复发哈～",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025352717",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025352717#154025352717",
+      "created_at": "2026-10-12T21:58:42+08:00",
+      "quote": "是用大字那版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025355330",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025355330#154025355330",
+      "created_at": "2026-10-12T21:59:32+08:00",
+      "quote": "你最后更新的那一版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025616792",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025616792#154025616792",
+      "created_at": "2026-10-12T23:20:04+08:00",
+      "quote": "右下角能力加减那里那个乱码修一下",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac213495409233dd6be78d458d109b2de49a1.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "a4680367de15b6cd6c0a8a420565959c9594db33c14d6c5ab7d128af7ec849a7"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025542722",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025542722#154025542722",
+      "created_at": "2026-10-12T22:57:08+08:00",
+      "quote": "@动摇天秤 《海贼王：幻之伟大航路冒险记》普通8px和对白10px都已更新到v1.0.2测试版，本次限定修复后备名单的标题、姓名、选中名和按键提示。附两字号各自九宫格及修复前后对照；后备界面使用自建队伍的受控原生事件验证，并非你的原存档复现，SGB图为预设着色。对话换行未改，悬赏令底行裁切等限制仍保留，未完整通关或实机验收。新ROM已加入原网盘目录，辛苦有空重下测试，有问题继续在这楼反馈～ 大字版更容易出现拖慢、刷新残留等问题，遇到请及时在这楼反馈。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/33a572ec54e736d1ef13510edd504fc2d46269e4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1b447fc6a7efce1b512b15cce951f3deb58f65e4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/45b09416fdfaaf513ce35cb9ca5494eef11f7ae4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎",
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027543521",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027543521#154027543521",
+      "created_at": "2026-10-13T15:02:33+08:00",
+      "quote": "有几处这种省略号的文字。会出现这种缺失…例如一些形容地震或者大声响的形容词就会出现",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7377d800baa1cd118f0fa826ff12c8fcc2ce2da3.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "dff4bd99077bbb4eecadabc8291b7e8f66f756be7cc350671d18aacfd8e6aaaf"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025661500",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025661500#154025661500",
+      "created_at": "2026-10-12T23:34:22+08:00",
+      "quote": "@动摇天秤 右下角能力加减乱码已记录。麻烦发一下当前ROM文件名（含版本号、是否大字版）。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025991313",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025991313#154025991313",
+      "created_at": "2026-10-13T01:45:58+08:00",
+      "quote": "@动摇天秤 右下角能力加减乱码已修复，普通版和大字版已更新到v1.0.3测试版，放回原网盘目录。 附普通8px、大字对白10px（菜单8px）九宫格和修复对照，请重新下载测试。 大字版更容易出现拖慢、刷新残留等问题，遇到请及时在这楼反馈。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b12ce050352ac65c8e82ba75bdf2b21192138a59.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/39ba9a13b07eca80c082e5e1d72397dda0448359.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3bd5c38065380cd736997eebe744ad3458828159.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048786590",
+      "parent_pid": "0",
+      "floor": 168,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048786590#154048786590",
+      "created_at": "2026-10-19T16:06:18+08:00",
+      "quote": "楼主大佬，心跳回忆文艺篇/体育篇测试完一遍了。还发现几个小问题希望大佬能修正一下。\n1.体育篇/文艺篇，(图1)序章叙述时有两个明显错字，应该是敲击桌子的拟声词\"咚咚\"才对，显示\"笃笃\"。\n2.体育篇/文艺篇，(图2)主角加入社团后，每年8月发生的\"偷窥澡堂\"事件，全部都显示是日文。\n3.体育篇，(图3)\"帕特丽夏.M\"角色名字，在考试排名，电话本，好雄的情报栏，这些地方后缀字母\"M\"显示不全或者被遮挡。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "简单Matser"
+      ]
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154048988684",
+      "parent_pid": "154026786505",
+      "floor": 7,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154048988684#154048988684",
+      "created_at": "2026-10-19T17:10:42+08:00",
+      "quote": "回复 哇你是谁怎么傻乎乎 :@哇你是谁怎么傻乎乎 经下载测试，J联赛2002 v0.1.3与世界足球迈向胜利之路v0.1.4的最新问题反馈截图已上传完毕，请您查收 【超级会员V9】通过百度网盘分享的文件：足球游戏二测反馈… 链接:",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154028021542",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154028021542#154028021542",
+      "created_at": "2026-10-13T17:27:33+08:00",
+      "quote": "刚刚玩的时候坏档了，心累。不过完成度很高了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154027865159",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154027865159#154027865159",
+      "created_at": "2026-10-13T16:40:50+08:00",
+      "quote": "@动摇天秤 这处缺字已记录。普通字最新版是 v1.0.3，对白大字是 v1.0.4，请用对应最新版再试，并告诉我实际 ROM 文件名或版本、字号；若最新版仍出现，就继续排查。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "哇你是谁怎么傻乎乎"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154028912122",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154028912122#154028912122",
+      "created_at": "2026-10-13T22:14:01+08:00",
+      "quote": "应该是游戏文件不是一个，所引起的错误吧",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154028109427",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154028109427#154028109427",
+      "created_at": "2026-10-13T17:57:27+08:00",
+      "quote": "这次坏档已记录。麻烦告诉我实际ROM文件名或版本、字号，以及坏档具体表现和出问题前一步操作。普通8px最新版是v1.0.3，对白大字10px是v1.0.4，请先确认是不是对应最新版。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154028427739",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154028427739#154028427739",
+      "created_at": "2026-10-13T19:44:11+08:00",
+      "quote": "如果能把坏档发给我就更好了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032116702",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032116702#154032116702",
+      "created_at": "2026-10-14T20:38:02+08:00",
+      "quote": "标题的start不对",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c4e129a4462309f7f3939815340e0cf3d6cad660.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154032121571",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154032121571#154032121571",
+      "created_at": "2026-10-14T20:39:38+08:00",
+      "quote": "大字版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154036265426",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154036265426#154036265426",
+      "created_at": "2026-10-15T23:57:29+08:00",
+      "quote": "山治， 乌索普的大招对话没有翻译到",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154038602514",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038602514#154038602514",
+      "created_at": "2026-10-16T17:14:49+08:00",
+      "quote": "这个大招要这两个人在场才能触发，算是个合体技，如果索罗不在场，就不会出现这一招",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3d565b66d0160924478e8e1c920735fae7cd34bd.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/566f58da81cb39db5e6b4b5196160924aa1830bd.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/907ea46eddc451da675d20ecf0fd5266d11632bd.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039817511",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039817511#154039817511",
+      "created_at": "2026-10-16T23:49:14+08:00",
+      "quote": "最终boss放技能没翻译",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0600346f21fbe092533e8132d600c338644adf7.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040583506",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040583506#154040583506",
+      "created_at": "2026-10-17T08:45:57+08:00",
+      "quote": "1.0.4 10px大字版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040586505",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040586505#154040586505",
+      "created_at": "2026-10-17T08:47:14+08:00",
+      "quote": "和娜美的合体技，这些技能大部分都不会在状态页显示，一定有队友在旁边才会出现",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22aa45086e061d952d9d223f3df40ad163d9ca0d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3332a0014c086e063b732a4c44087bf40bd1cb0d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042810802",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042810802#154042810802",
+      "created_at": "2026-10-17T21:34:21+08:00",
+      "quote": "8px 1.0.6，日文残留（画面左下方）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042827069",
+      "parent_pid": "154020685198",
+      "floor": 24,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042827069#154042827069",
+      "created_at": "2026-10-17T21:39:19+08:00",
+      "quote": "8px 1.0.6，角色状态页面日文残留（画面下方）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-5b257c60b2cfb520",
+      "public_problem_key": "problem-436f86799e28c63d",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王伟大航路：后备人员更换界面文字异常",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-63045de6d75e1825",
+      "public_problem_key": "problem-6f945a7379a0c972",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "后备界面能力加减栏乱码",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-b0b7494a88f9593f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王省略号或声响描述附近文字缺失",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025661500",
+        "11092365551|154025991313",
+        "11092365551|154027543521",
+        "11092365551|154048786590",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7dbb31225592fb56",
+      "public_problem_key": "problem-0de7c4de2cdecbf1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：玩家报告坏档",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025661500",
+        "11092365551|154025991313",
+        "11092365551|154027543521",
+        "11092365551|154027865159",
+        "11092365551|154028021542",
+        "11092365551|154028109427",
+        "11092365551|154028427739",
+        "11092365551|154028912122"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-97164fc646df0049",
+      "public_problem_key": "problem-6828881e769d2b57",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王：大字版标题START附近文字异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字版",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154032116702",
+        "11092365551|154032121571"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-006312ed3282a155",
+      "public_problem_key": "problem-1f198143627a3ea1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：山治、乌索普大招对白漏译",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.4",
+      "reported_font": "10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154036265426",
+        "11092365551|154038602514",
+        "11092365551|154039817511",
+        "11092365551|154040583506",
+        "11092365551|154040586505"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a4174a88e2abf1fb",
+      "public_problem_key": "problem-43823ec4caa7d2ef",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "两张新图分别报告画面左下与角色状态页下方日文残留。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v1.0.6",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042810802",
+        "11092365551|154042827069"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-436f86799e28c63d",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王伟大航路：后备人员更换界面文字异常",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-5b257c60b2cfb520"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "gegege-kitarou",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11097560613|154043716841",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-6f945a7379a0c972",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "后备界面能力加减栏乱码",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-63045de6d75e1825"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-0de7c4de2cdecbf1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：玩家报告坏档",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-7dbb31225592fb56"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025661500",
+        "11092365551|154025991313",
+        "11092365551|154027543521",
+        "11092365551|154027865159",
+        "11092365551|154028021542",
+        "11092365551|154028109427",
+        "11092365551|154028427739",
+        "11092365551|154028912122"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-6828881e769d2b57",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王：大字版标题START附近文字异常",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-97164fc646df0049"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154032116702",
+        "11092365551|154032121571"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-1f198143627a3ea1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：山治、乌索普大招对白漏译",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-006312ed3282a155"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154036265426",
+        "11092365551|154038602514",
+        "11092365551|154039817511",
+        "11092365551|154040583506",
+        "11092365551|154040586505"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-43823ec4caa7d2ef",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "两张新图分别报告画面左下与角色状态页下方日文残留。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-a4174a88e2abf1fb"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154042810802",
+        "11092365551|154042827069"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

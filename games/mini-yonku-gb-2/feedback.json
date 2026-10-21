@@ -1,0 +1,442 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "mini-yonku-gb-2",
+  "game_name": "四驱兄弟：全明星对战",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154042170820",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042170820#154042170820",
+      "created_at": "2026-10-17T18:10:43+08:00",
+      "quote": "8px 0.1.0，显示标题画面前，播放短暂的开场cg后的这个转场显示异常，正式显示标题画面时恢复",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40b840540923dd54f425b56f9709b3de9d82488a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d7cb3da85edf8db155786e634f23dd54574e748a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042173337",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042173337#154042173337",
+      "created_at": "2026-10-17T18:11:38+08:00",
+      "quote": "8px 0.1.0，游戏一开始，选择哪一辆四驱车的时候，四驱车图片上方那一行文字显示异常",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/24fafadeb48f8c540781d7287c292df5e1fe7f96.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3f24855494eef01faf460ac2a6fe9925bd317d96.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042177461",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042177461#154042177461",
+      "created_at": "2026-10-17T18:13:02+08:00",
+      "quote": "8px 0.1.0，大地图移动角色至帐篷处，选择“成绩”，成绩页面显示的内容异常（看不懂的中文）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1a24a9ec08fa513d17e57ed97b6d55fbb3fbd991.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d3715e36e8efec8a136227cc91.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045268956",
+      "parent_pid": "154030119928",
+      "floor": 78,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045268956#154045268956",
+      "created_at": "2026-10-18T16:06:23+08:00",
+      "quote": "8px 1.0.1，标题画面的logo或者图片请优化，这样在原图片上直接挖空，写上中文名，中文名在图片中，但这几个汉字无底色，在观感上logo和图片未统一，有割裂感，可考虑保留原本的游戏名字和图片，在原logo和图片下方用小字写上中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045274541",
+      "parent_pid": "154030119928",
+      "floor": 78,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045274541#154045274541",
+      "created_at": "2026-10-18T16:08:18+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 如果不能接受保留原日文游戏名（大字），也可考虑直接把这个游戏的英文版的英文logo（带图片）挖过来，在原游戏名（大字）下方以小字写上中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045745920",
+      "parent_pid": "154030119928",
+      "floor": 78,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045745920#154045745920",
+      "created_at": "2026-10-18T18:52:40+08:00",
+      "quote": "8px 1.0.1，标题画面的logo和图片不要汉化（我看了，效果，特别是图片观感不太好），用小字在logo和logo图片下方写上中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045749051",
+      "parent_pid": "154030763418",
+      "floor": 80,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045749051#154045749051",
+      "created_at": "2026-10-18T18:53:44+08:00",
+      "quote": "8px 0.1.1，标题画面的logo和图片不要汉化（我看了，效果，特别是图片观感不太好），用小字在logo和logo图片下方写上中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045750753",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045750753#154045750753",
+      "created_at": "2026-10-18T18:54:18+08:00",
+      "quote": "8px 0.1.1，标题画面的logo和图片不要汉化（我看了，效果，特别是图片观感不太好），用小字在logo和logo图片下方写上中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047314465",
+      "parent_pid": "0",
+      "floor": 163,
+      "public_nickname": "折影的十字架",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047314465#154047314465",
+      "created_at": "2026-10-19T07:25:28+08:00",
+      "quote": "建议标题和push start不用进行汉化，这样开头画面会美观不少",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047556312",
+      "parent_pid": "154047314465",
+      "floor": 163,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047556312#154047556312",
+      "created_at": "2026-10-19T09:14:15+08:00",
+      "quote": "是的 有些汉化了能接受，有些欠佳",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048088976",
+      "parent_pid": "154047314465",
+      "floor": 163,
+      "public_nickname": "折影的十字架",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048088976#154048088976",
+      "created_at": "2026-10-19T12:12:14+08:00",
+      "quote": "比如gb上的沙加三部曲的开头画面的标题",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048162179",
+      "parent_pid": "154047314465",
+      "floor": 163,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048162179#154048162179",
+      "created_at": "2026-10-19T12:36:50+08:00",
+      "quote": "要具体看什么游戏，有些游戏标题画面汉化出来还行，而有些欠佳。欠佳的我建议保留原logo和logo图片，在下方加小字的中文游戏名",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048167425",
+      "parent_pid": "154047314465",
+      "floor": 163,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048167425#154048167425",
+      "created_at": "2026-10-19T12:38:35+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 标题画面汉化得还可以的我就不会提，我觉得欠佳的我会在专门楼层里面提出",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045345504",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045345504#154045345504",
+      "created_at": "2026-10-18T16:32:08+08:00",
+      "quote": "8px 0.1.1，存档界面，画面下方“游戏时间”后面的具体已游玩多少小时，似乎显示异常或乱码，请确认",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045381333",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045381333#154045381333",
+      "created_at": "2026-10-18T16:44:56+08:00",
+      "quote": "8px 0.1.1，文本框横线缺失，请修复",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-9056deb77ed5bdd1",
+      "public_problem_key": "problem-eea3443a4d24d33b",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042170820",
+        "11092365551|154042173337",
+        "11092365551|154042177461"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-8c997fc6e58f912e",
+      "public_problem_key": "problem-b8328f670d349620",
+      "game_ids": [
+        "mario-tennis-gb",
+        "mini-yonku-gb",
+        "mini-yonku-gb-2"
+      ],
+      "summary": "玩家建议三游戏保留原Logo及图像，把中文名另列下方；马网另提英文Logo候选。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "马网v1.0.1；四驱两作v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154045268956",
+        "11092365551|154045274541",
+        "11092365551|154045745920",
+        "11092365551|154045749051",
+        "11092365551|154045750753",
+        "11092365551|154047314465",
+        "11092365551|154047556312",
+        "11092365551|154048088976",
+        "11092365551|154048162179",
+        "11092365551|154048167425"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e6f4d68313124d8e",
+      "public_problem_key": "problem-1b19e8d4feeca2e4",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "新v0.1.1普通8px反馈存档页游戏时间字段异常与多场景边框缺线。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045345504",
+        "11092365551|154045381333"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-eea3443a4d24d33b",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-9056deb77ed5bdd1"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154042170820",
+        "11092365551|154042173337",
+        "11092365551|154042177461"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b8328f670d349620",
+      "game_ids": [
+        "mario-tennis-gb",
+        "mini-yonku-gb",
+        "mini-yonku-gb-2"
+      ],
+      "summary": "玩家建议三游戏保留原Logo及图像，把中文名另列下方；马网另提英文Logo候选。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-8c997fc6e58f912e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154045268956",
+        "11092365551|154045274541",
+        "11092365551|154045745920",
+        "11092365551|154045749051",
+        "11092365551|154045750753",
+        "11092365551|154047314465",
+        "11092365551|154047556312",
+        "11092365551|154048088976",
+        "11092365551|154048162179",
+        "11092365551|154048167425"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-1b19e8d4feeca2e4",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "新v0.1.1普通8px反馈存档页游戏时间字段异常与多场景边框缺线。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e6f4d68313124d8e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154045345504",
+        "11092365551|154045381333"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

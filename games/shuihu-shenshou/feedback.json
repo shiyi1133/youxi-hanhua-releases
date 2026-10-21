@@ -1,0 +1,222 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "shuihu-shenshou",
+  "game_name": "水浒神兽：简体非官方修复",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154021147424",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021147424#154021147424",
+      "created_at": "2026-10-11T18:04:32+08:00",
+      "quote": "不知道能不能解决BUG问题",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021151271",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021151271#154021151271",
+      "created_at": "2026-10-11T18:05:59+08:00",
+      "quote": "这种最好能给我一个未汉化版本，AI对比着修复。不过也可以试试。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021255167",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021255167#154021255167",
+      "created_at": "2026-10-11T18:42:19+08:00",
+      "quote": "广誉科技是台湾公司，全名广誉科技股份有限公司，专门做 GBC 掌机原创中文游戏。繁体中文版（台湾原版卡带），水浒神兽 (简)(广誉科技)(8Mb)：是当年厂商同步做的简体中文版本",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021854502",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021854502#154021854502",
+      "created_at": "2026-10-11T21:58:43+08:00",
+      "quote": "《水浒神兽》已落实三组修复：99 级封顶且满级不耗雪莲；赤精丹恢复技能次数时卡死、漏恢复第四技能；满背包购买仍扣钱并越界写入。 东京堵路、伏魔塔卡墙和后期乱码等还缺现场。请提供这份版本出问题前的游戏内 .sav 存档及进入步骤，我才能继续准确复现。已验证的修复会先打包给你。 能有问题存档么？没有的话AI慢慢修，会是一个很漫长的过程哈",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021890849",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021890849#154021890849",
+      "created_at": "2026-10-11T22:08:58+08:00",
+      "quote": "《水浒神兽》没有存档，这是不着急，慢慢让AI修复就行。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154033155756",
+      "parent_pid": "154020058027",
+      "floor": 21,
+      "public_nickname": "-",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154033155756#154033155756",
+      "created_at": "2026-10-15T04:05:48+08:00",
+      "quote": "讚 好呀 記得好像還有bug好呀抓寵物 滿30個不會自動換箱子 和以前老版口袋妖怪差不多",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154033158745",
+      "parent_pid": "154020058027",
+      "floor": 21,
+      "public_nickname": "-",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154033158745#154033158745",
+      "created_at": "2026-10-15T04:10:28+08:00",
+      "quote": "滿級封頂修復了沒傷害就很舒服 這個遊戲奇奇怪怪的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154036507002",
+      "parent_pid": "154020058027",
+      "floor": 21,
+      "public_nickname": "-",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154036507002#154036507002",
+      "created_at": "2026-10-16T01:30:16+08:00",
+      "quote": "就是正常使用的旧版本 新rom还没抓到30只",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154036777950",
+      "parent_pid": "154020058027",
+      "floor": 21,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154036777950#154036777950",
+      "created_at": "2026-10-16T06:19:29+08:00",
+      "quote": "是数据超标就没用了255还是多少来着",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-2ea26254b27e5ad1",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "限定修复外的BUG线索与复现资料",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021147424",
+        "11092365551|154021151271",
+        "11092365551|154021255167",
+        "11092365551|154021854502",
+        "11092365551|154021890849"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-26364a39ecd77fa4",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：满30不自动换箱和满级伤害疑问",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154033155756",
+        "11092365551|154033158745",
+        "11092365551|154036507002",
+        "11092365551|154036777950"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "限定修复外的BUG线索与复现资料；水浒神兽：满30不自动换箱和满级伤害疑问",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-26364a39ecd77fa4",
+        "case-2ea26254b27e5ad1"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021147424",
+        "11092365551|154021151271",
+        "11092365551|154021255167",
+        "11092365551|154021854502",
+        "11092365551|154021890849",
+        "11092365551|154033155756",
+        "11092365551|154033158745",
+        "11092365551|154036507002",
+        "11092365551|154036777950"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

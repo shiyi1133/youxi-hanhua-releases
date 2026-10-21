@@ -1,0 +1,262 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "beast-shooter-gba",
+  "game_name": "兽斗射手",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154028538204",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154028538204#154028538204",
+      "created_at": "2026-10-13T20:19:32+08:00",
+      "quote": "已经人肉通关，整体上没有什么翻译瑕疵，整个流程下来就发现一处还没翻译的日文，但是不影响，",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "洛克小龙人"
+      ]
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154023423215",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154023423215#154023423215",
+      "created_at": "2026-10-12T11:20:16+08:00",
+      "quote": "ROM我可以私发给你",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154023437944",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154023437944#154023437944",
+      "created_at": "2026-10-12T11:24:50+08:00",
+      "quote": "游戏长这样",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/46a8a0ec08fa513d13d1b9d87b6d55fbb2fbd961.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154023854009",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154023854009#154023854009",
+      "created_at": "2026-10-12T13:46:40+08:00",
+      "quote": "请测试。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/61273af33a87e95054e5276a56385343faf2b4ea.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154026372825",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154026372825#154026372825",
+      "created_at": "2026-10-13T08:06:47+08:00",
+      "quote": "好快啊",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154026934200",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154026934200#154026934200",
+      "created_at": "2026-10-13T11:28:58+08:00",
+      "quote": "你好，我看了你 gba 汉化的帖子界面，你具体是怎么处理汉化的，是先就让 ai 写出一个汉化工具，然后执行，还是单纯算力充足直接让 ai 自动汉化，感觉你汉化速度很快",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154026979193",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154026979193#154026979193",
+      "created_at": "2026-10-13T11:43:44+08:00",
+      "quote": "在本地组装了环境，包括： 1 mgba模拟器无头版。这个版本不输出画面，但是ai可以方便的通过读显存，内存，debug调试汉化结果。 2 RGDBS。GBA开发环境，用于解包打包。 3 像素字体。7/10/12三个规格。 4 python环境。用于批量处理数据。 然后就一句话，让它汉化就行了。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154027059016",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154027059016#154027059016",
+      "created_at": "2026-10-13T12:11:42+08:00",
+      "quote": "你的汉化速度为什么这么快，我自己其实已经把这个 游戏 ai 汉化了一部分，但是远远达不到你这种速度，我自己是用笔电 5060 跑的，要慢很多",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154027241488",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154027241488#154027241488",
+      "created_at": "2026-10-13T13:15:34+08:00",
+      "quote": "你是用本地大模型么，还是用的其它服务商的？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154027364771",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "洛克小龙人",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154027364771#154027364771",
+      "created_at": "2026-10-13T14:00:47+08:00",
+      "quote": "你用的是什么ai汉化的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154027406276",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154027406276#154027406276",
+      "created_at": "2026-10-13T14:15:23+08:00",
+      "quote": "workbuddy等各种……deepseek 4.1",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154028734450",
+      "parent_pid": "154023421350",
+      "floor": 3,
+      "public_nickname": "哇你是谁怎么傻乎乎",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154028734450#154028734450",
+      "created_at": "2026-10-13T21:21:08+08:00",
+      "quote": "你在这里回个帖，把那个截图贴上来， AI会自动读取，然后去修复，发个新版本。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-dc2bf11de594e25b",
+      "public_problem_key": "problem-c1caab448a174e0a",
+      "game_ids": [
+        "beast-shooter-gba"
+      ],
+      "summary": "兽斗射手：玩家通关后反馈一处残留日文，待定位",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154023423215",
+        "11097560613|154023437944",
+        "11097560613|154023854009",
+        "11097560613|154026372825",
+        "11097560613|154026934200",
+        "11097560613|154026979193",
+        "11097560613|154027059016",
+        "11097560613|154027241488",
+        "11097560613|154027364771",
+        "11097560613|154027406276",
+        "11097560613|154028538204",
+        "11097560613|154028734450"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-c1caab448a174e0a",
+      "game_ids": [
+        "beast-shooter-gba"
+      ],
+      "summary": "兽斗射手：玩家通关后反馈一处残留日文，待定位",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-dc2bf11de594e25b"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154023423215",
+        "11097560613|154023437944",
+        "11097560613|154023854009",
+        "11097560613|154026372825",
+        "11097560613|154026934200",
+        "11097560613|154026979193",
+        "11097560613|154027059016",
+        "11097560613|154027241488",
+        "11097560613|154027364771",
+        "11097560613|154027406276",
+        "11097560613|154028538204",
+        "11097560613|154028734450"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

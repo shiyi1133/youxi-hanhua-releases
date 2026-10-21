@@ -1,0 +1,93 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "formation-soccer-2002",
+  "game_name": "立体足球2002",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154038531815",
+      "parent_pid": "154025837580",
+      "floor": 4,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154038531815#154038531815",
+      "created_at": "2026-10-16T16:51:34+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 该楼层两个足球游戏已测试并上传bug反馈请您查收",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154038548575",
+      "parent_pid": "154025837580",
+      "floor": 4,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154038548575#154038548575",
+      "created_at": "2026-10-16T16:56:59+08:00",
+      "quote": "@哇你是谁怎么傻乎乎",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-06a6b4386f6c9666",
+      "public_problem_key": "problem-be939c6cdb2f2aeb",
+      "game_ids": [
+        "formation-soccer-2002"
+      ],
+      "summary": "[待复现] 立体足球2002 v0.1.0：菜单字形下沿缺损、颜色/文本框异常及部分日文残留",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.1.0（容器与游戏子目录文件名）",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154038531815",
+        "11097560613|154038548575"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-be939c6cdb2f2aeb",
+      "game_ids": [
+        "formation-soccer-2002"
+      ],
+      "summary": "[待复现] 立体足球2002 v0.1.0：菜单字形下沿缺损、颜色/文本框异常及部分日文残留",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-06a6b4386f6c9666"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154038531815",
+        "11097560613|154038548575"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

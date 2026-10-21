@@ -1,0 +1,679 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "kalos-crystal",
+  "game_name": "卡洛斯水晶",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11090183907",
+      "pid": "154041460639",
+      "parent_pid": "0",
+      "floor": 26,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154041460639#154041460639",
+      "created_at": "2026-10-17T14:08:37+08:00",
+      "quote": "才才刚开始就出现了，后面聊天后面还有什么abcd的英文出现出现快，消失也快",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40fbf80dfdaed64034f79f0199a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154041483315",
+      "parent_pid": "0",
+      "floor": 29,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154041483315#154041483315",
+      "created_at": "2026-10-17T14:16:28+08:00",
+      "quote": "这什么玩意？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042331941",
+      "parent_pid": "0",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042331941#154042331941",
+      "created_at": "2026-10-17T19:05:04+08:00",
+      "quote": "卡洛斯水晶查看宠物花屏，对战结束之后，出现这些东西，对战的时候，这精灵后面有字，在对战界面打开，是英文，开始的性别选择之后前两句就是英文，聊天最后都会显示什么abcd这样的，但是又会很快消失",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3bd5c38065380cd7f928bfeae744ad345982812a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f772841001e939015a3490393dec54e736d1962a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042574041",
+      "parent_pid": "154040887759",
+      "floor": 127,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042574041#154042574041",
+      "created_at": "2026-10-17T20:20:50+08:00",
+      "quote": "查看变乱码，对战结束都会出现这些字，在对战的时候，查看状态或者属性都是英文，会显示地址的地方经过都会卡顿一下",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d14347bff92435f082025baf0713.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3d565b66d016092476ecbf1c920735fae7cd3413.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b270bffd5266d016d5d0832fd12bd40734fa3513.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154043155088",
+      "parent_pid": "154040887759",
+      "floor": 127,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154043155088#154043155088",
+      "created_at": "2026-10-17T23:16:16+08:00",
+      "quote": "蛋没问题",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154043162183",
+      "parent_pid": "154040887759",
+      "floor": 127,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154043162183#154043162183",
+      "created_at": "2026-10-17T23:18:28+08:00",
+      "quote": "版本就那一个",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045341947",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045341947#154045341947",
+      "created_at": "2026-10-18T16:30:54+08:00",
+      "quote": "起名字还是英文，查看属性还是会这样",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045462108",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045462108#154045462108",
+      "created_at": "2026-10-18T17:13:19+08:00",
+      "quote": "还是会出现，不过并不是每一局都会出现",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045508059",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045508059#154045508059",
+      "created_at": "2026-10-18T17:30:00+08:00",
+      "quote": "不知道为什么，每一次遇到这一只，都会有一条黑色的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045748153",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045748153#154045748153",
+      "created_at": "2026-10-18T18:53:26+08:00",
+      "quote": "有时候有概率会出现这样一条",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047256388",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047256388#154047256388",
+      "created_at": "2026-10-19T06:42:27+08:00",
+      "quote": "点收音机第一句跳出来这玩意，打印技能打不出来",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047257980",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047257980#154047257980",
+      "created_at": "2026-10-19T06:43:55+08:00",
+      "quote": "请看这是什么精灵？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154041478869",
+      "parent_pid": "0",
+      "floor": 28,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154041478869#154041478869",
+      "created_at": "2026-10-17T14:14:55+08:00",
+      "quote": "卡洛斯水晶，会显示地址的时候比如刚出家门就会卡顿一下",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154041498146",
+      "parent_pid": "0",
+      "floor": 30,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154041498146#154041498146",
+      "created_at": "2026-10-17T14:21:23+08:00",
+      "quote": "卡洛斯水晶，嗯，怎么说呢？就跟这个第一个字一样。进入战斗跟退出战斗的时候，出门会显示地址的时候，跟大木博士聊天，都卡的一批",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154041505962",
+      "parent_pid": "154041478869",
+      "floor": 28,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154041505962#154041505962",
+      "created_at": "2026-10-17T14:24:03+08:00",
+      "quote": "另外，捡东西也是一样，老卡了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045348350",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045348350#154045348350",
+      "created_at": "2026-10-18T16:33:09+08:00",
+      "quote": "过门或者显示地址的地方，经过都会卡顿一下，有时候会瞬间出现一下乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045410725",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045410725#154045410725",
+      "created_at": "2026-10-18T16:54:44+08:00",
+      "quote": "又发现了一个比较严重的问题，没拿到图鉴之前，不能进化，进化就卡死",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046916892",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046916892#154046916892",
+      "created_at": "2026-10-19T01:08:23+08:00",
+      "quote": "御三家等级进化，没拿图鉴的情况下进化会卡死",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046917205",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046917205#154046917205",
+      "created_at": "2026-10-19T01:08:32+08:00",
+      "quote": "就是0.1.3",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154053012418",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154053012418#154053012418",
+      "created_at": "2026-10-20T20:19:50+08:00",
+      "quote": "对了，忘了说了，游戏厅里面兑换",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539990e68c47c87e950352ab035.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154053041935",
+      "parent_pid": "154042331941",
+      "floor": 134,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154053041935#154053041935",
+      "created_at": "2026-10-20T20:29:22+08:00",
+      "quote": "龙穴里面的问题",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5e2c447f970d3d539b700bcd5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "fgjxchtd"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-eaf53b75946aeea2",
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154043155088",
+        "11092365551|154043162183",
+        "11092365551|154045341947",
+        "11092365551|154045462108",
+        "11092365551|154045508059",
+        "11092365551|154045748153",
+        "11092365551|154047256388",
+        "11092365551|154047257980"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7831b22987e25ae8",
+      "public_problem_key": "problem-581944442a9bd2d1",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041478869",
+        "11090183907|154041498146",
+        "11090183907|154041505962",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154045348350"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-170de8c1bd891587",
+      "public_problem_key": "problem-b2eda94afd468b96",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-67396a3c029f8bd9",
+      "public_problem_key": "problem-f7a2ebfcc8625c94",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "此前照片v0.1.1，后续是否更换未证",
+      "reported_font": "此前照片普通8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045410725",
+        "11092365551|154046916892",
+        "11092365551|154046917205"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-029fdff12a7837d9",
+      "public_problem_key": "problem-a01516d2ecd1837a",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "同一原楼先前PID154046917205明确v0.1.3；新图未附ROM哈希",
+      "reported_font": "8px（当前发布参考）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154053012418",
+        "11092365551|154053041935"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-eaf53b75946aeea2"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154043155088",
+        "11092365551|154043162183",
+        "11092365551|154045341947",
+        "11092365551|154045462108",
+        "11092365551|154045508059",
+        "11092365551|154045748153",
+        "11092365551|154047256388",
+        "11092365551|154047257980"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-581944442a9bd2d1",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-7831b22987e25ae8"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154041478869",
+        "11090183907|154041498146",
+        "11090183907|154041505962",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154045348350"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b2eda94afd468b96",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-170de8c1bd891587"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f7a2ebfcc8625c94",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-67396a3c029f8bd9"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154045410725",
+        "11092365551|154046916892",
+        "11092365551|154046917205"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-a01516d2ecd1837a",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-029fdff12a7837d9"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154053012418",
+        "11092365551|154053041935"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

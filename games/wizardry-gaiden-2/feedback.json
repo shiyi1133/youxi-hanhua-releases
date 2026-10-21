@@ -1,0 +1,186 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-gaiden-2",
+  "game_name": "巫术外传Ⅱ古代皇帝的诅咒",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038570803",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038570803#154038570803",
+      "created_at": "2026-10-16T17:04:13+08:00",
+      "quote": "王宫的第一页信息没翻译，我方角色的魔法名称未翻译，在迷宫里玩了一段时间后，查看我方队伍列表就乱码了……",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8351583d269759ee7c1f4cccf4fb43166c22df91.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/13897b0e0cf3d7ca34b91371b41fbe096a63a991.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e0cb05338744ebf8433e48389ff9d72a6159a791.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bf300a3b5bb5c9ea70bc2fe49339b6003bf3b391.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040023394",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040023394#154040023394",
+      "created_at": "2026-10-17T00:59:53+08:00",
+      "quote": "抱歉，是外传2 重新写一次rom名称：Wizardry_Gaiden_II_v0.1.0_8px",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039603373",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039603373#154039603373",
+      "created_at": "2026-10-16T22:43:19+08:00",
+      "quote": "ROM名称：Wizardry_Gaiden_III_v0.1.0_8px 后缀名是.gb （rom名称后面跟着后缀名就自动识别成网络链接了） 花屏触发时机是在迷宫里结束一场战斗之后，查看队伍，查看角色。此时界面就花屏了。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044985369",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044985369#154044985369",
+      "created_at": "2026-10-18T14:25:12+08:00",
+      "quote": "经测试，巫术外传2，版本0.1.1 字体8px，仍有如下花屏。 图1是在城内，进入或退出小建筑时，会有一帧花屏。 图2是进入迷宫后立即转身，会收到是否退出迷宫冒险的提示，关闭该提示时，画面会有文字残留花屏。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-7fb1bf5bc683fc7a",
+      "public_problem_key": "problem-43c9f2abd9a24515",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅱ古代皇帝的诅咒：王宫第一页和魔法名称日文，迷宫一段时间后队伍列表乱码",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038570803",
+        "11092365551|154039603373",
+        "11092365551|154040023394"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-822b7cc4813e908c",
+      "public_problem_key": "problem-8f9477ec2d041015",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "玩家给两图，城镇进入或退出小建筑时一帧花屏；进迷宫立即转身，关闭是否退出冒险提示后残留文字。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154044985369"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-43c9f2abd9a24515",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅱ古代皇帝的诅咒：王宫第一页和魔法名称日文，迷宫一段时间后队伍列表乱码",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-7fb1bf5bc683fc7a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038570803",
+        "11092365551|154039603373",
+        "11092365551|154040023394"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-8f9477ec2d041015",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "玩家给两图，城镇进入或退出小建筑时一帧花屏；进迷宫立即转身，关闭是否退出冒险提示后残留文字。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-822b7cc4813e908c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154044985369"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

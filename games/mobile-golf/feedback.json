@@ -1,0 +1,195 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "mobile-golf",
+  "game_name": "迷你高尔夫 Mobile Golf",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154052200189",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052200189#154052200189",
+      "created_at": "2026-10-20T15:47:49+08:00",
+      "quote": "还没开始玩，开头动画里日文未翻译，慢慢测。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b12ce050352ac65c29861d74bdf2b21192138a65.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5e92bf003af33a87dfee7b1d805c10385243b565.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4df719385343fbf28eafdd24f67eca8064388f65.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "凌凌风"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154052265798",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052265798#154052265798",
+      "created_at": "2026-10-20T16:10:22+08:00",
+      "quote": "图一是否的日文未翻译。 图二点选假名后，切换很慢，等很久才会到图三。 图三里很多问号",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/07ff9deef01f3a2943f0afc9df25bc315c607c2c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3f24855494eef01f572c62c2a6fe9925bc317d2c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1f45f91f3a292df58ffbd612fa315c6034a8732c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "凌凌风"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154052270205",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052270205#154052270205",
+      "created_at": "2026-10-20T16:11:56+08:00",
+      "quote": "都是选择项看不懂",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcb104abd28f8096b63f624a82b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c4e129a4462309f7845ed715340e0cf3d7cad62b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f790528d2e3d394af3d7ca7bcbd52b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "凌凌风"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154052274586",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052274586#154052274586",
+      "created_at": "2026-10-20T16:13:30+08:00",
+      "quote": "图一，赛后成绩里有名字重复。 图二，按方向右键能进入积分卡。 图三，积分卡里日文未翻译。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/825c99529822720e1be398fd3dcb0a46f21fab37.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/cd8800f790529822641e43c491ca7bcb0a46d437.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f790528d323d394af3d7ca7bcbd537.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "凌凌风"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-cf2e1d8154ce729f",
+      "public_problem_key": "problem-82d1672ef70c32b0",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "同一152楼反馈合并：开场图片日文、是非/取名/出生年等选项未读懂或未译、假名页切换慢和大量问号、成绩姓名重复/异常、积分卡日文。按原图和原话分症状记录，根因尚未确认。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "原话未给出；当前同楼v0.1.0仅核对参考",
+      "reported_font": "原话未给出；当前普通8px仅参考",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052200189",
+        "11092365551|154052265798",
+        "11092365551|154052270205",
+        "11092365551|154052274586"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-82d1672ef70c32b0",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "同一152楼反馈合并：开场图片日文、是非/取名/出生年等选项未读懂或未译、假名页切换慢和大量问号、成绩姓名重复/异常、积分卡日文。按原图和原话分症状记录，根因尚未确认。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-cf2e1d8154ce729f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154052200189",
+        "11092365551|154052265798",
+        "11092365551|154052270205",
+        "11092365551|154052274586"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

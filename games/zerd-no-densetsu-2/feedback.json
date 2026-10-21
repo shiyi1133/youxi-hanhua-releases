@@ -1,0 +1,85 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "zerd-no-densetsu-2",
+  "game_name": "扎德传说2：伪神的领域",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154052186570",
+      "parent_pid": "154039767394",
+      "floor": 106,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052186570#154052186570",
+      "created_at": "2026-10-20T15:43:01+08:00",
+      "quote": "经测试、扎德传说2的版本v0.1.1，字体8px，有两处未翻译。 图1是在角色行走途中，下方滚动播放的字幕未翻译。 图2是在大地图上选择到达不了的远处时，句尾会出现几个日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/286775d98d1001e96dad6f08fe0e7bec55e7974b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c469dc628535e5dd86bdded830c6a7efcf1b624b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-e34580633d6185f4",
+      "public_problem_key": "problem-cbe113ecc76fc175",
+      "game_ids": [
+        "zerd-no-densetsu-2"
+      ],
+      "summary": "同一原反馈两处消费者：行走时下方滚动字幕日文；大地图选择远处目标时中文末尾仍有日文。合并一条漏译问题。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052186570"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-cbe113ecc76fc175",
+      "game_ids": [
+        "zerd-no-densetsu-2"
+      ],
+      "summary": "同一原反馈两处消费者：行走时下方滚动字幕日文；大地图选择远处目标时中文末尾仍有日文。合并一条漏译问题。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e34580633d6185f4"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154052186570"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -1,0 +1,459 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "oni-v",
+  "game_name": "ONIⅤ隐忍继承者",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154037804249",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "willzyjno1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154037804249#154037804249",
+      "created_at": "2026-10-16T12:54:42+08:00",
+      "quote": "ONIⅤ角色起名时的默认名未汉化，文字显示拖慢严重。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154041567549",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "willzyjno1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154041567549#154041567549",
+      "created_at": "2026-10-17T14:45:58+08:00",
+      "quote": "Ⅲ是0.1.0版，Ⅳ和Ⅴ是0.1.1版，Ⅴ整个游戏都拖慢无论哪个画面。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "willzyjno1"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046712396",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046712396#154046712396",
+      "created_at": "2026-10-18T23:54:09+08:00",
+      "quote": "另外ONI5主角名字可以修正为默认 琥金丸 吗？谢谢",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047624012",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047624012#154047624012",
+      "created_at": "2026-10-19T09:37:58+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 第一次出现的村子中NPC日文残留和第一次变身的三日月山日文残留，都是ONI5，oni-v-v0.1.2-8px，琥金丸默认主角名能修正吗？烧录器故障可以不用修复，原版就是这样，准确说不算bug，不用特意修改，防止出现莫名bug。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "Duyes"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044934292",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "加勒比瘦子",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044934292#154044934292",
+      "created_at": "2026-10-18T14:07:41+08:00",
+      "quote": "开场后的村子中间有一个npc的对话第2句显示日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "加勒比瘦子"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046686417",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046686417#154046686417",
+      "created_at": "2026-10-18T23:46:10+08:00",
+      "quote": "换了一个开源机，字体可以大概看清了，实体机悲剧。开局出了村子里有对话是日文，进第一次变身的三日月山对话，依旧有不少日文bug",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045210375",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045210375#154045210375",
+      "created_at": "2026-10-18T15:46:17+08:00",
+      "quote": "非常感谢楼主的汉化，这是一部非常棒的游戏，再次感谢楼主！只是这个游戏有没有可能改大一些字体？这个字体有些字真的很难猜是什么字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "Duyes"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045323344",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045323344#154045323344",
+      "created_at": "2026-10-18T16:24:33+08:00",
+      "quote": "抱歉，烧录这块更正一下，MBC5烧录卡阵亡，MBC1烧录卡需要调整到512KBFLASH+32KBSRAM模式可以正常烧录，进入游戏正常！期待大字版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "Duyes"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154051623166",
+      "parent_pid": "0",
+      "floor": 173,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154051623166#154051623166",
+      "created_at": "2026-10-20T12:27:47+08:00",
+      "quote": "可否 gb 汉化伍佑衛門系列 oni 3同 4可否大字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054924756",
+      "parent_pid": "0",
+      "floor": 186,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054924756#154054924756",
+      "created_at": "2026-10-21T11:20:37+08:00",
+      "quote": "必須 12x12啊",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054402224",
+      "parent_pid": "154021596895",
+      "floor": 31,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054402224#154054402224",
+      "created_at": "2026-10-21T08:20:40+08:00",
+      "quote": "可否分享 12x12字 oni3同 4",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054423977",
+      "parent_pid": "154051623166",
+      "floor": 173,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054423977#154054423977",
+      "created_at": "2026-10-21T08:29:23+08:00",
+      "quote": "全 game boy 系列",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054425752",
+      "parent_pid": "154051623166",
+      "floor": 173,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054425752#154054425752",
+      "created_at": "2026-10-21T08:30:05+08:00",
+      "quote": "你仲未搞oni5代，求繁體大字版",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047775579",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "感觉大师",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047775579#154047775579",
+      "created_at": "2026-10-19T10:29:38+08:00",
+      "quote": "oni5代 主角特技无法使用，而且法术界面画面卡顿闪烁",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "感觉大师"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048525313",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "感觉大师",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048525313#154048525313",
+      "created_at": "2026-10-19T14:42:18+08:00",
+      "quote": "测试了好久，那个特技是被动的，触发几率很低，但是还是可以触发的，就是主角的第一个特技；全力之剑，如果是系统就是这个设定那就不是问题。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154050151293",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "感觉大师",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154050151293#154050151293",
+      "created_at": "2026-10-19T23:31:43+08:00",
+      "quote": "oni-v-v0.1.2-8px 选择使用法术时候画面卡顿闪烁",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-a5428d8bbefa90bb",
+      "public_problem_key": "problem-8ac01031a1a8ba87",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "[待复现／版本待确认] ONIⅤ：起名默认名未汉化、文字显示严重拖慢",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.1",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154037804249",
+        "11092365551|154041567549",
+        "11092365551|154046712396",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-09b1953481460e03",
+      "public_problem_key": "problem-bd13b3df0460bdd0",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家在三部曲共用楼报告开场后村子中间NPC第二句日文。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154044934292",
+        "11092365551|154046686417",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-62e37a6faaa19bdd",
+      "public_problem_key": "problem-b66aac992e978b24",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家希望字体放大，认为部分现有字难以辨认。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154045210375",
+        "11092365551|154045323344",
+        "11092365551|154051623166",
+        "11092365551|154054402224",
+        "11092365551|154054423977",
+        "11092365551|154054425752",
+        "11092365551|154054924756"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e2a3e28780834303",
+      "public_problem_key": "problem-f1ff07e2f57bb37f",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "另一玩家称ONI5主角特技无法使用、法术界面卡顿闪烁。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154047775579",
+        "11092365551|154048525313",
+        "11092365551|154050151293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-8ac01031a1a8ba87",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "[待复现／版本待确认] ONIⅤ：起名默认名未汉化、文字显示严重拖慢",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-a5428d8bbefa90bb"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154037804249",
+        "11092365551|154041567549",
+        "11092365551|154046712396",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-bd13b3df0460bdd0",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家在三部曲共用楼报告开场后村子中间NPC第二句日文。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-09b1953481460e03"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154044934292",
+        "11092365551|154046686417",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b66aac992e978b24",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家希望字体放大，认为部分现有字难以辨认。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-62e37a6faaa19bdd"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154045210375",
+        "11092365551|154045323344",
+        "11092365551|154051623166",
+        "11092365551|154054402224",
+        "11092365551|154054423977",
+        "11092365551|154054425752",
+        "11092365551|154054924756"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f1ff07e2f57bb37f",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "另一玩家称ONI5主角特技无法使用、法术界面卡顿闪烁。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e2a3e28780834303"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154047775579",
+        "11092365551|154048525313",
+        "11092365551|154050151293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

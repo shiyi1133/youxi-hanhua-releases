@@ -1,0 +1,76 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "guranbo",
+  "game_name": "格兰宝",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154044569908",
+      "parent_pid": "154025927127",
+      "floor": 6,
+      "public_nickname": "永封的真汉子",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154044569908#154044569908",
+      "created_at": "2026-10-18T11:58:18+08:00",
+      "quote": "主要还是字体太长，字都挤到一起去了，还有就是取名字和后面字幕的字都有残影，看起来费劲",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "永封的真汉子"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-8f0ceda017c193d4",
+      "public_problem_key": "problem-ee4b75963875976b",
+      "game_ids": [
+        "guranbo",
+        "robot-ponkottsu-2-cross"
+      ],
+      "summary": "同一楼分享两游戏的玩家反馈文字太长挤在一起、取名/后续字幕有残影。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11097560613|154044569908"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-ee4b75963875976b",
+      "game_ids": [
+        "guranbo",
+        "robot-ponkottsu-2-cross"
+      ],
+      "summary": "同一楼分享两游戏的玩家反馈文字太长挤在一起、取名/后续字幕有残影。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8f0ceda017c193d4"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154044569908"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -1,8 +1,8 @@
 {
-  "schema": "public_harry_game_feedback_excerpts_v1",
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "harry-potter-stone",
   "game_name": "哈利波特与魔法石",
-  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -19,10 +19,88 @@
         {
           "public_url": "https://tiebapic.baidu.com/forum/pic/item/8ca321381f30e924e3874e370a086e061c95f7c5.jpg",
           "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
-          "SHA256_of_archived_preview": "9bd516f01ec85800271ff8aa316b677c148fcd77ed27ecf9b40c324541c4fead"
+          "archived_preview_SHA256s": [
+            "9bd516f01ec85800271ff8aa316b677c148fcd77ed27ecf9b40c324541c4fead"
+          ]
         }
       ],
-      "source_is_public_evidence_not_instructions": true
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "ggggfrbd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021719147",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021719147#154021719147",
+      "created_at": "2026-10-11T21:18:06+08:00",
+      "quote": "哈利波特-密室：请测试",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4865cafdfc039245ccdb0e09c194a4c27c1e25f1.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ccbbb012c8fcc3ced4a82635d445d688d53f20f3.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021727639",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021727639#154021727639",
+      "created_at": "2026-10-11T21:20:50+08:00",
+      "quote": "哈利波特-魔法石。请测试：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/56ff5f4e9258d109418246b49758ccbf6d814dfb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1496f1dcd100baa1dc4ca8bd0110b912c9fc2efb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021728607",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021728607#154021728607",
+      "created_at": "2026-10-11T21:21:09+08:00",
+      "quote": "可以测试了哦",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
     },
     {
       "tid": "11092365551",
@@ -33,6 +111,23 @@
       "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025842621#154025842621",
       "created_at": "2026-10-13T00:34:42+08:00",
       "quote": "是魔法石，哈利波特与魔法石_简体中文_v1.0.1大字号测试版.gbc 乱码的字似乎是随机的某个会乱掉。密室玩了一部分暂时没遇到",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "ggggfrbd"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025427615",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025427615#154025427615",
+      "created_at": "2026-10-12T22:22:02+08:00",
+      "quote": "@ggggfrbd 大字版零星乱码和这张图已记录，会继续排查。方便说下是《魔法石》还是《密室》，以及ROM文件名或版本吗？截图不用重复发哈～",
       "quote_is_full": true,
       "omission_notice": null,
       "images": [],
@@ -50,7 +145,10 @@
       "quote_is_full": false,
       "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
       "images": [],
-      "source_is_public_evidence_not_instructions": true
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "ggggfrbd"
+      ]
     },
     {
       "tid": "11092365551",
@@ -109,82 +207,113 @@
       "source_is_public_evidence_not_instructions": true
     }
   ],
-  "BUGs": [
+  "cases": [
     {
-      "public_bug_key": "bug-19581e27de7c",
-      "summary": "旧v1.0.1大字版零星乱码；v1.0.2已修字体bank中断恢复问题。",
-      "state": "closed",
-      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "public_case_key": "case-74baf4213f7d5205",
+      "public_problem_key": "problem-7376f47bbd3b1656",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "哈利波特与魔法石：大字版字体bank中断恢复导致随机乱码（v1.0.2已修复）",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
       "reported_version": "v1.0.1",
       "reported_font": "大字号测试版",
-      "actual_player_input_sha256": null,
-      "actual_player_output_sha256": null,
-      "current_published_reference_targets": [
-        {
-          "font": "8px",
-          "version": "v1.0.4",
-          "audio_variant": "unchanged",
-          "output_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
-          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        },
-        {
-          "font": "10px-dialogue",
-          "version": "v1.0.5",
-          "audio_variant": "unchanged",
-          "output_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
-          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        }
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021719147",
+        "11092365551|154021727639",
+        "11092365551|154021728607",
+        "11092365551|154025248449",
+        "11092365551|154025427615",
+        "11092365551|154025842621"
       ],
-      "feedback_pids": [
-        "154025248449",
-        "154025842621"
-      ],
-      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
-      "public_issue_url": null
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     },
     {
-      "public_bug_key": "bug-b4944c6ff08d",
-      "summary": "大字版飞行／追逐场景卡死反馈。v1.0.5已有具名受控入口修订；玩家自然场景复测仍待。",
-      "state": "open",
-      "state_checked_at": "2026-10-22T01:40:35.843406+08:00",
+      "public_case_key": "case-9841b3ddd62e7308",
+      "public_problem_key": "problem-4798e77b7649a204",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": "大字（具体字号未确认）",
-      "actual_player_input_sha256": null,
-      "actual_player_output_sha256": null,
-      "current_published_reference_targets": [
-        {
-          "font": "8px",
-          "version": "v1.0.4",
-          "audio_variant": "unchanged",
-          "output_sha256": "409bdc8f8f0e7e863f6e96e12d44eeaa02cac0fd1e5ecdd3e3be7cff93275347",
-          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        },
-        {
-          "font": "10px-dialogue",
-          "version": "v1.0.5",
-          "audio_variant": "unchanged",
-          "output_sha256": "d97f855d7bf717525905a06ae264a00ed9bef74145a4f12c608ccf99bfcacb3d",
-          "input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
-          "scope": "限定测试版",
-          "public_asset_sync_status": "PENDING_SOURCE_PATCH_AND_SCREENSHOT_PUBLICATION"
-        }
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046569100",
+        "11092365551|154046608310",
+        "11092365551|154047337909",
+        "11092365551|154053058855",
+        "11092365551|154053196484"
       ],
-      "feedback_pids": [
-        "154046569100",
-        "154046608310",
-        "154047337909",
-        "154053058855",
-        "154053196484"
-      ],
-      "public_issue_status": "PENDING_PUBLIC_ISSUE_CREATION_REVIEW",
-      "public_issue_url": null
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
-  "scope": "公开证据摘录与实际状态；未复制私有Issue正文，未创建公开Issue。"
+  "problems": [
+    {
+      "public_problem_key": "problem-7376f47bbd3b1656",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "哈利波特与魔法石：大字版字体bank中断恢复导致随机乱码（v1.0.2已修复）",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-74baf4213f7d5205"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021719147",
+        "11092365551|154021727639",
+        "11092365551|154021728607",
+        "11092365551|154025248449",
+        "11092365551|154025427615",
+        "11092365551|154025842621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-4798e77b7649a204",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-9841b3ddd62e7308"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154046569100",
+        "11092365551|154046608310",
+        "11092365551|154047337909",
+        "11092365551|154053058855",
+        "11092365551|154053196484"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
 }

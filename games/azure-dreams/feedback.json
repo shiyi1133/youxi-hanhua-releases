@@ -1,0 +1,413 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "azure-dreams",
+  "game_name": "魔物之塔",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11090183907",
+      "pid": "154023908493",
+      "parent_pid": "0",
+      "floor": 13,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154023908493#154023908493",
+      "created_at": "2026-10-12T14:05:55+08:00",
+      "quote": "牛逼大佬，圆了我小时候的梦想，翻译完以前很多看不懂的道具又有了用武之地，就是还有些字改完10px还是看不太清，不知道是不是字体的问题，不过对我来说无伤大雅，能看懂，我已经玩过十几遍了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "醒着做梦ლ"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154024436826",
+      "parent_pid": "154023908493",
+      "floor": 13,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154024436826#154024436826",
+      "created_at": "2026-10-12T17:01:58+08:00",
+      "quote": "目前发现一处未成功汉化(家里使魔宿舍)，还有被动出现文字错乱的问题",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "醒着做梦ლ"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154025080914",
+      "parent_pid": "154023908493",
+      "floor": 13,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154025080914#154025080914",
+      "created_at": "2026-10-12T20:33:52+08:00",
+      "quote": "你传的这个版本：魔物之塔_简体中文_v1.0.6_10px",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "醒着做梦ლ"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154024697285",
+      "parent_pid": "154023908493",
+      "floor": 13,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154024697285#154024697285",
+      "created_at": "2026-10-12T18:30:13+08:00",
+      "quote": "使魔宿舍那处漏译、被动／特殊能力说明文字错乱，两项都已记录，会继续排查。你发的截图已保留，不用重复发哈～方便补一下你现在用的ROM文件名或版本号吗？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154028016548",
+      "parent_pid": "0",
+      "floor": 17,
+      "public_nickname": "多喝开水",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154028016548#154028016548",
+      "created_at": "2026-10-13T17:25:58+08:00",
+      "quote": "我打完30层之后 重新上了30层 对完话之后 没办法去31层啊 啥情况？是版本不对吗？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154029428597",
+      "parent_pid": "0",
+      "floor": 18,
+      "public_nickname": "willzyjno1",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154029428597#154029428597",
+      "created_at": "2026-10-14T00:57:49+08:00",
+      "quote": "感谢汉化~\n试了下，发现大字体文字末尾的句号不显示成“。”，而是显示成一个很小的点“.”。\n小字体主角使用默认名后，在对话中却显示成了一个日文乱码。\n这两个问题都是对应字体版本里独有的。\n另外10px字体观感比8px好挺多，如果可以的话，建议尽量还是更新完善大字体版。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "willzyjno1"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154029527215",
+      "parent_pid": "154023908493",
+      "floor": 13,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154029527215#154029527215",
+      "created_at": "2026-10-14T01:50:17+08:00",
+      "quote": "108 10px版本对话中文名字会显示成其他的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1ed1cbf8c25dd5ad6edcc43876.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "醒着做梦ლ"
+      ]
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154035579859",
+      "parent_pid": "154026964342",
+      "floor": 16,
+      "public_nickname": "多喝开水",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154035579859#154035579859",
+      "created_at": "2026-10-15T20:25:59+08:00",
+      "quote": "为什么去不了第31层啊 打完BOSS 重新上去之后 古代人说完话之后 到达30层 然后回家再进塔没反应",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154035651381",
+      "parent_pid": "154026964342",
+      "floor": 16,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154035651381#154035651381",
+      "created_at": "2026-10-15T20:49:34+08:00",
+      "quote": "打完30层之后主宠会回到家里的使魔宿舍，要重新取出来带进塔里面，然后再次爬到30层走到尽头有个十字型的法阵，让主宠走到法阵的中间就能触发剧情",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11090183907",
+      "pid": "154035655189",
+      "parent_pid": "154026964342",
+      "floor": 16,
+      "public_nickname": "多喝开水",
+      "public_url": "https://tieba.baidu.com/p/11090183907?pid=154035655189#154035655189",
+      "created_at": "2026-10-15T20:50:48+08:00",
+      "quote": "我再试试",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-40c05d9530a6edde",
+      "public_problem_key": "problem-1474a39680589ead",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：使魔宿舍文字漏译",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.6",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1efd275e90282c3a",
+      "public_problem_key": "problem-2c546a885f517aa3",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：被动/特殊能力说明文字错乱",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.6",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-2390a5211deee6eb",
+      "public_problem_key": "problem-85b287afae70905d",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待确认版本与剧情条件] 魔物之塔：30层对话后无法到31层",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154028016548"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1f4a1a2a278a74de",
+      "public_problem_key": "problem-45c6c9416c578449",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待核版本] 魔物之塔：10px句号显示细点、8px默认主角名在对白中显示日文乱码",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154029428597"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-fe3f9e8b10d51339",
+      "public_problem_key": "problem-45c6c9416c578449",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "魔物之塔：10px v1.0.8主角姓名显示待核（默认／自定义待确认）；另有8px默认名乱码与10px句号反馈",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "108",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154029527215"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-bdec418bac68e1f6",
+      "public_problem_key": "problem-85b287afae70905d",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "魔物之塔：31层入口追加报告及玩家互助步骤",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154035579859",
+        "11090183907|154035651381",
+        "11090183907|154035655189"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-1474a39680589ead",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：使魔宿舍文字漏译",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-40c05d9530a6edde"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-2c546a885f517aa3",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：被动/特殊能力说明文字错乱",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1efd275e90282c3a"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-85b287afae70905d",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待确认版本与剧情条件] 魔物之塔：30层对话后无法到31层；魔物之塔：31层入口追加报告及玩家互助步骤",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-2390a5211deee6eb",
+        "case-bdec418bac68e1f6"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154028016548",
+        "11090183907|154035579859",
+        "11090183907|154035651381",
+        "11090183907|154035655189"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-45c6c9416c578449",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待核版本] 魔物之塔：10px句号显示细点、8px默认主角名在对白中显示日文乱码；魔物之塔：10px v1.0.8主角姓名显示待核（默认／自定义待确认）；另有8px默认名乱码与10px句号反馈",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1f4a1a2a278a74de",
+        "case-fe3f9e8b10d51339"
+      ],
+      "public_feedback_keys": [
+        "11090183907|154029428597",
+        "11090183907|154029527215"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

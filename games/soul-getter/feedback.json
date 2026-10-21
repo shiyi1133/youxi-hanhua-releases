@@ -1,0 +1,200 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "soul-getter",
+  "game_name": "放课后冒险RPG",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154030070139",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154030070139#154030070139",
+      "created_at": "2026-10-14T09:08:51+08:00",
+      "quote": "10px v0.9.0，文本框时而小字体时而大字体？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/45b09416fdfaaf514c744cb9ca5494eef11f7a49.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7651a651f3deb48f4dfe6cd8b61f3a292cf57849.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154030093621",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154030093621#154030093621",
+      "created_at": "2026-10-14T09:16:29+08:00",
+      "quote": "10px v0.9.0，对话框有显示日文的文本",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c103853436a4c4a27d513b07ecb808865.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4df719385343fbf220af6b25f67eca8064388f65.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154046043369",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154046043369#154046043369",
+      "created_at": "2026-10-18T20:28:26+08:00",
+      "quote": "8px 0.9.0，日文残留，部分日文文本未翻译",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047324998",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047324998#154047324998",
+      "created_at": "2026-10-19T07:31:59+08:00",
+      "quote": "8px 0.9.1，跟雕塑对话后保存记录时，有日文残留，未翻译的选项",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047327875",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047327875#154047327875",
+      "created_at": "2026-10-19T07:33:39+08:00",
+      "quote": "8px 0.9.1，开始游戏后不久，需要玩捉迷藏找到三个小伙伴，找到后自动跟npc们对话，这时有两次出现日文残留的未翻译选项",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-fb67513da86cb96c",
+      "public_problem_key": "problem-23c885afd21fd56f",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "放课后冒险：10px v0.9.0局部对白残日文；混合大小字先区分既有范围",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "10px v0.9.0",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154030070139",
+        "11092365551|154030093621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5d18817a84d0581e",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "新四图中前两图为取名确认“なまえ/これでいいですか/はい/いいえ/男女”未译。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.9.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046043369",
+        "11092365551|154047324998",
+        "11092365551|154047327875"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-23c885afd21fd56f",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "放课后冒险：10px v0.9.0局部对白残日文；混合大小字先区分既有范围",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-fb67513da86cb96c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154030070139",
+        "11092365551|154030093621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "新四图中前两图为取名确认“なまえ/これでいいですか/はい/いいえ/男女”未译。",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-5d18817a84d0581e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154046043369",
+        "11092365551|154047324998",
+        "11092365551|154047327875"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

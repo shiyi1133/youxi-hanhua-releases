@@ -1,0 +1,756 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "conan-underground",
+  "game_name": "名侦探柯南：地下游乐园杀人事件",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154021775365",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021775365#154021775365",
+      "created_at": "2026-10-11T21:35:26+08:00",
+      "quote": "名侦探柯南_地下游乐园杀人事件 请验收：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf35a40a1fd4c46f21fbf09aaa9.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "284ae9ab9e549544ecbe5ddf718e95ced389a64754878cdbe8c914936e01d875"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021792505",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021792505#154021792505",
+      "created_at": "2026-10-11T21:40:55+08:00",
+      "quote": "名侦探柯南_奇岩岛秘宝传说 请验收：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38b2e2c4b74543a9c9ba15ca58178a82b80114ba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "c6d3b4b177ef50d75149eca8b882b1135a679b86fb15da97a029ab04c59c5b24"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021796153",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021796153#154021796153",
+      "created_at": "2026-10-11T21:42:03+08:00",
+      "quote": "名侦探柯南_疑惑的豪华列车。请验收：",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a65ee9fe9925bc31bbffee9e18df8db1ca137046.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "89520b921e18b8b19bcdc39671e6994137830b684d1ca99727f0d96b0f4759e4"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021797118",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021797118#154021797118",
+      "created_at": "2026-10-11T21:42:20+08:00",
+      "quote": "可以验收了哦，三个都好了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021817349",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021817349#154021817349",
+      "created_at": "2026-10-11T21:48:09+08:00",
+      "quote": "收到，万分万分的感激，最最崇高的敬意，终于圆梦了下下来统一测试，有问题会收集一起反馈到该楼层",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154021866424",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154021866424#154021866424",
+      "created_at": "2026-10-11T22:02:10+08:00",
+      "quote": "我明天会更新对话大字版本（尽可能大）到网盘~你可以先看看汉化的效果~字体大小问题先忽略。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154022106232",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154022106232#154022106232",
+      "created_at": "2026-10-11T23:13:08+08:00",
+      "quote": "收到，目前还是发现了一部分问题，在模拟器里截图了，明天抽空汇总上传一下",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154022265597",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154022265597#154022265597",
+      "created_at": "2026-10-12T00:05:57+08:00",
+      "quote": "好的，哪一类问题呀？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024676666",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "bantuwang1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024676666#154024676666",
+      "created_at": "2026-10-12T18:23:20+08:00",
+      "quote": "我试了下 豪华列车，用的寨机模拟器，每句对话刷新时，上一段文字会有一点残留，不过刚开始玩，感觉不是大问题，可以等层主一起反馈了再说。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0c7d2e7f9e2f070873c7fb06af24b899a801f226.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "4a13af90237d3f05d48bd98145e0fd0bb73f67ee79c50c19020268885bc5a68e"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "bantuwang1"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024823863",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024823863#154024823863",
+      "created_at": "2026-10-12T19:13:52+08:00",
+      "quote": "@bantuwang1 《豪华列车》对白刷新后旧字残留已记录，截图也保存了，会继续排查。方便补一下你用的ROM文件名或版本，以及普通字还是大字版吗？不用重复发截图哈～",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024933944",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024933944#154024933944",
+      "created_at": "2026-10-12T19:47:42+08:00",
+      "quote": "不好意思，白天工作实在太忙，现已初步收集了一部分问题，请您查收",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024938853",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024938853#154024938853",
+      "created_at": "2026-10-12T19:49:14+08:00",
+      "quote": "补充一下，是测试的小字体初版，后面还没来得及用大字体测试，但压缩包里的问题应该都是通用的，建议您以大字体版本进行后续更新，小字体版看着太吃力了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024985272",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024985272#154024985272",
+      "created_at": "2026-10-12T20:03:13+08:00",
+      "quote": "我发现了AI处理大字的时候的一个批量问题，正在让它批量修复。后面会全量更新，辛苦反馈了。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025035583",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025035583#154025035583",
+      "created_at": "2026-10-12T20:19:17+08:00",
+      "quote": "您客气了，ai大时代让更多有生之年游戏重见天日，但如果没有复古情怀+共享精神的加持，真的是不敢奢求太多",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025621701",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025621701#154025621701",
+      "created_at": "2026-10-12T23:21:36+08:00",
+      "quote": "刚刚下载了疑惑列车与地下游乐园的1.0.1大字体版，经测试，今天上传的图片压缩包里的问题，还有今晚在本楼反馈的问题均继续存在，ROM名就是这两作的大字体1.0.1版本",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025456656",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025456656#154025456656",
+      "created_at": "2026-10-12T22:31:10+08:00",
+      "quote": "刚刚重新下载了大字体版，简单玩了下疑惑的汉化列车，继续反馈个问题，游戏内的对话字体时而大时而小，且小字体下一句是大字体的时候，音乐会有卡顿",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025489598",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025489598#154025489598",
+      "created_at": "2026-10-12T22:41:07+08:00",
+      "quote": "继续报告，1，疑惑的汉化列车不光有大小字体随机切换的问题，就算是持续出现大字体也会有音乐卡顿的情况而且非常频繁。2，地下游乐园大字体版，每句话翻页时都会有花屏一闪而过，由于太快了没法截图，另外部分时候右下方画面会有如图的缺失",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/246870310a55b319d03b507305a98226cefc1725.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": [
+            "6b4e3bc6b20ae7df6760a39cf1e5d2fd47a8583c770cfa658aae2ead2a8a2abb"
+          ]
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025496511",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025496511#154025496511",
+      "created_at": "2026-10-12T22:43:10+08:00",
+      "quote": "@bantuwang1 《豪华列车》大字10px v1.0.1已更新，针对连续对白刷新后旧字残留补全了对白区域清理；普通8px仍是v1.0。有限自然对白和口令续关已检查，尚未在你那台设备上验证，其它三作的泛化反馈继续排查。附普通8px v1.0和大字10px v1.0.1各自实际SGB九宫格，大字图为预设着色；未完整通关或实机验收。大字新版已加入原网盘目录，辛苦重新下载试试～ 大字版更容易出现拖慢、刷新残留等问题，遇到请及时在这楼反馈。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c083317f5a34c7b02087bf4f430.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/01b86a2762d0f703fd9e48da4efa513d2697c530.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154025584113",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154025584113#154025584113",
+      "created_at": "2026-10-12T23:09:50+08:00",
+      "quote": "@une21 音乐卡顿、翻页闪屏和缺图已记录。麻烦发一下《豪华列车》和《地下游乐园》目前的ROM文件名（含版本号）。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154029272038",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029272038#154029272038",
+      "created_at": "2026-10-14T00:01:22+08:00",
+      "quote": "第二轮测试已完成，请您查收压缩包，内含图片及问题说明，如果从技术上无法妥善处理，也只能全部调整为原版的小字体",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154029311607",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029311607#154029311607",
+      "created_at": "2026-10-14T00:13:01+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 已反馈，详见网盘压缩包",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154038716314",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038716314#154038716314",
+      "created_at": "2026-10-16T17:53:46+08:00",
+      "quote": "地下游园的头像经常缺块，画面还总闪烁，顶部有的字还会缺少一部分",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e72a890a19d8bc3e0b3829cdc48ba61ea8d34534.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b06c963df8dcd1006aacd726348b4710b9122f34.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5d23dd3f8794a4c2a313c82c48f41bd5ad6e3934.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3d565b66d016092440158d1c920735fae6cd3434.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154038977448",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038977448#154038977448",
+      "created_at": "2026-10-16T19:24:36+08:00",
+      "quote": "地下游乐园大字体v1.0.2、奇岩岛大字体v1.0.1、豪华列车大字体v1.0.4，",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "une21"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154048566900",
+      "parent_pid": "0",
+      "floor": 166,
+      "public_nickname": "楚接舆😍",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048566900#154048566900",
+      "created_at": "2026-10-19T14:55:45+08:00",
+      "quote": "柯南地下游乐园，对话人物脸出现斑块缺失是BUG么？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154051129293",
+      "parent_pid": "154048566900",
+      "floor": 166,
+      "public_nickname": "楚接舆😍",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154051129293#154051129293",
+      "created_at": "2026-10-20T09:40:50+08:00",
+      "quote": "名侦探柯南_地下游乐园杀人事件_简体中文_10px大字版_v1.0.5.0A",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-7c11b5c2af3f566f",
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground"
+      ],
+      "summary": "柯南三作反馈待补具体截图与操作",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154021775365",
+        "11092365551|154021792505",
+        "11092365551|154021796153",
+        "11092365551|154021797118",
+        "11092365551|154021817349",
+        "11092365551|154021866424",
+        "11092365551|154022106232",
+        "11092365551|154022265597",
+        "11092365551|154024676666",
+        "11092365551|154024823863",
+        "11092365551|154024933944",
+        "11092365551|154024938853",
+        "11092365551|154024985272",
+        "11092365551|154025035583",
+        "11092365551|154025456656",
+        "11092365551|154025489598",
+        "11092365551|154025496511",
+        "11092365551|154025584113",
+        "11092365551|154025621701"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5b6738b77d4f5301",
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-island",
+        "conan-underground"
+      ],
+      "summary": "柯南第二轮：标题／头像／菜单图块和速度设置残留日文",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038716314",
+        "11092365551|154038977448",
+        "11092365551|154048566900",
+        "11092365551|154051129293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-adf93c114ce30a75",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-underground"
+      ],
+      "summary": "柯南地下游乐园v1.0.2：推理摘要显示不全",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.2",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038977448"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground"
+      ],
+      "summary": "柯南三作反馈待补具体截图与操作；柯南第二轮：标题／头像／菜单图块和速度设置残留日文",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-5b6738b77d4f5301",
+        "case-7c11b5c2af3f566f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021775365",
+        "11092365551|154021792505",
+        "11092365551|154021796153",
+        "11092365551|154021797118",
+        "11092365551|154021817349",
+        "11092365551|154021866424",
+        "11092365551|154022106232",
+        "11092365551|154022265597",
+        "11092365551|154024676666",
+        "11092365551|154024823863",
+        "11092365551|154024933944",
+        "11092365551|154024938853",
+        "11092365551|154024985272",
+        "11092365551|154025035583",
+        "11092365551|154025456656",
+        "11092365551|154025489598",
+        "11092365551|154025496511",
+        "11092365551|154025584113",
+        "11092365551|154025621701",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038716314",
+        "11092365551|154038977448",
+        "11092365551|154048566900",
+        "11092365551|154051129293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "gegege-kitarou",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11097560613|154043716841",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

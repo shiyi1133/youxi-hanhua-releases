@@ -1,0 +1,181 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "cross-hunter-x",
+  "game_name": "十字猎人：X猎人篇",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154026121126",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026121126#154026121126",
+      "created_at": "2026-10-13T03:46:27+08:00",
+      "quote": "回复 贴吧用户_03XKJKX :汉化非常神速啊，小字版和大字版都启动正常，进游戏对话正常，存档显示正常存档，但是好像读档没反应，使用的卡带存读档功能",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "炽天火3"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024559416",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024559416#154024559416",
+      "created_at": "2026-10-12T17:42:43+08:00",
+      "quote": "《十字猎人：财宝猎人篇》v1.0.2 汉化测试版已上传，请测试～",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1ec78beac25dd5ad6edcc438b6.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024580189",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024580189#154024580189",
+      "created_at": "2026-10-12T17:50:06+08:00",
+      "quote": "《十字猎人：怪物猎人篇》v1.0.0 汉化测试版已上传，请测试～",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0a6030dbb6fd5266cfb3ed12ed18972bd5073643.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154024580678",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154024580678#154024580678",
+      "created_at": "2026-10-12T17:50:16+08:00",
+      "quote": "《十字猎人：X猎人篇》v1.0.0 汉化测试版已上传，请测试～",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c103853435e575627d513b07ecb80884c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "贴吧用户_03XKJKX"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026155613",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026155613#154026155613",
+      "created_at": "2026-10-13T04:37:22+08:00",
+      "quote": "回复 贴吧用户_03XKJKX :测试的是x猎人篇，用的游戏里的读档，启动界面那个读档",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154026261650",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154026261650#154026261650",
+      "created_at": "2026-10-13T06:59:02+08:00",
+      "quote": "小字版重新换了模拟器测试发现读档可以了，之前可能是模拟器问题，大字版1.0.0白屏的情况我好像没有遇到，进游戏对话是正常的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-5fded0c8e36f0e5b",
+      "public_problem_key": "problem-0cdeb9e178bd1a2d",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "[待复现] 十字猎人：X猎人篇，游戏启动界面读档无反应",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024559416",
+        "11092365551|154024580189",
+        "11092365551|154024580678",
+        "11092365551|154026121126",
+        "11092365551|154026155613",
+        "11092365551|154026261650"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-0cdeb9e178bd1a2d",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "[待复现] 十字猎人：X猎人篇，游戏启动界面读档无反应",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-5fded0c8e36f0e5b"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154024559416",
+        "11092365551|154024580189",
+        "11092365551|154024580678",
+        "11092365551|154026121126",
+        "11092365551|154026155613",
+        "11092365551|154026261650"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

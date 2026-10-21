@@ -1,0 +1,90 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "double-dragon-2",
+  "game_name": "双截龙2（美国版）",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154048209631",
+      "parent_pid": "154031028333",
+      "floor": 82,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154048209631#154048209631",
+      "created_at": "2026-10-19T12:52:42+08:00",
+      "quote": "第1关的场景太多乱码，车站和墙上那些标牌那个字体有点不适合，能不能符合一点？（就是留空有点多）区域转换那个界面背景都没了，而且还有很多乱码，这个游戏对话其实很简单，汉语转换没多少个字，能把字体加大就加大吧",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "动摇天秤"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154050751559",
+      "parent_pid": "154031028333",
+      "floor": 82,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154050751559#154050751559",
+      "created_at": "2026-10-20T06:47:54+08:00",
+      "quote": "双截龙美版v1.0.0",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-80d25ac6c9a760cb",
+      "public_problem_key": "problem-765a8d0b60baf9f9",
+      "game_ids": [
+        "double-dragon-2"
+      ],
+      "summary": "共用82楼新增图展示横版动作街道招牌/背景重复乱码和转场背景空白；疑为双截龙2，须核实际ROM身份。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154048209631",
+        "11092365551|154050751559"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-765a8d0b60baf9f9",
+      "game_ids": [
+        "double-dragon-2"
+      ],
+      "summary": "共用82楼新增图展示横版动作街道招牌/背景重复乱码和转场背景空白；疑为双截龙2，须核实际ROM身份。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-80d25ac6c9a760cb"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154048209631",
+        "11092365551|154050751559"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

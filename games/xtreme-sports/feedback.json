@@ -1,0 +1,382 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "xtreme-sports",
+  "game_name": "极限运动",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154029497328",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029497328#154029497328",
+      "created_at": "2026-10-14T01:32:26+08:00",
+      "quote": "8px，0.9版，不确定，这个屋顶上面是显示正常的吗？屋顶草皮上显示了很多汉字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/098dc6fc1e178a828ab6bca6b003738da877e85e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/445717178a82b9017e270035358da9773812ef5e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154029502726",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029502726#154029502726",
+      "created_at": "2026-10-14T01:35:39+08:00",
+      "quote": "8px，0.9版，这间房的npc后面的墙上显示异常，显示了不该有的汉字，跟npc对话后，npc后墙上似乎正常，不再有汉字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc263d97303a3dde71191ef6d5a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/10fb46c2d56285355d661127d6ef76c6a6ef635a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154029503298",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029503298#154029503298",
+      "created_at": "2026-10-14T01:35:59+08:00",
+      "quote": "跟npc对话后（取名后），npc后墙上似乎正常，不再有汉字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047313872",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047313872#154047313872",
+      "created_at": "2026-10-19T07:25:04+08:00",
+      "quote": "8px 0.9.2，一开始的场景右上方，有个npc可以看留言的信件，和其对话后显示异常字符",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154038492645",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038492645#154038492645",
+      "created_at": "2026-10-16T16:39:08+08:00",
+      "quote": "8px 0.9.1，取名的时候如果不自定主角名字，而是直接按确定，主角名称为默认英文名，而不是中译名称“古比”",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/09a953afa40f4bfbfbc4b253454f78f0f63618cf.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab64016661c7b136afc378311ecf.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd11388d89b351cafa40f4afb05cf.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7da87a8da9773912a532a966be198618377ae2c8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/098dc6fc1e178a82a92853a7b003738da877e8c8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047317375",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047317375#154047317375",
+      "created_at": "2026-10-19T07:27:18+08:00",
+      "quote": "8px 0.9.2，默认名为古比后，“古比”后面有空字符，“古比”和后面的句号、问号之间有多个空格",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-5b8200b7df8b57d2",
+      "public_problem_key": "problem-da842180b7fb1cf5",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "极限运动：8px v0.9.0屋顶草皮与NPC后墙出现汉字，取名对白后恢复的现象待复现",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.9",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029497328",
+        "11092365551|154029502726",
+        "11092365551|154029503298",
+        "11092365551|154047313872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e0098d8bbee750db",
+      "public_problem_key": "problem-137705b4eea6fb42",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "[待核版本与复现] 极限运动：8px v0.9.1空姓名直接确认后对白使用Guppi，选择画面使用古比",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.9.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038492645"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4fc1b958aac9569b",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.9.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154047317375"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "gegege-kitarou",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11097560613|154043716841",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-da842180b7fb1cf5",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "极限运动：8px v0.9.0屋顶草皮与NPC后墙出现汉字，取名对白后恢复的现象待复现",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-5b8200b7df8b57d2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154029497328",
+        "11092365551|154029502726",
+        "11092365551|154029503298",
+        "11092365551|154047313872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-137705b4eea6fb42",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "[待核版本与复现] 极限运动：8px v0.9.1空姓名直接确认后对白使用Guppi，选择画面使用古比",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-e0098d8bbee750db"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038492645"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

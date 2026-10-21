@@ -1,80 +1,80 @@
 {
   "schema": "public_exact_original_input_hash_index_v1",
-  "generated_at": "2026-10-22T01:40:35.843406+08:00",
+  "generated_at": "2026-10-22T03:20:28.693698+08:00",
   "count": 134,
   "ROM_files_or_download_links_included": false,
   "items": [
     {
       "game_id": "azure-dreams",
       "game_name": "魔物之塔",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Other Life - Azure Dreams GB",
       "original_input_sha256": "42bba6b43d20fb84daf259499100607ac8b1f401d961cdac21f3a17ed4410e31",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-gb3",
       "game_name": "炸弹人GB3",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Bomberman GB 3",
       "original_input_sha256": "604db636c45af3cd1fec52e206701a8969a8a3e610df281f7461769bd86729ea",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "tenchi-o-kurau",
       "game_name": "吞食天地",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Tenchi o Kurau",
       "original_input_sha256": "2884676b3bb261204f480767ba716dfc5266e536b7628fc73f9243c1e0efa8c7",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "conan-underground",
       "game_name": "名侦探柯南：地下游乐园杀人事件",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Meitantei Conan - Chika Yuuenchi Satsujin Jiken",
       "original_input_sha256": "1d171bb6a5d3b3f0101d5581f29e1e86dcfec37bc1e9ba16a3ded4e4a11d6ac2",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "conan-island",
       "game_name": "名侦探柯南：奇岩岛秘宝传说",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Meitantei Conan - Kigantou Hihou Densetsu",
       "original_input_sha256": "72b99a05d52d5e658a757ac2051f2fd6c4c2f138950ba9bbb7d27d481911e548",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "conan-train",
       "game_name": "名侦探柯南：疑惑的豪华列车",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Meitantei Conan - Giwaku no Gouka Ressha",
       "original_input_sha256": "f2bc6aa3b75a69ee1d970218921fd8dec67d63231a1f8f32b6b0dbf18214e604",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "gaiamaster-duel",
       "game_name": "盖亚大师决斗：卡片攻击者",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Gaiamaster Duel - Card Attackers",
       "original_input_sha256": "6ecaa2ef65991a9435670dc33a653189ab5eda5c665bfb8992e1609424529a28",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "last-bible-ii",
       "game_name": "最后的圣经2",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)",
       "original_input_sha256": "70768b99f7ad8878da5051785fc464578d4321ef21249e5602a4db836e3e5199",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "shiren-gb",
@@ -83,142 +83,142 @@
       "original_input_name": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)",
       "original_input_sha256": "e4b62d52e78ef12a1bab0ac1cec68395569538d2e34affd92e67fe67de1f4df2",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "drururuaga",
       "game_name": "攻防迷宫 德鲁鲁阿加",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Seme COM Dungeon - Drururuaga (Japan)",
       "original_input_sha256": "c0e86d6e6d3c2bf6f7b823a2d99e97fb5a8f7ec333eb6f755d62defd90b565b5",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "digimon-crystal",
       "game_name": "宝可梦水晶数码暴龙",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Digimon Crystal (Guzeinbuick English ROM hack; exact upstream release date unverified)",
       "original_input_sha256": "a333699c83a7a9adaf62c942aa8215e9a0f3d9d598c62a96093fc671781113ae",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "one-piece-grand-line",
       "game_name": "海贼王 幻之伟大航路冒险记",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)",
       "original_input_sha256": "de6b8d2982bbb53ecbc5db2e7277ac928dbdff01de568400cf2a64dcc5686915",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "harry-potter-stone",
       "game_name": "哈利波特与魔法石",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Harry Potter and the Sorcerer's Stone (multilingual US English-slot base)",
       "original_input_sha256": "8eb56e0d55a04aa3fcf940f172757f4f60baa6c53c82707def8ae4e78844b1da",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "harry-potter-chamber",
       "game_name": "哈利波特与密室",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Harry Potter and the Chamber of Secrets (multilingual USA/Europe, revision 0)",
       "original_input_sha256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-jidaigeki",
       "game_name": "热血时代剧",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Kunio-kun no Jidaigeki dayo Zenin Shuugou! (Japan)",
       "original_input_sha256": "8fa401d71fa6d6b02773a72dd1eea55b866abb3e94f6644b57616c3e30cf05d4",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "metal-walker",
       "game_name": "爆走战记 钢铁行者GB：钢铁的友情",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "爆走戦記 メタルウォーカーGB 鋼鉄の友情 (Bakusou Senki Metal Walker GB - Koutetsu no Yuujou, Japan)",
       "original_input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "momotarou-densetsu-1-2",
       "game_name": "桃太郎传说1→2",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Momotarou Densetsu 1→2 (Japan, revision 0)",
       "original_input_sha256": "7d0d8bdb9c52e381862277271e3e0fe474af69cf9ea92053147cdfb1de32785b",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-beach-volley",
       "game_name": "热血沙滩排球",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Nekketsu! Beach Volley dayo Kunio-kun (Japan)",
       "original_input_sha256": "310a362b8eed5b6246585d947f9fd1ba5b22127b83f4fdc79d1d56039748b770",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-shinkiroku",
       "game_name": "惊奇热血新纪录",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Bikkuri Nekketsu Shinkiroku! - Dokodemo Kin Medal (Japan)",
       "original_input_sha256": "ec530379bee82d89a97acfd8e0cafadddbae687550ee81e9b1c11e285720a2f4",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-dodgeball",
       "game_name": "热血高校躲避球部",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Nekketsu Koukou Dodge Ball-bu (Japan)",
       "original_input_sha256": "9eadcd25c2f364a1d0320e4e74ca3a7083469e53e41747bf7eeb555e5f233f0c",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-soccer",
       "game_name": "热血高校足球部世界杯篇",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Nekketsu Koukou Soccer-bu - World Cup Hen (Japan)",
       "original_input_sha256": "5958d4c17aafb262dd0a5be16bbc88c29251f57bcb4e79face47feeffcf97974",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kunio-bangai",
       "game_name": "热血硬派国夫君番外乱斗篇",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)",
       "original_input_sha256": "d912c10d466586b633812ecbccc9bc20eb425f8f11b6b5e80c72ea2a760908ed",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bugsite-beta",
       "game_name": "网络冒险记 虫网世界 贝塔版",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Network Boukenki Bugsite - Beta Version (Japan)",
       "original_input_sha256": "fd7b902f7c7dc0ac0ef425b17995bdb1196eda0920b0a5bbbd65b0e13b72ea50",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "dt-lords-of-genomes",
       "game_name": "DT：基因组领主",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "DT - Lords of Genomes (Japan) (SGB Enhanced) (GB Compatible)",
       "original_input_sha256": "cc25aa1c06b5425f29f38af0cd7eb947b51cffa71e783612218e0325dff3654f",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "monster-traveler",
@@ -227,43 +227,43 @@
       "original_input_name": "Monster Traveler (Japan) (Rev A)",
       "original_input_sha256": "5e567dcde1aa5e5e1fb61e9a614b9ca5fdd0c7748993c3687ae78f8eb7216ce9",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "shuihu-shenshou",
       "game_name": "水浒神兽：简体非官方修复",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "水浒神兽（简体文本版）",
       "original_input_sha256": "d7cac5007f7037ec87af81c587f80de729a414d1da795cffbf7dc4c643094338",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "cross-hunter-treasure",
       "game_name": "十字猎人：财宝猎人篇",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Cross Hunter - Treasure Hunter Version (Japan)",
       "original_input_sha256": "e82bde1a7832301df1c28cd14923cd0b1084d99f5e20a0e203e1713be468d55a",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "cross-hunter-monster",
       "game_name": "十字猎人：怪物猎人篇",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Cross Hunter - Monster Hunter Version (Japan)",
       "original_input_sha256": "332b2bb70e080baacce644de32478e712aaee4653eb8f2ce37ce36e3e9958d2b",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "cross-hunter-x",
       "game_name": "十字猎人：X猎人篇",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Cross Hunter - X Hunter Version (Japan)",
       "original_input_sha256": "af01d67235cf2c049a1bf62aa3f7c6887b8db019fead786e2f4f55f721838971",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "beast-shooter-gba",
@@ -272,7 +272,7 @@
       "original_input_name": "Beast Shooter: Mezase Beast King! (Japan)",
       "original_input_sha256": "e3a06c5f35d663cb83f6a8ef99cb767096a30507c73b6eb0016b3f8f6dc4e4f7",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "gegege-kitarou",
@@ -281,7 +281,7 @@
       "original_input_name": "Gegege no Kitarou - Youkai Souzoushu Arawaru!",
       "original_input_sha256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "devil-children-shiro",
@@ -290,7 +290,7 @@
       "original_input_name": "Shin Megami Tensei Devil Children - Shiro no Sho (Japan)",
       "original_input_sha256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "devil-children-kuro",
@@ -299,7 +299,7 @@
       "original_input_name": "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
       "original_input_sha256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "devil-children-aka",
@@ -308,7 +308,7 @@
       "original_input_name": "Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
       "original_input_sha256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-1",
@@ -317,7 +317,7 @@
       "original_input_name": "Makai Toushi Sa-Ga",
       "original_input_sha256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-2",
@@ -326,7 +326,7 @@
       "original_input_name": "Sa-Ga 2 - Hihou Densetsu",
       "original_input_sha256": "31477ea9ae09d98e4170938d91ba5a9f5ab94072db4c289988882e0de7e48851",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "poyon-dungeon-1",
@@ -335,7 +335,7 @@
       "original_input_name": "Poyon no Dungeon Room",
       "original_input_sha256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "knight-quest",
@@ -344,7 +344,7 @@
       "original_input_name": "Knight Quest",
       "original_input_sha256": "e473331f0c302d2730ce8b0e948276890b817f6e09f3e4b2a3596fec049f7519",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saint-seiya-gb",
@@ -353,7 +353,7 @@
       "original_input_name": "Saint Paradise - Saikyou no Senshi-tachi",
       "original_input_sha256": "e29db8694cb553fef5a56ed1045f0a3fedda2cd154125e35a0e487bf3fa76deb",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "nobunaga-gb",
@@ -362,7 +362,7 @@
       "original_input_name": "Nobunaga no Yabou (1990 Game Boy)",
       "original_input_sha256": "44d026ad7c479815408ac3e05fec4f19507f1384627543298a0667d4a4944e39",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "poyon-dungeon-2",
@@ -371,7 +371,7 @@
       "original_input_name": "Poyon no Dungeon Room 2",
       "original_input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-max-hikari",
@@ -380,7 +380,7 @@
       "original_input_name": "Bomberman Max - Hikari no Yuusha",
       "original_input_sha256": "53b6b5c16b34345974a87d498f787cc816b216373e29568777433112bca99bd3",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "xtreme-sports",
@@ -389,7 +389,7 @@
       "original_input_name": "Xtreme Sports",
       "original_input_sha256": "c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "soul-getter",
@@ -398,7 +398,7 @@
       "original_input_name": "Soul Getter ～放課後冒険RPG～",
       "original_input_sha256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "pokemon-black-white-3",
@@ -407,52 +407,52 @@
       "original_input_name": "Pokemon Black and White 3: Genesis v1.2 (user-provided ROM hack)",
       "original_input_sha256": "46f1ed26e5e4df7bd5a2c5d662a6aab3d5e6b48475ed45ca1d79a05a9b8ba64d",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-story",
       "game_name": "炸弹人物语",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "Bomberman Story (Japan)",
       "original_input_sha256": "138df33ff85dbfdc5c0e75b2e1c091982e898f8137e1de94057df757fadc1ba8",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-max-yami",
       "game_name": "炸弹人MAX黑暗战士",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Bomberman Max - Yami no Senshi",
       "original_input_sha256": "65f2488ae1a5be5a2e0a7392e950ca1d48f4912bf0566ca29d32dd7fda8068e4",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-max-ain",
       "game_name": "炸弹人MAX艾因版",
-      "platform": null,
+      "platform": "GBC",
       "original_input_name": "Bomberman Max - Ain Version",
       "original_input_sha256": "41529aff78a11f826824abe2a9b0646c0fa9196f8c8df1aaee6d6d161159eac7",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "formation-soccer-2002",
       "game_name": "立体足球2002",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "Formation Soccer 2002 (Japan)",
       "original_input_sha256": "5dfa54d26c3845a49e4258b3940e69f128796815f9c613b28211ff872a665b77",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "world-advance-soccer",
       "game_name": "世界足球迈向胜利之路",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "World Advance Soccer - Shouri e no Michi (Japan)",
       "original_input_sha256": "36ad536b794755155b57cc4a451284a60fa8cb331723c34a6aa6bcaa30362834",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-jetters",
@@ -461,52 +461,52 @@
       "original_input_name": "Bomberman Jetters - Densetsu no Bomberman (Japan)",
       "original_input_sha256": "8627870dbe38e1fbc732ae9e07005000790687a766311e49a09d07cdf1734b5f",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-max2-bomberman",
       "game_name": "炸弹人MAX2炸弹人版",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "Bomberman Max 2 - Bomberman Version (Japan)",
       "original_input_sha256": "971be60d8cd3409928ea67f23e39ec91ef262db954326d37a5c436434878cbe3",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bomberman-max2-max",
       "game_name": "炸弹人MAX2 MAX版",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "Bomberman Max 2 - Max Version (Japan)",
       "original_input_sha256": "03b06c4df0aca1127d4561408a0d8982e248d8faacd260ca0b3139436e912a24",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "j-league-winning-eleven-advance-2002",
       "game_name": "J联赛胜利十一人Advance2002",
-      "platform": null,
+      "platform": "GBA",
       "original_input_name": "J.League Winning Eleven Advance 2002 (Japan)",
       "original_input_sha256": "ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-gaiden-2",
       "game_name": "巫术外传Ⅱ古代皇帝的诅咒",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Wizardry Gaiden II - Kodai Koutei no Noroi (Japan)",
       "original_input_sha256": "2e2d7ed9efbd9b972bac2e248a4a02bb03603d456aca1cafc3ca5658e4d755cd",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-gaiden-3",
       "game_name": "巫术外传Ⅲ暗之圣典",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Wizardry Gaiden III - Yami no Seiten (Japan)",
       "original_input_sha256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-empire",
@@ -515,7 +515,7 @@
       "original_input_name": "Wizardry Empire (Japan, Rev 1)",
       "original_input_sha256": "cd7f00d398bf30c3302cb814cb849761caa8aa0183ba7b4460677ec98d7f1472",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-empire-2",
@@ -524,7 +524,7 @@
       "original_input_name": "Wizardry Empire - Fukkatsu no Tsue (Japan)",
       "original_input_sha256": "b066a8fc2f9b6d04e5d61ca732c53da2cf1dbe51b7c613319d5a47adbf15d060",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-1-gbc",
@@ -533,7 +533,7 @@
       "original_input_name": "Wizardry I - Proving Grounds of the Mad Overlord (Japan)",
       "original_input_sha256": "00609843f9670ad5d3ee069bf84fef1d07cf48d1aa6f9255efe1741257ad5a08",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-2-gbc",
@@ -542,7 +542,7 @@
       "original_input_name": "Wizardry II - Legacy of Llylgamyn (Japan)",
       "original_input_sha256": "87fb3a0e1f7a8990f77125fb968f556ad1a108cdc953e7a010d73f5cb9efbfca",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-3-gbc",
@@ -551,16 +551,16 @@
       "original_input_name": "Wizardry III - Knights of Diamonds (Japan)",
       "original_input_sha256": "6553ffd786bfe49dc40145895225664f821ff0d1be66124a9f370bacae931ebc",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "oni-iii",
       "game_name": "ONIⅢ黑之破坏神",
-      "platform": null,
+      "platform": "GB",
       "original_input_name": "Oni III - Kuro no Hakaishin (Japan)",
       "original_input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "oni-iv",
@@ -569,7 +569,7 @@
       "original_input_name": "Oni IV - Kijin no Ketsuzoku (Japan)",
       "original_input_sha256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "oni-v",
@@ -578,7 +578,7 @@
       "original_input_name": "Oni V - Oni wo Tsugumono (Japan) (SGB Enhanced)",
       "original_input_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "guranbo",
@@ -587,7 +587,7 @@
       "original_input_name": "Guranbo (Japan)",
       "original_input_sha256": "d11a31fa34801c24219df3d64876f9577ddfe30200ca65fe720e3ff8a9c8828b",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "robot-ponkottsu-2-cross",
@@ -596,7 +596,7 @@
       "original_input_name": "Robot Ponkottsu 2 - Cross Version (Japan)",
       "original_input_sha256": "f64b71f18458de35b24af085319b4fb0a7345e2415ba2631ec499b6e92a4f57e",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "pocket-love",
@@ -605,7 +605,7 @@
       "original_input_name": "Pocket Love (Japan)",
       "original_input_sha256": "0ad10696e24bdc996e395928919d49ad736685babe5cb9b191a9e863becf926a",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "pocket-love-2",
@@ -614,7 +614,7 @@
       "original_input_name": "Pocket Love 2 (Japan)",
       "original_input_sha256": "3cd40abd13e8991461ce59f14776723d1d1f27f8b3d1fb2ae46c487d6f3ee851",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "telefang-speed",
@@ -623,7 +623,7 @@
       "original_input_name": "Keitai Denjuu Telefang - Speed Version (Japan, revision 0)",
       "original_input_sha256": "5e7efa5e2abda66eee1577b4507983f5c9c1fdf7c4450aab47191c9c92838098",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "kalos-crystal",
@@ -632,7 +632,7 @@
       "original_input_name": "Kalos Crystal v1.0 (user-provided ROM hack)",
       "original_input_sha256": "7cd8957e47a04bf0542de5d6a65affb369704e85ce11e03022be491be7dc1050",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "gb-harobots",
@@ -641,7 +641,7 @@
       "original_input_name": "GB Harobots",
       "original_input_sha256": "859d69833e8d422440a4268d30bec4df238550b969cb3bc3b2f262136de63b6f",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bakusou-dekotora-densetsu-gb-special",
@@ -650,7 +650,7 @@
       "original_input_name": "Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)",
       "original_input_sha256": "3cff4a025a86425bf4fa7659859ae836eaf25dc769982c12d9503ed4ccbcfd3c",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bishoujo-senshi-sailor-moon",
@@ -659,7 +659,7 @@
       "original_input_name": "Bishoujo Senshi Sailor Moon (Japan)",
       "original_input_sha256": "b1090ad4909f8222e4c325d8f939cb8b80de6430f80343fda501edc9166ce847",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bokujou-monogatari-gb2",
@@ -668,7 +668,7 @@
       "original_input_name": "Bokujou Monogatari GB2 (Japan)",
       "original_input_sha256": "9db8a6fbdbd9492a03fa66b1cb0635a35070d21c2d3f4a6878aac2dfeceeb9fe",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "double-dragon-2",
@@ -677,7 +677,7 @@
       "original_input_name": "Double Dragon II (USA; requester filename and DOUBLE DRAGON 2 header identity)",
       "original_input_sha256": "21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bokujou-monogatari-gb3",
@@ -686,7 +686,7 @@
       "original_input_name": "Bokujou Monogatari GB3 - Boy Meets Girl (Japan; requester filename/header identity)",
       "original_input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wizardry-gaiden-1",
@@ -695,7 +695,7 @@
       "original_input_name": "Wizardry Gaiden I - Joou no Junan (Japan)",
       "original_input_sha256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "mini-yonku-gb",
@@ -704,7 +704,7 @@
       "original_input_name": "Mini Yonku GB (Japan; requester filename and MINI4WD GB header identity)",
       "original_input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "grandia-parallel-trippers",
@@ -713,7 +713,7 @@
       "original_input_name": "Grandia: Parallel Trippers (user-provided English modified base)",
       "original_input_sha256": "2bda2c70c23ae86851c2a4a7e4b4af26f6af5f8973e848147e7362d198842505",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "mario-tennis-gb",
@@ -722,7 +722,7 @@
       "original_input_name": "Mario Tennis GB (Japan; requester filename and MOBILETENS/BM8J header identity)",
       "original_input_sha256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "nectaris-gb",
@@ -731,7 +731,7 @@
       "original_input_name": "Nectaris GB (Japan) (SGB Enhanced); requester archive/cartridge header identity",
       "original_input_sha256": "a890dd16d6120f386795d43da3527f2a0b6710abbd424fac7833b09400674f5b",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "sylvanian-families-4",
@@ -740,7 +740,7 @@
       "original_input_name": "Sylvanian Families 4 - Meguru Kisetsu no Tapestry (Japan; requester filename/header identity)",
       "original_input_sha256": "cd67965b69e032e7450d6316a3b0069b964cafbb123c23374a42716c8b3e17ee",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "sylvanian-families-fashion-designer",
@@ -749,7 +749,7 @@
       "original_input_name": "Sylvanian Families - Fashion Designer ni Naritai (Japan; requester filename/header identity)",
       "original_input_sha256": "38b89dff9b4eb6ee3ab6fdca1ce9150a64b3a641ed72e86570251ee9a23b489b",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "mini-yonku-gb-2",
@@ -758,7 +758,7 @@
       "original_input_name": "Mini Yonku GB 2 (Japan; requester filename and MINI4WD GB2 header identity)",
       "original_input_sha256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "tetris-gb",
@@ -767,7 +767,7 @@
       "original_input_name": "Tetris (JU) (v1.0; requester filename and TETRIS Rev0 header identity)",
       "original_input_sha256": "7fde11dd4e594a6905deccd57943d2909ecb37665a030741c42155aeb346323b",
       "original_input_bytes": 32768,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-3",
@@ -776,7 +776,7 @@
       "original_input_name": "Sa-Ga 3 / Final Fantasy Legend III (requester-provided English DX colorization ROM-hack input)",
       "original_input_sha256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "bakuchou-retrieve-master",
@@ -785,7 +785,7 @@
       "original_input_name": "Bakuchou Retrieve Master",
       "original_input_sha256": "ead03c064b8592297772c999e8538b8b1e90b5909a7fe567c238b947c9f71a74",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "miracle-of-the-zone-2",
@@ -794,7 +794,7 @@
       "original_input_name": "Daikaijuu Monogatari: The Miracle of the Zone II",
       "original_input_sha256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-1-dx",
@@ -803,7 +803,7 @@
       "original_input_name": "Final Fantasy Legend DX (user-provided English color modified edition)",
       "original_input_sha256": "e0b1d738905d014c74ea712d1250d97aa59c7fddea471da3cf4dff0aca857b49",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-2-dx",
@@ -812,7 +812,7 @@
       "original_input_name": "Final Fantasy Legend II DX (user-provided English color modified edition)",
       "original_input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "tokimeki-memorial-pocket-culture",
@@ -821,7 +821,7 @@
       "original_input_name": "Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (Japan) (SGB Enhanced) (GB Compatible); requester original archive/header identity",
       "original_input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "tokimeki-memorial-pocket-sport",
@@ -830,7 +830,7 @@
       "original_input_name": "Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph (Japan) (SGB Enhanced) (GB Compatible); requester original archive/header identity",
       "original_input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zoids-hakugin-no-raiger-zero",
@@ -839,7 +839,7 @@
       "original_input_name": "Zoids Hakugin no Raiger Zero (Japan; requester filename/ZOIDSGBCJUN BZ2J cartridge header identity)",
       "original_input_sha256": "01e1f16087e1ee3efeff19e4c8890d7aaa76016961d07b00b5f31f6b26035022",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "yuu-yuu-hakusho-4",
@@ -848,7 +848,7 @@
       "original_input_name": "Yuu Yuu 4 (Japan; requester archive and YUUYUU-4 cartridge header identity)",
       "original_input_sha256": "9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "saga-3-gb",
@@ -857,7 +857,7 @@
       "original_input_name": "Sa-Ga 3 - Jikuu no Hasha (Japan)",
       "original_input_sha256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "fleet-commander-vs",
@@ -866,7 +866,7 @@
       "original_input_name": "Fleet Commander VS.",
       "original_input_sha256": "a6ac3d3a8c7144a5e1ed8ca9d0283fc34ab134210170297e53504ada4dccb485",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "slam-dunk-1",
@@ -875,7 +875,7 @@
       "original_input_name": "From TV Animation Slam Dunk - Gakeppuchi no Kesshou League",
       "original_input_sha256": "9a4f40bbd5b4a8cbdb99d22df0f7672c8d67aa5dd4717ddcd56c4c9a4d4c5b2d",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "slam-dunk-2",
@@ -884,7 +884,7 @@
       "original_input_name": "From TV Animation Slam Dunk 2 - Zenkoku e no Tip Off",
       "original_input_sha256": "cbb113a5c126caf6ef2a0f31ddb12bd4fab2eea597d72e7810c4b75fabf199b2",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "gargoyles-quest",
@@ -893,7 +893,7 @@
       "original_input_name": "Gargoyle's Quest",
       "original_input_sha256": "ad6f9fe97a40418279d3b834a64d9c6c52c0da209f430718f2bd02611892326f",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zerd-no-densetsu",
@@ -902,7 +902,7 @@
       "original_input_name": "Zerd no Densetsu",
       "original_input_sha256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
       "original_input_bytes": 131072,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zerd-no-densetsu-2",
@@ -911,7 +911,7 @@
       "original_input_name": "Zerd no Densetsu 2 - Xerd!! Gishin no Ryouiki",
       "original_input_sha256": "c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "urusei-yatsura-miss-tomobiki-o-sagase",
@@ -920,7 +920,7 @@
       "original_input_name": "Urusei Yatsura - Miss Tomobiki o Sagase!",
       "original_input_sha256": "65429bd2a36a33cd8ab696be2f485b647260b327039887931cec4775c718424f",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "hamtaro-ham-hams-unite",
@@ -929,7 +929,7 @@
       "original_input_name": "Hamtaro - Ham-Hams Unite!",
       "original_input_sha256": "fb84ba6003d614c07d7917d67782c89330a38f0cec56bfb406301413591bf15d",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "shantae",
@@ -938,7 +938,7 @@
       "original_input_name": "Shantae",
       "original_input_sha256": "1b92e22d5510c51bab97d23074e4aad7464d93eb15f7596ef7da0a5efa27a19d",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "medarot-1-kuwagata",
@@ -947,7 +947,7 @@
       "original_input_name": "Medarot - Kuwagata Version (Rev 1)",
       "original_input_sha256": "19762a746f413714810c12ed41ddf0b09ee4a7eb538f6c820a6b9efa0b7dbe1a",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "medarot-1-kabuto",
@@ -956,7 +956,7 @@
       "original_input_name": "Medarot - Kabuto Version (Rev 1)",
       "original_input_sha256": "3ee50992a8cde0c1e7bb2bf1d812bf3d9577cd1f0c3da0c072d52806b5a774ec",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "metroid-2",
@@ -965,7 +965,7 @@
       "original_input_name": "Metroid II - Return of Samus (World)",
       "original_input_sha256": "3080bcc2eb9965de463f5f4e02f0dabbb13b060e1654a18da8b50948c10af4a6",
       "original_input_bytes": 262144,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zelda-links-awakening-gb",
@@ -974,7 +974,7 @@
       "original_input_name": "Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1)",
       "original_input_sha256": "d37d36cc47e42a42146ef04bed47d2fe127f5f98daf9cb499dc1a0e676574e78",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "selection-1-and-2-gb",
@@ -983,7 +983,7 @@
       "original_input_name": "セレクション1&2 選ばれ者&暗黒の封印",
       "original_input_sha256": "3eeaa33a6e9741f5aece3beeaddf13101f52f22e8901d8af51d7bfc48ee2b642",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "space-net-cosmo-blue",
@@ -992,7 +992,7 @@
       "original_input_name": "Space-Net - Cosmo Blue",
       "original_input_sha256": "788128d6871d51dba34cf8763e4fa457acc230bdb7079e01aba5b43e2b6252c7",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "space-net-cosmo-red",
@@ -1001,7 +1001,7 @@
       "original_input_name": "Space-Net - Cosmo Red",
       "original_input_sha256": "c473cf44bd274435c7bc46aae877a3a6e114af425fde23248ebb05b55aab5f7d",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "marie-no-atelier-gb",
@@ -1010,7 +1010,7 @@
       "original_input_name": "Marie no Atelier GB",
       "original_input_sha256": "12c844ad512d2b210fb61847161606ba0e8a7349c27a2b0f896d687f4d6fba8e",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "mobile-golf",
@@ -1019,7 +1019,7 @@
       "original_input_name": "Mobile Golf (Japan)",
       "original_input_sha256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "crayon-shin-chan-cinema-land-gba",
@@ -1028,7 +1028,7 @@
       "original_input_name": "KURESHIN2004（提供原件头部标题）",
       "original_input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
       "original_input_bytes": 16777216,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zephyrs-pass",
@@ -1037,7 +1037,7 @@
       "original_input_name": "Zephyr's Pass",
       "original_input_sha256": "885f46e9a24b5ca822bb36cd5be7384e29fdc5a969391ff84ff00f4e46f8f8ad",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "first-contact-protocol",
@@ -1046,7 +1046,7 @@
       "original_input_name": "First Contact Protocol",
       "original_input_sha256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "hotel-s",
@@ -1055,7 +1055,7 @@
       "original_input_name": "HOTEL・S",
       "original_input_sha256": "450eaffb065ce555ea224751b7412349ccb91d4f640e9c5989536dd50b6966b8",
       "original_input_bytes": 1048576,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "cryohazard",
@@ -1064,7 +1064,7 @@
       "original_input_name": "Cryohazard",
       "original_input_sha256": "7d6f512b66300934c7564f1fd4ee86619a1125eb56482c52972b5d4b025b3bc0",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "mayor-of-sanctuary",
@@ -1073,7 +1073,7 @@
       "original_input_name": "The Mayor of Sanctuary",
       "original_input_sha256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "wicked-plague",
@@ -1082,7 +1082,7 @@
       "original_input_name": "Wicked Plague",
       "original_input_sha256": "e76d3b831d40907161818506a312809251157b3311446837e596f4f744ddf820",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "sound-of-thunder-gba",
@@ -1091,7 +1091,7 @@
       "original_input_name": "ASOT（提供原件头部标题）",
       "original_input_sha256": "bcfcf623a1addb0fbf251aeeab4f47275388f166a325c23c88b2741f01e070f3",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "max-payne-gba",
@@ -1100,7 +1100,7 @@
       "original_input_name": "MAX PAYNE（提供原件头部标题）",
       "original_input_sha256": "f40118daf0fa2a80169edcfe82b030e4c01aa9d7397f7a462ea25ac3c155b3e8",
       "original_input_bytes": 16777216,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "pokemon-yellow-three-protagonists",
@@ -1109,7 +1109,7 @@
       "original_input_name": "Pokemon Yellow three-protagonist hack (provided filename; upstream identity unverified)",
       "original_input_sha256": "08707a21f3552f7d279d995cadb8b2cf47eaf8b4e6000e3125a19da3b9a05c4b",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "shaman-king-card-game-chou-senjiryakketsu-2",
@@ -1118,7 +1118,7 @@
       "original_input_name": "Shaman King Card Game - Chou Senjiryakketsu 2",
       "original_input_sha256": "be5421eda8eac576fa64210c4779194ed8ead7853593ea9c533508ccb809879e",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "shaman-king-card-game-chou-senjiryakketsu-3",
@@ -1127,7 +1127,7 @@
       "original_input_name": "Shaman King Card Game - Chou Senjiryakketsu 3",
       "original_input_sha256": "5199ec51c238d1cb5fd2667a92b8bcda55165bcac80c7c071ee0249c44de584f",
       "original_input_bytes": 16777216,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "castlevania-order-of-shadows-golden-belmont",
@@ -1136,7 +1136,7 @@
       "original_input_name": "Castlevania OoS GBc Golden Belmont",
       "original_input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "dracula-dark-reign",
@@ -1145,7 +1145,7 @@
       "original_input_name": "Dracula Dark Reign",
       "original_input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "jikkyou-world-soccer-pocket",
@@ -1154,7 +1154,7 @@
       "original_input_name": "Jikkyou World Soccer Pocket",
       "original_input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
       "original_input_bytes": 8388608,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "medarot-parts-collection-2",
@@ -1163,7 +1163,7 @@
       "original_input_name": "Medarot - Parts Collection 2",
       "original_input_sha256": "9a522a7361dbef01a5e299a2ad9372dc293cd103723236a9290ba3f40a3b0ee5",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "god-medicine-fukkokuban",
@@ -1172,7 +1172,7 @@
       "original_input_name": "God Medicine - Fukkokuban",
       "original_input_sha256": "185f092bbebd5fa29a82ffb7d18c8242f75d6f8fee968cf6dee00b32a879febb",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "medarot-3-kuwagata",
@@ -1181,7 +1181,7 @@
       "original_input_name": "Medarot 3 - Kuwagata Version",
       "original_input_sha256": "b0577f44de79b82bab9167e9fcd19bf139ab0023e44d7901e29e6a9b2b400182",
       "original_input_bytes": 4194304,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "medarot-parts-collection-1",
@@ -1190,7 +1190,7 @@
       "original_input_name": "Medarot - Parts Collection (Japan) (SGB Enhanced)",
       "original_input_sha256": "590c824ea7db3613258ac5d97b3c32d59691ce9db125c864b19adc044bd4ef89",
       "original_input_bytes": 524288,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "pokemon-prism",
@@ -1199,7 +1199,7 @@
       "original_input_name": "Pokemon Prism v0.95.0254",
       "original_input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     },
     {
       "game_id": "zelda-moonrise-regalia",
@@ -1208,7 +1208,7 @@
       "original_input_name": "Zelda - Moonrise Regalia (provider named v1.0.6; modified Oracle of Ages input); full gameplay/script language and hack version not independently certified",
       "original_input_sha256": "5369091fd491cacad9be15d39860aaa04d741b3804d6b129c735dc32af03f35d",
       "original_input_bytes": 2097152,
-      "identity_note": "实际汉化原输入；名称保留地区／修订／改版／已有汉化基底身份，不一律称原始商业ROM。"
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     }
   ]
 }

@@ -1,0 +1,109 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "saga-1",
+  "game_name": "沙加1／魔界塔士",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038632735",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038632735#154038632735",
+      "created_at": "2026-10-16T17:24:58+08:00",
+      "quote": "游戏中按暂停会产生背景花屏",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c050f2edab64034f7b46ee01e9c379310b551d5c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039624497",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039624497#154039624497",
+      "created_at": "2026-10-16T22:49:56+08:00",
+      "quote": "rom名称： saga1_sc_native_v1.0.0_test 后缀名.gb saga1_sc_dialogue10_v1.0.0_test 后缀名.gb 不能连着发后缀名，会被判定为网络链接",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039625473",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039625473#154039625473",
+      "created_at": "2026-10-16T22:50:14+08:00",
+      "quote": "8号和10号字都会花屏",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-76320c86dfc96e62",
+      "public_problem_key": "problem-cafda2d8b2adc429",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[待核版本与复现] 沙加1／魔界塔士：游戏内按暂停时背景花屏",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0-test",
+      "reported_font": "8px与10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038632735",
+        "11092365551|154039624497",
+        "11092365551|154039625473"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-cafda2d8b2adc429",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[待核版本与复现] 沙加1／魔界塔士：游戏内按暂停时背景花屏",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-76320c86dfc96e62"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038632735",
+        "11092365551|154039624497",
+        "11092365551|154039625473"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

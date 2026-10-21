@@ -1,0 +1,122 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "shiren-gb",
+  "game_name": "风来之西林GB",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154019944291",
+      "parent_pid": "154019933491",
+      "floor": 20,
+      "public_nickname": "CLCvv",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019944291#154019944291",
+      "created_at": "2026-10-11T10:48:26+08:00",
+      "quote": "风来的西林月影村的怪物：每一层的迷宫名字都没有汉化，图片上只是一部分。读档载入的图片没有汉化。神庙老人图标这上下移动后2.3数字就不见了。还有个字体问题，有些笔画多的字体直接糊成一坨，大佬能不能换个字体啥的",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019957286",
+      "parent_pid": "154019933491",
+      "floor": 20,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019957286#154019957286",
+      "created_at": "2026-10-11T10:53:20+08:00",
+      "quote": "原生字体是8px，10px会导致游戏速度拖慢一些，我放一个版本你自由选择哦。剩下的问题我来修复",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019970141",
+      "parent_pid": "154019933491",
+      "floor": 20,
+      "public_nickname": "CLCvv",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019970141#154019970141",
+      "created_at": "2026-10-11T10:58:14+08:00",
+      "quote": "好👍",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019982198",
+      "parent_pid": "154019933491",
+      "floor": 20,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019982198#154019982198",
+      "created_at": "2026-10-11T11:02:37+08:00",
+      "quote": "来自AI的回复：西林的问题已复现，漏译的地名和“请稍候”气泡确实是独立图片资源。选项 2、3 消失则是译文漏留光标空位，光标移过后把数字擦掉了。 正在一起修复，并检查同类选项；两种字号版本都会包含修正。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154020030420",
+      "parent_pid": "154019933491",
+      "floor": 20,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154020030420#154020030420",
+      "created_at": "2026-10-11T11:20:29+08:00",
+      "quote": "来自AI的回复：已完成调整，请测试。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1a889edda144ad349817618196a20cf430ad85bc.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "28a87d1157f1b7f333b6bc843481a3995869e7fd526e0e33b8c171401c59e6b1"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/aeb49ccad1c8a786c781ac082109c93d71cf50bc.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "a7239e4318e70350e9ac6adeaddde446bcf504b13cdbdffb92c6f9391ca5758c"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-8bb463367b971741",
+      "public_problem_key": null,
+      "game_ids": [
+        "shiren-gb"
+      ],
+      "summary": "地名/载入图漏译、选项消失和字体反馈",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154019944291",
+        "11092365551|154019957286",
+        "11092365551|154019970141",
+        "11092365551|154019982198",
+        "11092365551|154020030420"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -1,0 +1,138 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-empire",
+  "game_name": "巫术帝国",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038452105",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038452105#154038452105",
+      "created_at": "2026-10-16T16:26:21+08:00",
+      "quote": "在迷宫里遇到怪物时，怪物名字没翻译，怪物名称栏里还有乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5a63ae86c9177f3eacf5d10a36cf3bc79e3d561b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7377d800baa1cd11a6775f27ff12c8fcc2ce2d1b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/566f58da81cb39db5f014a5196160924aa18301b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154038487794",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038487794#154038487794",
+      "created_at": "2026-10-16T16:37:37+08:00",
+      "quote": "在迷宫里查看队伍角色信息还死机了两次",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039543671",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039543671#154039543671",
+      "created_at": "2026-10-16T22:24:57+08:00",
+      "quote": "ROM名称： 巫术帝国_简体中文_v0.1.2_普通8px取名修复测试版.gbc Wizardry Empire - Fukkatsu no Tsue (J) [C][!] (ZH-v0.1.0-8px).gbc 二者触发死机条件完全相同： 1：在迷宫里打开队伍信息，查看角色角色信息死机。 2：在迷宫里退出游戏之后，再次进入游戏，选择继续冒险>查看队伍>查看角色，此时随便选一个角色来查看，就会各种花屏和死机。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044861507",
+      "parent_pid": "154026907533",
+      "floor": 66,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044861507#154044861507",
+      "created_at": "2026-10-18T13:42:25+08:00",
+      "quote": "经测试，最新版：巫术帝国_简体中文_v0.1.3_普通8px角色菜单限定修复测试版.gbc ， 仍有以下三处漏翻译。 图1在地牢中遇敌时，敌人的名字未翻译，敌人队伍是乱码。 图2是在地牢里查看我方角色的装备时有漏翻。 图3是在地牢时，重启游戏加载存档后，在城里的酒馆对话框漏翻。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-a418997d045346c1",
+      "public_problem_key": "problem-25081e88884c76d7",
+      "game_ids": [
+        "wizardry-empire"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国：怪物名/名称栏日文乱码，迷宫查看队伍角色信息死机",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038452105",
+        "11092365551|154038487794",
+        "11092365551|154039543671",
+        "11092365551|154044861507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-25081e88884c76d7",
+      "game_ids": [
+        "wizardry-empire"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国：怪物名/名称栏日文乱码，迷宫查看队伍角色信息死机",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-a418997d045346c1"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038452105",
+        "11092365551|154038487794",
+        "11092365551|154039543671",
+        "11092365551|154044861507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

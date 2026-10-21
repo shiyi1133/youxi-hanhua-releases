@@ -1,0 +1,101 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-gaiden-1",
+  "game_name": "巫术外传1：女王的受难",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154039412428",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039412428#154039412428",
+      "created_at": "2026-10-16T21:44:52+08:00",
+      "quote": " : 回复 哇你是谁怎么傻乎乎 :发现两个地方会出现一帧花屏。图1是在点击城堡时，对话框刷新对话的一瞬间。图2是在地牢里随便一场战斗结束之后，打开菜单的一瞬间。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f79052d0fe6e394af3d7ca7acbd57b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e0cb05338744ebf84c904d389ff9d72a6159a77b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "♬肚皮吸碗🎶"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154044953905",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044953905#154044953905",
+      "created_at": "2026-10-18T14:14:27+08:00",
+      "quote": "经测试巫术外传1代v0.1.1字体8px仍有如下问题。 图1是在城内从小建筑里返回到地图画面时会有一帧花屏。 图2和图3是在地牢里，遇到有对话框的门时有乱码遮挡背景图。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-90acc3391de99e2e",
+      "public_problem_key": "problem-a069bfcec4b03aed",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "[待复现] 巫术外传1：城堡对白刷新及战斗后开菜单瞬间花屏",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "未明；父楼唯一当前交付参考v0.1.0",
+      "reported_font": "未明；父楼当前交付为普通8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039412428",
+        "11092365551|154044953905"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-a069bfcec4b03aed",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "[待复现] 巫术外传1：城堡对白刷新及战斗后开菜单瞬间花屏",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-90acc3391de99e2e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154039412428",
+        "11092365551|154044953905"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

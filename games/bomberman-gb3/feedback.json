@@ -1,0 +1,231 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "bomberman-gb3",
+  "game_name": "炸弹人GB3",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154018112096",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154018112096#154018112096",
+      "created_at": "2026-10-10T19:50:08+08:00",
+      "quote": "给我一下ROM哦",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154018301173",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154018301173#154018301173",
+      "created_at": "2026-10-10T20:50:33+08:00",
+      "quote": "通过百度网盘分享的文件：Bomberma… 链接:",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019693739",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019693739#154019693739",
+      "created_at": "2026-10-11T09:07:18+08:00",
+      "quote": "请测试。",
+      "quote_is_full": false,
+      "omission_notice": "仅摘录公开反馈；下载／存档分享地址或本机路径已省略。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f35bfe36afc379314419612fadc4b74542a911ea.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "c085ec10106fa6d4db707b2071b69ce46ef5df9f29c5236d153ded604bd88c43"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019760478",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019760478#154019760478",
+      "created_at": "2026-10-11T09:36:25+08:00",
+      "quote": "这么有效率的！？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019881714",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019881714#154019881714",
+      "created_at": "2026-10-11T10:25:00+08:00",
+      "quote": "多余的乱码，能不能修一下？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0caaa88b87d6277ff42ed43e6e381f30e924fc20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "5f5dfc6771b6f0db0364a57a4d6f92ad87f10f1e1916740e0aff81b410a0d87d"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019894397",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019894397#154019894397",
+      "created_at": "2026-10-11T10:29:46+08:00",
+      "quote": "可以~有问题直接@我就行",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154019946999",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154019946999#154019946999",
+      "created_at": "2026-10-11T10:49:27+08:00",
+      "quote": "已经修复并上传",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1f45f91f3a292df50bbf4a13fa315c6035a873e0.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "6c0d94b052d3e311bce789f6cd419aa774c96a2e1032451282ea69dc44f1f3ea"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154020553028",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154020553028#154020553028",
+      "created_at": "2026-10-11T14:32:31+08:00",
+      "quote": "顶上那一行，缺失的能不能修？不能修就算了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/32aa4390f603738df1cfec24f51bb051f919ec5f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "eceb1add47bb3c520fe1b280a269ce4e66b59f1479420e8d9e7319ce1cf508a5"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154020688040",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154020688040#154020688040",
+      "created_at": "2026-10-11T15:20:34+08:00",
+      "quote": "应该可以的，我试试",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154020744660",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "贴吧用户_03XKJKX",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154020744660#154020744660",
+      "created_at": "2026-10-11T15:40:44+08:00",
+      "quote": "修复了，下载1.0.2版本即可。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38759582d158ccbf96f6563c5fd8bc3eb035419e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "2131fddc4ad5e5e8f38bb09803b5796c661cea45664ce9b6850a74caed9b3530"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154020845691",
+      "parent_pid": "154018085489",
+      "floor": 8,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154020845691#154020845691",
+      "created_at": "2026-10-11T16:17:07+08:00",
+      "quote": "高效率。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-ea964e6b79d19c27",
+      "public_problem_key": null,
+      "game_ids": [
+        "bomberman-gb3"
+      ],
+      "summary": "乱码与顶部标题修复后的复测回访",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154018112096",
+        "11092365551|154018301173",
+        "11092365551|154019693739",
+        "11092365551|154019760478",
+        "11092365551|154019881714",
+        "11092365551|154019894397",
+        "11092365551|154019946999",
+        "11092365551|154020553028",
+        "11092365551|154020688040",
+        "11092365551|154020744660",
+        "11092365551|154020845691"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

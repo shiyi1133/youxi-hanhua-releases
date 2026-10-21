@@ -1,0 +1,265 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "grandia-parallel-trippers",
+  "game_name": "格兰蒂亚：平行旅途",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154040475262",
+      "parent_pid": "154035844987",
+      "floor": 94,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040475262#154040475262",
+      "created_at": "2026-10-17T07:52:48+08:00",
+      "quote": "0.1.0 8px，这两句话文本显示有异常，第二张图确定文本显示错误，第一张图结尾处“uq掉”是颜文字还是显示错误？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539d78b1ac47c87e950342ab0aa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3b5b296377cf33a87e850b1aa.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040494259",
+      "parent_pid": "154035844987",
+      "floor": 94,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040494259#154040494259",
+      "created_at": "2026-10-17T08:03:17+08:00",
+      "quote": "0.1.0 8px，这三处文本显示错误",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22dc3012b31bb051e982a62f707adab44bede0ba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b2b9ba1bb051f8199483164d9cb44aed2f73e7ba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0db33f7adab44aed38e8abe3f51c8701a08bfbba.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040498197",
+      "parent_pid": "154035844987",
+      "floor": 94,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040498197#154040498197",
+      "created_at": "2026-10-17T08:05:26+08:00",
+      "quote": "0.1.0 8px，在可移动到不同大区域的选择界面，画面左上方显示地名处显示错误或者没翻译。图一和图二是同一个地方，但显示不同的文字或乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d9cdd9160924ab1871b7f43073fae6cd7a890bbb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3d565b66d01609244e84b71c920735fae7cd34bb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b8975cd2f84492442a7d8330ebb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154040509071",
+      "parent_pid": "154035844987",
+      "floor": 94,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154040509071#154040509071",
+      "created_at": "2026-10-17T08:11:12+08:00",
+      "quote": "0.1.0 8px，战斗胜利后结算界面显示错误，画面上方一处，画面左侧两处（3级下一行、11级下一行）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/889052b5c9ea15ce6976f50ef0003af33b87b24c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3b59c96377cf33a87e850b14c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154050226925",
+      "parent_pid": "154035844987",
+      "floor": 94,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154050226925#154050226925",
+      "created_at": "2026-10-19T23:55:57+08:00",
+      "quote": "8px 0.1.2，打开角色菜单，每次移动光标时有1-2秒钟的卡顿",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40f9932bddaed64034f79f01968.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5ab87af082025aaf75c60dccbdedab64024f1a68.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d104ad0f4bfbfbed7fad45783ef0f736aec31f68.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/81feba19ebc4b7459d60c41189fc1e178b821568.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-a077c26a12e1c321",
+      "public_problem_key": "problem-94e402b4dd61f348",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "[待复现] 格兰蒂亚：平行旅途 v0.1.0普通8px 对白异常字符、地名与战后结算显示",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154040475262",
+        "11092365551|154040494259",
+        "11092365551|154040498197",
+        "11092365551|154040509071"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e67957eb50f47420",
+      "public_problem_key": "problem-334d9428f8b3576a",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "玩家报告打开角色菜单后，每次移动光标有1–2秒卡顿；4图可见队伍配置、资料库与系统菜单等不同光标位置。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050226925"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-94e402b4dd61f348",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "[待复现] 格兰蒂亚：平行旅途 v0.1.0普通8px 对白异常字符、地名与战后结算显示",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-a077c26a12e1c321"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154040475262",
+        "11092365551|154040494259",
+        "11092365551|154040498197",
+        "11092365551|154040509071"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-334d9428f8b3576a",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "玩家报告打开角色菜单后，每次移动光标有1–2秒卡顿；4图可见队伍配置、资料库与系统菜单等不同光标位置。",
+      "state": "closed",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e67957eb50f47420"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154050226925"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

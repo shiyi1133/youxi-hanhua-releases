@@ -1,0 +1,3350 @@
+{
+  "schema": "public_game_feedback_cases_with_public_evidence_v2",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "case_count": 125,
+  "cases": [
+    {
+      "public_case_key": "case-86310be58df28d1c",
+      "public_problem_key": null,
+      "game_ids": [
+        "last-bible-ii"
+      ],
+      "summary": "传送城市名与人物头像乱码修复后的复测",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154018671612",
+        "11092365551|154018675443",
+        "11092365551|154018678006",
+        "11092365551|154018795494",
+        "11092365551|154018800114",
+        "11092365551|154018814185",
+        "11092365551|154018817160",
+        "11092365551|154018828405",
+        "11092365551|154018835664",
+        "11092365551|154018966046",
+        "11092365551|154018991763",
+        "11092365551|154018993506",
+        "11092365551|154019013496",
+        "11092365551|154019176705",
+        "11092365551|154019480652",
+        "11092365551|154023553319",
+        "11092365551|154023870726",
+        "11092365551|154023909050",
+        "11092365551|154023973356"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-099a047e7dd052a6",
+      "public_problem_key": "problem-39bfe9ad4346add4",
+      "game_ids": [
+        "last-bible-ii"
+      ],
+      "summary": "状态菜单选择人物时的拖慢反馈",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154023870726",
+        "11092365551|154023909050",
+        "11092365551|154023973356"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-2fb447b80db1a445",
+      "public_problem_key": null,
+      "game_ids": [
+        "tenchi-o-kurau"
+      ],
+      "summary": "冷启动掉档修复后的复测回访",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154018102114",
+        "11092365551|154018211073",
+        "11092365551|154018819383",
+        "11092365551|154018825425",
+        "11092365551|154018964862",
+        "11092365551|154020774087",
+        "11092365551|154020810547",
+        "11092365551|154020884576",
+        "11092365551|154021124226",
+        "11092365551|154021164081",
+        "11092365551|154021178781",
+        "11092365551|154021858828",
+        "11092365551|154021888762"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-ea964e6b79d19c27",
+      "public_problem_key": null,
+      "game_ids": [
+        "bomberman-gb3"
+      ],
+      "summary": "乱码与顶部标题修复后的复测回访",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154018112096",
+        "11092365551|154018301173",
+        "11092365551|154019693739",
+        "11092365551|154019760478",
+        "11092365551|154019881714",
+        "11092365551|154019894397",
+        "11092365551|154019946999",
+        "11092365551|154020553028",
+        "11092365551|154020688040",
+        "11092365551|154020744660",
+        "11092365551|154020845691"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-8bb463367b971741",
+      "public_problem_key": null,
+      "game_ids": [
+        "shiren-gb"
+      ],
+      "summary": "地名/载入图漏译、选项消失和字体反馈",
+      "issue_state": "not_verified",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154019944291",
+        "11092365551|154019957286",
+        "11092365551|154019970141",
+        "11092365551|154019982198",
+        "11092365551|154020030420"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7c11b5c2af3f566f",
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground"
+      ],
+      "summary": "柯南三作反馈待补具体截图与操作",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154021775365",
+        "11092365551|154021792505",
+        "11092365551|154021796153",
+        "11092365551|154021797118",
+        "11092365551|154021817349",
+        "11092365551|154021866424",
+        "11092365551|154022106232",
+        "11092365551|154022265597",
+        "11092365551|154024676666",
+        "11092365551|154024823863",
+        "11092365551|154024933944",
+        "11092365551|154024938853",
+        "11092365551|154024985272",
+        "11092365551|154025035583",
+        "11092365551|154025456656",
+        "11092365551|154025489598",
+        "11092365551|154025496511",
+        "11092365551|154025584113",
+        "11092365551|154025621701"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-2ea26254b27e5ad1",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "限定修复外的BUG线索与复现资料",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021147424",
+        "11092365551|154021151271",
+        "11092365551|154021255167",
+        "11092365551|154021854502",
+        "11092365551|154021890849"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-40c05d9530a6edde",
+      "public_problem_key": "problem-1474a39680589ead",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：使魔宿舍文字漏译",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.6",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1efd275e90282c3a",
+      "public_problem_key": "problem-2c546a885f517aa3",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待复现] 魔物之塔：被动/特殊能力说明文字错乱",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.6",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154023908493",
+        "11090183907|154024436826",
+        "11090183907|154024697285",
+        "11090183907|154025080914"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5b257c60b2cfb520",
+      "public_problem_key": "problem-436f86799e28c63d",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王伟大航路：后备人员更换界面文字异常",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-910cd61095f457bc",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-74baf4213f7d5205",
+      "public_problem_key": "problem-7376f47bbd3b1656",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "哈利波特与魔法石：大字版字体bank中断恢复导致随机乱码（v1.0.2已修复）",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.1",
+      "reported_font": "大字号测试版",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021719147",
+        "11092365551|154021727639",
+        "11092365551|154021728607",
+        "11092365551|154025248449",
+        "11092365551|154025427615",
+        "11092365551|154025842621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-63045de6d75e1825",
+      "public_problem_key": "problem-6f945a7379a0c972",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "后备界面能力加减栏乱码",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-421cc52e095e8b26",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "恶魔之子战斗全屏0、列表重名及图鉴/UI乱码（具体作品待补）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.3",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154038195863",
+        "11092365551|154038197837",
+        "11092365551|154039554134",
+        "11092365551|154039562196",
+        "11092365551|154039563920"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-42e42035bc7c3d99",
+      "public_problem_key": "problem-671434cba9ccb982",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书日文原版开局无声观察（是否原生行为或汉化版复现待确认）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-6cd25b70e0669492",
+      "public_problem_key": "problem-e904377e9133e21f",
+      "game_ids": [
+        "tenchi-o-kurau"
+      ],
+      "summary": "吞食天地v1.0.2武器店：铁剑显示成休剑（待复现）",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.2",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154026052977"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5fded0c8e36f0e5b",
+      "public_problem_key": "problem-0cdeb9e178bd1a2d",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "[待复现] 十字猎人：X猎人篇，游戏启动界面读档无反应",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024559416",
+        "11092365551|154024580189",
+        "11092365551|154024580678",
+        "11092365551|154026121126",
+        "11092365551|154026155613",
+        "11092365551|154026261650"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-bfd93e9418e6bdf3",
+      "public_problem_key": "problem-83ec46f28e6518d4",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：战斗敌人名、招式名残留日文（待排查）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "1.02版",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024600532",
+        "11092365551|154024601397",
+        "11092365551|154024715120",
+        "11092365551|154024728555",
+        "11092365551|154024866725",
+        "11092365551|154024970266",
+        "11092365551|154025119210",
+        "11092365551|154025129052",
+        "11092365551|154026135981",
+        "11092365551|154026316611",
+        "11092365551|154026569308",
+        "11092365551|154026571134",
+        "11092365551|154026573645",
+        "11092365551|154026590158",
+        "11092365551|154026594716",
+        "11092365551|154026601074",
+        "11092365551|154026605630",
+        "11092365551|154026610050",
+        "11092365551|154026718956",
+        "11092365551|154027312649",
+        "11092365551|154027382802",
+        "11092365551|154027897294",
+        "11092365551|154027930804",
+        "11092365551|154027966982"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-faeefcb583f12fc2",
+      "public_problem_key": "problem-1089e221d863f18d",
+      "game_ids": [
+        "devil-children-shiro"
+      ],
+      "summary": "白之书战斗魔法详情译文难懂",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "8px and 10px-dialogue (same reporter followup)",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154027865964",
+        "11092365551|154027866788",
+        "11092365551|154028410792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-abf003d1eb6c9f16",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书10px v1.0.1对白出现第二行溢出",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "1.01",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025627678",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-b0b7494a88f9593f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王省略号或声响描述附近文字缺失",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025661500",
+        "11092365551|154025991313",
+        "11092365551|154027543521",
+        "11092365551|154048786590",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7dbb31225592fb56",
+      "public_problem_key": "problem-0de7c4de2cdecbf1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：玩家报告坏档",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024631668",
+        "11092365551|154024823325",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025661500",
+        "11092365551|154025991313",
+        "11092365551|154027543521",
+        "11092365551|154027865159",
+        "11092365551|154028021542",
+        "11092365551|154028109427",
+        "11092365551|154028427739",
+        "11092365551|154028912122"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-2390a5211deee6eb",
+      "public_problem_key": "problem-85b287afae70905d",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待确认版本与剧情条件] 魔物之塔：30层对话后无法到31层",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154028016548"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-dc2bf11de594e25b",
+      "public_problem_key": "problem-c1caab448a174e0a",
+      "game_ids": [
+        "beast-shooter-gba"
+      ],
+      "summary": "兽斗射手：玩家通关后反馈一处残留日文，待定位",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154023423215",
+        "11097560613|154023437944",
+        "11097560613|154023854009",
+        "11097560613|154026372825",
+        "11097560613|154026934200",
+        "11097560613|154026979193",
+        "11097560613|154027059016",
+        "11097560613|154027241488",
+        "11097560613|154027364771",
+        "11097560613|154027406276",
+        "11097560613|154028538204",
+        "11097560613|154028734450"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5b6738b77d4f5301",
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-island",
+        "conan-underground"
+      ],
+      "summary": "柯南第二轮：标题／头像／菜单图块和速度设置残留日文",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038716314",
+        "11092365551|154038977448",
+        "11092365551|154048566900",
+        "11092365551|154051129293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-adf93c114ce30a75",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-underground"
+      ],
+      "summary": "柯南地下游乐园v1.0.2：推理摘要显示不全",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.2",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038977448"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-eab2c8ffe4f1ebad",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island"
+      ],
+      "summary": "柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.1",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038977448"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-73251cc6b76d6c92",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-train"
+      ],
+      "summary": "柯南豪华列车v1.0.3：对白下方笔画残留",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.3",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154038977448"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e793e333242f0619",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "dt-lords-of-genomes"
+      ],
+      "summary": "DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029423609",
+        "11092365551|154031709170"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-63a908948eb64951",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.1版",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029487823",
+        "11092365551|154029490009",
+        "11092365551|154029491531",
+        "11092365551|154038630725",
+        "11092365551|154038635323",
+        "11092365551|154038639796",
+        "11092365551|154038903946"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1f4a1a2a278a74de",
+      "public_problem_key": "problem-45c6c9416c578449",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "[待核版本] 魔物之塔：10px句号显示细点、8px默认主角名在对白中显示日文乱码",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154029428597"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5b8200b7df8b57d2",
+      "public_problem_key": "problem-da842180b7fb1cf5",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "极限运动：8px v0.9.0屋顶草皮与NPC后墙出现汉字，取名对白后恢复的现象待复现",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.9",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029497328",
+        "11092365551|154029502726",
+        "11092365551|154029503298",
+        "11092365551|154047313872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-6bd0fcf592305cbc",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.3",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029513304"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-fe3f9e8b10d51339",
+      "public_problem_key": "problem-45c6c9416c578449",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "魔物之塔：10px v1.0.8主角姓名显示待核（默认／自定义待确认）；另有8px默认名乱码与10px句号反馈",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "108",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154029527215"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4ab74c8d26e6d9c2",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "monster-traveler"
+      ],
+      "summary": "怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字体版本",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029576536"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-60ff4c73a8c3fe62",
+      "public_problem_key": "problem-3752f42756b8fde9",
+      "game_ids": [
+        "monster-traveler"
+      ],
+      "summary": "怪兽旅行者：大字金钱单位及开场／出门战斗漏译反馈待核（实际ROM版本待补）",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字体版本",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029576536",
+        "11092365551|154029579477"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-0f7b524c87d98e4a",
+      "public_problem_key": "problem-f96fe3ed7a4c921a",
+      "game_ids": [
+        "metal-walker"
+      ],
+      "summary": "钢铁行者：大字闪烁、黄色闪屏／残留及两字号文字音效反馈待核（实际ROM版本待补）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029633044",
+        "11092365551|154029638963"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-cafffaf7481c785a",
+      "public_problem_key": "problem-83ec46f28e6518d4",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永1：大字v1.0.4调查/对白后上方和菜单乱码；普通v1.0.2装备说明异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154030785343",
+        "11092365551|154030917995",
+        "11092365551|154030922196",
+        "11092365551|154032177091",
+        "11092365551|154032179870",
+        "11092365551|154032310002",
+        "11092365551|154032312811",
+        "11092365551|154034733763",
+        "11092365551|154044042480"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-345411ebfe8ddf9f",
+      "public_problem_key": "problem-c873de91f1a5f654",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永1：普通v1.0.2召唤兽四只变两只，原因待核",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "小字1.02版",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154035178372",
+        "11092365551|154035215226"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-d5ed9d305b4e1449",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：8px v0.1.0战斗选项说明及道具菜单错误",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "8px，0.1版 / 8px v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154030050041",
+        "11092365551|154030062259",
+        "11092365551|154045178810",
+        "11092365551|154045181696",
+        "11092365551|154045188200",
+        "11092365551|154045197555",
+        "11092365551|154045208965",
+        "11092365551|154045219514",
+        "11092365551|154047257767",
+        "11092365551|154047260710",
+        "11092365551|154047266943",
+        "11092365551|154047305266"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-fb67513da86cb96c",
+      "public_problem_key": "problem-23c885afd21fd56f",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "放课后冒险：10px v0.9.0局部对白残日文；混合大小字先区分既有范围",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "10px v0.9.0",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154030070139",
+        "11092365551|154030093621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-d4752ef8d279d85c",
+      "public_problem_key": "problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：标题Logo漏“与”字",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154032022148"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-97164fc646df0049",
+      "public_problem_key": "problem-6828881e769d2b57",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "海贼王：大字版标题START附近文字异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": "大字版",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154032116702",
+        "11092365551|154032121571"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-26364a39ecd77fa4",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：满30不自动换箱和满级伤害疑问",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154033155756",
+        "11092365551|154033158745",
+        "11092365551|154036507002",
+        "11092365551|154036777950"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-bdec418bac68e1f6",
+      "public_problem_key": "problem-85b287afae70905d",
+      "game_ids": [
+        "azure-dreams"
+      ],
+      "summary": "魔物之塔：31层入口追加报告及玩家互助步骤",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154035579859",
+        "11090183907|154035651381",
+        "11090183907|154035655189"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-006312ed3282a155",
+      "public_problem_key": "problem-1f198143627a3ea1",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "[待确认版本与复现] 海贼王：山治、乌索普大招对白漏译",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.4",
+      "reported_font": "10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154036265426",
+        "11092365551|154038602514",
+        "11092365551|154039817511",
+        "11092365551|154040583506",
+        "11092365551|154040586505"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-ca484564ebccdd5b",
+      "public_problem_key": "problem-5ba1cc1f45aae96e",
+      "game_ids": [
+        "bokujou-monogatari-gb3"
+      ],
+      "summary": "[功能诉求／待调查] 牧场物语GB3：切换地图时同曲BGM尽量连续播放",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154036121709",
+        "11092365551|154036547219"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-995b6d34f365bd36",
+      "public_problem_key": "problem-186c659fee921929",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "[待复现／版本待确认] ONIⅢ：主角使用默认名时，对话中的姓名乱码",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154037793317",
+        "11092365551|154041567549"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-6bbe08414e9117aa",
+      "public_problem_key": "problem-2945033da014c210",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "[待复现／版本待确认] ONIⅣ：开场第三句话出现花屏",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.1",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154037796832",
+        "11092365551|154041567549"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a5428d8bbefa90bb",
+      "public_problem_key": "problem-8ac01031a1a8ba87",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "[待复现／版本待确认] ONIⅤ：起名默认名未汉化、文字显示严重拖慢",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.1",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154037804249",
+        "11092365551|154041567549",
+        "11092365551|154046712396",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a418997d045346c1",
+      "public_problem_key": "problem-25081e88884c76d7",
+      "game_ids": [
+        "wizardry-empire"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国：怪物名/名称栏日文乱码，迷宫查看队伍角色信息死机",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038452105",
+        "11092365551|154038487794",
+        "11092365551|154039543671",
+        "11092365551|154044861507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-25c397c8b8686d47",
+      "public_problem_key": "problem-d8ee9c0a20c60ce5",
+      "game_ids": [
+        "wizardry-empire-2"
+      ],
+      "summary": "[待核版本与复现] 巫术帝国Ⅱ 复活之杖：酒馆/怪物名未译与乱码，查看队伍或继续迷宫时概率卡死/出现GBC警告",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038505875",
+        "11092365551|154039543671",
+        "11092365551|154044879507"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-51fd3227772a4080",
+      "public_problem_key": "problem-31bdd3a3ea17ffde",
+      "game_ids": [
+        "wizardry-1-gbc"
+      ],
+      "summary": "[覆盖改进／保留预设姓名] 巫术Ⅰ狂王的试炼场：预置队员名保留日文，记录中文化覆盖建议",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038525717"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-30f6289092c08c6c",
+      "public_problem_key": "problem-763fc318a0e21c53",
+      "game_ids": [
+        "wizardry-2-gbc"
+      ],
+      "summary": "[覆盖改进／保留预设姓名] 巫术Ⅱ利尔伽敏的遗产：预置队员名保留日文，记录中文化覆盖建议",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038551244"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4ea78107337627d5",
+      "public_problem_key": "problem-efe12056752cedff",
+      "game_ids": [
+        "wizardry-3-gbc"
+      ],
+      "summary": "[覆盖改进／保留预设姓名] 巫术Ⅲ钻石骑士：预置队员名保留日文，记录中文化覆盖建议",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038559819"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7fb1bf5bc683fc7a",
+      "public_problem_key": "problem-43c9f2abd9a24515",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅱ古代皇帝的诅咒：王宫第一页和魔法名称日文，迷宫一段时间后队伍列表乱码",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038570803",
+        "11092365551|154039603373",
+        "11092365551|154040023394"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-27aea9c599994f1c",
+      "public_problem_key": "problem-2785e9dab704f7f5",
+      "game_ids": [
+        "wizardry-gaiden-3"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅲ暗之圣典：遇敌右下角偶发乱码、画面切换约1秒整体乱码",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038588891",
+        "11092365551|154039609959",
+        "11092365551|154045017266"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e0098d8bbee750db",
+      "public_problem_key": "problem-137705b4eea6fb42",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "[待核版本与复现] 极限运动：8px v0.9.1空姓名直接确认后对白使用Guppi，选择画面使用古比",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.9.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038492645"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-76320c86dfc96e62",
+      "public_problem_key": "problem-cafda2d8b2adc429",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[待核版本与复现] 沙加1／魔界塔士：游戏内按暂停时背景花屏",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0-test",
+      "reported_font": "8px与10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038632735",
+        "11092365551|154039624497",
+        "11092365551|154039625473"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-3627a2bb79f37af4",
+      "public_problem_key": "problem-40e31bcc9b01fedd",
+      "game_ids": [
+        "saga-2"
+      ],
+      "summary": "[待核版本与复现] 沙加2：秘宝传说：开场结束乱码、对白首帧残留上一段最后一帧",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0-test",
+      "reported_font": "8px与10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038663862",
+        "11092365551|154039632447"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-c0098be54a4388ad",
+      "public_problem_key": "problem-0d4651cabcf37571",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "[待核版本与复现] 鬼太郎：妖怪创造主现身！：首个Boss死机与图鉴乱码",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.1",
+      "reported_font": "10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038646518",
+        "11092365551|154039204026",
+        "11092365551|154047248767",
+        "11092365551|154047251813",
+        "11092365551|154047252882",
+        "11092365551|154047255156",
+        "11092365551|154047260787",
+        "11092365551|154047264745",
+        "11092365551|154047267650",
+        "11092365551|154049060232",
+        "11092365551|154051472175"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-76d0ef9a88758210",
+      "public_problem_key": "problem-70754952ce4d42fb",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "summary": "[待复现] J联赛胜利十一人Advance2002 v0.1.0：菜单字形/图块异常、残留日文和署名遮挡",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.1.0（容器文件名和截图标签）",
+      "reported_font": "8/12px（截图底部标签，普通原生UI）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154038536282",
+        "11097560613|154038544927",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-cadf7e70b05ed9fb",
+      "public_problem_key": "problem-d67bad9f75a4508a",
+      "game_ids": [
+        "world-advance-soccer"
+      ],
+      "summary": "[待复现] 世界足球迈向胜利之路 v0.1.0：菜单字形/图块异常和多处日文残留",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.1.0（容器与游戏子目录文件名）",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154038531815",
+        "11097560613|154038548575",
+        "11097560613|154048988684"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-06a6b4386f6c9666",
+      "public_problem_key": "problem-be939c6cdb2f2aeb",
+      "game_ids": [
+        "formation-soccer-2002"
+      ],
+      "summary": "[待复现] 立体足球2002 v0.1.0：菜单字形下沿缺损、颜色/文本框异常及部分日文残留",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "0.1.0（容器与游戏子目录文件名）",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154038531815",
+        "11097560613|154038548575"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-90acc3391de99e2e",
+      "public_problem_key": "problem-a069bfcec4b03aed",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "[待复现] 巫术外传1：城堡对白刷新及战斗后开菜单瞬间花屏",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "未明；父楼唯一当前交付参考v0.1.0",
+      "reported_font": "未明；父楼当前交付为普通8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039412428",
+        "11092365551|154044953905"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-301ad500f24a01d2",
+      "public_problem_key": "problem-248c77e6f0bb6309",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[待复现] GB哈罗机器人 v0.1.0普通8px：是／否选项字形或语义异常",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039462891"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7b1f55919d4d1074",
+      "public_problem_key": "problem-df8b7cb6c349d663",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[覆盖改进／待核] GB哈罗机器人 v0.1.0普通8px：属性相克表及详情残留日文",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039493008",
+        "11092365551|154039495085",
+        "11092365551|154039498437"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-c1cbd8d34278ec36",
+      "public_problem_key": "problem-89eeac6be81ae7a1",
+      "game_ids": [
+        "digimon-crystal"
+      ],
+      "summary": "[待核版本与复现] 宝可梦水晶数码暴龙大字：地图文字消失、飞行标签及技能／移动疑问",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.1",
+      "reported_font": "10px-dialogue",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038870791",
+        "11092365551|154039128885",
+        "11092365551|154039483209",
+        "11092365551|154039484102",
+        "11092365551|154039485103",
+        "11092365551|154039959883",
+        "11092365551|154040267948",
+        "11092365551|154040364920",
+        "11092365551|154040365175",
+        "11092365551|154040365415",
+        "11092365551|154040366429",
+        "11092365551|154040892777",
+        "11092365551|154047228933",
+        "11097560613|154040374261",
+        "11097560613|154040375498"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a077c26a12e1c321",
+      "public_problem_key": "problem-94e402b4dd61f348",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "[待复现] 格兰蒂亚：平行旅途 v0.1.0普通8px 对白异常字符、地名与战后结算显示",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154040475262",
+        "11092365551|154040494259",
+        "11092365551|154040498197",
+        "11092365551|154040509071"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-383aabb2a8a00bf0",
+      "public_problem_key": "problem-5b4250fa5e668d6c",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "[待复现] 马里奥网球GB v1.0.0普通8px：能力页未译、模式说明异常与切换卡顿",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154040518630",
+        "11092365551|154040522943",
+        "11092365551|154040528407",
+        "11092365551|154045251141",
+        "11092365551|154047283624",
+        "11092365551|154047288277",
+        "11092365551|154047289739"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-76bc4941de72c620",
+      "public_problem_key": "problem-caeb55b80dc045a7",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "[待复现] 四驱兄弟GB v0.1.0普通8px：文本框顶边缺段及初始车介绍异常",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154040542987",
+        "11092365551|154040555442"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-eaf53b75946aeea2",
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154043155088",
+        "11092365551|154043162183",
+        "11092365551|154045341947",
+        "11092365551|154045462108",
+        "11092365551|154045508059",
+        "11092365551|154045748153",
+        "11092365551|154047256388",
+        "11092365551|154047257980"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7831b22987e25ae8",
+      "public_problem_key": "problem-581944442a9bd2d1",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041478869",
+        "11090183907|154041498146",
+        "11090183907|154041505962",
+        "11092365551|154042331941",
+        "11092365551|154042574041",
+        "11092365551|154045348350"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-170de8c1bd891587",
+      "public_problem_key": "problem-b2eda94afd468b96",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11090183907|154041460639",
+        "11090183907|154041483315",
+        "11092365551|154042331941",
+        "11092365551|154042574041"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-3408333e0cf83365",
+      "public_problem_key": "problem-196e438cb41aa0f5",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "两张玩家图可见开始游戏上方黑条、数个人物姓名后的黑色方块；需当前精确8px目标对照复现，不牵连8x12目标。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042143497"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-662052e64f201ac8",
+      "public_problem_key": "problem-062ca319b2e0be0a",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "球总好学明确8px v1.0.0，战斗/状态光标约1–2秒；后续自行计划换模拟器不能当维护已复现。；另一作者bgcnh只说小字版及iOS Delta，版本未知；新增加速后关加速、对话换行时拖慢线索并入此性能Issue，保持其版本未知。；不因发生于换行时就归排版既有反馈，不惯例索模拟器版本或存档。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "球总好学：v1.0.0；bgcnh：未知",
+      "reported_font": "球总好学：8px；bgcnh：小字（具体px未知）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042147853",
+        "11092365551|154042149640",
+        "11092365551|154042152715",
+        "11092365551|154043191051"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-9056deb77ed5bdd1",
+      "public_problem_key": "problem-eea3443a4d24d33b",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042170820",
+        "11092365551|154042173337",
+        "11092365551|154042177461"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-b591de350f200946",
+      "public_problem_key": "problem-81967b6b1d185027",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "七张实际图可见多个卡面白/色块；需原输入、当前输出同场景对照，不因存在原画保留边界就认定正常或已修。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042205264"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-99d7915f09331621",
+      "public_problem_key": "problem-6671dfd6a459c1fd",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "九图含日文人名/属性联动句、组合及胜负判定图像。；发布已声明标题/副标题/场景招牌/卡面/深层未定位图像保留；该限制不能自动涵盖全部动态文字，需分别核消费者，覆盖建议不混入纯BUG计数。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042220500",
+        "11092365551|154045324389"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-ccdd564562923146",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042226090",
+        "11092365551|154045988200"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a4174a88e2abf1fb",
+      "public_problem_key": "problem-43823ec4caa7d2ef",
+      "game_ids": [
+        "one-piece-grand-line"
+      ],
+      "summary": "两张新图分别报告画面左下与角色状态页下方日文残留。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v1.0.6",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042810802",
+        "11092365551|154042827069"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-f1fff43df66ca1c8",
+      "public_problem_key": "problem-6c4e274e6733b343",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "多位玩家称非主角姓名后原有引号或间隔符号框被去掉。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154043129954",
+        "11092365551|154044579110",
+        "11092365551|154045190365",
+        "11092365551|154045579206",
+        "11092365551|154047244311",
+        "11092365551|154048193305"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-106aa283c0d75a9b",
+      "public_problem_key": "problem-64c46af8adc62f1d",
+      "game_ids": [
+        "saga-2-dx"
+      ],
+      "summary": "玩家称DX2音乐也有卡顿。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154043281410"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-30c8eb0b33ae4adf",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "sylvanian-families-fashion-designer"
+      ],
+      "summary": "切换地图的标题被报告显示越界。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.0（由玩家状态文件名候选）",
+      "reported_font": "12px8px（玩家文件名）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154043716841"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-0657c0a66844626b",
+      "public_problem_key": "problem-b61a6e4b16a6f8d7",
+      "game_ids": [
+        "sylvanian-families-fashion-designer"
+      ],
+      "summary": "同反馈还报告地图背景日文未去掉、接树果游戏感叹号/のこり残留。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.0（由玩家文件名候选）",
+      "reported_font": "12px8px（玩家文件名）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11097560613|154043716841"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e2f8617f838f1123",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "旧v1.0.2及新v1.0.3",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154046220938",
+        "11092365551|154046225079"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-09b1953481460e03",
+      "public_problem_key": "problem-bd13b3df0460bdd0",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家在三部曲共用楼报告开场后村子中间NPC第二句日文。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154044934292",
+        "11092365551|154046686417",
+        "11092365551|154047624012"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-822b7cc4813e908c",
+      "public_problem_key": "problem-8f9477ec2d041015",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "玩家给两图，城镇进入或退出小建筑时一帧花屏；进迷宫立即转身，关闭是否退出冒险提示后残留文字。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154044985369"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-62e37a6faaa19bdd",
+      "public_problem_key": "problem-b66aac992e978b24",
+      "game_ids": [
+        "oni-iii",
+        "oni-iv",
+        "oni-v"
+      ],
+      "summary": "玩家希望字体放大，认为部分现有字难以辨认。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154045210375",
+        "11092365551|154045323344",
+        "11092365551|154051623166",
+        "11092365551|154054402224",
+        "11092365551|154054423977",
+        "11092365551|154054425752",
+        "11092365551|154054924756"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1826114663d9d86d",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v1.0.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045256942"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-8c997fc6e58f912e",
+      "public_problem_key": "problem-b8328f670d349620",
+      "game_ids": [
+        "mario-tennis-gb",
+        "mini-yonku-gb",
+        "mini-yonku-gb-2"
+      ],
+      "summary": "玩家建议三游戏保留原Logo及图像，把中文名另列下方；马网另提英文Logo候选。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "马网v1.0.1；四驱两作v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154045268956",
+        "11092365551|154045274541",
+        "11092365551|154045745920",
+        "11092365551|154045749051",
+        "11092365551|154045750753",
+        "11092365551|154047314465",
+        "11092365551|154047556312",
+        "11092365551|154048088976",
+        "11092365551|154048162179",
+        "11092365551|154048167425"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-92b04c54dd302e2f",
+      "public_problem_key": "problem-1d08306e28c5ac6b",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "玩家补卡片详情“特征”后异常文字及游戏说明教程下方边框缺线。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045327522",
+        "11092365551|154045387395"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-67396a3c029f8bd9",
+      "public_problem_key": "problem-f7a2ebfcc8625c94",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "此前照片v0.1.1，后续是否更换未证",
+      "reported_font": "此前照片普通8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045410725",
+        "11092365551|154046916892",
+        "11092365551|154046917205"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e6f4d68313124d8e",
+      "public_problem_key": "problem-1b19e8d4feeca2e4",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "新v0.1.1普通8px反馈存档页游戏时间字段异常与多场景边框缺线。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045345504",
+        "11092365551|154045381333"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-65192b03d46ef48b",
+      "public_problem_key": "problem-6969c5ef348cf4d0",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "购初始车辆后两张全身图上方名称一辆仅显示“蛇”、另一辆空白。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045369877"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1f8c580711eb6ee2",
+      "public_problem_key": "problem-57793ff8d482c097",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "玩家给两图指出标题Logo右侧孤立小字“乎”。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045418841"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-2a1d7c985bb3a6e1",
+      "public_problem_key": "problem-f5903b49cf597e8a",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "“这样可以吗？”上方固定出现半引号样式像素，附两图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v1.0.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045955029",
+        "11092365551|154047285691",
+        "11092365551|154047291993"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5b684d39104bc9a9",
+      "public_problem_key": "problem-1c7231e386bebc65",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "玩家报告组合说明“力量”的“力”右上固定两黑点。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045988200",
+        "11092365551|154047600016",
+        "11092365551|154047603710",
+        "11092365551|154047606244"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-5d18817a84d0581e",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "新四图中前两图为取名确认“なまえ/これでいいですか/はい/いいえ/男女”未译。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.9.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046043369",
+        "11092365551|154047324998",
+        "11092365551|154047327875"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4d1a86f445f000b1",
+      "public_problem_key": "problem-f4242e0551aa150d",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "菜单-图鉴的左一门形图标进入后异常，附三图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v1.0.3",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046193465"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-9841b3ddd62e7308",
+      "public_problem_key": "problem-4798e77b7649a204",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": "大字（具体字号未确认）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046569100",
+        "11092365551|154046608310",
+        "11092365551|154047337909",
+        "11092365551|154053058855",
+        "11092365551|154053196484"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-8f0ceda017c193d4",
+      "public_problem_key": "problem-ee4b75963875976b",
+      "game_ids": [
+        "guranbo",
+        "robot-ponkottsu-2-cross"
+      ],
+      "summary": "同一楼分享两游戏的玩家反馈文字太长挤在一起、取名/后续字幕有残影。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11097560613|154044569908"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-a5ff4c57133828d0",
+      "public_problem_key": "problem-a020fc815d431bb3",
+      "game_ids": [
+        "bokujou-monogatari-gb3"
+      ],
+      "summary": "玩家报告“钓到鱼不显示名字”，当前仅有公开描述和3图，维护未运行复现。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "未确认；分享文件名为牧场物语GB3修正版.gb",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154047434857"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-733f46a2cb8a1c77",
+      "public_problem_key": "problem-6172579ccd76d65f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文化篇偷看洗澡事件对话/选项残留日文；公开照片可见日文选项。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154046690982",
+        "11092365551|154048786590"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-4fc1b958aac9569b",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.9.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154047317375"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e2a3e28780834303",
+      "public_problem_key": "problem-f1ff07e2f57bb37f",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "另一玩家称ONI5主角特技无法使用、法术界面卡顿闪烁。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154047775579",
+        "11092365551|154048525313",
+        "11092365551|154050151293"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-80d25ac6c9a760cb",
+      "public_problem_key": "problem-765a8d0b60baf9f9",
+      "game_ids": [
+        "double-dragon-2"
+      ],
+      "summary": "共用82楼新增图展示横版动作街道招牌/背景重复乱码和转场背景空白；疑为双截龙2，须核实际ROM身份。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154048209631",
+        "11092365551|154050751559"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-d04fd6d2f8bedc6c",
+      "public_problem_key": "problem-3e3cad92005bbdf5",
+      "game_ids": [
+        "slam-dunk-1"
+      ],
+      "summary": "灌篮高手1进入对战模式后界面两个选项残留日文。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154049408687"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-d2d25f6788a85946",
+      "public_problem_key": "problem-173fda5b13ff78c3",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154049434339"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e67957eb50f47420",
+      "public_problem_key": "problem-334d9428f8b3576a",
+      "game_ids": [
+        "grandia-parallel-trippers"
+      ],
+      "summary": "玩家报告打开角色菜单后，每次移动光标有1–2秒卡顿；4图可见队伍配置、资料库与系统菜单等不同光标位置。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050226925"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-9c7b7803d3a2af27",
+      "public_problem_key": "problem-97fc3c832eefcfaf",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050812789"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-677b4e7a28d20c12",
+      "public_problem_key": "problem-6c683d590ea6d219",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050822750"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-215683f40fb80246",
+      "public_problem_key": "problem-e4fbe46758c02fd2",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "玩家报战斗中日文残留，4图可见HUD假名“ぶき”及战斗消息中的“ジプシー”；手机截图列表文件名为saga-3-gb-v0.1.0-8px-music。",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050170883"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e81df281c2ddc5a0",
+      "public_problem_key": "problem-9dfd37bb76a0ccbb",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "玩家报告开篇逐字很慢且按住A不能像日版快速显示；开篇至取名约4–6秒、不同角色取名切换约2–3秒，战斗选择指令及攻击目标约2–4秒。9图覆盖剧情、男女朋友取名和战斗指令页。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154050181591",
+        "11092365551|154050195512",
+        "11092365551|154054287773",
+        "11092365551|154054651661"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-986194df0c2816a6",
+      "public_problem_key": "problem-cd54c613b45b5950",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "玩家称gb saga3打宙斯转last boss时死机，需精确区分黑白GB日版与彩色DX及实际版本字号。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "未确认（原话gb saga 3）",
+      "reported_font": "未确认",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052135846",
+        "11092365551|154054417486",
+        "11092365551|154054418981"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-dfb01325b30f40ba",
+      "public_problem_key": "problem-f12cb98156760e78",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "玩家报告v0.1.1普通8px和大字10px均在对白结束出现乱码；原图确有异常文字。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px和10px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052178579"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-e34580633d6185f4",
+      "public_problem_key": "problem-cbe113ecc76fc175",
+      "game_ids": [
+        "zerd-no-densetsu-2"
+      ],
+      "summary": "同一原反馈两处消费者：行走时下方滚动字幕日文；大地图选择远处目标时中文末尾仍有日文。合并一条漏译问题。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052186570"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-cf2e1d8154ce729f",
+      "public_problem_key": "problem-82d1672ef70c32b0",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "同一152楼反馈合并：开场图片日文、是非/取名/出生年等选项未读懂或未译、假名页切换慢和大量问号、成绩姓名重复/异常、积分卡日文。按原图和原话分症状记录，根因尚未确认。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "原话未给出；当前同楼v0.1.0仅核对参考",
+      "reported_font": "原话未给出；当前普通8px仅参考",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052200189",
+        "11092365551|154052265798",
+        "11092365551|154052270205",
+        "11092365551|154052274586"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-0a940b33ee9327e7",
+      "public_problem_key": "problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "原话未给出；当前v0.1.0仅参考",
+      "reported_font": "原话未给出；当前原生混排仅参考",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052614561"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-029fdff12a7837d9",
+      "public_problem_key": "problem-a01516d2ecd1837a",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "同一原楼先前PID154046917205明确v0.1.3；新图未附ROM哈希",
+      "reported_font": "8px（当前发布参考）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154053012418",
+        "11092365551|154053041935"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-be4e55694caf28dc",
+      "public_problem_key": "problem-cb6bf37dd471ed60",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.12",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154054053147"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-dd78be661d68c934",
+      "public_problem_key": "problem-ed42c4f4a0a0996b",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "玩家报我方攻击未命中时，敌身上方显示日文。原图敌身白字可能为「ミス」，精确字形待最终ROM运行核对。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154054285017"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-77dad19aec9301d9",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154054296408"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-b9d9e9d8adf6eb17",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154054306070"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-354634e52939ced6",
+      "public_problem_key": "problem-993d2e605d57ec06",
+      "game_ids": [
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "创建存档自定义姓名时，玩家报取名界面乱码和所选字符输入后不对应；两图可见异常混排/覆盖，映射错配待实际输入复现。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154054308568"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ]
+}

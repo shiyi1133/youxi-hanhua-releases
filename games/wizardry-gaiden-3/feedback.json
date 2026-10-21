@@ -1,0 +1,114 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "wizardry-gaiden-3",
+  "game_name": "巫术外传Ⅲ暗之圣典",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154038588891",
+      "parent_pid": "154026903905",
+      "floor": 65,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154038588891#154038588891",
+      "created_at": "2026-10-16T17:10:14+08:00",
+      "quote": "野外遇到敌人时，右下角偶尔会乱码。冒险时切换画面会有将近1秒的整体乱码。另外，前面两楼的巫术外传1也请您汉化，谢谢🙏",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f4956e09c93d70cff642860abedcd100bba12bac.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2f69741ed21b0ef4f950b4599bc451da80cb3eac.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039609959",
+      "parent_pid": "154026903905",
+      "floor": 65,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039609959#154039609959",
+      "created_at": "2026-10-16T22:45:26+08:00",
+      "quote": "rom名称：Wizardry_Gaiden_III_v0.1.0_8px 后缀名是.gb 不能连在一起发，会识别成网络链接",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045017266",
+      "parent_pid": "154026903905",
+      "floor": 65,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045017266#154045017266",
+      "created_at": "2026-10-18T14:36:19+08:00",
+      "quote": "经测试，巫术外传3代v0.1.1字体8px版本有如下问题。图1是在城内进出小建筑时有一帧花屏。 图2是我发队伍里查看角色的魔法有漏翻译。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-27aea9c599994f1c",
+      "public_problem_key": "problem-2785e9dab704f7f5",
+      "game_ids": [
+        "wizardry-gaiden-3"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅲ暗之圣典：遇敌右下角偶发乱码、画面切换约1秒整体乱码",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154038588891",
+        "11092365551|154039609959",
+        "11092365551|154045017266"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-2785e9dab704f7f5",
+      "game_ids": [
+        "wizardry-gaiden-3"
+      ],
+      "summary": "[待核版本与复现] 巫术外传Ⅲ暗之圣典：遇敌右下角偶发乱码、画面切换约1秒整体乱码",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-27aea9c599994f1c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154038588891",
+        "11092365551|154039609959",
+        "11092365551|154045017266"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

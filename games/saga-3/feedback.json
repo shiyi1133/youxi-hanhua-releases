@@ -1,0 +1,289 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "saga-3",
+  "game_name": "沙加3：时空之霸者（彩色DX基底）",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154042143497",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042143497#154042143497",
+      "created_at": "2026-10-17T18:01:35+08:00",
+      "quote": "8px 1.0.0，标题界面“开始游戏”上方有黑色长条，角色状态页面每位角色的名字后面有黑色方块或者黑色长条",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c2ff0023dd54564e3115f63ef5de9c82d0584ff4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bf0357df8db1cb13d6192e149b54564e93584bf4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042147853",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042147853#154042147853",
+      "created_at": "2026-10-17T18:03:01+08:00",
+      "quote": "8px 1.0.0，战斗时指令选择时，移动光标时有1-2秒卡顿。角色状态页面，移动光标时也有类似的1-2秒卡顿",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042149640",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042149640#154042149640",
+      "created_at": "2026-10-17T18:03:37+08:00",
+      "quote": "卡顿不确定是不是我模拟器的问题，晚点我换一个模拟器试试",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154042152715",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "bgcnh",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154042152715#154042152715",
+      "created_at": "2026-10-17T18:04:35+08:00",
+      "quote": "小字版，出汉字对话换行的时候有明显卡顿。特别是开了加速在关掉加速后，拖慢明显。ios的delta模拟器",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "bgcnh"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154043191051",
+      "parent_pid": "154033939765",
+      "floor": 84,
+      "public_nickname": "bgcnh",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154043191051#154043191051",
+      "created_at": "2026-10-17T23:27:14+08:00",
+      "quote": "文字拖慢是saga3 小字版 1.0.0",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154052135846",
+      "parent_pid": "0",
+      "floor": 175,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154052135846#154052135846",
+      "created_at": "2026-10-20T15:25:20+08:00",
+      "quote": "gb saga 3 打宙斯 轉 last boss死機",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "folee000166"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054417486",
+      "parent_pid": "154052135846",
+      "floor": 175,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054417486#154054417486",
+      "created_at": "2026-10-21T08:26:52+08:00",
+      "quote": "兩版本都是同樣",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154054418981",
+      "parent_pid": "154052135846",
+      "floor": 175,
+      "public_nickname": "folee000166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154054418981#154054418981",
+      "created_at": "2026-10-21T08:27:27+08:00",
+      "quote": "沙加3：时空之霸者（彩色DX基底）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-3408333e0cf83365",
+      "public_problem_key": "problem-196e438cb41aa0f5",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "两张玩家图可见开始游戏上方黑条、数个人物姓名后的黑色方块；需当前精确8px目标对照复现，不牵连8x12目标。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v1.0.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042143497"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-662052e64f201ac8",
+      "public_problem_key": "problem-062ca319b2e0be0a",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "球总好学明确8px v1.0.0，战斗/状态光标约1–2秒；后续自行计划换模拟器不能当维护已复现。；另一作者bgcnh只说小字版及iOS Delta，版本未知；新增加速后关加速、对话换行时拖慢线索并入此性能Issue，保持其版本未知。；不因发生于换行时就归排版既有反馈，不惯例索模拟器版本或存档。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "球总好学：v1.0.0；bgcnh：未知",
+      "reported_font": "球总好学：8px；bgcnh：小字（具体px未知）",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154042147853",
+        "11092365551|154042149640",
+        "11092365551|154042152715",
+        "11092365551|154043191051"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-986194df0c2816a6",
+      "public_problem_key": "problem-cd54c613b45b5950",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "玩家称gb saga3打宙斯转last boss时死机，需精确区分黑白GB日版与彩色DX及实际版本字号。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "未确认（原话gb saga 3）",
+      "reported_font": "未确认",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154052135846",
+        "11092365551|154054417486",
+        "11092365551|154054418981"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-196e438cb41aa0f5",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "两张玩家图可见开始游戏上方黑条、数个人物姓名后的黑色方块；需当前精确8px目标对照复现，不牵连8x12目标。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-3408333e0cf83365"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154042143497"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-062ca319b2e0be0a",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "球总好学明确8px v1.0.0，战斗/状态光标约1–2秒；后续自行计划换模拟器不能当维护已复现。；另一作者bgcnh只说小字版及iOS Delta，版本未知；新增加速后关加速、对话换行时拖慢线索并入此性能Issue，保持其版本未知。；不因发生于换行时就归排版既有反馈，不惯例索模拟器版本或存档。",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-662052e64f201ac8"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154042147853",
+        "11092365551|154042149640",
+        "11092365551|154042152715",
+        "11092365551|154043191051"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-cd54c613b45b5950",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "玩家称gb saga3打宙斯转last boss时死机，需精确区分黑白GB日版与彩色DX及实际版本字号。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-986194df0c2816a6"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154052135846",
+        "11092365551|154054417486",
+        "11092365551|154054418981"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

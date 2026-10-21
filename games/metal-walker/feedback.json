@@ -1,0 +1,93 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "metal-walker",
+  "game_name": "爆走战记 钢铁行者GB：钢铁的友情",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154029633044",
+      "parent_pid": "154021726580",
+      "floor": 32,
+      "public_nickname": "willzyjno1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029633044#154029633044",
+      "created_at": "2026-10-14T03:29:00+08:00",
+      "quote": "这个大字版问题挺多的，每次显示文字画面会闪一下，开场就遇到几次文字残留，文字区域还出现黄色闪屏。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "willzyjno1"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154029638963",
+      "parent_pid": "154021726580",
+      "floor": 32,
+      "public_nickname": "willzyjno1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154029638963#154029638963",
+      "created_at": "2026-10-14T03:36:28+08:00",
+      "quote": "另外不管大字小字，显示文字时的音效都不正常。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "willzyjno1"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-0f7b524c87d98e4a",
+      "public_problem_key": "problem-f96fe3ed7a4c921a",
+      "game_ids": [
+        "metal-walker"
+      ],
+      "summary": "钢铁行者：大字闪烁、黄色闪屏／残留及两字号文字音效反馈待核（实际ROM版本待补）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154029633044",
+        "11092365551|154029638963"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-f96fe3ed7a4c921a",
+      "game_ids": [
+        "metal-walker"
+      ],
+      "summary": "钢铁行者：大字闪烁、黄色闪屏／残留及两字号文字音效反馈待核（实际ROM版本待补）",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-0f7b524c87d98e4a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154029633044",
+        "11092365551|154029638963"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

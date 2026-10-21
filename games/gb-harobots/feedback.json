@@ -1,0 +1,254 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "gb-harobots",
+  "game_name": "GB哈罗机器人",
+  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154039462891",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039462891#154039462891",
+      "created_at": "2026-10-16T22:00:26+08:00",
+      "quote": "8px 0.1.0，这里这两个选项有可能不是这样的，你看画面右侧两个选项：“是否”“否否”",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1c80dd0735fae6cd9684836649b30f2442a70f34.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039493008",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039493008#154039493008",
+      "created_at": "2026-10-16T22:09:30+08:00",
+      "quote": "8px 0.1.0，这个属性相克表没有汉化，比较重要，看不懂的话战斗受很大影响",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/6053134c510fd9f98f017d6e632dd42a2934a4ca.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039495085",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039495085#154039495085",
+      "created_at": "2026-10-16T22:10:08+08:00",
+      "quote": "8px 0.1.0，这两个选项没有汉化，残留日文",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/da962f9759ee3d6d6bd6afcc05166d224e4aded4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154039498437",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154039498437#154039498437",
+      "created_at": "2026-10-16T22:11:07+08:00",
+      "quote": "8px 0.1.0，这个画面左侧“属性”下面的日文没有翻译，残留日文",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22dc3012b31bb051ec379b2f707adab44bede0d5.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_preview_SHA256s": []
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154045418841",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154045418841#154045418841",
+      "created_at": "2026-10-18T16:57:35+08:00",
+      "quote": "8px 0.1.1，标题画面logo右下方（画面的右侧）多出来一个不该有的“乎”字（小字）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "public_nicknames_recorded": [
+        "球总好学"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-301ad500f24a01d2",
+      "public_problem_key": "problem-248c77e6f0bb6309",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[待复现] GB哈罗机器人 v0.1.0普通8px：是／否选项字形或语义异常",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039462891"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7b1f55919d4d1074",
+      "public_problem_key": "problem-df8b7cb6c349d663",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[覆盖改进／待核] GB哈罗机器人 v0.1.0普通8px：属性相克表及详情残留日文",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "UNCLASSIFIED",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154039493008",
+        "11092365551|154039495085",
+        "11092365551|154039498437"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-1f8c580711eb6ee2",
+      "public_problem_key": "problem-57793ff8d482c097",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "玩家给两图指出标题Logo右侧孤立小字“乎”。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154045418841"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-248c77e6f0bb6309",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[待复现] GB哈罗机器人 v0.1.0普通8px：是／否选项字形或语义异常",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-301ad500f24a01d2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154039462891"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-df8b7cb6c349d663",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "[覆盖改进／待核] GB哈罗机器人 v0.1.0普通8px：属性相克表及详情残留日文",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-7b1f55919d4d1074"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154039493008",
+        "11092365551|154039495085",
+        "11092365551|154039498437"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-57793ff8d482c097",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "玩家给两图指出标题Logo右侧孤立小字“乎”。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1f8c580711eb6ee2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154045418841"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0
+}

@@ -235,6 +235,42 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059170832",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059170832#154059170832",
+      "created_at": "2026-10-22T15:37:33+08:00",
+      "quote": "反饋一下人名資訊，一樣是Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px這個檔案。 oni4裡面開頭提到主角“御珈丸”實際漢字確認為“音鬼丸”，且提到主角的妹妹時名字是“命”，說明書裡的日文漢字是“御琴”，她還是五代雙女主之一。 還有主角母親要主角去岩國村找“姬乃”，這個姬乃是二代主角高野丸的妻子，日文漢字如圖三是“秘女乃”。 找完秘女乃後去的迷宮在江戶城村民說尼寺，但同伴新兵衛又說尼姑庵。 開頭要陪遺忘仙人去製作回憶丹的迷宮在迷宮旁村鎮村民說是叫家老洞窟，但遺忘仙人說火狼洞窟。 遊戲中村落的翻譯幾乎都是“鎮”，從遊戲中規模來看，如能改為“村”或“町”可能更有和風味且符合時代背景，僅建議。 以上兩個迷宮譯名跟主要角色人名看是否能在下次改版中能將其統一，感謝up",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3c338dc377cf33a87e950b120.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "e43bb5de5681d5a4f7e9faf24113c967f2edabfb642b2676ad4cfe59e34fe3f9",
+          "archived_public_path": "feedback/images/e43bb5de5681d5a4f7e9.jpg",
+          "archived_bytes": 111409
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/daa4d0f9d72a6059282cbe1d6e34349b033bba20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "edcf4ca2621c8b90ba717e98fc36082660cf315a81b2c7904ce361a4e04cd5e8",
+          "archived_public_path": "feedback/images/edcf4ca2621c8b90ba71.jpg",
+          "archived_bytes": 112603
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/daa4d0f9d72a6059282cbe1d6e34349b033bba20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "edcf4ca2621c8b90ba717e98fc36082660cf315a81b2c7904ce361a4e04cd5e8",
+          "archived_public_path": "feedback/images/edcf4ca2621c8b90ba71.jpg",
+          "archived_bytes": 112603
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -368,6 +404,33 @@
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
       "fixed": false
+    },
+    {
+      "public_case_key": "case-8f884e0516c7046d",
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "reported_ROM_filename_literal": "Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -462,6 +525,26 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8f884e0516c7046d"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -490,7 +573,30 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-6eb1f15b253bc499",
+      "game_id": "oni-iv",
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154059682810",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059682810#154059682810",
+      "text": "@吉他手阿室 三个人名和两处迷宫译名已登记，说明书图片收到；“村／町”的用词作为建议保留，后续核对。",
+      "text_sha256": "1acfd403a45f18887a45fe4b3da603fe6130ea25397c105336a8adcb6b5fc834",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T18:28:27.035478+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154059170832",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
 }

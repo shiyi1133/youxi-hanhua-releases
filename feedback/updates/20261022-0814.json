@@ -1,0 +1,47 @@
+{
+  "schema": "public_feedback0814_five_quotes_six_JPEG_one_BUG_three_answers_two_actual_replies_v1",
+  "bindings": {
+    "source_SHA256s": {
+      "scan-owned/new-player-records-public.json": "9451dda818b097c13cc2c4fc4cbf4be56a0ab8225cd1c0bc194b7bc44a35c00c",
+      "scan-owned/actual-player-image-previews-public.json": "033b57d2d15eca772f85655cb484b2f2ef43c676e764552a345e4f9a38debb81",
+      "scan-owned/actual-image-visual-review-public.json": "7304aaa036ee6fb87dd8f2d9fc38672891865758ee2742b048bba7fde7f6f058",
+      "scan-owned/actual-source-review-brief-public.json": "177a809c5b596587464bc3d37d1925b47eab876d22672a0888c1121969b091a1",
+      "feedback-owned/registration-local/plan-public.json": "87a1dc8ec2bb576cb7b7a73ee1b9352ee74d14313b503e5376cbf1bf448e3762"
+    },
+    "input_SHA256s": {
+      "feedback-owned/registration-local/actual-registration-public.json": "8c9b3469cea3bdbcdc6b9d5ad32c4f5d633c04e40ea36d85bc99e6c3b5d22fbe",
+      "feedback-owned/registration-local/ledger-commit-readback-public.json": "81acef73afd06573b90a54fc73130489a63164528da3c710a2f76399db3230d9",
+      "feedback-owned/replies-local/reply-candidates-public.json": "9e007b4efb786ec3fdbc597634f279a961bcce7339ccc5352a9bb9540f077c39",
+      "feedback-owned/replies-local/ledger-commit-readback-public.json": "c831e58fd298d5eea139b281f5708dd0df50ac8639a7c9189aee1f8f7d756edf",
+      "feedback-owned/evidence-commit-readback-public.json": "ae6d192198be37c7ea207a78001abc6475ef0b241fef8556d28c0aac27f8dbb6",
+      "feedback-owned/replies-local/receipts/oni4-names-public.json": "d9f6bb37cb6f79abfb2121696125c2a832c2da7aec2ff7320a12b75b8486bc44",
+      "feedback-owned/replies-local/receipts/farm-info-public.json": "75aaecc438f379544bae846fc0dd0d6348d693dd0a7c7820bf403bdf802c0af3"
+    },
+    "current_source_problem_states": {
+      "113": "open",
+      "108": "open",
+      "109": "open",
+      "110": "open"
+    }
+  },
+  "generated_at": "2026-10-22T18:39:13.033858+08:00",
+  "source_PIDs": [
+    "154059170832",
+    "154059436147",
+    "154059200860",
+    "154059430614",
+    "154059463532"
+  ],
+  "new_player_quotes": 5,
+  "public_image_rows": 7,
+  "unique_actual_JPEG_files": 6,
+  "new_private_source_BUGs": 1,
+  "existing_Prism_information_updates": 3,
+  "actual_public_reply_count": 2,
+  "unknown_farm_game_binding": null,
+  "Farm_not_bound_to_GB2_GB3": true,
+  "public_Issues_created": 0,
+  "private_Issue_bodies_copied": false,
+  "ROM_Source_patch_Release_version_README_or_counter_changes": 0,
+  "images_are_player_evidence_not_current_ROM_test_proof": true
+}

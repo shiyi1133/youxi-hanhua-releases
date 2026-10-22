@@ -112,6 +112,20 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059436147",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059436147#154059436147",
+      "created_at": "2026-10-22T17:04:11+08:00",
+      "quote": "完整文件名：Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -123,16 +137,17 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
         "11092365551|154058185481",
-        "11092365551|154058358705"
+        "11092365551|154058358705",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -140,7 +155,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-108",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     },
     {
       "public_case_key": "case-1bb53957f01a904e",
@@ -150,15 +179,16 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -166,7 +196,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-109",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     },
     {
       "public_case_key": "case-deb11bf7d28bcd9b",
@@ -176,15 +220,16 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "REQUEST_OR_OTHER",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -192,7 +237,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-110",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     }
   ],
   "problems": [
@@ -203,13 +262,14 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-1bb53957f01a904e"
       ],
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -223,13 +283,14 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-deb11bf7d28bcd9b"
       ],
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -243,14 +304,15 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-29c6a220b0305da4"
       ],
       "public_feedback_keys": [
         "11092365551|154058185481",
-        "11092365551|154058358705"
+        "11092365551|154058358705",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -289,5 +351,5 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
 }

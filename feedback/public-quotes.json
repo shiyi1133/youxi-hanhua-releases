@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 473,
+  "count": 478,
   "rows": [
     {
       "tid": "11092365551",
@@ -9330,9 +9330,130 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059170832",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059170832#154059170832",
+      "created_at": "2026-10-22T15:37:33+08:00",
+      "quote": "反饋一下人名資訊，一樣是Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px這個檔案。 oni4裡面開頭提到主角“御珈丸”實際漢字確認為“音鬼丸”，且提到主角的妹妹時名字是“命”，說明書裡的日文漢字是“御琴”，她還是五代雙女主之一。 還有主角母親要主角去岩國村找“姬乃”，這個姬乃是二代主角高野丸的妻子，日文漢字如圖三是“秘女乃”。 找完秘女乃後去的迷宮在江戶城村民說尼寺，但同伴新兵衛又說尼姑庵。 開頭要陪遺忘仙人去製作回憶丹的迷宮在迷宮旁村鎮村民說是叫家老洞窟，但遺忘仙人說火狼洞窟。 遊戲中村落的翻譯幾乎都是“鎮”，從遊戲中規模來看，如能改為“村”或“町”可能更有和風味且符合時代背景，僅建議。 以上兩個迷宮譯名跟主要角色人名看是否能在下次改版中能將其統一，感謝up",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3c338dc377cf33a87e950b120.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "e43bb5de5681d5a4f7e9faf24113c967f2edabfb642b2676ad4cfe59e34fe3f9",
+          "archived_public_path": "feedback/images/e43bb5de5681d5a4f7e9.jpg",
+          "archived_bytes": 111409
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/daa4d0f9d72a6059282cbe1d6e34349b033bba20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "edcf4ca2621c8b90ba717e98fc36082660cf315a81b2c7904ce361a4e04cd5e8",
+          "archived_public_path": "feedback/images/edcf4ca2621c8b90ba71.jpg",
+          "archived_bytes": 112603
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/daa4d0f9d72a6059282cbe1d6e34349b033bba20.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "edcf4ca2621c8b90ba717e98fc36082660cf315a81b2c7904ce361a4e04cd5e8",
+          "archived_public_path": "feedback/images/edcf4ca2621c8b90ba71.jpg",
+          "archived_bytes": 112603
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059436147",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059436147#154059436147",
+      "created_at": "2026-10-22T17:04:11+08:00",
+      "quote": "完整文件名：Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059200860",
+      "parent_pid": "154044215154",
+      "floor": 144,
+      "public_nickname": "wanglecs208",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059200860#154059200860",
+      "created_at": "2026-10-22T15:47:25+08:00",
+      "quote": "大佬 我爱你 十分感谢 太感谢了",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059430614",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "shangyewuming6",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059430614#154059430614",
+      "created_at": "2026-10-22T17:02:27+08:00",
+      "quote": "这个是一代吧？我不太确定。很久以前就汉化了，包括2代3代，d商汉化的。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3cee4aa98226cffca229e1b5ff014a90f703eae6.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "8f574f043b1f5cb9fb71a862e0f7f15b677be9736a9b9102c8c8214ea3f8ab87",
+          "archived_public_path": "feedback/images/8f574f043b1f5cb9fb71.jpg",
+          "archived_bytes": 113860
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/825c99529822720ef7b3bcfd3dcb0a46f31fabe0.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "c3d1c45f9a82d93f442b17e616cabd607b0b66263390c2c960b8e3cce8663423",
+          "archived_public_path": "feedback/images/c3d1c45f9a82d93f442b.jpg",
+          "archived_bytes": 255520
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b893e196484492442a7d8330eef.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "35a73bd718c4c444806192f9f84822754e8a392ed5c6e7b8bc21c66a1df43b6c",
+          "archived_public_path": "feedback/images/35a73bd718c4c4448061.jpg",
+          "archived_bytes": 243596
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c08b44f76a24c7b02087af4f4e9.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": "573a3be240620a4c45fc3f879221fa395d0a3a3306009a3c9ecf040289a1fd20",
+          "archived_public_path": "feedback/images/573a3be240620a4c45fc.jpg",
+          "archived_bytes": 280245
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059463532",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "shangyewuming6",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059463532#154059463532",
+      "created_at": "2026-10-22T17:13:12+08:00",
+      "quote": "刚试了下，还有部分道具没汉化",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
 }

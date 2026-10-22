@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 106,
-  "open_pure_BUG_count": 33,
+  "problem_count": 107,
+  "open_pure_BUG_count": 34,
   "open_requests_or_other_count": 11,
   "open_classification_unconfirmed_count": 41,
   "problems": [
@@ -2407,13 +2407,14 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-1bb53957f01a904e"
       ],
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2469,13 +2470,14 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-deb11bf7d28bcd9b"
       ],
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2489,14 +2491,15 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-29c6a220b0305da4"
       ],
       "public_feedback_keys": [
         "11092365551|154058185481",
-        "11092365551|154058358705"
+        "11092365551|154058358705",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2522,13 +2525,33 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8f884e0516c7046d"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00",
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

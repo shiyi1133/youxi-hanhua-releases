@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "case_count": 136,
+  "case_count": 138,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -3516,16 +3516,17 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
         "11092365551|154058185481",
-        "11092365551|154058358705"
+        "11092365551|154058358705",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -3533,7 +3534,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-108",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     },
     {
       "public_case_key": "case-1bb53957f01a904e",
@@ -3543,15 +3558,16 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "BUG",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -3559,7 +3575,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-109",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     },
     {
       "public_case_key": "case-deb11bf7d28bcd9b",
@@ -3569,15 +3599,16 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
       "classification": "REQUEST_OR_OTHER",
-      "reported_version": "未提供",
-      "reported_font": "未提供",
+      "reported_version": "v0.1.0",
+      "reported_font": "8px",
       "actual_reporter_input_sha256": null,
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154057602119"
+        "11092365551|154057602119",
+        "11092365551|154059436147"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -3585,7 +3616,21 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+      "filename_information_answered": true,
+      "public_information_updates": [
+        {
+          "key": "20261022-0814|prism-current-filename-information-110",
+          "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "public_feedback_key": "11092365551|154059436147",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "filename_only_not_full_ROM_identity_verification": true
+        }
+      ]
     },
     {
       "public_case_key": "case-8e3d11ee61b16388",
@@ -3640,7 +3685,57 @@
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
       "fixed": false
+    },
+    {
+      "public_case_key": "case-8f884e0516c7046d",
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "reported_ROM_filename_literal": "Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-2c858066795bc0a0",
+      "public_problem_key": null,
+      "game_ids": [],
+      "summary": "第三方旧汉化显示“模擬農場 GB”，玩家未确定代数并反馈部分道具未译；待实际ROM完整文件名。",
+      "issue_state": "not_applicable_identity_pending",
+      "classification": "THIRD_PARTY_IDENTITY_PENDING",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "UNKNOWN_GAME_AND_THIRD_PARTY_ROM",
+      "public_feedback_keys": [
+        "11092365551|154059430614",
+        "11092365551|154059463532"
+      ],
+      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "current_GB2_GB3_binding_forbidden": true,
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_NEEDS_GAME_IDENTITY",
+      "reproduced": false,
+      "fixed": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
 }

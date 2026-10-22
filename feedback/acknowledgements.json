@@ -238,8 +238,55 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-6eb1f15b253bc499",
+      "game_id": "oni-iv",
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154059170832"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154059682810",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059682810#154059682810",
+      "text": "@吉他手阿室 三个人名和两处迷宫译名已登记，说明书图片收到；“村／町”的用词作为建议保留，后续核对。",
+      "text_sha256": "1acfd403a45f18887a45fe4b3da603fe6130ea25397c105336a8adcb6b5fc834",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T18:28:27.035478+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154059170832",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-a001ad75c7d53ab3",
+      "game_id": null,
+      "kind": "PENDING_IDENTITY_INFORMATION",
+      "source_feedback_keys": [
+        "11092365551|154059430614",
+        "11092365551|154059463532"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "pid": "154059684799",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059684799#154059684799",
+      "text": "@shangyewuming6 图里标题是“模擬農場 GB”，请补正在运行的ROM完整文件名，便于核对版本。",
+      "text_sha256": "593425efe22714dfe2a33d1bc1767dadd5abc5cbac1f5a6713bca6691584a343",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T18:33:23.332859+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154059463532",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 10,
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "row_count": 12,
+  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
 }

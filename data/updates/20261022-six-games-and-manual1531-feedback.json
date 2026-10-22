@@ -1,0 +1,35 @@
+{
+  "schema": "six_public_game_and_manual1531_feedback_incremental_projection_v1",
+  "bindings": {
+    "local_manifest_sha256": "510a53c91f7070a7c4c4ce36657594c517db8677471ada638a290ae9e23813ed",
+    "actual_public_asset_receipt_sha256": "8609b2cc875492e59806844024208001eef7e84d95168da399235fb8b8e522df",
+    "actual_private_publication_sha256": "cb569d968319ef58b5a5f0ad2fb69c912f37e49fb42f954eca3b907987b696f0",
+    "feedback_delta_sha256": "c6367321454928db8dca756dd7cc96697990faf49b5a7ecab5ad49d5381a6592"
+  },
+  "game_ids": [
+    "medarot-4-kuwagata",
+    "saga-1-dx",
+    "saga-2-dx",
+    "saga-3",
+    "saga-3-gb",
+    "shin-megami-tensei-card-summoner"
+  ],
+  "updated_games": 4,
+  "new_games": 2,
+  "current_game_count": 136,
+  "current_target_count": 195,
+  "Source_assets": 6,
+  "patch_assets": 6,
+  "current_final_PNG_target_bindings": 18,
+  "unique_PNG_files_in_this_update": 13,
+  "new_public_feedback_cases": 11,
+  "actual_text_ACKs": 10,
+  "private_Issue_bodies_copied": false,
+  "ROM_files": 0,
+  "ROM_download_links": 0,
+  "Source_executions": 0,
+  "other_game_current_entries_preserved": true,
+  "old_Releases_assets_and_Git_files_not_deleted": true,
+  "Git_postcondition": "Every candidate file must be GET downloaded by Git blob OID, full SHA/bytes equal, and all other tree entries preserved.",
+  "generated_at": "2026-10-22T17:41:09.301120+08:00"
+}

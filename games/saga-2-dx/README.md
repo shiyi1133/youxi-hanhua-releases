@@ -1,75 +1,68 @@
-# 沙加2 DX
+# 沙加2 DX（限定测试版）
 
-原输入：Final Fantasy Legend II DX (user-provided English color modified edition)
+[公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际基底：Final Fantasy Legend II DX (user-provided English color modified edition)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1 | music | `fd70fc973fcdd432dfeb8c67b2b1e97922552ea7b0045aebcd5bd798cffd83b0` |
-| 8px | v0.1.1 | no-music | `d6ccd0cc2b53eb0194f6bb815176efcf81b47c1ad6a5df76edbf2962fa602fd8` |
-| 8x12 | v0.1.1 | music | `1543c710b42a7e11de38c7a92b542f241d58a910a2e6c914a1a0880b2605486a` |
-| 8x12 | v0.1.1 | no-music | `2456bf2a4f480357c864ab1c5b2c61de23165f085ec753045ab436002790e75a` |
+原输入完整SHA-256：`3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2`（524288字节）。原输入保留其地区、修订、改版或已有汉化基底身份。
 
-## 源码与补丁
+## 8px v0.1.2 music
 
-- 8px／v0.1.1／music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-2-dx-current-source-8bea161bc802-public-r01.zip)（ZIP SHA256 `5821f5ce5d44a4b33eb412cc032dd274211be69d92375d8be714e88ee6641e6d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-2-dx-current-patches.zip)（ZIP SHA256 `333e4b7e65884c7c09b1ee064894244d91365939a047aa19c011f9bff9134971`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8px／v0.1.1／no-music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-2-dx-current-source-8bea161bc802-public-r01.zip)（ZIP SHA256 `5821f5ce5d44a4b33eb412cc032dd274211be69d92375d8be714e88ee6641e6d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-2-dx-current-patches.zip)（ZIP SHA256 `333e4b7e65884c7c09b1ee064894244d91365939a047aa19c011f9bff9134971`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8x12／v0.1.1／music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-2-dx-current-source-8bea161bc802-public-r01.zip)（ZIP SHA256 `5821f5ce5d44a4b33eb412cc032dd274211be69d92375d8be714e88ee6641e6d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-2-dx-current-patches.zip)（ZIP SHA256 `333e4b7e65884c7c09b1ee064894244d91365939a047aa19c011f9bff9134971`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8x12／v0.1.1／no-music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-2-dx-current-source-8bea161bc802-public-r01.zip)（ZIP SHA256 `5821f5ce5d44a4b33eb412cc032dd274211be69d92375d8be714e88ee6641e6d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-2-dx-current-patches.zip)（ZIP SHA256 `333e4b7e65884c7c09b1ee064894244d91365939a047aa19c011f9bff9134971`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
 
-## 范围与验证边界
+目标完整SHA-256：`f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda`（524288字节）。
 
-- 8px／v0.1.1：普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。。
-  普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。
-  未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
-  无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
-- 8px／v0.1.1：普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。。
-  普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。
-  未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
-  无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
-- 8x12／v0.1.1：普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。。
-  普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。
-  未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
-  无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
-- 8x12／v0.1.1：普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。。
-  普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。
-  未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
-  无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
+![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+图证：v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+## 8px v0.1.2 no-music
 
-## 对应版本截图
+字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
 
-![版本 v0.1.1／8px／music](screenshots/d4aa30a010e7639c5716.png)
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
 
-v0.1.1 普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。 音频：music；当前四目标原生CGB9格；旧v0.1.0测试报告仅作历史，v0.1.1音频增量另列。
+目标完整SHA-256：`3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00`（524288字节）。
 
-图像SHA256：`d4aa30a010e7639c5716c157994f26383b3b7b7c67f2fc58f37f0e91830186c0`；绑定ROM SHA256：`fd70fc973fcdd432dfeb8c67b2b1e97922552ea7b0045aebcd5bd798cffd83b0`。
+![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
 
-![版本 v0.1.1／8px／no-music](screenshots/d4aa30a010e7639c5716.png)
+图证：v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-v0.1.1 普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。 音频：no-music；当前四目标原生CGB9格；旧v0.1.0测试报告仅作历史，v0.1.1音频增量另列。
+## 8x12 v0.1.2 music
 
-图像SHA256：`d4aa30a010e7639c5716c157994f26383b3b7b7c67f2fc58f37f0e91830186c0`；绑定ROM SHA256：`d6ccd0cc2b53eb0194f6bb815176efcf81b47c1ad6a5df76edbf2962fa602fd8`。
+字号范围：仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。
 
-![版本 v0.1.1／8x12／music](screenshots/134e70a07f480b8f3291.png)
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
 
-v0.1.1 普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。 音频：music；当前四目标原生CGB9格；旧v0.1.0测试报告仅作历史，v0.1.1音频增量另列。
+目标完整SHA-256：`1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798`（524288字节）。
 
-图像SHA256：`134e70a07f480b8f32915e75d43d988a2e124724331423f2bd1acadd8ff2625c`；绑定ROM SHA256：`1543c710b42a7e11de38c7a92b542f241d58a910a2e6c914a1a0880b2605486a`。
+![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
 
-![版本 v0.1.1／8x12／no-music](screenshots/361135e5bd6627019f56.png)
+图证：v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-v0.1.1 普通Fusion Pixel8px；大字仅普通对白Muzai真8×12上移4px，战斗/菜单/取名/密集UI8px；CGB专用。 音频：no-music；当前四目标原生CGB9格；旧v0.1.0测试报告仅作历史，v0.1.1音频增量另列。
+## 8x12 v0.1.2 no-music
 
-图像SHA256：`361135e5bd6627019f56484be75998c581632741e1712db9e5fae5a44a5c2942`；绑定ROM SHA256：`2456bf2a4f480357c864ab1c5b2c61de23165f085ec753045ab436002790e75a`。
+字号范围：仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。
 
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
+
+目标完整SHA-256：`347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180`（524288字节）。
+
+![对应最终ROM真实九宫格](screenshots/caef9fc6729078c6bc97.png)
+
+图证：v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+
+## 范围与测试边界
+
+- Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.
+- 未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
+- 无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
+- 本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。
+
+维护侧独立补丁应用与目标字节一致；18张本批最终九宫格已各自核对9张原生单帧。未执行源码、未新增游戏运行、全流程或实机验收。
+
+大字版更容易出现拖慢、刷新残留等问题，遇到请在原反馈楼说明版本和触发方式。
+
+公开问题状态与玩家测试记录见[反馈页](feedback.md)。开放不代表正在修复；已关闭也不能单独证明所有症状或完整游戏验收。

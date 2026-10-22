@@ -60,6 +60,26 @@
       "public_nicknames_recorded": [
         "炽天火3"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057706935",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057706935#154057706935",
+      "created_at": "2026-10-22T06:37:34+08:00",
+      "quote": "厉害，图片乱的已修复，重新测试游玩，发现舰船的数据指令点进去查看会白屏一下比原版慢一秒，原版这里点进去切换很快，没有白屏",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/9a74a0ec8a1363278cbb9334d78fa0ec09fac78b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -131,6 +151,32 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-03c51069ac5657f0",
+      "public_problem_key": "problem-6c683d590ea6d219",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "summary": "玩家称重新测试后旧图片错乱已修，舰船数据指令进入会白屏一下且比原版慢约一秒。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "未提供文件名；刚收到v0.1.1通知仅作参考",
+      "reported_font": "玩家未另报",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154057706935"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -177,14 +223,17 @@
       "game_ids": [
         "fleet-commander-vs"
       ],
-      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
+      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。；玩家称重新测试后旧图片错乱已修，舰船数据指令进入会白屏一下且比原版慢约一秒。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-03c51069ac5657f0",
         "case-677b4e7a28d20c12"
       ],
       "public_feedback_keys": [
-        "11092365551|154050822750"
+        "11092365551|154050822750",
+        "11092365551|154057706935"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -194,5 +243,31 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-13aeb57d4dfc760c",
+      "game_id": "fleet-commander-vs",
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154057706935"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "pid": "154059396673",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059396673#154059396673",
+      "text": "@炽天火3 旧乱图已修的复测收到；“数据”指令白屏和转场卡顿已补进记录，继续排查。",
+      "text_sha256": "c261322d6b299990a9c61691ab7877004548cccb80366739c466cf0a8e73d42b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:51:50.231931+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154057706935",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

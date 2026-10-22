@@ -3,10 +3,160 @@
   "game_id": "tokimeki-memorial-pocket-sport",
   "game_name": "心跳回忆Pocket：运动篇",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154058640162",
+      "parent_pid": "0",
+      "floor": 222,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058640162#154058640162",
+      "created_at": "2026-10-22T12:37:38+08:00",
+      "quote": "楼主大佬，心跳回忆 体育篇/文艺篇 又测了一下，还有两个小问题。期待完善修复bug版本。\n1.(图1)更新的这个新菜单画面版本，直接开始没问题，如果选右边的\"游戏设定\"选项\"确认的划下线\"消失，点确认进入会短暂\"花屏\"。\n2.(图2)游戏\"被动\"进入屏保模式，或点选择键\"主动\"进入屏保模式，随机出现的人物话语还是日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343d903d526d513b07ecb808810.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bd7a262eb9389b500b33b255c335e5dde6116e10.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-8e3d11ee61b16388",
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1（原图两作标题）",
+      "reported_font": "原生字号；未独立提供字体文件身份",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-d233260d5c6055f4",
+      "public_problem_key": "problem-93293400b9815d8a",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.1（同源图1两作标题）",
+      "reported_font": "原生字号；未独立提供字体文件身份",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-93293400b9815d8a",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-d233260d5c6055f4"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8e3d11ee61b16388"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-f7ed546162784217",
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "kind": "TWO_GAMES_BUG_AND_COVERAGE_ACK",
+      "source_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154058640162",
+      "floor": 222,
+      "pid": "154059407741",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059407741#154059407741",
+      "text": "@简单Matser 体育篇、文艺篇v0.1.1的游戏设定下划线和转场花屏已登记，屏保日文也记作未译范围，后续排查。",
+      "text_sha256": "a9362d8329b27118aa0a6b86a76d4e2b64abdc08ff466ca443216e90d5575adf",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:55:27.983764+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

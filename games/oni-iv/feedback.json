@@ -200,6 +200,41 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057843413",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057843413#154057843413",
+      "created_at": "2026-10-22T08:03:47+08:00",
+      "quote": "目前oni4只有一個檔，Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px 卡頓發生點都在進戰鬥時跟平時a鍵打開菜單時幾乎都會有卡頓拖慢。 還有個顯示異常的小bug： 是a鍵進菜單時，血量跟最大血量間的斜線顯示會變國字”年“或“錦”。 下面圖一圖二是戰鬥受到異常狀態的顯示，只要受到敵人使用毒或混亂等狀態攻擊就會出現。 圖三是菜單狀態的顯示異常，正常錦那個字應該顯示成圖四的“/”才對。 目前約遊玩三分之一進度，尚無惡性bug。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/35a26263f6246b600782e373adf81a4c500fa250.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2aefa4345982b2b7e26f68c377adcbef77099b74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab64b4821cc7b136afc378311e74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d1430386b52435f082025baf0774.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -307,6 +342,32 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-ccaa1786fe65adf6",
+      "public_problem_key": "problem-cb6bf37dd471ed60",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.2",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154057843413"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -385,14 +446,17 @@
       "game_ids": [
         "oni-iv"
       ],
-      "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。",
+      "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。；同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
-        "case-be4e55694caf28dc"
+        "case-be4e55694caf28dc",
+        "case-ccaa1786fe65adf6"
       ],
       "public_feedback_keys": [
-        "11092365551|154054053147"
+        "11092365551|154054053147",
+        "11092365551|154057843413"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -402,5 +466,31 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-0380dea2854a9996",
+      "game_id": "oni-iv",
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154057843413"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154059393367",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059393367#154059393367",
+      "text": "@吉他手阿室 v0.1.2 8px的毒/混乱后显示、HP斜线和菜单/进战斗拖慢已补充记录，文件名和截图都收到了，后续排查。",
+      "text_sha256": "9ede3219a9a03bceefb0d170db5183ea78b6a2f49c97c8e2a6334ac7a5133734",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:50:56.312977+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154057843413",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

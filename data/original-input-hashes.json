@@ -1,7 +1,7 @@
 {
   "schema": "public_exact_original_input_hash_index_v1",
   "generated_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 134,
+  "count": 136,
   "ROM_files_or_download_links_included": false,
   "items": [
     {
@@ -1209,6 +1209,25 @@
       "original_input_sha256": "5369091fd491cacad9be15d39860aaa04d741b3804d6b129c735dc32af03f35d",
       "original_input_bytes": 2097152,
       "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
+    },
+    {
+      "game_id": "medarot-4-kuwagata",
+      "game_name": "徽章战士4 锹形虫版",
+      "platform": "GBC",
+      "original_input_name": "Medarot 4 - Kuwagata Version",
+      "original_input_sha256": "3f01a0b82f9b0a95ceafa3e4d3f87878f9464c526026019c472be023fecb16c3",
+      "original_input_bytes": 4194304,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
+    },
+    {
+      "game_id": "shin-megami-tensei-card-summoner",
+      "game_name": "真女神转生 卡牌召唤师",
+      "platform": "GBC",
+      "original_input_name": "Shin Megami Tensei Trading Card - Card Summoner (Japan)",
+      "original_input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
     }
-  ]
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

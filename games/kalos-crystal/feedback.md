@@ -1,6 +1,6 @@
 # 卡洛斯水晶：公开反馈
 
-以下为已公开证据摘录，不能自动当成已经复现或修复。下载／存档分享地址、本机路径或项目署名文字省略时逐条标记。
+以下均为公开证据，玩家原话不自动等于维护已复现或已修复。
 
 ## 154041460639
 
@@ -8,11 +8,11 @@
 
 > 才才刚开始就出现了，后面聊天后面还有什么abcd的英文出现出现快，消失也快
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40fbf80dfdaed64034f79f0199a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40fbf80dfdaed64034f79f0199a.jpg)（玩家反馈图）
 
 ## 154041483315
 
@@ -20,9 +20,9 @@
 
 > 这什么玩意？
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg)（玩家反馈图）
 
 ## 154042331941
 
@@ -30,17 +30,17 @@
 
 > 卡洛斯水晶查看宠物花屏，对战结束之后，出现这些东西，对战的时候，这精灵后面有字，在对战界面打开，是英文，开始的性别选择之后前两句就是英文，聊天最后都会显示什么abcd这样的，但是又会很快消失
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/3bd5c38065380cd7f928bfeae744ad345982812a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/3bd5c38065380cd7f928bfeae744ad345982812a.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/f772841001e939015a3490393dec54e736d1962a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/f772841001e939015a3490393dec54e736d1962a.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/59b007f41bd5ad6e045f75edc7cb39dbb7fd3cba.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e07802ac35dd5ad6edcc438ba.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/26e0d81373f08202a8d480380dfbfbedaa641b9a.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd113838ba6351cafa40f4afb059a.jpg)（玩家反馈图）
 
 ## 154042574041
 
@@ -48,11 +48,11 @@
 
 > 查看变乱码，对战结束都会出现这些字，在对战的时候，查看状态或者属性都是英文，会显示地址的地方经过都会卡顿一下
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d14347bff92435f082025baf0713.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d14347bff92435f082025baf0713.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/3d565b66d016092476ecbf1c920735fae7cd3413.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/3d565b66d016092476ecbf1c920735fae7cd3413.jpg)（玩家反馈图）
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/b270bffd5266d016d5d0832fd12bd40734fa3513.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/b270bffd5266d016d5d0832fd12bd40734fa3513.jpg)（玩家反馈图）
 
 ## 154043155088
 
@@ -150,7 +150,7 @@
 
 > 对了，忘了说了，游戏厅里面兑换
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539990e68c47c87e950352ab035.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539990e68c47c87e950352ab035.jpg)（玩家反馈图）
 
 ## 154053041935
 
@@ -158,14 +158,30 @@
 
 > 龙穴里面的问题
 
-[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5e2c447f970d3d539b700bcd5.jpg)（玩家反馈图，不作当前最终ROM运行证明）
+[玩家公开图片](https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5e2c447f970d3d539b700bcd5.jpg)（玩家反馈图）
+
+## 154057741777
+
+205楼 · fgjxchtd · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154057741777#154057741777)
+
+> 卡洛斯水晶，宝可梦水晶数码暴龙，都是这样的，所有都是，原版不会变色
+
+## 154058616784
+
+205楼 · fgjxchtd · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154058616784#154058616784)
+
+> 发不了视频问题就是点攻击之后退出来它就上色了，攻击完之后又恢复正常
 
 ## 问题状态
 
-- 粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。：开放；公开问题单待单独建档。
-- 场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。：开放；公开问题单待单独建档。
-- 已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。：已关闭；公开问题单待单独建档。
-- 玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。：开放；公开问题单待单独建档。
-- 玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。：开放；公开问题单待单独建档。
+- 粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。：开放；公开Issue待单独建档。
+- 场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。：开放；公开Issue待单独建档。
+- 已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。：已关闭；公开Issue待单独建档。
+- 玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。：开放；公开Issue待单独建档。
+- 玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。：开放；公开Issue待单独建档。
 
-问题单开放不等于正在修复；关闭不自动代表所有报告症状全部验收。玩家实际ROM SHA未知时仍保留未知，当前版本的参考SHA见[游戏页面](README.md)。
+## 已公开答复
+
+- [原答复](https://tieba.baidu.com/p/11092365551?pid=154059399004#154059399004)：@fgjxchtd 退出攻击菜单变色、攻击后恢复的触发已记录。请发《卡洛斯水晶》和《宝可梦水晶数码暴龙》两份ROM的完整文件名与字号，便于区分版本。
+
+实际玩家ROM SHA未知时保持未知；当前参考版本SHA不能冒充玩家字节。

@@ -156,6 +156,59 @@
       "public_nicknames_recorded": [
         "简单Matser"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057878054",
+      "parent_pid": "154052614561",
+      "floor": 179,
+      "public_nickname": "卡塔尼克拉",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057878054#154057878054",
+      "created_at": "2026-10-22T08:19:07+08:00",
+      "quote": "这个不对吧。她在学校是女扮男装，公告里不应该直接翻译成伊集院丽这种女性名字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058015039",
+      "parent_pid": "154052614561",
+      "floor": 179,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058015039#154058015039",
+      "created_at": "2026-10-22T09:10:02+08:00",
+      "quote": "现实中也有很多，男生名字偏女性，或女生偏男性的名字，比如晶飞飞，秦铃是男生，关男，范杰是女生。她只是女扮男装，你作为玩家用帝视角审视而已，不然你怎么知道她是女的？就看名字来判断？陈丽，赵丽也可以是男的。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058640162",
+      "parent_pid": "0",
+      "floor": 222,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058640162#154058640162",
+      "created_at": "2026-10-22T12:37:38+08:00",
+      "quote": "楼主大佬，心跳回忆 体育篇/文艺篇 又测了一下，还有两个小问题。期待完善修复bug版本。\n1.(图1)更新的这个新菜单画面版本，直接开始没问题，如果选右边的\"游戏设定\"选项\"确认的划下线\"消失，点确认进入会短暂\"花屏\"。\n2.(图2)游戏\"被动\"进入屏保模式，或点选择键\"主动\"进入屏保模式，随机出现的人物话语还是日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343d903d526d513b07ecb808810.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bd7a262eb9389b500b33b255c335e5dde6116e10.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -233,6 +286,87 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-0205475b616eebb1",
+      "public_problem_key": "problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "两位玩家讨论女扮男装设定下是否应使用伊集院丽这一中文名；另一位认为不能仅凭名字判断性别。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "未提供",
+      "reported_font": "未提供",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154057878054",
+        "11092365551|154058015039"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-8e3d11ee61b16388",
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.1（原图两作标题）",
+      "reported_font": "原生字号；未独立提供字体文件身份",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-d233260d5c6055f4",
+      "public_problem_key": "problem-93293400b9815d8a",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.1（同源图1两作标题）",
+      "reported_font": "原生字号；未独立提供字体文件身份",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "MULTIPLE_GAME_REFERENCES_NEED_CONFIRMATION",
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -285,14 +419,60 @@
       "game_ids": [
         "tokimeki-memorial-pocket-culture"
       ],
-      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
+      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。；两位玩家讨论女扮男装设定下是否应使用伊集院丽这一中文名；另一位认为不能仅凭名字判断性别。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-0205475b616eebb1",
         "case-0a940b33ee9327e7"
       ],
       "public_feedback_keys": [
-        "11092365551|154052614561"
+        "11092365551|154052614561",
+        "11092365551|154057878054",
+        "11092365551|154058015039"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-93293400b9815d8a",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-d233260d5c6055f4"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8e3d11ee61b16388"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -302,5 +482,7 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

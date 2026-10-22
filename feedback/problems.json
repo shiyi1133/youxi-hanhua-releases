@@ -1,9 +1,9 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 100,
-  "open_pure_BUG_count": 29,
-  "open_requests_or_other_count": 9,
+  "problem_count": 106,
+  "open_pure_BUG_count": 33,
+  "open_requests_or_other_count": 11,
   "open_classification_unconfirmed_count": 41,
   "problems": [
     {
@@ -650,11 +650,13 @@
       "game_ids": [
         "poyon-dungeon-2"
       ],
-      "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误",
+      "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
         "case-63a908948eb64951",
+        "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449"
       ],
       "public_feedback_keys": [
@@ -676,7 +678,12 @@
         "11092365551|154047257767",
         "11092365551|154047260710",
         "11092365551|154047266943",
-        "11092365551|154047305266"
+        "11092365551|154047305266",
+        "11092365551|154058589879",
+        "11092365551|154058601449",
+        "11092365551|154058621132",
+        "11092365551|154058633740",
+        "11092365551|154058646517"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1408,10 +1415,12 @@
       "game_ids": [
         "kalos-crystal"
       ],
-      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
+      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
+        "case-7e8f6d8de006e3a0",
         "case-eaf53b75946aeea2"
       ],
       "public_feedback_keys": [
@@ -1426,7 +1435,9 @@
         "11092365551|154045508059",
         "11092365551|154045748153",
         "11092365551|154047256388",
-        "11092365551|154047257980"
+        "11092365551|154047257980",
+        "11092365551|154057741777",
+        "11092365551|154058616784"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2147,14 +2158,17 @@
       "game_ids": [
         "fleet-commander-vs"
       ],
-      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
+      "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。；玩家称重新测试后旧图片错乱已修，舰船数据指令进入会白屏一下且比原版慢约一秒。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-03c51069ac5657f0",
         "case-677b4e7a28d20c12"
       ],
       "public_feedback_keys": [
-        "11092365551|154050822750"
+        "11092365551|154050822750",
+        "11092365551|154057706935"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2288,14 +2302,18 @@
       "game_ids": [
         "tokimeki-memorial-pocket-culture"
       ],
-      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
+      "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。；两位玩家讨论女扮男装设定下是否应使用伊集院丽这一中文名；另一位认为不能仅凭名字判断性别。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-0205475b616eebb1",
         "case-0a940b33ee9327e7"
       ],
       "public_feedback_keys": [
-        "11092365551|154052614561"
+        "11092365551|154052614561",
+        "11092365551|154057878054",
+        "11092365551|154058015039"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2327,14 +2345,17 @@
       "game_ids": [
         "oni-iv"
       ],
-      "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。",
+      "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。；同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "BUG",
       "case_keys": [
-        "case-be4e55694caf28dc"
+        "case-be4e55694caf28dc",
+        "case-ccaa1786fe65adf6"
       ],
       "public_feedback_keys": [
-        "11092365551|154054053147"
+        "11092365551|154054053147",
+        "11092365551|154057843413"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2378,10 +2399,147 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-3b238f909725b329",
+      "game_ids": [
+        "pokemon-prism"
+      ],
+      "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1bb53957f01a904e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154057602119"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-93293400b9815d8a",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-d233260d5c6055f4"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-8e3d11ee61b16388"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058640162"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b465698919325191",
+      "game_ids": [
+        "pokemon-prism"
+      ],
+      "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-deb11bf7d28bcd9b"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154057602119"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b616e97afe94fd0b",
+      "game_ids": [
+        "pokemon-prism"
+      ],
+      "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-29c6a220b0305da4"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154058185481",
+        "11092365551|154058358705"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6f84aea9a1bcbc64"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154057783445"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
-  "closed_is_not_full_game_acceptance": true
+  "closed_is_not_full_game_acceptance": true,
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00",
+  "newly_GET_checked_problem_keys": [
+    "problem-3b238f909725b329",
+    "problem-4595919452458fb1",
+    "problem-6c683d590ea6d219",
+    "problem-93293400b9815d8a",
+    "problem-a8ffd7bc25258b4f",
+    "problem-b465698919325191",
+    "problem-b616e97afe94fd0b",
+    "problem-cb6bf37dd471ed60",
+    "problem-cc335a785d542cae",
+    "problem-f0b3edaaeebec4f9",
+    "problem-fdd0ed6d2ee71595"
+  ]
 }

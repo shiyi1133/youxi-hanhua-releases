@@ -3,10 +3,99 @@
   "game_id": "crayon-shin-chan-cinema-land-gba",
   "game_name": "蜡笔小新 电影乐园大冒险",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154057783445",
+      "parent_pid": "154057035599",
+      "floor": 209,
+      "public_nickname": "折影的十字架",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057783445#154057783445",
+      "created_at": "2026-10-22T07:32:58+08:00",
+      "quote": "rom的名字叫CrayonCinema_zhCN_v0.1.0，死机前是一个自动播放的画面，小新骑象的过程就卡住",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-6f84aea9a1bcbc64",
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": "玩家未另报；当前原生12px仅作参考",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154057783445"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
+      "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6f84aea9a1bcbc64"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154057783445"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-7e489a456a910dc5",
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "kind": "BUG_ACK_ANSWER_RECEIVED",
+      "source_feedback_keys": [
+        "11092365551|154057783445"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057035599",
+      "floor": 209,
+      "pid": "154059401712",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059401712#154059401712",
+      "text": "@折影的十字架 CrayonCinema_zhCN_v0.1.0和骑象自动演出卡住的位置已补进记录，后续排查。",
+      "text_sha256": "b7300cc1fbfbbdac30ba71905142332f3b3f5f5ed34e042726b22d190ce4886e",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:53:27.636009+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154057783445",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

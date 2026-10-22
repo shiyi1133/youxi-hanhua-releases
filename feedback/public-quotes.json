@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 453,
+  "count": 473,
   "rows": [
     {
       "tid": "11092365551",
@@ -8813,8 +8813,526 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058589879",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058589879#154058589879",
+      "created_at": "2026-10-22T12:20:16+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（上方右2）进入后，点手动进入后，一些翻译意义不明。图3左下方“置：减少”，图3右下方“转TA赌T：下一步”，图4上方“格中”“步下时”，图4中间“名字 态带怪存”。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5df2a72f970d3d539b700bc67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcb08869528f8096b63f724a867.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0600346f21fbe096ea391132d600c338644ad67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058601449",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058601449#154058601449",
+      "created_at": "2026-10-22T12:24:18+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（上方右2）进入后，点手动（点“自动”进入后也有一样的问题）进入后，有词条翻译的意义不明，图3右下角“置：结束”",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5df2a72f970d3d539b700bc67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e5ad14950a7b020899246de624d9f2d3562cc870.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058621132",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058621132#154058621132",
+      "created_at": "2026-10-22T12:31:05+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（图1）（上方右2）进入后，点“自动”进入后的这个界面（图3 4 5 6）显示异常，画面下方四个选项应该由光标所指，分别是四个选项，分别为力量型、防御型、智力型、速度型，四个选项的文字显示错误、不全或位置不对，比如图6光标所指位置显示空白，应该是速度型，其余选项文字显示不全或位置错误。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fd0d74f0f5930e924b999f307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5b0905f431adcbef45e92c01eaaf2edda2cc9f07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fda24236acaf2edd942c1beecb1001e938019307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40447f094b36acaf183dc4fb3ad98d1000e99c07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc29082e202a3dde71191ef6d07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058633740",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058633740#154058633740",
+      "created_at": "2026-10-22T12:35:26+08:00",
+      "quote": "8px 0.1.4，进入初始村庄的上方右2房间（图1），点击“自动”之后，再点击几次选项之后会显示图3 4界面，再点击“格中”或者“步下时”（当然这两个选项的翻译也不对，需要修改）之后进入的界面，武器和盾牌已装备的标记显示异常（图5 6）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fd0d74f0f5930e924b999f307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7651a651f3deb48fdea4f3d9b61f3a292cf57817.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d57484b1cb13495469d3ba63104e9258d0094a17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/24fafadeb48f8c54c71e97287c292df5e1fe7f17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3f24855494eef01f6fd94ac2a6fe9925bd317d17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058646517",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058646517#154058646517",
+      "created_at": "2026-10-22T12:39:53+08:00",
+      "quote": "8px 0.1.4，点击菜单-职业后进入的页面，“地图 能”“战斗 能”等词条显示异常，翻译错误或缺字，比如图3右上方“地图 能”，图4右上方“战斗 能”，图5中间位置“战斗 能”等。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/270427dda3cc7cd9b4ef66de7f01213fb90e9126.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/329392504fc2d562c3ca82eaa11190ef77c66c26.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c09da5af2edda3cc4426ea2747e93901203f9226.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a576aacc7cd98d103b165e36673fb80e7aec9026.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc2909de202a3dde71191ef6d26.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057843413",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057843413#154057843413",
+      "created_at": "2026-10-22T08:03:47+08:00",
+      "quote": "目前oni4只有一個檔，Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px 卡頓發生點都在進戰鬥時跟平時a鍵打開菜單時幾乎都會有卡頓拖慢。 還有個顯示異常的小bug： 是a鍵進菜單時，血量跟最大血量間的斜線顯示會變國字”年“或“錦”。 下面圖一圖二是戰鬥受到異常狀態的顯示，只要受到敵人使用毒或混亂等狀態攻擊就會出現。 圖三是菜單狀態的顯示異常，正常錦那個字應該顯示成圖四的“/”才對。 目前約遊玩三分之一進度，尚無惡性bug。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/35a26263f6246b600782e373adf81a4c500fa250.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2aefa4345982b2b7e26f68c377adcbef77099b74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab64b4821cc7b136afc378311e74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d1430386b52435f082025baf0774.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057706935",
+      "parent_pid": "154038643049",
+      "floor": 101,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057706935#154057706935",
+      "created_at": "2026-10-22T06:37:34+08:00",
+      "quote": "厉害，图片乱的已修复，重新测试游玩，发现舰船的数据指令点进去查看会白屏一下比原版慢一秒，原版这里点进去切换很快，没有白屏",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/9a74a0ec8a1363278cbb9334d78fa0ec09fac78b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057741777",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057741777#154057741777",
+      "created_at": "2026-10-22T07:07:05+08:00",
+      "quote": "卡洛斯水晶，宝可梦水晶数码暴龙，都是这样的，所有都是，原版不会变色",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058616784",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058616784#154058616784",
+      "created_at": "2026-10-22T12:29:36+08:00",
+      "quote": "发不了视频问题就是点攻击之后退出来它就上色了，攻击完之后又恢复正常",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057783445",
+      "parent_pid": "154057035599",
+      "floor": 209,
+      "public_nickname": "折影的十字架",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057783445#154057783445",
+      "created_at": "2026-10-22T07:32:58+08:00",
+      "quote": "rom的名字叫CrayonCinema_zhCN_v0.1.0，死机前是一个自动播放的画面，小新骑象的过程就卡住",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057878054",
+      "parent_pid": "154052614561",
+      "floor": 179,
+      "public_nickname": "卡塔尼克拉",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057878054#154057878054",
+      "created_at": "2026-10-22T08:19:07+08:00",
+      "quote": "这个不对吧。她在学校是女扮男装，公告里不应该直接翻译成伊集院丽这种女性名字",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058015039",
+      "parent_pid": "154052614561",
+      "floor": 179,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058015039#154058015039",
+      "created_at": "2026-10-22T09:10:02+08:00",
+      "quote": "现实中也有很多，男生名字偏女性，或女生偏男性的名字，比如晶飞飞，秦铃是男生，关男，范杰是女生。她只是女扮男装，你作为玩家用帝视角审视而已，不然你怎么知道她是女的？就看名字来判断？陈丽，赵丽也可以是男的。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058185481",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058185481#154058185481",
+      "created_at": "2026-10-22T10:09:06+08:00",
+      "quote": "还有从希思村下来的69号道路上的这块路牌，一点击就会死机乱码",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/20b39e2bd40735fa45d01dbed8510fb30e2408c4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b893b4c6984492442a7d8330ec4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058358705",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058358705#154058358705",
+      "created_at": "2026-10-22T11:04:48+08:00",
+      "quote": "从卡珀岭往上70道路→69道路左上角砍树过去后的这个路牌也是会死机",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4357cacec3fdfc031f9fb0bf923f8794a5c22679.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057602119",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057602119#154057602119",
+      "created_at": "2026-10-22T04:00:04+08:00",
+      "quote": "感谢大佬，测试中，目前发现这几处有问题 1，打开菜单再关掉右上角会有残留，过场景或者对话就回复， 2，战斗中属性变化有英文显示 3，正常对话中会有未知符号和字底未知涂层 4，pc精灵中心的电脑菜单未翻译 5，战斗升级学习新技能忘记旧技能时单词未翻译 6，酢浆草市左上角沙龙店换装人物出现黑块 还有一处忘了在哪里了也没有翻译",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/33a572ec54e736d16ad2da0fdd504fc2d462691b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b2aa283fb80e7bec171b55e6692eb9389a506b1b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0475de736d12f2effc4f86709c2d5628435681b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc29c9ee602a3dde71191ef6d1b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0e9eecdde71190ef383ac4d8881b9d16fcfa601b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5ec98c35e5dde711dd1315f1e1efce1b9c16611b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/6e76ee1190ef76c6e813ad2cdb16fdfaae51671b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058640162",
+      "parent_pid": "0",
+      "floor": 222,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058640162#154058640162",
+      "created_at": "2026-10-22T12:37:38+08:00",
+      "quote": "楼主大佬，心跳回忆 体育篇/文艺篇 又测了一下，还有两个小问题。期待完善修复bug版本。\n1.(图1)更新的这个新菜单画面版本，直接开始没问题，如果选右边的\"游戏设定\"选项\"确认的划下线\"消失，点确认进入会短暂\"花屏\"。\n2.(图2)游戏\"被动\"进入屏保模式，或点选择键\"主动\"进入屏保模式，随机出现的人物话语还是日文。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343d903d526d513b07ecb808810.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bd7a262eb9389b500b33b255c335e5dde6116e10.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057602714",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057602714#154057602714",
+      "created_at": "2026-10-22T04:00:52+08:00",
+      "quote": "然后大佬可以给个大字号的吗，谢谢",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058838407",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "腌在渡土看了",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058838407#154058838407",
+      "created_at": "2026-10-22T13:47:00+08:00",
+      "quote": "感谢🙏🏻模拟器上试了，可以运行，但是用 ez flash omega烧录卡会卡在标题画面，无法进入游戏。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154057800442",
+      "parent_pid": "154040376866",
+      "floor": 16,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154057800442#154057800442",
+      "created_at": "2026-10-22T07:42:21+08:00",
+      "quote": "设置还是英文，封面英文，推荐名字还是英文，里面重新取名翻页之后就有中文字，电脑里面的三个功能还是英文，刚开坑",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e769251f95cad1c89e37ad20393e6709c83d51d4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f23895cad1c8a786f3a61b092109c93d71cf50d4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/402d304e251f95cae979c3b18f177f3e660952d4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/70a1c9177f3e6709f48c14f87dc79f3df9dc55d4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059059709",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "楚接舆😍",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059059709#154059059709",
+      "created_at": "2026-10-22T15:01:21+08:00",
+      "quote": "1代目前有汉化版么？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
-  "private_issue_bodies_copied": false
+  "private_issue_bodies_copied": false,
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

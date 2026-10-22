@@ -1,79 +1,69 @@
-# 沙加3：时空之霸者（彩色DX基底）
+# 沙加3：时空之霸者（彩色DX基底）（限定测试版）
 
-原输入：Sa-Ga 3 / Final Fantasy Legend III (requester-provided English DX colorization ROM-hack input)
+[公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际基底：Sa-Ga 3 / Final Fantasy Legend III (requester-provided English DX colorization ROM-hack input)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v1.0.5 | music | `9a22a18846f9787f2384b4a29482d7fc2d497ec0446357157aab917a8d89bfb1` |
-| 8px | v1.0.5 | no-music | `13c37bbcef4c8f12d31c0c24bcf1907aa9485276eb13bffc77427893f9512a92` |
-| 8x12 | v1.0.8 | music | `7a61f03647c67ee815a86350060e263124d06ddff3cea74ea06dacabfa1b4991` |
-| 8x12 | v1.0.8 | no-music | `da1267a2486abc158de5df6fee525b1d19e2417c33635f590dc96038563f7aa3` |
+原输入完整SHA-256：`e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565`（524288字节）。原输入保留其地区、修订、改版或已有汉化基底身份。
 
-## 源码与补丁
+## 8px v1.0.6 music
 
-- 8px／v1.0.5／music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-3-current-source-ae592725f045-public-r01.zip)（ZIP SHA256 `55c93db088e7df9deec61350e54b8066973fd760a8aa728b2317277663a7a36d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-3-current-patches.zip)（ZIP SHA256 `e02cbec83482a0686fd7515e9595c91402e4e4edd4b196f154aefda989632b56`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8px／v1.0.5／no-music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-3-current-source-ae592725f045-public-r01.zip)（ZIP SHA256 `55c93db088e7df9deec61350e54b8066973fd760a8aa728b2317277663a7a36d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-3-current-patches.zip)（ZIP SHA256 `e02cbec83482a0686fd7515e9595c91402e4e4edd4b196f154aefda989632b56`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8x12／v1.0.8／music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-3-current-source-ae592725f045-public-r01.zip)（ZIP SHA256 `55c93db088e7df9deec61350e54b8066973fd760a8aa728b2317277663a7a36d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-3-current-patches.zip)（ZIP SHA256 `e02cbec83482a0686fd7515e9595c91402e4e4edd4b196f154aefda989632b56`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 8x12／v1.0.8／no-music：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/saga-3-current-source-ae592725f045-public-r01.zip)（ZIP SHA256 `55c93db088e7df9deec61350e54b8066973fd760a8aa728b2317277663a7a36d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/saga-3-current-patches.zip)（ZIP SHA256 `e02cbec83482a0686fd7515e9595c91402e4e4edd4b196f154aefda989632b56`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-v1.0.9-patches-public.zip)
 
-## 范围与验证边界
+目标完整SHA-256：`9f0eb758731af3e40cdb6256e0c49d85cdf36252249d1c6234b186cbd0a70f62`（524288字节）。
 
-- 8px／v1.0.5：普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。。
-  普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。
-  未全流程/实机/全部模拟器/深层动态名称/最长变量；大字可能拖慢/残留，忙碌期短按可能漏收。
-  战斗固定名称残留未复现，旧“仍漏汉化未修”说明已由新核查纠正；默认英文姓名/英文字母/技术缩写/版权保留，不保证零残留。
-  撤回的战斗卡住调查保持撤回；本次不声称修复。无音乐减负不等于整体78–84%提速。
-- 8px／v1.0.5：普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。。
-  普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。
-  未全流程/实机/全部模拟器/深层动态名称/最长变量；大字可能拖慢/残留，忙碌期短按可能漏收。
-  战斗固定名称残留未复现，旧“仍漏汉化未修”说明已由新核查纠正；默认英文姓名/英文字母/技术缩写/版权保留，不保证零残留。
-  撤回的战斗卡住调查保持撤回；本次不声称修复。无音乐减负不等于整体78–84%提速。
-- 8x12／v1.0.8：普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。。
-  普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。
-  未全流程/实机/全部模拟器/深层动态名称/最长变量；大字可能拖慢/残留，忙碌期短按可能漏收。
-  战斗固定名称残留未复现，旧“仍漏汉化未修”说明已由新核查纠正；默认英文姓名/英文字母/技术缩写/版权保留，不保证零残留。
-  撤回的战斗卡住调查保持撤回；本次不声称修复。无音乐减负不等于整体78–84%提速。
-- 8x12／v1.0.8：普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。。
-  普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。
-  未全流程/实机/全部模拟器/深层动态名称/最长变量；大字可能拖慢/残留，忙碌期短按可能漏收。
-  战斗固定名称残留未复现，旧“仍漏汉化未修”说明已由新核查纠正；默认英文姓名/英文字母/技术缩写/版权保留，不保证零残留。
-  撤回的战斗卡住调查保持撤回；本次不声称修复。无音乐减负不等于整体78–84%提速。
+![对应最终ROM真实九宫格](screenshots/dc1d64aa77ec3ff0e563.png)
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+图证：v1.0.6 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+## 8px v1.0.6 no-music
 
-## 对应版本截图
+字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
 
-![版本 v1.0.5／8px／music](screenshots/aad719853b33a5d734d9.png)
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-v1.0.9-patches-public.zip)
 
-v1.0.5 普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。 音频：music；四目标各自当前最终ROM九宫格；自然/音频计数/词表诊断分层，不能把旧修复回执全算本版重测。
+目标完整SHA-256：`6829523388b051844f8e49df439cd84359f096142f61c622b847e8767762bee4`（524288字节）。
 
-图像SHA256：`aad719853b33a5d734d968de6b9a922821da5dc42606c44d49ceab3be95bac13`；绑定ROM SHA256：`9a22a18846f9787f2384b4a29482d7fc2d497ec0446357157aab917a8d89bfb1`。
+![对应最终ROM真实九宫格](screenshots/4afec13c286e18a55670.png)
 
-![版本 v1.0.5／8px／no-music](screenshots/906a29568832e65af210.png)
+图证：v1.0.6 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-v1.0.5 普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。 音频：no-music；四目标各自当前最终ROM九宫格；自然/音频计数/词表诊断分层，不能把旧修复回执全算本版重测。
+## 8x12 v1.0.9 music
 
-图像SHA256：`906a29568832e65af210cb5ffa251b2576012b5496a63083ade94c7536d806be`；绑定ROM SHA256：`13c37bbcef4c8f12d31c0c24bcf1907aa9485276eb13bffc77427893f9512a92`。
+字号范围：原生8×12，密集菜单/命名提示仍8px；标题独立静态字图。
 
-![版本 v1.0.8／8x12／no-music](screenshots/8145dd5a04f4924f3bc2.png)
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-v1.0.9-patches-public.zip)
 
-v1.0.8 普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。 音频：no-music；四目标各自当前最终ROM九宫格；自然/音频计数/词表诊断分层，不能把旧修复回执全算本版重测。
+目标完整SHA-256：`9aa0c4b712b5c2f0d5ceac5f35136bbef44630ac3c1644a3923d77aae2662d26`（524288字节）。
 
-图像SHA256：`8145dd5a04f4924f3bc28ae0294f1bdbe035cb578a39c667ecb77c78ce823afa`；绑定ROM SHA256：`da1267a2486abc158de5df6fee525b1d19e2417c33635f590dc96038563f7aa3`。
+![对应最终ROM真实九宫格](screenshots/f276a892297a5c3ff27d.png)
 
-![版本 v1.0.8／8x12／music](screenshots/d3958c84a61ccf1bd448.png)
+图证：v1.0.9 原生8×12，密集菜单/命名提示仍8px；标题独立静态字图。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
 
-v1.0.8 普通原生Fusion Pixel8px v1.0.5；大字原生Muzai8×12 v1.0.8，密集菜单/命名提示仍8px；标题16px是8px美术2倍，不等于正文字号。 音频：music；四目标各自当前最终ROM九宫格；自然/音频计数/词表诊断分层，不能把旧修复回执全算本版重测。
+## 8x12 v1.0.9 no-music
 
-图像SHA256：`d3958c84a61ccf1bd448ce473666f2cc149e72b2b09b92bdaeafb8cd7e29c861`；绑定ROM SHA256：`7a61f03647c67ee815a86350060e263124d06ddff3cea74ea06dacabfa1b4991`。
+字号范围：原生8×12，密集菜单/命名提示仍8px；标题独立静态字图。
 
+[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-3-v1.0.9-patches-public.zip)
+
+目标完整SHA-256：`f524b05686128a6f3c0bbcbf891a7ade7613e1a44124e2972ed1daa034f0fbd3`（524288字节）。
+
+![对应最终ROM真实九宫格](screenshots/06b1173a16fa40eaf056.png)
+
+图证：v1.0.9 原生8×12，密集菜单/命名提示仍8px；标题独立静态字图。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+
+## 范围与测试边界
+
+- Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.
+- 未全流程/实机/全部模拟器/深层动态名称/最长变量；大字可能拖慢/残留，忙碌期短按可能漏收。
+- 战斗固定名称残留未复现，旧“仍漏汉化未修”说明已由新核查纠正；默认英文姓名/英文字母/技术缩写/版权保留，不保证零残留。
+- 撤回的战斗卡住调查保持撤回；本次不声称修复。无音乐减负不等于整体78–84%提速。
+- 本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。
+
+维护侧独立补丁应用与目标字节一致；18张本批最终九宫格已各自核对9张原生单帧。未执行源码、未新增游戏运行、全流程或实机验收。
+
+大字版更容易出现拖慢、刷新残留等问题，遇到请在原反馈楼说明版本和触发方式。
+
+公开问题状态与玩家测试记录见[反馈页](feedback.md)。开放不代表正在修复；已关闭也不能单独证明所有症状或完整游戏验收。

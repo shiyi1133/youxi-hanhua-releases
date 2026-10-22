@@ -367,6 +367,201 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058589879",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058589879#154058589879",
+      "created_at": "2026-10-22T12:20:16+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（上方右2）进入后，点手动进入后，一些翻译意义不明。图3左下方“置：减少”，图3右下方“转TA赌T：下一步”，图4上方“格中”“步下时”，图4中间“名字 态带怪存”。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5df2a72f970d3d539b700bc67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcb08869528f8096b63f724a867.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0600346f21fbe096ea391132d600c338644ad67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058601449",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058601449#154058601449",
+      "created_at": "2026-10-22T12:24:18+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（上方右2）进入后，点手动（点“自动”进入后也有一样的问题）进入后，有词条翻译的意义不明，图3右下角“置：结束”",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb5df2a72f970d3d539b700bc67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e5ad14950a7b020899246de624d9f2d3562cc870.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058621132",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058621132#154058621132",
+      "created_at": "2026-10-22T12:31:05+08:00",
+      "quote": "8px 0.1.4，初始村庄这个房间（图1）（上方右2）进入后，点“自动”进入后的这个界面（图3 4 5 6）显示异常，画面下方四个选项应该由光标所指，分别是四个选项，分别为力量型、防御型、智力型、速度型，四个选项的文字显示错误、不全或位置不对，比如图6光标所指位置显示空白，应该是速度型，其余选项文字显示不全或位置错误。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fd0d74f0f5930e924b999f307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5b0905f431adcbef45e92c01eaaf2edda2cc9f07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fda24236acaf2edd942c1beecb1001e938019307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40447f094b36acaf183dc4fb3ad98d1000e99c07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc29082e202a3dde71191ef6d07.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058633740",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058633740#154058633740",
+      "created_at": "2026-10-22T12:35:26+08:00",
+      "quote": "8px 0.1.4，进入初始村庄的上方右2房间（图1），点击“自动”之后，再点击几次选项之后会显示图3 4界面，再点击“格中”或者“步下时”（当然这两个选项的翻译也不对，需要修改）之后进入的界面，武器和盾牌已装备的标记显示异常（图5 6）",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf3d70a1cfc4c46f21fbf09aa67.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fd0d74f0f5930e924b999f307.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7651a651f3deb48fdea4f3d9b61f3a292cf57817.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d57484b1cb13495469d3ba63104e9258d0094a17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/24fafadeb48f8c54c71e97287c292df5e1fe7f17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3f24855494eef01f6fd94ac2a6fe9925bd317d17.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058646517",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058646517#154058646517",
+      "created_at": "2026-10-22T12:39:53+08:00",
+      "quote": "8px 0.1.4，点击菜单-职业后进入的页面，“地图 能”“战斗 能”等词条显示异常，翻译错误或缺字，比如图3右上方“地图 能”，图4右上方“战斗 能”，图5中间位置“战斗 能”等。",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/270427dda3cc7cd9b4ef66de7f01213fb90e9126.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/329392504fc2d562c3ca82eaa11190ef77c66c26.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c09da5af2edda3cc4426ea2747e93901203f9226.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a576aacc7cd98d103b165e36673fb80e7aec9026.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a485b0389b504fc2909de202a3dde71191ef6d26.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "SHA256_of_archived_preview": null
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -432,6 +627,36 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7709e9b584b204e8",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.4",
+      "reported_font": "8px",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154058589879",
+        "11092365551|154058601449",
+        "11092365551|154058621132",
+        "11092365551|154058633740",
+        "11092365551|154058646517"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -440,11 +665,13 @@
       "game_ids": [
         "poyon-dungeon-2"
       ],
-      "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误",
+      "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
         "case-63a908948eb64951",
+        "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449"
       ],
       "public_feedback_keys": [
@@ -466,7 +693,12 @@
         "11092365551|154047257767",
         "11092365551|154047260710",
         "11092365551|154047266943",
-        "11092365551|154047305266"
+        "11092365551|154047305266",
+        "11092365551|154058589879",
+        "11092365551|154058601449",
+        "11092365551|154058621132",
+        "11092365551|154058633740",
+        "11092365551|154058646517"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -476,5 +708,35 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-dfca8283dd11dfe7",
+      "game_id": "poyon-dungeon-2",
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154058589879",
+        "11092365551|154058601449",
+        "11092365551|154058621132",
+        "11092365551|154058633740",
+        "11092365551|154058646517"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154059389867",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059389867#154059389867",
+      "text": "@球总好学 8px v0.1.4这五组反馈和截图已补进记录：成长说明与自动成长选项、装备标记、职业技能栏，后续排查。",
+      "text_sha256": "1463c2f6c8969b8ac803dac712a877a181cee4dc416f70b19692262f271613da",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:49:44.710885+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154058589879",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

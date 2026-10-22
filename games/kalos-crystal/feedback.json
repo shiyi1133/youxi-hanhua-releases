@@ -413,6 +413,34 @@
       "public_nicknames_recorded": [
         "fgjxchtd"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154057741777",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154057741777#154057741777",
+      "created_at": "2026-10-22T07:07:05+08:00",
+      "quote": "卡洛斯水晶，宝可梦水晶数码暴龙，都是这样的，所有都是，原版不会变色",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154058616784",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154058616784#154058616784",
+      "created_at": "2026-10-22T12:29:36+08:00",
+      "quote": "发不了视频问题就是点攻击之后退出来它就上色了，攻击完之后又恢复正常",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -552,6 +580,33 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-7e8f6d8de006e3a0",
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "classification": "BUG",
+      "reported_version": "未提供",
+      "reported_font": "未提供",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154057741777",
+        "11092365551|154058616784"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false
     }
   ],
   "problems": [
@@ -560,10 +615,12 @@
       "game_ids": [
         "kalos-crystal"
       ],
-      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
+      "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "state": "open",
+      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
+        "case-7e8f6d8de006e3a0",
         "case-eaf53b75946aeea2"
       ],
       "public_feedback_keys": [
@@ -578,7 +635,9 @@
         "11092365551|154045508059",
         "11092365551|154045748153",
         "11092365551|154047256388",
-        "11092365551|154047257980"
+        "11092365551|154047257980",
+        "11092365551|154057741777",
+        "11092365551|154058616784"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -675,5 +734,32 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-295134e3b23a212f",
+      "game_id": "kalos-crystal",
+      "kind": "BUG_ACK_AND_MINIMAL_IDENTITY",
+      "source_feedback_keys": [
+        "11092365551|154057741777",
+        "11092365551|154058616784"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "pid": "154059399004",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059399004#154059399004",
+      "text": "@fgjxchtd 退出攻击菜单变色、攻击后恢复的触发已记录。请发《卡洛斯水晶》和《宝可梦水晶数码暴龙》两份ROM的完整文件名与字号，便于区分版本。",
+      "text_sha256": "0ccd931bff380e8db3b758412a782b98d0b2b2017eecd06a866b06a412e2930e",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-22T16:52:35.518146+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154058616784",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
 }

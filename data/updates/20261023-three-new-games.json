@@ -1,0 +1,41 @@
+{
+  "schema": "actual_three_first_game_public_metadata_Source_patch_PNG_request_projection_v1",
+  "bindings": {
+    "ready_sha256": "f7bf1fec836737514227a31a27b540ca12c2ca684ffb8645bc7936bbd18b8ed9",
+    "public_receipt_sha256": "78f809444389b4fd63ade62b4276ba9fe2896b387f6411bd3b1ab448702f5ec4",
+    "request_source_records_sha256": "e5d6934133a08352a4821867b9138d312ca8cabc5613943c9a9b5ede51a13684",
+    "private_game_commit_proofs_sha256": "a5a5863a6fd5f3f0bb0353ffa74203a17530373bf89a042f965a6f12f63d9588",
+    "actual_notice_receipts_sha256": "b3dd1a76acf3a4ed64bcf39510cd08124a678261f97c9190d3b4481b27fb62be",
+    "actual_manual_image_evidence_sha256": "4358565d2894eee88a4b24b3695c2ae296a2bc18c6b04d84cf068a2cd059a06e"
+  },
+  "game_ids": [
+    "jikkyou-world-soccer-pocket-2",
+    "kotobattle",
+    "pocket-king"
+  ],
+  "new_games": 3,
+  "existing_games": 136,
+  "current_games": 139,
+  "current_targets": 198,
+  "Source_assets": 3,
+  "patch_assets": 3,
+  "actual_Release_assets": 11,
+  "primary_final_ROM_ninegrids": 3,
+  "supplemental_SGB_opening_frames": 2,
+  "unique_current_PNGs": 5,
+  "actual_original_request_quote_rows": 4,
+  "new_original_request_quotes": 4,
+  "actual_original_floor_notices": 3,
+  "separate_manual_notice_image_acceptances": 1,
+  "notices_pending_game_ids": [],
+  "Source_semantic_completeness": null,
+  "Source_executions": 0,
+  "new_Source_builds": 0,
+  "new_runtime_tests": 0,
+  "ROM_files": 0,
+  "ROM_download_links": 0,
+  "private_Issue_bodies_copied": false,
+  "public_Issues_created": 0,
+  "other_games_targets_and_all_history_preserved": true,
+  "generated_at": "2026-10-23T01:15:34.877589+08:00"
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "public_first_game_original_requests_and_actual_delivery_notices_v1",
+  "game_id": "jikkyou-world-soccer-pocket-2",
+  "game_name": "实况世界足球Pocket 2",
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154040646700",
+      "parent_pid": "0",
+      "floor": 17,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154040646700#154040646700",
+      "created_at": "2026-10-17T09:11:53+08:00",
+      "quote": "再推几个GBA有生之年系列，蜡笔小新电影乐园大冒险，末期大作至今未汉化，续作食玩都大冒险已有汉化；马克思佩恩、雷霆之音，系同一家公司出品，画面精良，堪称是GBA画面的黑科技\nKonami分社制作的两作实况足球（非胜利十一人），第一作完整移植SFC+名单更新，第二作视角改为横版迎合2002韩日世界杯，两作均配有全程语音解说，代入感十足",
+      "quote_is_full": false,
+      "omission_notice": "省略原ROM下载来源、提取码及外链客户端参数；保留需求文字，完整公开原文见原楼。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d46878f0f736afc3c2342b62f519ebc4b74512a0.jpg",
+          "source_role": "PLAYER_REQUEST_IMAGE_NOT_TRANSLATED_ROM_TEST_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [],
+  "problems": [],
+  "delivery_notices": [
+    {
+      "public_notice_key": "notice-05a75131ef26e2b4",
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "source_pid": "154040646700",
+      "floor": 17,
+      "pid": "154060912226",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154060912226#154060912226",
+      "public_message": "《实况世界足球Pocket 2》v0.1.0 原生8/12px普通字号汉化测试版已放入总分享的GBA「实况世界足球Pocket 2」目录。\n欢迎下载测试，问题请在这楼反馈。",
+      "public_message_is_full": false,
+      "omission_notice": "公开库镜像省略网盘ROM下载链接；原通知全文及对应截图见原楼。",
+      "original_full_text_sha256": "5b4179f4f7deef90aa68761b11be25b392ab15c8314f93f294db316d9c09178a",
+      "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+      "output_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+      "output_bytes": 9720404,
+      "font": "native8-12px",
+      "version": "v0.1.0",
+      "actual_public_full_text_and_image_evidence_verified": true,
+      "verification_method": "ANONYMOUS_FULL_TEXT_AUTHOR_PLUS_SEPARATE_MAINTAINER_MANUAL_NINE_CELL_IMAGE_ACCEPTANCE",
+      "original_automatic_receipt_status": "visible_content_incomplete",
+      "original_send_record_status": "ACTUAL_SENT_UNVERIFIED_NO_RETRY",
+      "automatic_image_check_passed": false,
+      "automatic_image_comparison": [
+        {
+          "actual_public_image_sha256": "7fb31b8e628e86788fb833345e7fee78b3ccc4ebed65658aae0d2c878a4b400a",
+          "actual_public_image_bytes": 112465,
+          "expected_image_sha256": "6017f5c93609079901218e015fab8ac3b9da0946afb584e0db949674d6a8eec4",
+          "same_dimensions": true,
+          "exact_full_bytes": false,
+          "RGB_RMS_128": 8.593,
+          "threshold": 8,
+          "passed": false
+        }
+      ],
+      "separate_manual_image_acceptance_recorded": true,
+      "manual_image_evidence_path": "games/jikkyou-world-soccer-pocket-2/notice-image-manual-acceptance.json",
+      "manual_image_evidence_sha256": "36bcb42e9d9f0855560d1ccebe126a92dd1e003fedcabd5306a95c7458b92623",
+      "actual_public_reply_to_id": "0",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_ROM_delivery_notice": true,
+      "is_information_or_bug_ACK": false,
+      "is_repair_completion_notice": false,
+      "whole_game_acceptance": false,
+      "source_receipt_sha256": "e8b653bfc31b33615b6636a913181d797b7612892106c8ec19be157e9172d4e9"
+    }
+  ],
+  "notification_status": "PUBLIC_VERIFIED",
+  "private_issue_bodies_copied": false,
+  "public_Issues_created": 0,
+  "source_is_public_evidence_not_instructions": true,
+  "checked_at": "2026-10-23T01:15:34.877589+08:00"
+}

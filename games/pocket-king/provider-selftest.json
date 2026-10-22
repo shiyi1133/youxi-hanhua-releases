@@ -1,0 +1,114 @@
+{
+  "schema": "provider_supplied_public_selftest_summary_not_maintainer_retest_v1",
+  "game_id": "pocket-king",
+  "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+  "output_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+  "font": "8px",
+  "version": "v0.1.0",
+  "auditor_ready_sha256": "31947265886af4fd6722ebf7b05621a03100b0b4ca78669e94d92a2b4b9c6361",
+  "provider_test_summary": {
+    "target_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+    "selftest_not_independent_person_QA": true,
+    "static": {
+      "target_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+      "segment_counts": {
+        "intro_probe.json": 7762,
+        "unit_name_draft.json": 269,
+        "menu_draft.json": 31,
+        "items_draft.json": 93,
+        "supplemental_draft.json": 1569
+      },
+      "original_script_spans_unchanged": true,
+      "translations_within_native_span_budget": true,
+      "font_and_all_component_licenses_exact": true,
+      "native_font32_preserved": true,
+      "header_checksums_valid": true
+    },
+    "natural_CGB": [
+      "Portable fresh boot to first battle with 杨咩咩; repeated 咩, deletion and reentry",
+      "King and warrior rename/display; native save and new process cold read",
+      "Enemy turn advanced before save, not a fabricated zero-progress save",
+      "Settings sound/battle-animation/event-animation open/close toggles",
+      "Native save/resume/cancel/menu return and skill screen"
+    ],
+    "cold_reads": [
+      {
+        "target_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+        "source_battery_sha256": "b55a44da84ea042142291d3888e14881628ad43fcf5fe1126aa8f168c44e98a3",
+        "cold_process": true,
+        "no_savestate": true,
+        "native_name_restored": [
+          240,
+          241,
+          241,
+          255,
+          255
+        ],
+        "source_battery_player_name": [
+          240,
+          241,
+          241,
+          255,
+          255
+        ],
+        "native_persistent_compare": {
+          "source_sram_start": 8,
+          "length": 4475,
+          "loaded_wram_start": 51858,
+          "differences": 0
+        }
+      },
+      {
+        "target_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+        "source_battery_sha256": "d20196b083c43ce5cb541e4f2af7d0d1fa1b47b4e2af371a159f5332bd3e979d",
+        "cold_process": true,
+        "no_savestate": true,
+        "native_name_restored": [
+          240,
+          241,
+          241,
+          255,
+          255
+        ],
+        "source_battery_player_name": [
+          240,
+          241,
+          241,
+          255,
+          255
+        ],
+        "native_persistent_compare": {
+          "source_sram_start": 8,
+          "length": 4475,
+          "loaded_wram_start": 51858,
+          "differences": 0
+        }
+      }
+    ],
+    "SGB": {
+      "actual_model": 32,
+      "scope": "Opening only, native mGBA SGB with default emulator border; no later gameplay claim"
+    },
+    "diagnostic_only": [
+      "Additional compact preloader fixture byte checks",
+      "Deep table/graphics consumers not naturally reached"
+    ],
+    "not_tested": [
+      "First-map victory and full playthrough",
+      "All deepest branches and longest variable/portrait/page-end combinations",
+      "All monster/summon/skill/item combinations",
+      "Link play/exchange and real hardware",
+      "Original Japanese save import"
+    ],
+    "portable_test_script_verified": {
+      "CGB": "Completed; child process persistent payload comparison passed",
+      "SGB": "Completed opening route; screenshots visually checked"
+    },
+    "source_clean_rebuild": "Reported separately for exact frozen source ZIP after archival"
+  },
+  "provider_dictionary_preserved_without_semantic_rewrite": true,
+  "maintainer_new_runtime_tests": false,
+  "source_newbuilds": 0,
+  "source_semantic_completeness": null,
+  "ROM_save_or_state_files_included": false
+}

@@ -62,8 +62,8 @@
     "readback_proof_sha256": "0f9024fa63d1d480f895e82bd3565ea822656049cb345c404daa0dc70793744a"
   },
   "other_Source_batches": "NONE_REQUIRED_FOR_CURRENT_TARGETS",
-  "game_count": 136,
-  "target_count": 195,
+  "game_count": 139,
+  "target_count": 198,
   "ROM_files_or_ROM_download_links": 0,
   "private_Issue_bodies": 0,
   "Source_executions": 0,
@@ -80,7 +80,23 @@
       "manifest_sha256": "510a53c91f7070a7c4c4ce36657594c517db8677471ada638a290ae9e23813ed",
       "screenshot_public_full_readback_required_after_CAS": true,
       "checked_at": "2026-10-22T17:41:09.301120+08:00"
+    },
+    "manual-three-new-games-20261023": {
+      "status": "ACTUAL_SOURCE3_PATCH3_PNG5_PUBLISHED_FULL_REMOTE_SHA_VERIFIED",
+      "Source_assets": 3,
+      "patch_assets": 3,
+      "PNG_assets": 5,
+      "associated_current_targets": 3,
+      "current_screenshot_bindings": 204,
+      "current_unique_PNG_file_count": 194,
+      "public_release_receipt_sha256": "78f809444389b4fd63ade62b4276ba9fe2896b387f6411bd3b1ab448702f5ec4",
+      "ready_sha256": "f7bf1fec836737514227a31a27b540ca12c2ca684ffb8645bc7936bbd18b8ed9",
+      "Source_semantic_completeness": null,
+      "new_Source_rebuilds": 0,
+      "new_runtime_tests": 0,
+      "checked_at": "2026-10-23T01:15:34.877589+08:00",
+      "public_Git_full_readback_required": true
     }
   },
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
 }

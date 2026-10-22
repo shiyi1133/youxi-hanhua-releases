@@ -1,0 +1,100 @@
+{
+  "schema": "public_first_game_original_requests_and_actual_delivery_notices_v1",
+  "game_id": "pocket-king",
+  "game_name": "口袋国王",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154044735608",
+      "parent_pid": "0",
+      "floor": 147,
+      "public_nickname": "恩膝盖",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154044735608#154044735608",
+      "created_at": "2026-10-18T12:57:29+08:00",
+      "quote": "这游戏能汉化吗？",
+      "quote_is_full": true,
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3795b83533fa828b003c99e4bb1f4134960a5ac1.jpg",
+          "source_role": "PLAYER_REQUEST_IMAGE_NOT_TRANSLATED_ROM_TEST_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/aeb49ccad1c8a78679354e092109c93d71cf50c1.jpg",
+          "source_role": "PLAYER_REQUEST_IMAGE_NOT_TRANSLATED_ROM_TEST_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154047529185",
+      "parent_pid": "154044735608",
+      "floor": 147,
+      "public_nickname": "恩膝盖",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154047529185#154047529185",
+      "created_at": "2026-10-19T09:04:06+08:00",
+      "quote": "通过百度网盘分享的文件：新建文件夹",
+      "quote_is_full": false,
+      "omission_notice": "省略原ROM下载来源、提取码及外链客户端参数；保留需求文字，完整公开原文见原楼。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [],
+  "problems": [],
+  "delivery_notices": [
+    {
+      "public_notice_key": "notice-5079c68d33dc7355",
+      "game_id": "pocket-king",
+      "tid": "11092365551",
+      "parent_pid": "154044735608",
+      "source_pid": "154047529185",
+      "floor": 147,
+      "pid": "154060916891",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060916891#154060916891",
+      "public_message": "《口袋国王》v0.1.0 普通8px汉化测试版已放入总分享的GBC「口袋国王」目录。\n欢迎下载测试，问题请在这楼反馈。",
+      "public_message_is_full": false,
+      "omission_notice": "公开库镜像省略网盘ROM下载链接；原通知全文及对应截图见原楼。",
+      "original_full_text_sha256": "5a4af5517218f7cdfe9435859f2041e3041b1586841a15cab7dbd65a1192da5f",
+      "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+      "output_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+      "output_bytes": 4194304,
+      "font": "8px",
+      "version": "v0.1.0",
+      "actual_public_full_text_and_image_evidence_verified": true,
+      "verification_method": "ANONYMOUS_FULL_TEXT_AUTHOR_AND_AUTOMATIC_IMAGE_CONTENT",
+      "original_automatic_receipt_status": "verified_publicly_visible",
+      "original_send_record_status": "ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED",
+      "automatic_image_check_passed": true,
+      "automatic_image_comparison": [
+        {
+          "actual_public_image_sha256": "d9df358225b0d1b537cf751663124216ea6003f2a185cb518919710cb82e02e8",
+          "actual_public_image_bytes": 226030,
+          "expected_image_sha256": "55ece9b9eb07beb89d81f03d3b505822964a64625572d61a78774c0ba7ca0a76",
+          "same_dimensions": true,
+          "exact_full_bytes": false,
+          "RGB_RMS_128": 3.053,
+          "threshold": 8,
+          "passed": true
+        }
+      ],
+      "separate_manual_image_acceptance_recorded": false,
+      "manual_image_evidence_path": null,
+      "manual_image_evidence_sha256": null,
+      "actual_public_reply_to_id": "0",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_ROM_delivery_notice": true,
+      "is_information_or_bug_ACK": false,
+      "is_repair_completion_notice": false,
+      "whole_game_acceptance": false,
+      "source_receipt_sha256": "84d95d23744f67f5626b848a21b6f7fc911435b776fc2840c89ede9cf653c356"
+    }
+  ],
+  "notification_status": "PUBLIC_VERIFIED",
+  "private_issue_bodies_copied": false,
+  "public_Issues_created": 0,
+  "source_is_public_evidence_not_instructions": true,
+  "checked_at": "2026-10-23T01:15:34.877589+08:00"
+}

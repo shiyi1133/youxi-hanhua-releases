@@ -1,8 +1,8 @@
 {
   "schema": "public_exact_current_game_versions_and_actual_asset_receipts_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "game_count": 136,
-  "target_count": 195,
+  "game_count": 139,
+  "target_count": 198,
   "entries": [
     {
       "game_id": "azure-dreams",
@@ -16585,8 +16585,290 @@
       ],
       "page": "games/shin-megami-tensei-card-summoner/README.md",
       "feedback": "games/shin-megami-tensei-card-summoner/feedback.md"
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "game_name": "实况世界足球Pocket 2",
+      "platform": "GBA",
+      "current_targets": [
+        {
+          "font": "native8-12px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "variant_id": "native8-12px",
+          "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+          "output_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+          "output_bytes": 9720404,
+          "font_scope": "原生8px/12px按原窗口混排；原大幅公告图形按原空间整数放大；单一普通版本，无独立大字/SGB",
+          "scope": "GBA日版Rev0 v0.1.0限定测试版；按原窗口保留原生8px/12px混排普通字号，单一ROM，无独立大字版及SGB。提供方记录自然友谊赛上下半场、国家/球员名称及最终ROM电池冷读，诊断范围另记。",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "提供者自测属于同一实现者证据，不等于独立QA；本轮维护未执行附件源码、未新增模拟器或真机运行测试。",
+            "自然友谊赛上下半场0比3、进球履历和菜单；58国家自然查看、1334国家队球员名称及1276赛前名称匹配按提供方记录保留。",
+            "SS招募/排行50项、换人字形与映射6行、公告21项为诊断验证；不代表自然招募成功、自然换人或全部边界通过。",
+            "杯赛存档源于较早自然首场0比7进度，由最终ROM重新保存并在独立冷进程保留1负7失球；不是最终ROM重新全程打完杯赛。",
+            "实机、联机、杯赛/SS全通、隐藏队伍解锁、自然获胜招募、自然换人及原生命名/重输/存读未验收；完整修改源码来源及本轮独立重建状态未知。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
+              "sha256": "218dc8082e4998a29a4362dc2cb8cb931d8a816427559dca290c8cba318177ff",
+              "bytes": 11003592,
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
+              "asset_id": 666511366,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false,
+              "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
+              "bound_audio_variant": "unchanged",
+              "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
+              "known_source_gaps_not_assumed_resolved": true
+            }
+          ],
+          "public_patch_asset": {
+            "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
+            "sha256": "a8eb974c1f6c821d1aa5f624113f72708eef4e220102ef915a1a910d64063273",
+            "bytes": 158282,
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
+            "asset_id": 666512068,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "jikkyou-world-soccer-pocket-2",
+              "font": "native8-12px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+              "target_rom_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+              "screenshot_sha256": "6017f5c93609079901218e015fab8ac3b9da0946afb584e0db949674d6a8eec4",
+              "screenshot_bytes": 197656,
+              "path": "games/jikkyou-world-soccer-pocket-2/screenshots/6017f5c9360907990121.png",
+              "caption": "v0.1.0 原生8px/12px混排普通字号最终ROM真实九宫格；9幅原生240×160画面像素一致。自然比赛/菜单/国家球员与诊断内容按提供方证据区分；不是独立大字版或全通验收。",
+              "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_GBA_CAPTURE_GRID_WITH_NATURAL_DIAGNOSTIC_UNTESTED_BOUNDARIES",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 666512884,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-nine-grid.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "role": "MAIN_FINAL_ROM_NINE_GRID",
+              "Root_actual_view_image_completed": true,
+              "native_nine_frame_pixel_comparison_passed": true
+            }
+          ]
+        }
+      ],
+      "page": "games/jikkyou-world-soccer-pocket-2/README.md",
+      "feedback": "games/jikkyou-world-soccer-pocket-2/feedback.md"
+    },
+    {
+      "game_id": "kotobattle",
+      "game_name": "Koto Battle 天外之守人",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "variant_id": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "output_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+          "output_bytes": 4194304,
+          "font_scope": "普通原生8px中文点阵；Fusion Pixel；艺术Logo/技术ASCII及原生假名等按交付实际范围保留。",
+          "scope": "普通8px中文测试版；提供者自然开场、原生命名、普通战斗及电池冷读记录，另含诊断菜单/地图/人物资料。",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "九宫格1–5为自然路径、6–9为诊断入口，不能代表自然解锁或全收集；原厂日文艺术Logo及原生命名假名/字母保留；未全通、未实机、未成功联机；本维护未执行源码或新增运行测试。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "kotobattle-v0.1.0-8px-source-public.zip",
+              "sha256": "7d4dd88263ac38c7db1cb4f5718055dc3d3ad42ef0a0f34e5839d89be71c7991",
+              "bytes": 995077,
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-source-public.zip",
+              "asset_id": 666488558,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false,
+              "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
+              "bound_audio_variant": "unchanged",
+              "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
+              "known_source_gaps_not_assumed_resolved": true
+            }
+          ],
+          "public_patch_asset": {
+            "name": "kotobattle-v0.1.0-8px-patches-public.zip",
+            "sha256": "de8aeba35eb254410f6ac093ef2b3c01b3c6a48270b819ca12367a39e2a57799",
+            "bytes": 110000,
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-patches-public.zip",
+            "asset_id": 666503021,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "kotobattle",
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "target_rom_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+              "screenshot_sha256": "1aa329d764669cc55f3faa3ae63c068062badabccfcd9ec670ee35793144bd11",
+              "screenshot_bytes": 90512,
+              "path": "games/kotobattle/screenshots/1aa329d764669cc55f3f.png",
+              "caption": "v0.1.0 普通8px最终ROM真实九宫格；1–5自然路径、6–9诊断入口，非全通/全收集；原生160×144像素。",
+              "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_CAPTURE_GRID_WITH_EXPLICIT_TEST_BOUNDARIES",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 666503564,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-nine-grid.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "role": "MAIN_FINAL_ROM_NINE_GRID",
+              "Root_actual_view_image_completed": true,
+              "native_nine_frame_pixel_comparison_passed": true
+            }
+          ]
+        }
+      ],
+      "page": "games/kotobattle/README.md",
+      "feedback": "games/kotobattle/feedback.md"
+    },
+    {
+      "game_id": "pocket-king",
+      "game_name": "口袋国王",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "variant_id": "8px",
+          "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+          "output_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+          "output_bytes": 4194304,
+          "font_scope": "普通原生8px中文点阵；Fusion Pixel；艺术Logo/技术ASCII及原生假名等按交付实际范围保留。",
+          "scope": "普通8px中文测试版；提供者记录自然CGB首战、国王/战士改名、菜单设置、正常保存及新进程冷读；原生SGB仅开场。",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "首关胜利、全流程、深层分支、全部技能/道具/召唤组合、最长变量/分页边界、实机/联机及原日版存档导入未验；原生SGB证据使用默认模拟器边框且仅开场；本维护未执行源码或新增运行测试。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "pocket-king-v0.1.0-8px-source-public.zip",
+              "sha256": "edc6be054c80939a37e9e56b4808446af27b72b10d739d9bcc4493fe5fac835f",
+              "bytes": 11044766,
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pocket-king-v0.1.0/pocket-king-v0.1.0-8px-source-public.zip",
+              "asset_id": 666506482,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pocket-king-v0.1.0",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false,
+              "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
+              "bound_audio_variant": "unchanged",
+              "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
+              "known_source_gaps_not_assumed_resolved": true
+            }
+          ],
+          "public_patch_asset": {
+            "name": "pocket-king-v0.1.0-8px-patches-public.zip",
+            "sha256": "d58563e984cb73b09364354167c0167658909650eaa542a19d8d2a8ce7b647bf",
+            "bytes": 132385,
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pocket-king-v0.1.0/pocket-king-v0.1.0-8px-patches-public.zip",
+            "asset_id": 666507118,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pocket-king-v0.1.0"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "pocket-king",
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+              "target_rom_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+              "screenshot_sha256": "55ece9b9eb07beb89d81f03d3b505822964a64625572d61a78774c0ba7ca0a76",
+              "screenshot_bytes": 53867,
+              "path": "games/pocket-king/screenshots/55ece9b9eb07beb89d81.png",
+              "caption": "v0.1.0 普通8px最终ROM真实CGB九宫格；原生160×144画面按最近邻2×展示，非大字版；提供者自然路径含同ROM自身即时状态续接，正常电池冷读单列，非全通。",
+              "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_CAPTURE_GRID_WITH_EXPLICIT_TEST_BOUNDARIES",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 666507642,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pocket-king-v0.1.0/pocket-king-v0.1.0-8px-nine-grid.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "role": "MAIN_FINAL_ROM_NINE_GRID",
+              "Root_actual_view_image_completed": true,
+              "native_nine_frame_pixel_comparison_passed": true
+            },
+            {
+              "game_id": "pocket-king",
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+              "target_rom_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+              "screenshot_sha256": "8459d98c2a745d47f596e798703153cd6d266bca0dd54ec67eca43e9b4abfe42",
+              "screenshot_bytes": 3449,
+              "path": "games/pocket-king/screenshots/8459d98c2a745d47f596.png",
+              "caption": "口袋国王 v0.1.0 普通8px；实际mGBA SGB模型32开场标题，含默认模拟器边框；仅提供者SGB开场证据，后续战斗/全流程/实体SGB未测。",
+              "evidence_classification": "PROVIDER_FINAL_ROM_ACTUAL_SGB_OPENING_ONLY_DEFAULT_EMULATOR_BORDER",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 666508254,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pocket-king-v0.1.0/pocket-king-v0.1.0-8px-SGB-1.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "role": "SUPPLEMENTAL_NATIVE_SGB_OPENING_FRAME",
+              "Root_actual_view_image_completed": true,
+              "model": "SGB",
+              "actual_model": 32,
+              "opening_only": true,
+              "default_emulator_border": true,
+              "real_SGB_hardware_tested": false
+            },
+            {
+              "game_id": "pocket-king",
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+              "target_rom_sha256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db",
+              "screenshot_sha256": "ebffe8e13396c48a178823fdf6ed4d901fa0b8f7a43970934308f5d347173919",
+              "screenshot_bytes": 2383,
+              "path": "games/pocket-king/screenshots/ebffe8e13396c48a1788.png",
+              "caption": "口袋国王 v0.1.0 普通8px；实际mGBA SGB模型32开场剧情，含默认模拟器边框；仅提供者SGB开场证据，后续战斗/全流程/实体SGB未测。",
+              "evidence_classification": "PROVIDER_FINAL_ROM_ACTUAL_SGB_OPENING_ONLY_DEFAULT_EMULATOR_BORDER",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 666508778,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pocket-king-v0.1.0/pocket-king-v0.1.0-8px-SGB-2.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "role": "SUPPLEMENTAL_NATIVE_SGB_OPENING_FRAME",
+              "Root_actual_view_image_completed": true,
+              "model": "SGB",
+              "actual_model": 32,
+              "opening_only": true,
+              "default_emulator_border": true,
+              "real_SGB_hardware_tested": false
+            }
+          ]
+        }
+      ],
+      "page": "games/pocket-king/README.md",
+      "feedback": "games/pocket-king/feedback.md"
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
 }

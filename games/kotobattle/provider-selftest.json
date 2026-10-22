@@ -1,0 +1,45 @@
+{
+  "schema": "provider_supplied_public_selftest_summary_not_maintainer_retest_v1",
+  "game_id": "kotobattle",
+  "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+  "output_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+  "font": "8px",
+  "version": "v0.1.0",
+  "auditor_ready_sha256": "3c8ef39a9ac140cb42fc3c71f374e71be56cb065f25c3258595bc2bed59963f7",
+  "provider_test_summary": {
+    "target_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+    "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+    "natural": [
+      "title and original name entry: 杨咩咩, repeated 咩, delete/retype",
+      "opening world and main menu, native inventory",
+      "104472-frame guided lesson to ordinary battle",
+      "mini-card open/cancel/reopen/full-card summon/next turn",
+      "normal save and separate-process battery-only reload, player bytes d9dadaff; unlock flags remain 3"
+    ],
+    "diagnostic": [
+      "equipment/memo C1FB flags 3→0: original UI entry only, not natural unlock",
+      "memo eight-byte native field actual 杨咩咩 editing; normal save; separate-process battery reload yields d9dada0000000000",
+      "item IDs 7,8,14,34,35: map/teleport/rival notebook/tutorial book; not natural acquisition",
+      "notebook known flags D600..D62C=1 for text test, unknown entries retain mask",
+      "book A course→SELECT menu→B main restores original portrait colours"
+    ],
+    "static_only": [
+      "link exchange sprites/result messages/ten ranks/reward word name",
+      "all translated scripts control ordering and layout build assertions"
+    ],
+    "not_tested": [
+      "real hardware",
+      "successful multiplayer",
+      "whole-game completion",
+      "all story events",
+      "all longest dynamic values",
+      "natural deep shop purchases/all synthesis/all collection"
+    ],
+    "qa": "same implementer self-test, not independent-person QA"
+  },
+  "provider_dictionary_preserved_without_semantic_rewrite": true,
+  "maintainer_new_runtime_tests": false,
+  "source_newbuilds": 0,
+  "source_semantic_completeness": null,
+  "ROM_save_or_state_files_included": false
+}

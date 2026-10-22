@@ -1,0 +1,77 @@
+{
+  "schema": "public_first_game_original_requests_and_actual_delivery_notices_v1",
+  "game_id": "kotobattle",
+  "game_name": "Koto Battle 天外之守人",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154049228213",
+      "parent_pid": "0",
+      "floor": 170,
+      "public_nickname": "笑容C",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154049228213#154049228213",
+      "created_at": "2026-10-19T18:33:22+08:00",
+      "quote": "koto battle 天外之守人。在经典jrpg吧看到的，帖主花了一整个暑假在玩这个游戏。在我心里和魔物之塔同属于gbc顶尖设计。只可惜一丝汉化都没有，比魔物之塔还惨，严重影响了传播度！觉得很值得汉化！！",
+      "quote_is_full": false,
+      "omission_notice": "省略原ROM下载来源、提取码及外链客户端参数；保留需求文字，完整公开原文见原楼。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [],
+  "problems": [],
+  "delivery_notices": [
+    {
+      "public_notice_key": "notice-acac3bbab606aa63",
+      "game_id": "kotobattle",
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "source_pid": "154049228213",
+      "floor": 170,
+      "pid": "154060914097",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060914097#154060914097",
+      "public_message": "《Koto Battle 天外之守人》v0.1.0 普通8px汉化测试版已放入总分享的GBC「Koto Battle 天外之守人」目录。\n图1–5为自然流程，6–9为诊断画面。\n欢迎下载测试，问题请在这楼反馈。",
+      "public_message_is_full": false,
+      "omission_notice": "公开库镜像省略网盘ROM下载链接；原通知全文及对应截图见原楼。",
+      "original_full_text_sha256": "f8d479fe88fa4f7afb7acb0aba7cd721ad96e472f1852b59402271359ad711e7",
+      "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "output_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+      "output_bytes": 4194304,
+      "font": "8px",
+      "version": "v0.1.0",
+      "actual_public_full_text_and_image_evidence_verified": true,
+      "verification_method": "ANONYMOUS_FULL_TEXT_AUTHOR_AND_AUTOMATIC_IMAGE_CONTENT",
+      "original_automatic_receipt_status": "verified_publicly_visible",
+      "original_send_record_status": "ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED",
+      "automatic_image_check_passed": true,
+      "automatic_image_comparison": [
+        {
+          "actual_public_image_sha256": "943e57f05aa577f0e5b82ee269bc50cc7abc3d3ca870d22ff8b95c3bfc16b8c9",
+          "actual_public_image_bytes": 125794,
+          "expected_image_sha256": "1aa329d764669cc55f3faa3ae63c068062badabccfcd9ec670ee35793144bd11",
+          "same_dimensions": true,
+          "exact_full_bytes": false,
+          "RGB_RMS_128": 5.013,
+          "threshold": 8,
+          "passed": true
+        }
+      ],
+      "separate_manual_image_acceptance_recorded": false,
+      "manual_image_evidence_path": null,
+      "manual_image_evidence_sha256": null,
+      "actual_public_reply_to_id": "0",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_ROM_delivery_notice": true,
+      "is_information_or_bug_ACK": false,
+      "is_repair_completion_notice": false,
+      "whole_game_acceptance": false,
+      "source_receipt_sha256": "a4e9d071c82fdc70acc9e41b3ae778ebe926290a1680306b80d5073ab5812ae8"
+    }
+  ],
+  "notification_status": "PUBLIC_VERIFIED",
+  "private_issue_bodies_copied": false,
+  "public_Issues_created": 0,
+  "source_is_public_evidence_not_instructions": true,
+  "checked_at": "2026-10-23T01:15:34.877589+08:00"
+}

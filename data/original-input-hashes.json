@@ -1,7 +1,7 @@
 {
   "schema": "public_exact_original_input_hash_index_v1",
   "generated_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 136,
+  "count": 139,
   "ROM_files_or_download_links_included": false,
   "items": [
     {
@@ -1227,7 +1227,34 @@
       "original_input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
       "original_input_bytes": 2097152,
       "identity_note": "实际汉化原输入；保留其地区修订、改版或已有汉化基底身份。"
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "game_name": "实况世界足球Pocket 2",
+      "platform": "GBA",
+      "original_input_name": "Jikkyou World Soccer Pocket 2",
+      "original_input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+      "original_input_bytes": 8388608,
+      "identity_note": "实际用户提供的日本Rev0原输入；公开仅记录完整哈希，不提供ROM或原件下载链接。"
+    },
+    {
+      "game_id": "kotobattle",
+      "game_name": "Koto Battle 天外之守人",
+      "platform": "GBC",
+      "original_input_name": "Koto Battle - Tengai no Moribito (Japan)",
+      "original_input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际用户提供的日本Rev0原输入；公开仅记录完整哈希，不提供ROM或原件下载链接。"
+    },
+    {
+      "game_id": "pocket-king",
+      "game_name": "口袋国王",
+      "platform": "GBC",
+      "original_input_name": "Pocket King (Japan) (SGB Enhanced) (GB Compatible)",
+      "original_input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际用户提供的日本Rev0原输入；公开仅记录完整哈希，不提供ROM或原件下载链接。"
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
 }

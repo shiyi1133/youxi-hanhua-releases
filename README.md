@@ -2,7 +2,7 @@
 
 提供汉化源码、补丁、对应版本真实截图、版本说明及公开反馈；资产入口只取实际公开Release与完整SHA回读。
 
-- [136款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
+- [139款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
 - [公开反馈与BUG入口](feedback/README.md) · [资产同步状态](data/public-asset-sync.json)。
 
 本库不提供ROM、存档、即时状态或私人会话。原输入保留其实际地区、修订、改版及已有汉化基底身份。第三方原作、字体、翻译和工具许可保持各自归属。
@@ -11,6 +11,9 @@
 
 | 名称 | 当前版本 | 源码 | 补丁 |
 | --- | --- | --- | --- |
+| [实况世界足球Pocket 2](games/jikkyou-world-soccer-pocket-2/README.md) | native8-12px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [Koto Battle 天外之守人](games/kotobattle/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [口袋国王](games/pocket-king/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [魔物之塔](games/azure-dreams/README.md) | 8px v1.0.9；10px v1.0.11 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [炸弹人GB3](games/bomberman-gb3/README.md) | 8px v1.0.2 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [吞食天地](games/tenchi-o-kurau/README.md) | ordinary v1.0.3限定修复测试版 | 有源码 1/1目标；完整 0；已知局部 1；完整性待核 0 | 1/1目标 |

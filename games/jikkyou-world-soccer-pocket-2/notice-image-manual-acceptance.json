@@ -1,0 +1,89 @@
+{
+  "schema": "Root_actual_independent_manual_nine_cell_public_image_acceptance_v1",
+  "reviewer": "Root",
+  "Root_actually_viewed_both_images_with_view_image": true,
+  "game_id": "jikkyou-world-soccer-pocket-2",
+  "tid": "11097560613",
+  "parent_pid": "154040646700",
+  "reply_pid": "154060912226",
+  "font": "native8-12px",
+  "version": "v0.1.0",
+  "target_rom_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+  "source_grid_sha256": "6017f5c93609079901218e015fab8ac3b9da0946afb584e0db949674d6a8eec4",
+  "source_grid_bytes": 197656,
+  "actual_public_image_sha256": "7fb31b8e628e86788fb833345e7fee78b3ccc4ebed65658aae0d2c878a4b400a",
+  "actual_public_image_bytes": 112465,
+  "source_dimensions": [
+    720,
+    534
+  ],
+  "public_dimensions": [
+    720,
+    534
+  ],
+  "automatic_method": "RGB_RMS_128",
+  "automatic_threshold": 8,
+  "automatic_observed_metric": 8.593,
+  "automatic_image_check_passed": false,
+  "automatic_failure_preserved": true,
+  "manual_nine_cell_scene_order_content_match_accepted": true,
+  "manual_acceptance_is_not_a_pixel_equality_or_automatic_pass": true,
+  "observed_transformations": [
+    "Tieba JPEG recompression",
+    "Tieba account watermark at bottom right"
+  ],
+  "nine_cell_reviews": [
+    {
+      "cell": 1,
+      "label": "title",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 2,
+      "label": "main",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 3,
+      "label": "countries",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 4,
+      "label": "japan_members",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 5,
+      "label": "settings",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 6,
+      "label": "position",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 7,
+      "label": "goal",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 8,
+      "label": "penalty",
+      "same_scene_visible_text_and_order_confirmed": true
+    },
+    {
+      "cell": 9,
+      "label": "saved_progress",
+      "same_scene_visible_text_and_order_confirmed": true
+    }
+  ],
+  "manual_notes": "逐格比较两份实际图：同一标题、菜单、国旗/球队选择、球员名单、设置、阵型、3比0进球、点球、杯赛进度；九格顺序、标签和画面内容一致。公开图为JPEG重编码，右下新增贴吧账号水印；此差异如实保留。版本/字号/目标SHA由已冻结最终ROM九宫格及实际回帖文本共同绑定，未声称图中独立显示完整版本号。",
+  "forum_resends": 0,
+  "ROM_changes": 0,
+  "source_scripts_executed": 0,
+  "new_runtime_tests": 0,
+  "Issue_closures": 0,
+  "monitor_counter_increment": 0
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "provider_Metal_v102_test_scope_not_maintainer_retest_v1",
+  "game_id": "metal-walker",
+  "version": "v1.0.2双字号排版限定修订测试版",
+  "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+  "output_sha256s": {
+    "8px": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+    "10px-dialogue": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71"
+  },
+  "provider_source_NL_reviewed": 2379,
+  "provider_derived_pure_layout_NL_removed": 859,
+  "provider_semantic_or_control_NL_retained": 1520,
+  "provider_description_rows_reflowed": 38,
+  "provider_source_translation_streams_preserved": 1426,
+  "provider_choice_fields_byte_exact": 81,
+  "provider_literal_text_fixture_records_per_font": 959,
+  "provider_literal_text_fixture_glyphs_per_font": 18953,
+  "pending_variable_choice_event_contexts": 467,
+  "provider_description_LCD_off_fixture_cases": 652,
+  "provider_description_LCD_off_fixture_rows": 3260,
+  "provider_empty_directory_rebuild_claim_not_independently_rerun": true,
+  "maintainer_independent_BPS_application_equals_two_actual_published_targets": true,
+  "maintainer_Source_executions": 0,
+  "maintainer_Source_rebuilds": 0,
+  "maintainer_new_runtime_tests": 0,
+  "semantic_Source_completeness": null,
+  "whole_game_hardware_and_all_variable_context_acceptance": false,
+  "known_limits": [
+    "纯文本959条/字号为同最终ROM新鲜开场调用帧的显式指针夹具，不表示959处剧情自然到达；467条变量、选择及其它事件上下文未逐场景验收。",
+    "全部163条说明的直接/排队两入口全表检查为LCD关闭夹具，另有自然胶囊状态机及密集说明检查；两种证据分开。",
+    "提供方自然开场、取名及删除重输、普通保存、新OS进程电池冷读、口令与长变量等待等回归记录保留；本次搬运未新增运行或源码重建。",
+    "全剧情、全部动态值/后期事件、联机、全通、实机及任意跨版存档兼容未验收。",
+    "大字只覆盖CGB标准对白；81条选项、菜单/取名和DMG回退仍8px，大字可能更易拖慢、闪屏或刷新残留。",
+    "既有大字闪烁、黄字/残留和两字号文字音效反馈仍开放，玩家实际版本和ROM字节未明确；本次修订不能代替这些反馈的逐项复现和验收。"
+  ]
+}

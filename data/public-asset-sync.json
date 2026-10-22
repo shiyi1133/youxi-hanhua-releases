@@ -96,7 +96,27 @@
       "new_runtime_tests": 0,
       "checked_at": "2026-10-23T01:15:34.877589+08:00",
       "public_Git_full_readback_required": true
+    },
+    "metal-v102-20261023": {
+      "status": "ACTUAL_CURRENT_TWO_TARGET_SOURCE1_PATCH1_PNG2_PUBLISHED_FULL_REMOTE_SHA_VERIFIED",
+      "Source_assets": 1,
+      "patch_assets": 1,
+      "PNG_assets": 2,
+      "associated_current_targets": 2,
+      "current_games": 139,
+      "current_targets": 198,
+      "current_screenshot_bindings": 204,
+      "current_unique_PNG_file_count": 194,
+      "old_Metal_targets_retained_as_history": 2,
+      "Source_semantic_completeness": null,
+      "new_Source_rebuilds": 0,
+      "new_runtime_tests": 0,
+      "bindings": {
+        "public_release_receipt_sha256": "b7e19baec7b69b458aa2ba8cfe760cf3c90a927769ab6dbbe122c20b5ee37b30",
+        "asset_plan_sha256": "cff0093a7f6836bb4242361e4fb3818599c7a1dc56d9ff6671b04eea3517329a"
+      },
+      "checked_at": "2026-10-23T05:11:59.915307+08:00"
     }
   },
-  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
+  "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
 }

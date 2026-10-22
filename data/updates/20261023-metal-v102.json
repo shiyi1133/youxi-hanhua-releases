@@ -1,0 +1,32 @@
+{
+  "schema": "exact_current_Metal_v102_public_Source_patch_final_PNG_metadata_delta_v1",
+  "bindings": {
+    "public_release_receipt_sha256": "b7e19baec7b69b458aa2ba8cfe760cf3c90a927769ab6dbbe122c20b5ee37b30",
+    "asset_plan_sha256": "cff0093a7f6836bb4242361e4fb3818599c7a1dc56d9ff6671b04eea3517329a"
+  },
+  "game_id": "metal-walker",
+  "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+  "current_target_sha256s": {
+    "8px": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+    "10px-dialogue": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71"
+  },
+  "public_release_id": 421205898,
+  "current_games": 139,
+  "current_targets": 198,
+  "new_Source_assets": 1,
+  "new_patch_assets": 1,
+  "new_current_final_PNGs": 2,
+  "old_targets_and_assets_retained_as_history": 2,
+  "all_other_game_entries_and_feedback_states_preserved": true,
+  "player_actual_ROM_unknown_fields_preserved": true,
+  "Source_semantic_completeness": null,
+  "Source_executions": 0,
+  "new_Source_builds": 0,
+  "new_runtime_tests": 0,
+  "ROM_files": 0,
+  "ROM_download_links": 0,
+  "private_Issue_bodies_copied": false,
+  "new_public_Issues_created": 0,
+  "proactive_Tieba_notifications": 0,
+  "generated_at": "2026-10-23T05:11:59.915307+08:00"
+}

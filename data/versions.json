@@ -2216,6 +2216,152 @@
       "current_targets": [
         {
           "font": "8px",
+          "version": "v1.0.2双字号排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "variant_id": "8px",
+          "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+          "output_sha256": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+          "output_bytes": 2097152,
+          "font_scope": "原生普通8px，普通对白与原生菜单各自核验",
+          "scope": "限定源分段、菜单说明与10px第14列修订；不表示全流程验收",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "纯文本959条/字号为同最终ROM新鲜开场调用帧的显式指针夹具，不表示959处剧情自然到达；467条变量、选择及其它事件上下文未逐场景验收。",
+            "全部163条说明的直接/排队两入口全表检查为LCD关闭夹具，另有自然胶囊状态机及密集说明检查；两种证据分开。",
+            "提供方自然开场、取名及删除重输、普通保存、新OS进程电池冷读、口令与长变量等待等回归记录保留；本次搬运未新增运行或源码重建。",
+            "全剧情、全部动态值/后期事件、联机、全通、实机及任意跨版存档兼容未验收。",
+            "大字只覆盖CGB标准对白；81条选项、菜单/取名和DMG回退仍8px，大字可能更易拖慢、闪屏或刷新残留。",
+            "既有大字闪烁、黄字/残留和两字号文字音效反馈仍开放，玩家实际版本和ROM字节未明确；本次修订不能代替这些反馈的逐项复现和验收。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "metal-walker-v1.0.2-source-public.zip",
+              "sha256": "240ecce3585dee29e906c4a4cf01746a66e65e2c817cdd401daa69962f504823",
+              "bytes": 3949004,
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-source-public.zip",
+              "asset_id": 667097906,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/metal-walker-v1.0.2",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "scope": "EXACT_CURRENT_850_MEMBER_PROVIDER_SOURCE_ARCHIVE_INTEGRITY_AND_PUBLIC_SAFETY_CHECKED_NOT_REBUILT",
+              "source_rebuilt_this_export": false,
+              "source_batch": "METAL_V102_20261023",
+              "bound_audio_variant": "unchanged",
+              "audio_binding_basis": "EXACT_CURRENT_ORIGINAL_INPUT_TWO_FONTS_AND_PROVIDER_SOURCE_IDENTITIES",
+              "original_provider_Source_archive_sha256": "244e89f39f9e4616e8868bfd5d83e395b0918e6b4bf92fe7064a3d448a8fa974",
+              "known_source_gaps_not_assumed_resolved": true
+            }
+          ],
+          "public_patch_asset": {
+            "name": "metal-walker-v1.0.2-patches-public.zip",
+            "sha256": "9a52d2a6ba1383bfdb0873beac8805c7cf3df8d3e4ac5175db75016b53f74dc9",
+            "bytes": 282033,
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-patches-public.zip",
+            "asset_id": 667098404,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/metal-walker-v1.0.2"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "metal-walker",
+              "font": "8px",
+              "version": "v1.0.2双字号排版限定修订测试版",
+              "audio_variant": "unchanged",
+              "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+              "target_rom_sha256": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+              "screenshot_sha256": "06d9038c3f7e03deef006a88b0cd3fa8afde7e91172db4ba6fb82079cc2dbc12",
+              "screenshot_bytes": 45121,
+              "path": "games/metal-walker/screenshots/06d9038c3f7e03deef00.png",
+              "caption": "v1.0.2 8px 最终ROM真实九宫格；所列自然开场/输入/保存与受控文本、菜单检查分开；非自然全剧情、真机或全通。",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 667098910,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-screenshot-native8px.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "Root_actual_visual_review_previously_completed": true
+            }
+          ]
+        },
+        {
+          "font": "10px-dialogue",
+          "version": "v1.0.2双字号排版限定修订测试版",
+          "audio_variant": "unchanged",
+          "variant_id": "10px-dialogue",
+          "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+          "output_sha256": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71",
+          "output_bytes": 4194304,
+          "font_scope": "CGB标准对白10px；81条选择项、菜单/取名及DMG回退8px",
+          "scope": "限定源分段、菜单说明与10px第14列修订；不表示全流程验收",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "纯文本959条/字号为同最终ROM新鲜开场调用帧的显式指针夹具，不表示959处剧情自然到达；467条变量、选择及其它事件上下文未逐场景验收。",
+            "全部163条说明的直接/排队两入口全表检查为LCD关闭夹具，另有自然胶囊状态机及密集说明检查；两种证据分开。",
+            "提供方自然开场、取名及删除重输、普通保存、新OS进程电池冷读、口令与长变量等待等回归记录保留；本次搬运未新增运行或源码重建。",
+            "全剧情、全部动态值/后期事件、联机、全通、实机及任意跨版存档兼容未验收。",
+            "大字只覆盖CGB标准对白；81条选项、菜单/取名和DMG回退仍8px，大字可能更易拖慢、闪屏或刷新残留。",
+            "既有大字闪烁、黄字/残留和两字号文字音效反馈仍开放，玩家实际版本和ROM字节未明确；本次修订不能代替这些反馈的逐项复现和验收。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "metal-walker-v1.0.2-source-public.zip",
+              "sha256": "240ecce3585dee29e906c4a4cf01746a66e65e2c817cdd401daa69962f504823",
+              "bytes": 3949004,
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-source-public.zip",
+              "asset_id": 667097906,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/metal-walker-v1.0.2",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "scope": "EXACT_CURRENT_850_MEMBER_PROVIDER_SOURCE_ARCHIVE_INTEGRITY_AND_PUBLIC_SAFETY_CHECKED_NOT_REBUILT",
+              "source_rebuilt_this_export": false,
+              "source_batch": "METAL_V102_20261023",
+              "bound_audio_variant": "unchanged",
+              "audio_binding_basis": "EXACT_CURRENT_ORIGINAL_INPUT_TWO_FONTS_AND_PROVIDER_SOURCE_IDENTITIES",
+              "original_provider_Source_archive_sha256": "244e89f39f9e4616e8868bfd5d83e395b0918e6b4bf92fe7064a3d448a8fa974",
+              "known_source_gaps_not_assumed_resolved": true
+            }
+          ],
+          "public_patch_asset": {
+            "name": "metal-walker-v1.0.2-patches-public.zip",
+            "sha256": "9a52d2a6ba1383bfdb0873beac8805c7cf3df8d3e4ac5175db75016b53f74dc9",
+            "bytes": 282033,
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-patches-public.zip",
+            "asset_id": 667098404,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/metal-walker-v1.0.2"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "metal-walker",
+              "font": "10px-dialogue",
+              "version": "v1.0.2双字号排版限定修订测试版",
+              "audio_variant": "unchanged",
+              "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+              "target_rom_sha256": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71",
+              "screenshot_sha256": "0f42feaf18978c97175509744ae2a37a83624094ac9210cdf8a1842771b0ada6",
+              "screenshot_bytes": 43212,
+              "path": "games/metal-walker/screenshots/0f42feaf18978c971755.png",
+              "caption": "v1.0.2 10px-dialogue 最终ROM真实九宫格；所列自然开场/输入/保存与受控文本、菜单检查分开；非自然全剧情、真机或全通。大字只用于CGB标准对白，其余范围保持8px。",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "public_release_asset_id": 667099456,
+              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-screenshot-dialogue10px.png",
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false,
+              "Root_actual_visual_review_previously_completed": true
+            }
+          ]
+        }
+      ],
+      "page": "games/metal-walker/README.md",
+      "feedback": "games/metal-walker/feedback.md",
+      "historical_public_targets": [
+        {
+          "font": "8px",
           "version": "v1.0.0测试版",
           "audio_variant": "unchanged",
           "variant_id": null,
@@ -2355,8 +2501,7 @@
           ]
         }
       ],
-      "page": "games/metal-walker/README.md",
-      "feedback": "games/metal-walker/feedback.md"
+      "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
     },
     {
       "game_id": "momotarou-densetsu-1-2",
@@ -16870,5 +17015,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
+  "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
 }

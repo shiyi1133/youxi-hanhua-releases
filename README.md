@@ -29,7 +29,7 @@
 | [哈利波特与魔法石](games/harry-potter-stone/README.md) | 8px v1.0.4；10px-dialogue v1.0.5 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [哈利波特与密室](games/harry-potter-chamber/README.md) | 8px v1.0.3；10px-dialogue v1.0.3 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [热血时代剧](games/kunio-jidaigeki/README.md) | 8px v1.0.3；10px-dialogue v1.0.3 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
-| [爆走战记 钢铁行者GB：钢铁的友情](games/metal-walker/README.md) | 8px v1.0.0测试版；10px-dialogue v1.0.1大字号限定修订测试版 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
+| [爆走战记 钢铁行者GB：钢铁的友情](games/metal-walker/README.md) | 8px v1.0.2限定修订测试版；10px-dialogue v1.0.2限定修订测试版 | 有源码 2/2目标；完整 0；已知局部 0；完整性待核 2 | 2/2目标 |
 | [桃太郎传说1→2](games/momotarou-densetsu-1-2/README.md) | 8px v1.0.1；10px-dialogue v1.0.2 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [热血沙滩排球](games/kunio-beach-volley/README.md) | 8px v1.0.1；10px-dialogue v1.0.1 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [惊奇热血新纪录](games/kunio-shinkiroku/README.md) | 8px v1.0.1；10px-dialogue v1.0.1 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |

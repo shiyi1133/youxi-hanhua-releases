@@ -89,5 +89,20 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "current_release_update": {
+    "version": "v1.0.2双字号排版限定修订测试版",
+    "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+    "current_target_sha256s": {
+      "8px": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+      "10px-dialogue": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71"
+    },
+    "actual_published_Source_patch_and_two_final_grids": true,
+    "scope": "源分段、菜单说明和对白10px第14列修订；不冒称闪屏/黄字/残留/音效报告全部修复",
+    "existing_open_problem_states_unchanged": true,
+    "actual_reporter_version_font_input_and_output_SHA_unknown_not_replaced_with_current_reference": true,
+    "proactive_Tieba_notice_for_this_batch": false,
+    "new_gameplay_or_Source_rebuild_by_this_export": false,
+    "checked_at": "2026-10-23T05:11:59.915307+08:00"
+  }
 }

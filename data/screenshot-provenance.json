@@ -773,54 +773,6 @@
       "new_runtime_test_by_this_export": false
     },
     {
-      "game_id": "metal-walker",
-      "font": "10px-dialogue",
-      "version": "v1.0.1大字号限定修订测试版",
-      "audio_variant": "unchanged",
-      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
-      "target_rom_sha256": "d99a0c1f2dc024b79f10f0effc99cb32fde879f4d2483a8606fae24626174e64",
-      "screenshot_sha256": "f719bff2c59ceb2487fcaaa62d3d7cccef13a82b66060bde21a455c7cc2c46e9",
-      "screenshot_bytes": 41794,
-      "path": "games/metal-walker/screenshots/f719bff2c59ceb2487fc.png",
-      "caption": "v1.0.1实际CGB普通对白10px九宫格；菜单/姓名原生8px；原生操作和自建保存，非实机全通",
-      "PNG_validation": {
-        "format": "PNG",
-        "width": 512,
-        "height": 552,
-        "bit_depth": 8,
-        "colour_type": 2,
-        "interlaced": false,
-        "all_chunk_CRC_verified": true,
-        "complete_IDAT_decompression_and_scanline_sizes_verified": true
-      },
-      "actual_original_PNG_full_bytes_download_verified": true,
-      "new_runtime_test_by_this_export": false
-    },
-    {
-      "game_id": "metal-walker",
-      "font": "8px",
-      "version": "v1.0.0测试版",
-      "audio_variant": "unchanged",
-      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
-      "target_rom_sha256": "154e4f0b9c1912077fdeec2c1e7683c149490f70feaf98dd82c5fdf46bb22269",
-      "screenshot_sha256": "0a0ff78cd7441a8fab3fc6da5be6da128a33381b6d8d7ba30b1565ebab17db26",
-      "screenshot_bytes": 140775,
-      "path": "games/metal-walker/screenshots/0a0ff78cd7441a8fab3f.png",
-      "caption": "v1.0.0测试版 · 8px · 最终ROM对应模拟器截图",
-      "PNG_validation": {
-        "format": "PNG",
-        "width": 1500,
-        "height": 1590,
-        "bit_depth": 8,
-        "colour_type": 2,
-        "interlaced": false,
-        "all_chunk_CRC_verified": true,
-        "complete_IDAT_decompression_and_scanline_sizes_verified": true
-      },
-      "actual_original_PNG_full_bytes_download_verified": true,
-      "new_runtime_test_by_this_export": false
-    },
-    {
       "game_id": "momotarou-densetsu-1-2",
       "font": "8px",
       "version": "v1.0.1",
@@ -4784,6 +4736,42 @@
       "opening_only": true,
       "default_emulator_border": true,
       "real_SGB_hardware_tested": false
+    },
+    {
+      "game_id": "metal-walker",
+      "font": "8px",
+      "version": "v1.0.2双字号排版限定修订测试版",
+      "audio_variant": "unchanged",
+      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+      "target_rom_sha256": "40d976528c9d9f6af38e94bd70e2fb12c4af8be3fa3351be8f2ddee194d63c6e",
+      "screenshot_sha256": "06d9038c3f7e03deef006a88b0cd3fa8afde7e91172db4ba6fb82079cc2dbc12",
+      "screenshot_bytes": 45121,
+      "path": "games/metal-walker/screenshots/06d9038c3f7e03deef00.png",
+      "caption": "v1.0.2 8px 最终ROM真实九宫格；所列自然开场/输入/保存与受控文本、菜单检查分开；非自然全剧情、真机或全通。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "public_release_asset_id": 667098910,
+      "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-screenshot-native8px.png",
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false,
+      "Root_actual_visual_review_previously_completed": true
+    },
+    {
+      "game_id": "metal-walker",
+      "font": "10px-dialogue",
+      "version": "v1.0.2双字号排版限定修订测试版",
+      "audio_variant": "unchanged",
+      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+      "target_rom_sha256": "0e49cde2c8655e96e0d95ed142c6f21458bba70d8e7952369a8dc17d76b2ea71",
+      "screenshot_sha256": "0f42feaf18978c97175509744ae2a37a83624094ac9210cdf8a1842771b0ada6",
+      "screenshot_bytes": 43212,
+      "path": "games/metal-walker/screenshots/0f42feaf18978c971755.png",
+      "caption": "v1.0.2 10px-dialogue 最终ROM真实九宫格；所列自然开场/输入/保存与受控文本、菜单检查分开；非自然全剧情、真机或全通。大字只用于CGB标准对白，其余范围保持8px。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "public_release_asset_id": 667099456,
+      "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/metal-walker-v1.0.2/metal-walker-v1.0.2-screenshot-dialogue10px.png",
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false,
+      "Root_actual_visual_review_previously_completed": true
     }
   ],
   "new_runtime_tests": 0,
@@ -5124,7 +5112,55 @@
       },
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false
+    },
+    {
+      "game_id": "metal-walker",
+      "font": "10px-dialogue",
+      "version": "v1.0.1大字号限定修订测试版",
+      "audio_variant": "unchanged",
+      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+      "target_rom_sha256": "d99a0c1f2dc024b79f10f0effc99cb32fde879f4d2483a8606fae24626174e64",
+      "screenshot_sha256": "f719bff2c59ceb2487fcaaa62d3d7cccef13a82b66060bde21a455c7cc2c46e9",
+      "screenshot_bytes": 41794,
+      "path": "games/metal-walker/screenshots/f719bff2c59ceb2487fc.png",
+      "caption": "v1.0.1实际CGB普通对白10px九宫格；菜单/姓名原生8px；原生操作和自建保存，非实机全通",
+      "PNG_validation": {
+        "format": "PNG",
+        "width": 512,
+        "height": 552,
+        "bit_depth": 8,
+        "colour_type": 2,
+        "interlaced": false,
+        "all_chunk_CRC_verified": true,
+        "complete_IDAT_decompression_and_scanline_sizes_verified": true
+      },
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false
+    },
+    {
+      "game_id": "metal-walker",
+      "font": "8px",
+      "version": "v1.0.0测试版",
+      "audio_variant": "unchanged",
+      "input_sha256": "6cc7711a07c3da2d1823d9c5132ad52c4cfadb121f996b4be8aa9d99e19c5b82",
+      "target_rom_sha256": "154e4f0b9c1912077fdeec2c1e7683c149490f70feaf98dd82c5fdf46bb22269",
+      "screenshot_sha256": "0a0ff78cd7441a8fab3fc6da5be6da128a33381b6d8d7ba30b1565ebab17db26",
+      "screenshot_bytes": 140775,
+      "path": "games/metal-walker/screenshots/0a0ff78cd7441a8fab3f.png",
+      "caption": "v1.0.0测试版 · 8px · 最终ROM对应模拟器截图",
+      "PNG_validation": {
+        "format": "PNG",
+        "width": 1500,
+        "height": 1590,
+        "bit_depth": 8,
+        "colour_type": 2,
+        "interlaced": false,
+        "all_chunk_CRC_verified": true,
+        "complete_IDAT_decompression_and_scanline_sizes_verified": true
+      },
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
+  "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
 }

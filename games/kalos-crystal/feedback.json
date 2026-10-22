@@ -441,6 +441,51 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059654703",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059654703#154059654703",
+      "created_at": "2026-10-22T18:18:11+08:00",
+      "quote": "那两个18号的版本，都是最新的",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "93314dfda740874f023290c4a33d5cc79d33d466c77ab8344f3baa37c562e33d",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059661256",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059661256#154059661256",
+      "created_at": "2026-10-22T18:20:34+08:00",
+      "quote": "一个是只有一个，另外一个就是第一个，也就是最新的",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d62a2e581be1056455f49dd75ee5d4181e745830d369e93893bbc2019c33f342",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9204e10b912c8fc478bafcaba039245d78821ec.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/c6ff5628d6d01e0675a7.jpg",
+          "SHA256_of_archived_preview": "c6ff5628d6d01e0675a77a711011516b0a258c4c9cf431c2c33dfd4da92cd68e",
+          "archived_bytes": 98264
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/46ba7b8b4710b9124bb9aff985fdfc03934522ec.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e81192c1a9d9f76c6c91.jpg",
+          "SHA256_of_archived_preview": "e81192c1a9d9f76c6c9115d7f024264ee793c6e9c240eaea012d538c500621d0",
+          "archived_bytes": 52269
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -471,12 +516,37 @@
         "11092365551|154045508059",
         "11092365551|154045748153",
         "11092365551|154047256388",
-        "11092365551|154047257980"
+        "11092365551|154047257980",
+        "11092365551|154059654703",
+        "11092365551|154059661256"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|kalos-digimon-current-version-kalos-crystal",
+          "game_ids": [
+            "kalos-crystal"
+          ],
+          "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+          "source_feedback_keys": [
+            "11092365551|154059654703",
+            "11092365551|154059661256"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-7831b22987e25ae8",
@@ -617,7 +687,7 @@
       ],
       "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
         "case-7e8f6d8de006e3a0",
@@ -637,7 +707,9 @@
         "11092365551|154047256388",
         "11092365551|154047257980",
         "11092365551|154057741777",
-        "11092365551|154058616784"
+        "11092365551|154058616784",
+        "11092365551|154059654703",
+        "11092365551|154059661256"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -761,5 +833,29 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-0416|kalos-digimon-current-version-kalos-crystal",
+      "public_case_key": "case-eaf53b75946aeea2",
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154059654703",
+        "11092365551|154059661256"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

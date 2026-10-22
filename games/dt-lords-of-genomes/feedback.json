@@ -45,6 +45,21 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154061098688",
+      "parent_pid": "154022434834",
+      "floor": 37,
+      "public_nickname": "bantuwang1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061098688#154061098688",
+      "created_at": "2026-10-23T03:21:54+08:00",
+      "quote": "字底截断和长对白快速跳末句的bug还存在，测试rom:DT_Lords_of_Genomes_ZH_v1.0.1_LAYOUT_TEST， 看方便的时候能否修复下",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c4d3437d7a86b88b9b58471ae086a4b8777edd333f4411d6b59d1874eada4a1d",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -54,7 +69,7 @@
       "game_ids": [
         "dt-lords-of-genomes"
       ],
-      "summary": "DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）",
+      "summary": "DT：v1.0.1仍字底截断、长对白跳末句；原v1.0.0反馈作为历史保留。",
       "issue_state": "open",
       "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
       "classification": "UNCLASSIFIED",
@@ -65,12 +80,44 @@
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
         "11092365551|154029423609",
-        "11092365551|154031709170"
+        "11092365551|154031709170",
+        "11092365551|154061098688"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "historical_summaries": [
+        {
+          "summary": "DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）",
+          "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+          "basis": "PREVIOUS_PUBLIC_CASE_SUMMARY_RETAINED_AS_HISTORY"
+        }
+      ],
+      "old_reported_version_font_fields_describe_prior_sources_only": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|dt-current-layout",
+          "game_ids": [
+            "dt-lords-of-genomes"
+          ],
+          "summary": "DT v1.0.1：字底截断、长对白跳末句仍存在",
+          "source_feedback_keys": [
+            "11092365551|154061098688"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "scope_note": "玩家报告DT v1.0.1仍截字/跳末句，保持开放；集中排版旧成果不等于本次已修。"
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     }
   ],
   "problems": [
@@ -176,16 +223,68 @@
         "11092365551|154048786590",
         "11092365551|154054296408",
         "11092365551|154054306070",
+        "11092365551|154061098688",
         "11097560613|154043716841",
         "11097560613|154048988684"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-40a3e591510e875a",
+      "game_id": "dt-lords-of-genomes",
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154061098688"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154022434834",
+      "floor": 37,
+      "pid": "154061176227",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061176227#154061176227",
+      "text": "@bantuwang1 DT v1.0.1仍有字底截断、长对白跳末句的反馈已补进集中排版问题，继续排查。",
+      "text_sha256": "7563787267877077a938690152caed54f26f34c61c30564c92bb12f0db91b5e4",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T05:12:26.381399+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154061098688",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-0416|dt-current-layout",
+      "public_case_key": "case-e793e333242f0619",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "dt-lords-of-genomes"
+      ],
+      "summary": "DT v1.0.1：字底截断、长对白跳末句仍存在",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154061098688"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

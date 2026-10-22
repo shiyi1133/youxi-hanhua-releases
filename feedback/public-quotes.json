@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 482,
+  "count": 498,
   "rows": [
     {
       "tid": "11092365551",
@@ -9521,9 +9521,408 @@
       "omission_notice": "省略原ROM下载来源、提取码及外链客户端参数；保留需求文字，完整公开原文见原楼。",
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060439188",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060439188#154060439188",
+      "created_at": "2026-10-22T22:31:17+08:00",
+      "quote": "反馈一下 哈利波特与密室 哈利波特与密室_简体中文_v1.0.3两个版本仍然没有修复 开头游戏logo少个“与”字的问题。名字变成了“哈利波特 密室”。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c51c576f7bc89a67eee7c6a32909c4584400f5f8cfbba53d6c586aa971c400d9",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060592146",
+      "parent_pid": "154021030900",
+      "floor": 25,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060592146#154060592146",
+      "created_at": "2026-10-22T23:17:40+08:00",
+      "quote": "经测试，名侦探柯南_地下游乐园杀人事件_简体中文_10px大字版_v1.0.5 仍有部分问题。 图1是游戏开始时，右下角头像会有缺块现象，此问题贯穿始终。 图2是在游戏中随机出现的大字突然变小字。 图3是在游戏第一个场景入口处，头像不止有缺块，并且在缺块的地方有乱码。 图4是在第一个场景入口处，和周围一圈的npc对话结束后，按start键选择凶手推理选项，右上角的地点名称显示错误。 图5是在游戏第一个场景入口处，头像出现缺块时，每次对话框内容翻页，游戏画面就会闪烁一下，速度太快截不到闪烁图。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "b6aeb04bed59ad7e9f6e8ad8253b94227f94622e90c788e338e3806102d65713",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/817a6bd9f2d3572cce2cc6dbcc13632763d0c313.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/4042e632b432e9fcc258.jpg",
+          "SHA256_of_archived_preview": "4042e632b432e9fcc2582009a667017058bc2086285839c6a2c8e7186f8b9326",
+          "archived_bytes": 529537
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a3931630e924b8997df6233f28061d950b7bf61f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b6373b44cf8a74a40f7d.jpg",
+          "SHA256_of_archived_preview": "b6373b44cf8a74a40f7d5ed85213696d7250b3065b6bdfc76f2281a4a75196c1",
+          "archived_bytes": 576962
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbf0bb9d28f8096b63f724a825.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/6bf544c65f0929d53ffa.jpg",
+          "SHA256_of_archived_preview": "6bf544c65f0929d53ffa872c3ca01b21c45ab10723597ae854935005390c18bf",
+          "archived_bytes": 545341
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bdd1d3b44aed2e734cd3c32bc101a18b87d6fa2f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/038e873478daf1a13036.jpg",
+          "SHA256_of_archived_preview": "038e873478daf1a13036462a8bffe37cf3dc9b4a7e40f6ad6c3563a15248ddc0",
+          "archived_bytes": 572855
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5ae8a44bd11373f027042a98e20f4bfbfbed042d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/0250890671813019fa76.jpg",
+          "SHA256_of_archived_preview": "0250890671813019fa7643f6da954b10f2c6468649250acbde8f6f47c95caf0f",
+          "archived_bytes": 515339
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154061098688",
+      "parent_pid": "154022434834",
+      "floor": 37,
+      "public_nickname": "bantuwang1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061098688#154061098688",
+      "created_at": "2026-10-23T03:21:54+08:00",
+      "quote": "字底截断和长对白快速跳末句的bug还存在，测试rom:DT_Lords_of_Genomes_ZH_v1.0.1_LAYOUT_TEST， 看方便的时候能否修复下",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c4d3437d7a86b88b9b58471ae086a4b8777edd333f4411d6b59d1874eada4a1d",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059864872",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059864872#154059864872",
+      "created_at": "2026-10-22T19:27:46+08:00",
+      "quote": "x猎人篇测试到有一个宠跟随的时候，出现菜单消失的情况，需要修正",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8ee17bce6bc9274f39b92e019c8dcb14089ccdf579f0f408859ac24a4ae39703",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c08b61c70a24c7b02087bf4f43a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e568362c65c23a4e9c73.jpg",
+          "SHA256_of_archived_preview": "e568362c65c23a4e9c73071569f2a832e87ebf19c9b2131c51badcac020c2c82",
+          "archived_bytes": 193368
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059877278",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059877278#154059877278",
+      "created_at": "2026-10-22T19:31:55+08:00",
+      "quote": "x猎人篇进行到跟一个宠物后，保存菜单那边字也消失了",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d5d4450c1f7f17026237f3085bb25bbf8ea3fe62f000e5dc3a28a6a33fa07dd3",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/6e76ee1190ef76c6e2cba32cdb16fdfaae5167c3.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/4c8f1678ccdab851f76d.jpg",
+          "SHA256_of_archived_preview": "4c8f1678ccdab851f76d33570be7b2722cc5a94794bf46aa3eb18945bc771eda",
+          "archived_bytes": 107725
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060646908",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060646908#154060646908",
+      "created_at": "2026-10-22T23:34:32+08:00",
+      "quote": "经测试，沙加1_魔界塔士_v1.0.1_dialogue10 仍有如下两处花屏。 图1是在游戏中按暂停键，画面出现一帧花屏。 图2是和游戏中的人物对话时，对话框打开瞬间会有一帧乱码。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2809aba06b9789937b158890442aa1c330237a8d50c58d1027cedafea6d59844",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539a7384ac47c87e950342ab0df.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/af964f5233c643b99f06.jpg",
+          "SHA256_of_archived_preview": "af964f5233c643b99f06d2ff39ada02c99d84deb2fdec7095153f4859e9ad834",
+          "archived_bytes": 631937
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7059bb119313b07ed7b8150f4ad7912396dd8cdf.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/01e89a61d434fc02bf96.jpg",
+          "SHA256_of_archived_preview": "01e89a61d434fc02bf96736a5699975e0bca03446e8ef43d38a0386c59ff39d3",
+          "archived_bytes": 488539
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060654790",
+      "parent_pid": "154024599433",
+      "floor": 50,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060654790#154060654790",
+      "created_at": "2026-10-22T23:36:54+08:00",
+      "quote": "经测试，Saga2_MibaoChuanshuo_v1.0.1_10px_music 在和npc对话时，对话框打开的一瞬间会消失上一次对话的信息。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "9217a298e7fd7546dee8ddb83c532497f0f5a644c57c9a03b5790a375e3d89fe",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/77a89b45d688d43f01d7d4f53b1ed21b0ff43be2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/d11a21c7e27de5e27cea.jpg",
+          "SHA256_of_archived_preview": "d11a21c7e27de5e27cea7c7669f7f0a22bc9028530ebe0bc07ed2b99c6d8691d",
+          "archived_bytes": 485248
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060525752",
+      "parent_pid": "154040122000",
+      "floor": 110,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060525752#154060525752",
+      "created_at": "2026-10-22T22:57:28+08:00",
+      "quote": "主角+姐妹双模式都能正常通关，只有标题和一段教程文字有点小显示问题。已整理RA模拟器Gambatte核心的即时存档和相关反馈截图。",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "a3a6dbb850bb795084b2cf2dd7542e44d08c0b0c7d1a21814983e22e694119a4",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/96bd172f315c938e7550.png",
+          "SHA256_of_archived_preview": "96bd172f315c938e75504be79c3207596d14610f1a59192282ca7bd0cd753596",
+          "archived_bytes": 45300,
+          "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+          "observation": "蜥蜴之尾下+A滑铲教程：上方两行中文有异常/裁切线索；下方重复竖纹仅为画面纹理，可能原场景背景或CRT效果，待与原版对照，不能直接认定为乱码BUG。"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/115e500e4281dcc0f035.png",
+          "SHA256_of_archived_preview": "115e500e4281dcc0f035cabec524236e74cae934a7821da01f327cfd945948a1",
+          "archived_bytes": 32412,
+          "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+          "observation": "标题开始提示START前有S样字符，按玩家“多了一个s”反馈登记待核；图底v1.0.5是同人基底画面版本，不是已确认汉化版本号。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060891225",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060891225#154060891225",
+      "created_at": "2026-10-23T00:59:23+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 大佬，我测试了一下Rom：0936 - Kotobattle (JP) [ZH v0.1.0 8px].gbc 开局设置未翻译",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "71fc14899a58618893a1318b2a94124796f0307f706e7b4b4e3f59ec868e6f99",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d929f1261b57dfa9ec8b13cdc2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f0fc458b60bfb0548aa8.jpg",
+          "SHA256_of_archived_preview": "f0fc458b60bfb0548aa86cfbc3676c0e105790366965d1fa2e54cec4ff3e1a67",
+          "archived_bytes": 149773
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060900647",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060900647#154060900647",
+      "created_at": "2026-10-23T01:03:19+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 交谈中文字会出现镜像，如下面消耗的“消”字",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f30f24635b0d37246c591035dcff7da8ab1591ec51ef2292e093f724f129018e",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7875bd8f8c5494eeba334b1e6bf5e0fe98257ecb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b358be63efd532c9245e.jpg",
+          "SHA256_of_archived_preview": "b358be63efd532c9245e0d57ec4927ec10d96c793dfd185df7d2957f9e7120f0",
+          "archived_bytes": 176704
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060968332",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060968332#154060968332",
+      "created_at": "2026-10-23T01:35:41+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 开局石碑的交互，对战画面日文字符，与老师对话也有",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "9edf0ed93f4d777d1669751c31ad186f16db9454632c823b861587f56b43b355",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0129b0014a90f603c8e4d8407f12b31bb151ed89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/1d29306e68135d3b67ee.jpg",
+          "SHA256_of_archived_preview": "1d29306e68135d3b67ee8dde71b773f7d22da011304c4d88853a24f27ab2e405",
+          "archived_bytes": 205002
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22dc3012b31bb0513870f72f707adab44bede089.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/13d041b766782881fbd5.jpg",
+          "SHA256_of_archived_preview": "13d041b766782881fbd5d30b82378c26a5cfad52e9b9412cc3baa6fac40ed2dd",
+          "archived_bytes": 189606
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/445717178a82b901f3f98734358da9773812ef89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/195130110a44ef8e0396.jpg",
+          "SHA256_of_archived_preview": "195130110a44ef8e0396633ab348d7490fc27a2244935309cd0af81fa2ef6df7",
+          "archived_bytes": 167729
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/511f43ed2e738bd47475f636e78b87d6267ff989.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f47b871ff83d5984cf6b.jpg",
+          "SHA256_of_archived_preview": "f47b871ff83d5984cf6b3aac2a9a5287a2410f58c8645236e1435d33f89294ea",
+          "archived_bytes": 178363
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18b4dbf5648d82f07082938fe89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/6fa82bb3b48b1dedcdbc.jpg",
+          "SHA256_of_archived_preview": "6fa82bb3b48b1dedcdbc5706a4eeace2c8eaea4e136f92a5e5db9b434a3f86dd",
+          "archived_bytes": 183874
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059654703",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059654703#154059654703",
+      "created_at": "2026-10-22T18:18:11+08:00",
+      "quote": "那两个18号的版本，都是最新的",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "93314dfda740874f023290c4a33d5cc79d33d466c77ab8344f3baa37c562e33d",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059661256",
+      "parent_pid": "154055854022",
+      "floor": 205,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059661256#154059661256",
+      "created_at": "2026-10-22T18:20:34+08:00",
+      "quote": "一个是只有一个，另外一个就是第一个，也就是最新的",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d62a2e581be1056455f49dd75ee5d4181e745830d369e93893bbc2019c33f342",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9204e10b912c8fc478bafcaba039245d78821ec.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/c6ff5628d6d01e0675a7.jpg",
+          "SHA256_of_archived_preview": "c6ff5628d6d01e0675a77a711011516b0a258c4c9cf431c2c33dfd4da92cd68e",
+          "archived_bytes": 98264
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/46ba7b8b4710b9124bb9aff985fdfc03934522ec.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e81192c1a9d9f76c6c91.jpg",
+          "SHA256_of_archived_preview": "e81192c1a9d9f76c6c9115d7f024264ee793c6e9c240eaea012d538c500621d0",
+          "archived_bytes": 52269
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154060662823",
+      "parent_pid": "0",
+      "floor": 27,
+      "public_nickname": "静听月落🌙",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154060662823#154060662823",
+      "created_at": "2026-10-22T23:39:25+08:00",
+      "quote": "洛克人exe6之前是剧情汉化，可以请您全汉化嘛？",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2d7e9531cb76a1bdb4b9c264b47f79b6ef25e70ac3c1d450464e610ded74ec17",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154060665365",
+      "parent_pid": "0",
+      "floor": 28,
+      "public_nickname": "静听月落🌙",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154060665365#154060665365",
+      "created_at": "2026-10-22T23:40:12+08:00",
+      "quote": "决战三国要电脑的gba模拟器才能玩，手机模拟器玩不了，可以修复一下嘛",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d1f45b6c60ee5c572938961ae8d5ce61deba6b5441a75240d9cc28065c7b8cb3",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154059663342",
+      "parent_pid": "154040376866",
+      "floor": 16,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154059663342#154059663342",
+      "created_at": "2026-10-22T18:21:16+08:00",
+      "quote": "传承黄三主角版",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ed889ff0a20cef8379b511c473c2f546dde769f5444345c5fb3138ec1d7409ea",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00"
 }

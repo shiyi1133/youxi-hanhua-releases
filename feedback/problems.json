@@ -1,9 +1,9 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 107,
-  "open_pure_BUG_count": 34,
-  "open_requests_or_other_count": 11,
+  "problem_count": 111,
+  "open_pure_BUG_count": 37,
+  "open_requests_or_other_count": 12,
   "open_classification_unconfirmed_count": 41,
   "problems": [
     {
@@ -34,7 +34,7 @@
         "conan-train",
         "conan-underground"
       ],
-      "summary": "柯南三作反馈待补具体截图与操作；柯南第二轮：标题／头像／菜单图块和速度设置残留日文",
+      "summary": "柯南合并反馈仍开放；本轮仅地下游乐园10px v1.0.5五图补充，其它两作旧来源分别待核。",
       "state": "open",
       "classification": "UNCLASSIFIED",
       "case_keys": [
@@ -66,12 +66,22 @@
         "11092365551|154038716314",
         "11092365551|154038977448",
         "11092365551|154048566900",
-        "11092365551|154051129293"
+        "11092365551|154051129293",
+        "11092365551|154060592146"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "historical_summaries": [
+        {
+          "summary": "柯南三作反馈待补具体截图与操作；柯南第二轮：标题／头像／菜单图块和速度设置残留日文",
+          "state_checked_at": null,
+          "basis": "PREVIOUS_PUBLIC_PROBLEM_SUMMARY_RETAINED_AS_HISTORY"
+        }
+      ],
+      "current_feedback_scope_note": "本次五图和v1.0.5文件名仅适用于地下游乐园来源；不自动为奇岩岛或豪华列车补身份或截图。"
     },
     {
       "public_problem_key": "problem-7b8ffde9f03c31de",
@@ -274,13 +284,15 @@
         "11092365551|154048786590",
         "11092365551|154054296408",
         "11092365551|154054306070",
+        "11092365551|154061098688",
         "11097560613|154043716841",
         "11097560613|154048988684"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_problem_key": "problem-7376f47bbd3b1656",
@@ -825,12 +837,14 @@
         "case-d4752ef8d279d85c"
       ],
       "public_feedback_keys": [
-        "11092365551|154032022148"
+        "11092365551|154032022148",
+        "11092365551|154060439188"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_problem_key": "problem-6828881e769d2b57",
@@ -1132,12 +1146,14 @@
       "public_feedback_keys": [
         "11092365551|154038632735",
         "11092365551|154039624497",
-        "11092365551|154039625473"
+        "11092365551|154039625473",
+        "11092365551|154060646908"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_problem_key": "problem-40e31bcc9b01fedd",
@@ -1152,12 +1168,14 @@
       ],
       "public_feedback_keys": [
         "11092365551|154038663862",
-        "11092365551|154039632447"
+        "11092365551|154039632447",
+        "11092365551|154060654790"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_problem_key": "problem-0d4651cabcf37571",
@@ -1335,13 +1353,16 @@
         "11092365551|154040366429",
         "11092365551|154040892777",
         "11092365551|154047228933",
+        "11092365551|154059654703",
+        "11092365551|154059661256",
         "11097560613|154040374261",
         "11097560613|154040375498"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_problem_key": "problem-94e402b4dd61f348",
@@ -1417,7 +1438,7 @@
       ],
       "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
       "classification": "UNCLASSIFIED",
       "case_keys": [
         "case-7e8f6d8de006e3a0",
@@ -1437,7 +1458,9 @@
         "11092365551|154047256388",
         "11092365551|154047257980",
         "11092365551|154057741777",
-        "11092365551|154058616784"
+        "11092365551|154058616784",
+        "11092365551|154059654703",
+        "11092365551|154059661256"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2545,13 +2568,95 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-57e5fbb4ad7d4901"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-2328f13bf64f2bae"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-624c5ff8cc263f25"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e01934e47ea85b78"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00",
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

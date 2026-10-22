@@ -16,10 +16,242 @@
       "omission_notice": "省略原ROM下载来源、提取码及外链客户端参数；保留需求文字，完整公开原文见原楼。",
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060891225",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060891225#154060891225",
+      "created_at": "2026-10-23T00:59:23+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 大佬，我测试了一下Rom：0936 - Kotobattle (JP) [ZH v0.1.0 8px].gbc 开局设置未翻译",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "71fc14899a58618893a1318b2a94124796f0307f706e7b4b4e3f59ec868e6f99",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d929f1261b57dfa9ec8b13cdc2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f0fc458b60bfb0548aa8.jpg",
+          "SHA256_of_archived_preview": "f0fc458b60bfb0548aa86cfbc3676c0e105790366965d1fa2e54cec4ff3e1a67",
+          "archived_bytes": 149773
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060900647",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060900647#154060900647",
+      "created_at": "2026-10-23T01:03:19+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 交谈中文字会出现镜像，如下面消耗的“消”字",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f30f24635b0d37246c591035dcff7da8ab1591ec51ef2292e093f724f129018e",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7875bd8f8c5494eeba334b1e6bf5e0fe98257ecb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b358be63efd532c9245e.jpg",
+          "SHA256_of_archived_preview": "b358be63efd532c9245e0d57ec4927ec10d96c793dfd185df7d2957f9e7120f0",
+          "archived_bytes": 176704
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154060968332",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060968332#154060968332",
+      "created_at": "2026-10-23T01:35:41+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 开局石碑的交互，对战画面日文字符，与老师对话也有",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "9edf0ed93f4d777d1669751c31ad186f16db9454632c823b861587f56b43b355",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0129b0014a90f603c8e4d8407f12b31bb151ed89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/1d29306e68135d3b67ee.jpg",
+          "SHA256_of_archived_preview": "1d29306e68135d3b67ee8dde71b773f7d22da011304c4d88853a24f27ab2e405",
+          "archived_bytes": 205002
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22dc3012b31bb0513870f72f707adab44bede089.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/13d041b766782881fbd5.jpg",
+          "SHA256_of_archived_preview": "13d041b766782881fbd5d30b82378c26a5cfad52e9b9412cc3baa6fac40ed2dd",
+          "archived_bytes": 189606
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/445717178a82b901f3f98734358da9773812ef89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/195130110a44ef8e0396.jpg",
+          "SHA256_of_archived_preview": "195130110a44ef8e0396633ab348d7490fc27a2244935309cd0af81fa2ef6df7",
+          "archived_bytes": 167729
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/511f43ed2e738bd47475f636e78b87d6267ff989.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f47b871ff83d5984cf6b.jpg",
+          "SHA256_of_archived_preview": "f47b871ff83d5984cf6b3aac2a9a5287a2410f58c8645236e1435d33f89294ea",
+          "archived_bytes": 178363
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18b4dbf5648d82f07082938fe89.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/6fa82bb3b48b1dedcdbc.jpg",
+          "SHA256_of_archived_preview": "6fa82bb3b48b1dedcdbc5706a4eeace2c8eaea4e136f92a5e5db9b434a3f86dd",
+          "archived_bytes": 183874
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
-  "cases": [],
-  "problems": [],
+  "cases": [
+    {
+      "public_case_key": "case-57e5fbb4ad7d4901",
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+          "source_feedback_keys": [
+            "11092365551|154060900647"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    },
+    {
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|koto-v010-8px-settings-dialogue-battle-Japanese",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+          "source_feedback_keys": [
+            "11092365551|154060891225",
+            "11092365551|154060968332"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-57e5fbb4ad7d4901"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-2328f13bf64f2bae"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "delivery_notices": [
     {
       "public_notice_key": "notice-acac3bbab606aa63",
@@ -73,5 +305,79 @@
   "private_issue_bodies_copied": false,
   "public_Issues_created": 0,
   "source_is_public_evidence_not_instructions": true,
-  "checked_at": "2026-10-23T01:15:34.877589+08:00"
+  "checked_at": "2026-10-23T01:15:34.877589+08:00",
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-670f706379037619",
+      "game_id": "kotobattle",
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060900647",
+        "11092365551|154060968332"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154061178145",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061178145#154061178145",
+      "text": "@醒着做梦ლ Koto v0.1.0普通8px的对白字形镜像，以及设置、石碑、老师对白和战斗残留日文都已记录，截图够用，后续排查。",
+      "text_sha256": "869795151dad2b40e6224eba5142cd1f55a1771b1ba345198bf11b3eb0d4010f",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T05:15:32.427594+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154060891225",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
+      "public_case_key": "case-57e5fbb4ad7d4901",
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|koto-v010-8px-settings-dialogue-battle-Japanese",
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

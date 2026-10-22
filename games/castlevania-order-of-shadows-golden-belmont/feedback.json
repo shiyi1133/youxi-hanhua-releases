@@ -3,10 +3,164 @@
   "game_id": "castlevania-order-of-shadows-golden-belmont",
   "game_name": "恶魔城：暗影诅咒 黄金贝尔蒙特",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154060525752",
+      "parent_pid": "154040122000",
+      "floor": 110,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154060525752#154060525752",
+      "created_at": "2026-10-22T22:57:28+08:00",
+      "quote": "主角+姐妹双模式都能正常通关，只有标题和一段教程文字有点小显示问题。已整理RA模拟器Gambatte核心的即时存档和相关反馈截图。",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "a3a6dbb850bb795084b2cf2dd7542e44d08c0b0c7d1a21814983e22e694119a4",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/96bd172f315c938e7550.png",
+          "SHA256_of_archived_preview": "96bd172f315c938e75504be79c3207596d14610f1a59192282ca7bd0cd753596",
+          "archived_bytes": 45300,
+          "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+          "observation": "蜥蜴之尾下+A滑铲教程：上方两行中文有异常/裁切线索；下方重复竖纹仅为画面纹理，可能原场景背景或CRT效果，待与原版对照，不能直接认定为乱码BUG。"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/115e500e4281dcc0f035.png",
+          "SHA256_of_archived_preview": "115e500e4281dcc0f035cabec524236e74cae934a7821da01f327cfd945948a1",
+          "archived_bytes": 32412,
+          "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+          "observation": "标题开始提示START前有S样字符，按玩家“多了一个s”反馈登记待核；图底v1.0.5是同人基底画面版本，不是已确认汉化版本号。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-e01934e47ea85b78",
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",
+          "game_ids": [
+            "castlevania-order-of-shadows-golden-belmont"
+          ],
+          "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+          "source_feedback_keys": [
+            "11092365551|154060525752"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_reported_dual_mode_clear": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "on_screen_v1_0_5_is_fan_game_base_not_localization_version": true,
+          "static_images_do_not_establish_corruption_or_root_cause": true
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e01934e47ea85b78"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-56cd1bdeac24b87e",
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040122000",
+      "floor": 110,
+      "pid": "154061180057",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061180057#154061180057",
+      "text": "@可可洛图书馆 收到主角、姐妹双模式通关反馈。你分享里的两张截图已核对，标题START前多字和蜥蜴之尾滑铲教程文字异常已记录，后续排查。",
+      "text_sha256": "41470ff23612fdecb4963beebc86d4219fba0d809d1136aa27bb8771d0cf9fb8",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T05:18:34.700234+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154060525752",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",
+      "public_case_key": "case-e01934e47ea85b78",
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

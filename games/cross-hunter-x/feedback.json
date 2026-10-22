@@ -117,6 +117,52 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059864872",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059864872#154059864872",
+      "created_at": "2026-10-22T19:27:46+08:00",
+      "quote": "x猎人篇测试到有一个宠跟随的时候，出现菜单消失的情况，需要修正",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8ee17bce6bc9274f39b92e019c8dcb14089ccdf579f0f408859ac24a4ae39703",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c08b61c70a24c7b02087bf4f43a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e568362c65c23a4e9c73.jpg",
+          "SHA256_of_archived_preview": "e568362c65c23a4e9c73071569f2a832e87ebf19c9b2131c51badcac020c2c82",
+          "archived_bytes": 193368
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154059877278",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154059877278#154059877278",
+      "created_at": "2026-10-22T19:31:55+08:00",
+      "quote": "x猎人篇进行到跟一个宠物后，保存菜单那边字也消失了",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d5d4450c1f7f17026237f3085bb25bbf8ea3fe62f000e5dc3a28a6a33fa07dd3",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/6e76ee1190ef76c6e2cba32cdb16fdfaae5167c3.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/4c8f1678ccdab851f76d.jpg",
+          "SHA256_of_archived_preview": "4c8f1678ccdab851f76d33570be7b2722cc5a94794bf46aa3eb18945bc771eda",
+          "archived_bytes": 107725
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -147,6 +193,53 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-624c5ff8cc263f25",
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|cross-hunter-pet-menus",
+          "game_ids": [
+            "cross-hunter-x"
+          ],
+          "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+          "source_feedback_keys": [
+            "11092365551|154059864872",
+            "11092365551|154059877278"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     }
   ],
   "problems": [
@@ -173,9 +266,82 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-624c5ff8cc263f25"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-66efcc5e62af7002",
+      "game_id": "cross-hunter-x",
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154022804617",
+      "floor": 38,
+      "pid": "154061176659",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061176659#154061176659",
+      "text": "@炽天火3 X猎人篇宠物加入后主菜单、保存菜单文字消失已一起记录。请补正在用的ROM完整文件名和字号，方便对应版本。",
+      "text_sha256": "807d392b287c83698850f2ebd133beb0e96293cadcb9294a4731e0cf840e55ce",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T05:13:11.670571+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154059864872",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-0416|cross-hunter-pet-menus",
+      "public_case_key": "case-624c5ff8cc263f25",
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

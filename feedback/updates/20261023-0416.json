@@ -1,0 +1,499 @@
+{
+  "schema": "public16_sources21_images11_registration_events11_ACK_feedback_increment_v1",
+  "bindings": {
+    "immutable_evidence_object_manifest_sha256": "d88034d93bb03ff4c642a636d2d87912335f71c90806bb2bb2e38b7ae2918570",
+    "actual_11_registration_receipt_sha256": "f53522642e5c9db29a720ff922a242adffd8b781a9390aab6742717c2e5c2792",
+    "actual_11_ACK_receipt_sha256": "52bc96a7a8e5298c56977b617fbf74ba2469048e62989562b40f5b957559cf25",
+    "selected_public_source_rows_sha256": "28683d16b94c0b2ece32a662a8fee78ff524c5fb5da3993481f26c8e8459a5b6",
+    "actual21_player_image_manifest_sha256": "6e4aba23cdff1e71053d3ef10408aacd1183d08748d5a330296373d10b73b09f",
+    "actual_source_problem_states_sha256": "4cf3dbaa39aaa5be46406b354e978254c5ab845863ff2157507948688a1acaa4",
+    "immutable_evidence_binding_file_sha256": "a01e51a20728198518f0f39d7c3111b12e2aeb702191e064e0fd50b1aa71f3f8"
+  },
+  "generated_at": "2026-10-23T05:40:13.981294+08:00",
+  "source_PIDs": [
+    "154059654703",
+    "154059661256",
+    "154059663342",
+    "154059864872",
+    "154059877278",
+    "154060439188",
+    "154060525752",
+    "154060592146",
+    "154060646908",
+    "154060654790",
+    "154060662823",
+    "154060665365",
+    "154060891225",
+    "154060900647",
+    "154060968332",
+    "154061098688"
+  ],
+  "public_source_quotes": 16,
+  "original_JPEGs": 19,
+  "original_PNGs": 2,
+  "actual_API_registration_events": 11,
+  "existing_case_updates": 7,
+  "new_source_problem_cases": 4,
+  "new_pure_bug_problems": 3,
+  "new_coverage_problems": 1,
+  "identity_or_source_pending_cases": 3,
+  "actual_public_ACKs": 11,
+  "affected_game_pages": 10,
+  "public_events": [
+    {
+      "public_event_key": "20261023-0416|hp2-logo",
+      "public_case_key": "case-d4752ef8d279d85c",
+      "public_problem_key": "problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "密室v1.0.3双字号标题仍缺“与”",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154060439188"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|conan-v105",
+      "public_case_key": "case-7c11b5c2af3f566f",
+      "public_problem_key": "problem-5b60b8498038cf38",
+      "game_ids": [
+        "conan-underground"
+      ],
+      "summary": "地下游乐园10px v1.0.5：头像缺块、混字号、推理位置异常及翻页闪屏",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154060592146"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|dt-current-layout",
+      "public_case_key": "case-e793e333242f0619",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "dt-lords-of-genomes"
+      ],
+      "summary": "DT v1.0.1：字底截断、长对白跳末句仍存在",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154061098688"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|saga1-gb-current",
+      "public_case_key": "case-76320c86dfc96e62",
+      "public_problem_key": "problem-cafda2d8b2adc429",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "沙加GB1 v1.0.1 dialogue10：暂停和开对白瞬间花屏",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154060646908"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|saga2-gb-current",
+      "public_case_key": "case-3627a2bb79f37af4",
+      "public_problem_key": "problem-40e31bcc9b01fedd",
+      "game_ids": [
+        "saga-2"
+      ],
+      "summary": "沙加GB2 v1.0.1 10px music：对白打开一瞬间会消失上一次对话的信息（玩家原话）",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154060654790"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|kalos-digimon-current-version-kalos-crystal",
+      "public_case_key": "case-eaf53b75946aeea2",
+      "public_problem_key": "problem-cc335a785d542cae",
+      "game_ids": [
+        "kalos-crystal"
+      ],
+      "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154059654703",
+        "11092365551|154059661256"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|kalos-digimon-current-version-digimon-crystal",
+      "public_case_key": "case-c1cbd8d34278ec36",
+      "public_problem_key": "problem-89eeac6be81ae7a1",
+      "game_ids": [
+        "digimon-crystal"
+      ],
+      "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+      "classification": "UNCLASSIFIED",
+      "source_feedback_keys": [
+        "11092365551|154059654703",
+        "11092365551|154059661256"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|cross-hunter-pet-menus",
+      "public_case_key": "case-624c5ff8cc263f25",
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
+      "public_case_key": "case-57e5fbb4ad7d4901",
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|koto-v010-8px-settings-dialogue-battle-Japanese",
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",
+      "public_case_key": "case-e01934e47ea85b78",
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ],
+  "player_image_bindings": [
+    {
+      "source_pid": "154060592146",
+      "image_index": 1,
+      "path": "feedback/images/4042e632b432e9fcc258.jpg",
+      "sha256": "4042e632b432e9fcc2582009a667017058bc2086285839c6a2c8e7186f8b9326",
+      "bytes": 529537,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/817a6bd9f2d3572cce2cc6dbcc13632763d0c313.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060592146",
+      "image_index": 2,
+      "path": "feedback/images/b6373b44cf8a74a40f7d.jpg",
+      "sha256": "b6373b44cf8a74a40f7d5ed85213696d7250b3065b6bdfc76f2281a4a75196c1",
+      "bytes": 576962,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/a3931630e924b8997df6233f28061d950b7bf61f.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060592146",
+      "image_index": 3,
+      "path": "feedback/images/6bf544c65f0929d53ffa.jpg",
+      "sha256": "6bf544c65f0929d53ffa872c3ca01b21c45ab10723597ae854935005390c18bf",
+      "bytes": 545341,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbf0bb9d28f8096b63f724a825.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060592146",
+      "image_index": 4,
+      "path": "feedback/images/038e873478daf1a13036.jpg",
+      "sha256": "038e873478daf1a13036462a8bffe37cf3dc9b4a7e40f6ad6c3563a15248ddc0",
+      "bytes": 572855,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/bdd1d3b44aed2e734cd3c32bc101a18b87d6fa2f.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060592146",
+      "image_index": 5,
+      "path": "feedback/images/0250890671813019fa76.jpg",
+      "sha256": "0250890671813019fa7643f6da954b10f2c6468649250acbde8f6f47c95caf0f",
+      "bytes": 515339,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/5ae8a44bd11373f027042a98e20f4bfbfbed042d.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154059864872",
+      "image_index": 1,
+      "path": "feedback/images/e568362c65c23a4e9c73.jpg",
+      "sha256": "e568362c65c23a4e9c73071569f2a832e87ebf19c9b2131c51badcac020c2c82",
+      "bytes": 193368,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c08b61c70a24c7b02087bf4f43a.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154059877278",
+      "image_index": 1,
+      "path": "feedback/images/4c8f1678ccdab851f76d.jpg",
+      "sha256": "4c8f1678ccdab851f76d33570be7b2722cc5a94794bf46aa3eb18945bc771eda",
+      "bytes": 107725,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/6e76ee1190ef76c6e2cba32cdb16fdfaae5167c3.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060646908",
+      "image_index": 1,
+      "path": "feedback/images/af964f5233c643b99f06.jpg",
+      "sha256": "af964f5233c643b99f06d2ff39ada02c99d84deb2fdec7095153f4859e9ad834",
+      "bytes": 631937,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539a7384ac47c87e950342ab0df.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060646908",
+      "image_index": 2,
+      "path": "feedback/images/01e89a61d434fc02bf96.jpg",
+      "sha256": "01e89a61d434fc02bf96736a5699975e0bca03446e8ef43d38a0386c59ff39d3",
+      "bytes": 488539,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/7059bb119313b07ed7b8150f4ad7912396dd8cdf.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060654790",
+      "image_index": 1,
+      "path": "feedback/images/d11a21c7e27de5e27cea.jpg",
+      "sha256": "d11a21c7e27de5e27cea7c7669f7f0a22bc9028530ebe0bc07ed2b99c6d8691d",
+      "bytes": 485248,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/77a89b45d688d43f01d7d4f53b1ed21b0ff43be2.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060891225",
+      "image_index": 1,
+      "path": "feedback/images/f0fc458b60bfb0548aa8.jpg",
+      "sha256": "f0fc458b60bfb0548aa86cfbc3676c0e105790366965d1fa2e54cec4ff3e1a67",
+      "bytes": 149773,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d929f1261b57dfa9ec8b13cdc2.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060900647",
+      "image_index": 1,
+      "path": "feedback/images/b358be63efd532c9245e.jpg",
+      "sha256": "b358be63efd532c9245e0d57ec4927ec10d96c793dfd185df7d2957f9e7120f0",
+      "bytes": 176704,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/7875bd8f8c5494eeba334b1e6bf5e0fe98257ecb.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060968332",
+      "image_index": 1,
+      "path": "feedback/images/1d29306e68135d3b67ee.jpg",
+      "sha256": "1d29306e68135d3b67ee8dde71b773f7d22da011304c4d88853a24f27ab2e405",
+      "bytes": 205002,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/0129b0014a90f603c8e4d8407f12b31bb151ed89.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060968332",
+      "image_index": 2,
+      "path": "feedback/images/13d041b766782881fbd5.jpg",
+      "sha256": "13d041b766782881fbd5d30b82378c26a5cfad52e9b9412cc3baa6fac40ed2dd",
+      "bytes": 189606,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/22dc3012b31bb0513870f72f707adab44bede089.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060968332",
+      "image_index": 3,
+      "path": "feedback/images/195130110a44ef8e0396.jpg",
+      "sha256": "195130110a44ef8e0396633ab348d7490fc27a2244935309cd0af81fa2ef6df7",
+      "bytes": 167729,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/445717178a82b901f3f98734358da9773812ef89.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060968332",
+      "image_index": 4,
+      "path": "feedback/images/f47b871ff83d5984cf6b.jpg",
+      "sha256": "f47b871ff83d5984cf6b3aac2a9a5287a2410f58c8645236e1435d33f89294ea",
+      "bytes": 178363,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/511f43ed2e738bd47475f636e78b87d6267ff989.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060968332",
+      "image_index": 5,
+      "path": "feedback/images/6fa82bb3b48b1dedcdbc.jpg",
+      "sha256": "6fa82bb3b48b1dedcdbc5706a4eeace2c8eaea4e136f92a5e5db9b434a3f86dd",
+      "bytes": 183874,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/007fba1c8701a18b4dbf5648d82f07082938fe89.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154059661256",
+      "image_index": 1,
+      "path": "feedback/images/c6ff5628d6d01e0675a7.jpg",
+      "sha256": "c6ff5628d6d01e0675a77a711011516b0a258c4c9cf431c2c33dfd4da92cd68e",
+      "bytes": 98264,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/f9204e10b912c8fc478bafcaba039245d78821ec.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154059661256",
+      "image_index": 2,
+      "path": "feedback/images/e81192c1a9d9f76c6c91.jpg",
+      "sha256": "e81192c1a9d9f76c6c9115d7f024264ee793c6e9c240eaea012d538c500621d0",
+      "bytes": 52269,
+      "public_original_url": "https://tiebapic.baidu.com/forum/pic/item/46ba7b8b4710b9124bb9aff985fdfc03934522ec.jpg",
+      "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_CURRENT_ROM_RUNTIME_PROOF",
+      "original_bytes_unmodified": true
+    },
+    {
+      "source_pid": "154060525752",
+      "image_index": 1,
+      "path": "feedback/images/96bd172f315c938e7550.png",
+      "sha256": "96bd172f315c938e75504be79c3207596d14610f1a59192282ca7bd0cd753596",
+      "bytes": 45300,
+      "public_original_url": null,
+      "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+      "original_bytes_unmodified": true,
+      "observation": "蜥蜴之尾下+A滑铲教程：上方两行中文有异常/裁切线索；下方重复竖纹仅为画面纹理，可能原场景背景或CRT效果，待与原版对照，不能直接认定为乱码BUG。"
+    },
+    {
+      "source_pid": "154060525752",
+      "image_index": 2,
+      "path": "feedback/images/115e500e4281dcc0f035.png",
+      "sha256": "115e500e4281dcc0f035cabec524236e74cae934a7821da01f327cfd945948a1",
+      "bytes": 32412,
+      "public_original_url": null,
+      "classification": "PLAYER_PROVIDED_PUBLIC_SHARE_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF",
+      "original_bytes_unmodified": true,
+      "observation": "标题开始提示START前有S样字符，按玩家“多了一个s”反馈登记待核；图底v1.0.5是同人基底画面版本，不是已确认汉化版本号。"
+    }
+  ],
+  "public_Issues_created": 0,
+  "private_API_bodies_copied": false,
+  "ROM_Source_patch_Release_version_or_counter_changes": 0,
+  "images_are_player_evidence_not_ROM_runtime_proof": true,
+  "maintainer_runtime_tests": 0,
+  "Source_executions": 0
+}

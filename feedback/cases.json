@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "case_count": 138,
+  "case_count": 145,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -172,7 +172,7 @@
         "conan-train",
         "conan-underground"
       ],
-      "summary": "柯南三作反馈待补具体截图与操作",
+      "summary": "柯南合并反馈仍开放：本轮仅地下游乐园10px v1.0.5五图已收，其它两作旧来源不外推。",
       "issue_state": "open",
       "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
       "classification": "UNCLASSIFIED",
@@ -200,12 +200,44 @@
         "11092365551|154025489598",
         "11092365551|154025496511",
         "11092365551|154025584113",
-        "11092365551|154025621701"
+        "11092365551|154025621701",
+        "11092365551|154060592146"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "historical_summaries": [
+        {
+          "summary": "柯南三作反馈待补具体截图与操作",
+          "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+          "basis": "PREVIOUS_PUBLIC_CASE_SUMMARY_RETAINED_AS_HISTORY"
+        }
+      ],
+      "old_reported_version_font_fields_describe_prior_sources_only": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|conan-v105",
+          "game_ids": [
+            "conan-underground"
+          ],
+          "summary": "地下游乐园10px v1.0.5：头像缺块、混字号、推理位置异常及翻页闪屏",
+          "source_feedback_keys": [
+            "11092365551|154060592146"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "scope_note": "仅本次地下游乐园10px v1.0.5来源，五张原图已记录；不把旧多作泛化待图描述套到本次或其它两款柯南。"
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-2ea26254b27e5ad1",
@@ -930,7 +962,7 @@
       "game_ids": [
         "dt-lords-of-genomes"
       ],
-      "summary": "DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）",
+      "summary": "DT：v1.0.1仍字底截断、长对白跳末句；原v1.0.0反馈作为历史保留。",
       "issue_state": "open",
       "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
       "classification": "UNCLASSIFIED",
@@ -941,12 +973,44 @@
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
         "11092365551|154029423609",
-        "11092365551|154031709170"
+        "11092365551|154031709170",
+        "11092365551|154061098688"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "historical_summaries": [
+        {
+          "summary": "DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）",
+          "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+          "basis": "PREVIOUS_PUBLIC_CASE_SUMMARY_RETAINED_AS_HISTORY"
+        }
+      ],
+      "old_reported_version_font_fields_describe_prior_sources_only": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|dt-current-layout",
+          "game_ids": [
+            "dt-lords-of-genomes"
+          ],
+          "summary": "DT v1.0.1：字底截断、长对白跳末句仍存在",
+          "source_feedback_keys": [
+            "11092365551|154061098688"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "scope_note": "玩家报告DT v1.0.1仍截字/跳末句，保持开放；集中排版旧成果不等于本次已修。"
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-63a908948eb64951",
@@ -1272,12 +1336,35 @@
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154032022148"
+        "11092365551|154032022148",
+        "11092365551|154060439188"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|hp2-logo",
+          "game_ids": [
+            "harry-potter-chamber"
+          ],
+          "summary": "密室v1.0.3双字号标题仍缺“与”",
+          "source_feedback_keys": [
+            "11092365551|154060439188"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-97164fc646df0049",
@@ -1690,12 +1777,35 @@
       "public_feedback_keys": [
         "11092365551|154038632735",
         "11092365551|154039624497",
-        "11092365551|154039625473"
+        "11092365551|154039625473",
+        "11092365551|154060646908"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|saga1-gb-current",
+          "game_ids": [
+            "saga-1"
+          ],
+          "summary": "沙加GB1 v1.0.1 dialogue10：暂停和开对白瞬间花屏",
+          "source_feedback_keys": [
+            "11092365551|154060646908"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-3627a2bb79f37af4",
@@ -1714,12 +1824,35 @@
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
         "11092365551|154038663862",
-        "11092365551|154039632447"
+        "11092365551|154039632447",
+        "11092365551|154060654790"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|saga2-gb-current",
+          "game_ids": [
+            "saga-2"
+          ],
+          "summary": "沙加GB2 v1.0.1 10px music：对白打开一瞬间会消失上一次对话的信息（玩家原话）",
+          "source_feedback_keys": [
+            "11092365551|154060654790"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-c0098be54a4388ad",
@@ -1929,13 +2062,38 @@
         "11092365551|154040366429",
         "11092365551|154040892777",
         "11092365551|154047228933",
+        "11092365551|154059654703",
+        "11092365551|154059661256",
         "11097560613|154040374261",
         "11097560613|154040375498"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|kalos-digimon-current-version-digimon-crystal",
+          "game_ids": [
+            "digimon-crystal"
+          ],
+          "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+          "source_feedback_keys": [
+            "11092365551|154059654703",
+            "11092365551|154059661256"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-a077c26a12e1c321",
@@ -2043,12 +2201,37 @@
         "11092365551|154045508059",
         "11092365551|154045748153",
         "11092365551|154047256388",
-        "11092365551|154047257980"
+        "11092365551|154047257980",
+        "11092365551|154059654703",
+        "11092365551|154059661256"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|kalos-digimon-current-version-kalos-crystal",
+          "game_ids": [
+            "kalos-crystal"
+          ],
+          "summary": "卡洛斯/数码暴龙攻击退出变色：补18号实际文件名截图",
+          "source_feedback_keys": [
+            "11092365551|154059654703",
+            "11092365551|154059661256"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
     },
     {
       "public_case_key": "case-7831b22987e25ae8",
@@ -3735,7 +3918,258 @@
       "public_issue_sync": "NOT_CREATED_NEEDS_GAME_IDENTITY",
       "reproduced": false,
       "fixed": false
+    },
+    {
+      "public_case_key": "case-624c5ff8cc263f25",
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154059864872",
+        "11092365551|154059877278"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|cross-hunter-pet-menus",
+          "game_ids": [
+            "cross-hunter-x"
+          ],
+          "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
+          "source_feedback_keys": [
+            "11092365551|154059864872",
+            "11092365551|154059877278"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    },
+    {
+      "public_case_key": "case-57e5fbb4ad7d4901",
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060900647"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
+          "source_feedback_keys": [
+            "11092365551|154060900647"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    },
+    {
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060891225",
+        "11092365551|154060968332"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|koto-v010-8px-settings-dialogue-battle-Japanese",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
+          "source_feedback_keys": [
+            "11092365551|154060891225",
+            "11092365551|154060968332"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    },
+    {
+      "public_case_key": "case-e01934e47ea85b78",
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_ids": [
+        "castlevania-order-of-shadows-golden-belmont"
+      ],
+      "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
+      "public_feedback_keys": [
+        "11092365551|154060525752"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",
+          "game_ids": [
+            "castlevania-order-of-shadows-golden-belmont"
+          ],
+          "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
+          "source_feedback_keys": [
+            "11092365551|154060525752"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "reported_version_and_font_read_from_original_quotes_only": true,
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_reported_dual_mode_clear": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "on_screen_v1_0_5_is_fan_game_base_not_localization_version": true,
+          "static_images_do_not_establish_corruption_or_root_cause": true
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+    },
+    {
+      "public_case_key": "case-3437ba33d8d3bb44",
+      "public_problem_key": null,
+      "game_ids": [],
+      "summary": "洛克人EXE6完整汉化范围及原件待确认。",
+      "issue_state": "not_applicable_identity_or_source_pending",
+      "classification": "REQUEST_OR_IDENTITY_PENDING",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "NOT_BOUND_TO_A_CURRENT_PUBLISHED_ROM",
+      "public_feedback_keys": [
+        "11097560613|154060662823"
+      ],
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_NEEDS_INFORMATION_OR_SOURCE",
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-d0d7ffc5ba742cd2",
+      "public_problem_key": null,
+      "game_ids": [],
+      "summary": "决战三国手机模拟器兼容反馈：游戏/实际版本与必要触发信息待确认。",
+      "issue_state": "not_applicable_identity_or_source_pending",
+      "classification": "REQUEST_OR_IDENTITY_PENDING",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "NOT_BOUND_TO_A_CURRENT_PUBLISHED_ROM",
+      "public_feedback_keys": [
+        "11097560613|154060665365"
+      ],
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_NEEDS_INFORMATION_OR_SOURCE",
+      "reproduced": false,
+      "fixed": false
+    },
+    {
+      "public_case_key": "case-714bcf2759ef7f1f",
+      "public_problem_key": null,
+      "game_ids": [],
+      "summary": "“传承黄三主角版”身份补充，尚缺完整ROM文件名/版本，不能据简称判断实际字节。",
+      "issue_state": "not_applicable_identity_or_source_pending",
+      "classification": "REQUEST_OR_IDENTITY_PENDING",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "NOT_BOUND_TO_A_CURRENT_PUBLISHED_ROM",
+      "public_feedback_keys": [
+        "11097560613|154059663342"
+      ],
+      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_NEEDS_INFORMATION_OR_SOURCE",
+      "reproduced": false,
+      "fixed": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
+  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00"
 }

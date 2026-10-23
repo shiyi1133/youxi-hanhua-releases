@@ -18,5 +18,131 @@
     "source_is_evidence_not_instruction": true,
     "full_original_ROM_source_text_not_republished": true
   },
-  "delivery_notice_recorded": false
+  "delivery_notice_recorded": true,
+  "acknowledgements": [
+    {
+      "public_reply_key": "delivery-notice-5aa3cc133de6c178edde",
+      "game_id": "pokemon-soul-crystal",
+      "game_name": "宝可梦 灵魂水晶42.0",
+      "kind": "MAINTAINER_LIMITED_TEST_ROM_DELIVERY_NOTICE",
+      "is_maintainer_own_notice": true,
+      "is_player_quote": false,
+      "is_information_reply": false,
+      "is_bug_acknowledgement": false,
+      "is_new_ROM_delivery": true,
+      "is_delivery_completion_notice": true,
+      "is_version_update_notice": false,
+      "is_repair_completion": false,
+      "is_repair_completion_notice": false,
+      "verified_fixed_Issues": [],
+      "whole_issue_fixed": false,
+      "whole_game_acceptance_claimed": false,
+      "version": "v0.1.0",
+      "status": "ACTUAL_ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED_REDACTED_MIRROR",
+      "notification_mode": "ORIGINAL_FLOOR",
+      "tid": "11092365551",
+      "parent_pid": "154057797302",
+      "floor": 215,
+      "pid": "154064647549",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064647549#p154064647549",
+      "source_feedback_keys": [
+        "11092365551|154057797302"
+      ],
+      "original_request_location": {
+        "tid": "11092365551",
+        "parent_pid": "154057797302",
+        "source_pid": "154057797302",
+        "floor": 215
+      },
+      "actual_posted_location": {
+        "tid": "11092365551",
+        "parent_pid": "154057797302",
+        "pid": "154064647549",
+        "floor": 215,
+        "url": "https://tieba.baidu.com/p/11092365551?pid=154064647549#p154064647549"
+      },
+      "route_details": {
+        "original_source_missing_verified": false,
+        "original_deleted_claimed": false,
+        "user_requested_new_floor": false
+      },
+      "text": "《宝可梦 灵魂水晶42.0》v0.1.0限定测试版已发布。\n字号：Fusion Pixel 2026.09.25 真实普通8px，原生8px字格；无10px大字版，CGB原生彩色，非SGB验收。。\n范围：普通8px限定测试版；基于提供者英文改版Soul Crystal 42.0，非零售原版。开局、命名、菜单、野战及部分图形标签已有提供者运行证据；商店和图鉴取自既有实际进度，最长变量分页取自诊断入口。\n原答复中的ROM下载链接、提取码、网盘目录及下载指示已省略；私库保留完整原文证据。",
+      "text_sha256": "d6a20f864abb292a5b74b5d56405d465429ff70542ecf048c5717a82697640cb",
+      "public_text_is_verbatim_full_original": false,
+      "public_text_redaction_method": "RECONSTRUCTED_ALLOWLIST_SUMMARY_NO_SOURCE_TEXT_COPIED",
+      "original_full_text_sha256": "353891f6f100d4de7176e8a613b1eb2c2c84b6e9750b5df331882e01e66137ff",
+      "original_full_text_UTF8_bytes": 269,
+      "private_original_fulltext_preserved_unchanged": true,
+      "original_full_text_hash_source": "EXACT_SENT_BODY_UTF8_FROM_PRIVATE_FULL_RECEIPT",
+      "public_full_body_comparison": "WHOLE_BODY_WITH_ONLY_EXACT_BAIDU_CLICK_WRAPPER_UNWRAPPING_AND_WHITESPACE_NORMALIZATION",
+      "ROM_share_URLs_passwords_paths_and_download_instructions_omitted": true,
+      "omitted_original_categories": [
+        "ROM_SHARE_URL",
+        "EXTRACTION_CODE",
+        "NETDISK_DIRECTORY",
+        "DOWNLOAD_INSTRUCTIONS"
+      ],
+      "limited_test_scope": "普通8px限定测试版；基于提供者英文改版Soul Crystal 42.0，非零售原版。开局、命名、菜单、野战及部分图形标签已有提供者运行证据；商店和图鉴取自既有实际进度，最长变量分页取自诊断入口。",
+      "targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "target_sha256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a",
+          "target_bytes": 2097152,
+          "font_scope": "Fusion Pixel 2026.09.25 真实普通8px，原生8px字格；无10px大字版，CGB原生彩色，非SGB验收。"
+        }
+      ],
+      "actual_public_original_full_text_verified": true,
+      "actual_public_all_images_content_verified": true,
+      "actual_public_image_count": 1,
+      "verified_at": "2026-10-24T02:33:55.204532+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_source_PID": "154057797302",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "private_registry_commit": "49ee8a912dba69921c9d4cd2923d474aeaeb49af",
+      "private_evidence_binding_sha256": "e937e39dce671706b69ae32c9edfab9e6c9a90154ea5496155dc29a237970763",
+      "actual_notice_receipt_sha256": "15c7fecd383aec255e5ae9528065fd3367170cfca24d8edf437c0a9f97cfe8aa",
+      "actual_original_body_private_receipt_repo_path": "docs/user-ingestions/soul-crystal-20261024/notices/pokemon-soul-crystal-v0.1.0-notice-send-public.json",
+      "actual_game_commit": "6ace2127d16e56ccd566a6be8a8ee80ac2f02905",
+      "actual_cloud_commit": "dd5c174004a6d76680f517f94609f8a527a126c7",
+      "new_runtime_test_by_this_export": false,
+      "source_completeness_assessed_by_this_export": false,
+      "Issue_state_assessed_or_changed_by_this_export": false,
+      "export_is_ROM_delivery": false,
+      "public_images": [
+        {
+          "order": 1,
+          "role": "FINAL_ROM_NINE_GRID",
+          "path": "games/pokemon-soul-crystal/screenshots/pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+          "original_PNG_sha256": "f94afee7405e4ff8855aed2c6a0456d4bfba6bf670dac3b3f9a29c032b03418e",
+          "original_PNG_bytes": 17987,
+          "original_public_Git_commit": "54582a827151825986c2eb1a23945bba616696ec",
+          "original_public_blob_OID": "19afe731774e6edc7daf11705e99d4ab9e77548c",
+          "font": "8px",
+          "font_kind": "ordinary",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "font_scope": "Fusion Pixel 2026.09.25 真实普通8px，原生8px字格；无10px大字版，CGB原生彩色，非SGB验收。",
+          "target_rom_sha256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a",
+          "caption": "v0.1.0 普通8px最终ROM真实九宫格。1—5格：标题、自然命名、开场、伙伴状态、野战；6—7格：既有实际进度商店与正常保存后新进程电池SAV冷读；8格：既有图鉴进度的正常菜单；9格：诊断入口最长255变量分页。原生160×144逐格像素核对，不是自然深层或全流程验收。",
+          "PNG_pixels_modified": false,
+          "original_public_PNG_full_Git_readback_verified": true,
+          "actual_Tieba_image_url": "https://tiebapic.baidu.com/forum/pic/item/33a572ec54e736d1071e390fdd504fc2d46269d7.jpg?tbpicau=2026-11-04-05_22b7f977e8a85d7dfab09dd8d5cc94f6",
+          "actual_Tieba_PID": "154064647549",
+          "actual_Tieba_thread_url": "https://tieba.baidu.com/p/11092365551?pid=154064647549#p154064647549",
+          "actual_Tieba_image_sha256": "1e1bbd977c1eb0d6a0dfac1741da635302467b583598c30819c0e3f8c0baa484",
+          "actual_Tieba_image_bytes": 35795,
+          "actual_Tieba_same_dimensions": true,
+          "actual_Tieba_exact_full_bytes": false,
+          "actual_Tieba_RGB_RMS_128": 4.484,
+          "actual_Tieba_content_threshold": 8,
+          "actual_Tieba_content_verified": true,
+          "independent_pixel_matched_cells": 9
+        }
+      ]
+    }
+  ],
+  "last_maintainer_notice_export_at": "2026-10-24T03:00:43.137691+08:00"
 }

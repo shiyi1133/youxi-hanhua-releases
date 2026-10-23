@@ -1,0 +1,53 @@
+{
+  "schema": "soul_actual_delivery_notice_redacted_public_feedback_export_v1",
+  "public_parent": "f4dfab00297df55599f031f13ae7e1faaf2d3b7b",
+  "recorded_at": "2026-10-24T03:00:43.137691+08:00",
+  "bindings": {
+    "private_registry_Git_proof_sha256": "e937e39dce671706b69ae32c9edfab9e6c9a90154ea5496155dc29a237970763",
+    "original_public_PNG_Git_proof_sha256": "1e04a66c0ada87e4bb3c416f7e87e36e3d4a47f6ab2a0d151a3f5a1d9e6ce207",
+    "actual_private_publication_receipt_sha256": "fe056fa9201479432f7144fa1df179651db854df4319ea639e33924b7ed3aa3a",
+    "actual_notice_receipts": {
+      "pokemon-soul-crystal": {
+        "private_receipt_repo_path": "docs/user-ingestions/soul-crystal-20261024/notices/pokemon-soul-crystal-v0.1.0-notice-send-public.json",
+        "actual_receipt_sha256": "15c7fecd383aec255e5ae9528065fd3367170cfca24d8edf437c0a9f97cfe8aa",
+        "PID": "154064647549",
+        "original_full_text_sha256": "353891f6f100d4de7176e8a613b1eb2c2c84b6e9750b5df331882e01e66137ff",
+        "public_summary_sha256": "d6a20f864abb292a5b74b5d56405d465429ff70542ecf048c5717a82697640cb",
+        "notification_mode": "ORIGINAL_FLOOR"
+      }
+    }
+  },
+  "game_ids": [
+    "pokemon-soul-crystal"
+  ],
+  "own_notice_PIDs": [
+    "154064647549"
+  ],
+  "public_row_SHA256s": {
+    "delivery-notice-5aa3cc133de6c178edde": "7b835f7fa6b540a7de733021acb62150fe59fdcf9573ad4065c81334ed80e35e"
+  },
+  "actual_maintainer_delivery_notices": 1,
+  "actual_original_PNG_references": 1,
+  "route_counts": {
+    "ORIGINAL_FLOOR": 1
+  },
+  "own_notices_are_not_player_quotes": true,
+  "all_original_download_information_omitted": true,
+  "public_text_is_full_original": false,
+  "original_full_text_SHA256s_preserved": true,
+  "private_original_receipts_unchanged": true,
+  "old_feedback_raw_rows_and_other_history_fields_preserved": true,
+  "single_current_Soul_delivery_notice_flag_updated_after_actual_evidence": true,
+  "old_markdown_bytes_exact_prefix": true,
+  "Source_completeness_assessed": false,
+  "new_Source_builds": 0,
+  "new_runtime_tests": 0,
+  "Issue_closures": 0,
+  "PNG_files_uploaded_by_this_export": 0,
+  "ROM_files": 0,
+  "ROM_share_links_or_passwords": 0,
+  "private_repository_links": 0,
+  "public_issue_writes": 0,
+  "private_Git_writes": 0,
+  "monitor_counter_increment": 0
+}

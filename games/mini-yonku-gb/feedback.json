@@ -276,6 +276,29 @@
       "public_nicknames_recorded": [
         "球总好学"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154061474399",
+      "parent_pid": "0",
+      "floor": 230,
+      "public_nickname": "dick20090101",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154061474399#154061474399",
+      "created_at": "2026-10-23T08:40:44+08:00",
+      "quote": "早上好，四驱兄弟GB初代，您的汉化版本玩过了，换零件的时候会黑屏导致游戏没法游玩，影响游戏体验，可以优化一下吗",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d6b8cb72a3fb95033ff4fbd08885db4117e2dbd0368df7215851ba737c310ace",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4df719385343fbf2a54ce024f67eca8064388f84.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/afc21c25738776cf182d.jpg",
+          "SHA256_of_archived_preview": "afc21c25738776cf182df7a9ae1673e9f2f139c1e3288d94589dcc385532070d",
+          "archived_bytes": 142324
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -359,6 +382,68 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-d89d628b639f1435",
+      "public_problem_key": "problem-ef215518e85b0e53",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",
+          "game_ids": [
+            "mini-yonku-gb"
+          ],
+          "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+          "feedback_summary": "玩家称更换零件时黑屏、无法继续；原图显示车辆展示框大片黑色及零件列表异常字形。静图不能证明卡死持续时间或根因。",
+          "source_feedback_keys": [
+            "11092365551|154061474399"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": null,
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "mini-yonku-gb",
+              "original_input_SHA256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "targets": [
+                {
+                  "font": "8px",
+                  "version": "v0.1.1限定测试版",
+                  "output_SHA256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
     }
   ],
   "problems": [
@@ -430,9 +515,83 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-ef215518e85b0e53",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-d89d628b639f1435"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-1c4091a294384682",
+      "game_id": "mini-yonku-gb",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154061474399",
+      "floor": 230,
+      "pid": "154062972399",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062972399#154062972399",
+      "text": "@dick20090101 换零件黑屏已记录，请补ROM完整文件名或版本。",
+      "text_sha256": "f95b44ef2170efa61e7dbd2389eef3d6ffef14180add330b19aa327e8967e623",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:00:57.495463+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",
+      "public_case_key": "case-d89d628b639f1435",
+      "public_problem_key": "problem-ef215518e85b0e53",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "player_GBA_archive_image_indices": [],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

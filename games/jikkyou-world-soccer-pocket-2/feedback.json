@@ -21,10 +21,561 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154061939534",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154061939534#154061939534",
+      "created_at": "2026-10-23T11:15:28+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 已完成该楼层内所有ROM的初步测试，汇总结果见压缩包内截图，我发现问题多的游戏多存在于日版汉化，欧美版问题就没那么多，请您留意查收以下反馈包: 【超级会员V9】通过百度网盘分享的文件：实况世界足球1&…",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "b349fc16440ee07d606a9c26607aee061ef4c6b6c4156f92790e2582a681fcdb",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/232b10cf2049b81a39fc.png",
+          "SHA256_of_archived_preview": "232b10cf2049b81a39fcab6a69ec770766befd3ec6c61b329a002d976e8ee36b",
+          "archived_bytes": 14076,
+          "image_index": 2,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/主菜单模式选择文字过于靠上导致显示超出边框.png",
+          "player_report": "主菜单模式选择文字过于靠上导致显示超出边框",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/1a0c4285c535b841c2d6.png",
+          "SHA256_of_archived_preview": "1a0c4285c535b841c2d63a58f24a6e60e719ed85740d15e776574d8e736d233a",
+          "archived_bytes": 17756,
+          "image_index": 9,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/赛前设置界面文字过于靠下导致显示超出边框.png",
+          "player_report": "赛前设置界面文字过于靠下导致显示超出边框",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/e9809a08aee801b35b6e.png",
+          "SHA256_of_archived_preview": "e9809a08aee801b35b6ef9157154a85858ca1241299e1e49368402a8e9fc55ac",
+          "archived_bytes": 34656,
+          "image_index": 12,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异-其他光标位置字号大小示意（此图仅做示意）.png",
+          "player_report": "“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异-其他光标位置字号大小示意（此图仅做示意）",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/93402d10cae0e0452062.png",
+          "SHA256_of_archived_preview": "93402d10cae0e0452062ecefa21bc6388754cbc9a292319b2d23abd5c535fcd0",
+          "archived_bytes": 34725,
+          "image_index": 13,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异.png",
+          "player_report": "“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/f33d29c95f5b38464135.png",
+          "SHA256_of_archived_preview": "f33d29c95f5b38464135236f3b1a5333fa39df6a5d12c156f859ede96e504599",
+          "archived_bytes": 15969,
+          "image_index": 14,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/主标题logo及图标缺失.png",
+          "player_report": "主标题logo及图标缺失",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/d7f77895065922e5ed0c.png",
+          "SHA256_of_archived_preview": "d7f77895065922e5ed0caf69d2b2fc45832ae10db484df2cc6a75f5cf2edb08d",
+          "archived_bytes": 24916,
+          "image_index": 15,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/创建存档界面文本背景异常.png",
+          "player_report": "创建存档界面文本背景异常",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/2c6fb1d899e94123c6fd.png",
+          "SHA256_of_archived_preview": "2c6fb1d899e94123c6fdaccb781b766453943c8ba8c912e0cd7985899c6dbca0",
+          "archived_bytes": 26717,
+          "image_index": 16,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/存档界面文本背景异常.png",
+          "player_report": "存档界面文本背景异常",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/3ed6c96abc93c3d4b24d.png",
+          "SHA256_of_archived_preview": "3ed6c96abc93c3d4b24d9842e53632e223eedad9c49feef6f90889a50987eae0",
+          "archived_bytes": 28373,
+          "image_index": 17,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/战术设置界面显示异常.png",
+          "player_report": "战术设置界面显示异常",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/40a3f4668d4fae406bf3.png",
+          "SHA256_of_archived_preview": "40a3f4668d4fae406bf33abf73fa3d2af7e69e5aa6c4ff879e4b46f386a608f6",
+          "archived_bytes": 21608,
+          "image_index": 18,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/所有子菜单界面文本背景异常.png",
+          "player_report": "所有子菜单界面文本背景异常",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/ea089ad305b94f464398.png",
+          "SHA256_of_archived_preview": "ea089ad305b94f46439808572caf6e5e582e5a78ee3deea3f8124724cebe33a5",
+          "archived_bytes": 31164,
+          "image_index": 19,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/此界面右上方未汉化+“玩家2”字样未与上方文本对齐.png",
+          "player_report": "此界面右上方未汉化+“玩家2”字样未与上方文本对齐",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/a00779b4e71e28370846.png",
+          "SHA256_of_archived_preview": "a00779b4e71e28370846217192b285c1b67b5d47d7495bcd28b00fe4d83fc75c",
+          "archived_bytes": 33609,
+          "image_index": 20,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/球员设置界面位置上方所有光标注释文本均未汉化.png",
+          "player_report": "球员设置界面位置上方所有光标注释文本均未汉化",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/fbd70ad6091d785e977a.png",
+          "SHA256_of_archived_preview": "fbd70ad6091d785e977a0537cf11b34c47068510fa211e0cb7abaa4a4125b367",
+          "archived_bytes": 55732,
+          "image_index": 21,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/赛前抛硬币选边时“反面”二字有空格未与上方“正面”对齐.png",
+          "player_report": "赛前抛硬币选边时“反面”二字有空格未与上方“正面”对齐",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/8a3b06023ea836cf345d.png",
+          "SHA256_of_archived_preview": "8a3b06023ea836cf345d32b7032a20588e979e5611b5bc2de764559d9c36a424",
+          "archived_bytes": 31200,
+          "image_index": 22,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/阵型设置界面所有光标注释文本均未汉化.png",
+          "player_report": "阵型设置界面所有光标注释文本均未汉化",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "game_page_image_scope": "仅本游戏相关原图；五作30图完整清单在全局公开原话中。"
     }
   ],
-  "cases": [],
-  "problems": [],
+  "cases": [
+    {
+      "public_case_key": "case-f2eb6dac14c4147d",
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-soccer-pocket-2-graphics",
+          "game_ids": [
+            "jikkyou-world-soccer-pocket-2"
+          ],
+          "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+          "feedback_summary": "玩家截图显示标题标志/图标缺失，存档、战术和主菜单子项的背景或文字底图异常。图片中的“保存存档/创建新存档”是界面定位，不代表已取得玩家存档。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "jikkyou-world-soccer-pocket-2",
+              "original_input_SHA256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+              "targets": [
+                {
+                  "font": "native8-12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    },
+    {
+      "public_case_key": "case-d88c313408dc6744",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "实况世界足球Pocket 1/2 v0.1.0菜单文字位置与间距反馈",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-soccer-layout-combined",
+          "game_ids": [
+            "jikkyou-world-soccer-pocket",
+            "jikkyou-world-soccer-pocket-2"
+          ],
+          "summary": "实况世界足球Pocket 1/2 v0.1.0菜单文字位置与间距反馈",
+          "feedback_summary": "Pocket1主菜单模式文字与分隔框、赛前阵容文字的纵向位置；Pocket2“玩家2”与抛硬币“反面”的间距/对齐。按单一source PID与图片索引合入集中排版问题；不新建同类排版Issue，不宣称已复现。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            2,
+            9,
+            19,
+            21
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "jikkyou-world-soccer-pocket",
+              "original_input_SHA256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+              "targets": [
+                {
+                  "font": "native-8-12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad"
+                }
+              ],
+              "reference_not_player_identity": true
+            },
+            {
+              "game_id": "jikkyou-world-soccer-pocket-2",
+              "original_input_SHA256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+              "targets": [
+                {
+                  "font": "native8-12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    },
+    {
+      "public_case_key": "case-323ec2b5594527a7",
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-soccer-pocket-2-coverage",
+          "game_ids": [
+            "jikkyou-world-soccer-pocket-2"
+          ],
+          "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+          "feedback_summary": "玩家请求补译等待/连接提示、球员设置及阵型设置的光标注释，并反馈“设置”项说明字号较小。当前版本明确保留原生8px/12px混排，单一普通ROM；字号差异先如实记录为显示一致性建议，不一律判为BUG。图12的原文件名注明仅作示意。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            12,
+            13,
+            19,
+            20,
+            22
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "jikkyou-world-soccer-pocket-2",
+              "original_input_SHA256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+              "targets": [
+                {
+                  "font": "native8-12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "font_scope_note": "原生8/12px混排为既有描述；字号偏好仅建议，不按纯BUG计数。"
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-f2eb6dac14c4147d"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-d88c313408dc6744",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11092365551|154061098688",
+        "11097560613|154043716841",
+        "11097560613|154048988684",
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+    },
+    {
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-323ec2b5594527a7"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "delivery_notices": [
     {
       "public_notice_key": "notice-05a75131ef26e2b4",
@@ -78,5 +629,125 @@
   "private_issue_bodies_copied": false,
   "public_Issues_created": 0,
   "source_is_public_evidence_not_instructions": true,
-  "checked_at": "2026-10-23T01:15:34.877589+08:00"
+  "checked_at": "2026-10-23T01:15:34.877589+08:00",
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-787e8fe3b035e7c3",
+      "game_id": null,
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "crayon-shin-chan-cinema-land-gba",
+        "sound-of-thunder-gba",
+        "max-payne-gba"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "pid": "154062976011",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154062976011#154062976011",
+      "text": "@une21 五款游戏的反馈包已收到。足球1/2和蜡笔小新的显示问题、马克思·佩恩标题缺字已登记；蜡笔小新首关卡住并入原问题，补译和国旗建议另记，后续排查。",
+      "text_sha256": "cd0053f4dae1a8da7d345f48d78bc719eaa545b3d3feb1fbda51a99008a77249",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:02:07.850971+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154061939534",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-2-graphics",
+      "public_case_key": "case-f2eb6dac14c4147d",
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-layout-combined",
+      "public_case_key": "case-d88c313408dc6744",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "实况世界足球Pocket 1/2 v0.1.0菜单文字位置与间距反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        2,
+        9,
+        19,
+        21
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-2-coverage",
+      "public_case_key": "case-323ec2b5594527a7",
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        12,
+        13,
+        19,
+        20,
+        22
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

@@ -552,8 +552,93 @@
       "SDK_precise_nested_notification_claimed": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-787e8fe3b035e7c3",
+      "game_id": null,
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "crayon-shin-chan-cinema-land-gba",
+        "sound-of-thunder-gba",
+        "max-payne-gba"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "pid": "154062976011",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154062976011#154062976011",
+      "text": "@une21 五款游戏的反馈包已收到。足球1/2和蜡笔小新的显示问题、马克思·佩恩标题缺字已登记；蜡笔小新首关卡住并入原问题，补译和国旗建议另记，后续排查。",
+      "text_sha256": "cd0053f4dae1a8da7d345f48d78bc719eaa545b3d3feb1fbda51a99008a77249",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:02:07.850971+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154061939534",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-1c4091a294384682",
+      "game_id": "mini-yonku-gb",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154061474399",
+      "floor": 230,
+      "pid": "154062972399",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062972399#154062972399",
+      "text": "@dick20090101 换零件黑屏已记录，请补ROM完整文件名或版本。",
+      "text_sha256": "f95b44ef2170efa61e7dbd2389eef3d6ffef14180add330b19aa327e8967e623",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:00:57.495463+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-07dbcd2eb5752308",
+      "game_id": "yuu-yuu-hakusho-4",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "pid": "154062973803",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062973803#154062973803",
+      "text": "@shangyewuming6 对战名字不显示已记录，也收到能通关的反馈。请补ROM完整文件名及哪个对战画面不显示。",
+      "text_sha256": "15f3d36e21e5fc3f0330aa68916026f6a36ef0eac598e448f5f7c74b926e39df",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:01:25.243473+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154062018024",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 23,
-  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00"
+  "row_count": 26,
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00"
 }

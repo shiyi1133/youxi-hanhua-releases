@@ -1,0 +1,708 @@
+{
+  "schema": "public4sources31images13registrations3ACK_feedback_increment_v1",
+  "bindings": {
+    "immutable_evidence_object_manifest_sha256": "94e9ba706480f907a6875d52dcf13a577942275fe4830b8bd3dcb5dfc33077f0",
+    "actual_13_registration_receipt_sha256": "accd9433f0a4db97c3972412dbe95237e937d9558c10af9da74c34026ab1fc2e",
+    "actual_3_ACK_receipt_sha256": "d854ffcc1b43c0e4928ec5d6960f02e676ba9a8878b8721b12075ee2bed94511",
+    "selected_public_source_rows_sha256": "4779146462941f0a5ec9bfc089768fb62d2091b56ed8e6f070cccca8ed35e400",
+    "actual31_player_image_manifest_sha256": "05a681a64710a079070c4ba7e2514c2fee3c52659e49662ef02ce294e43fdb52",
+    "actual_source_problem_states_sha256": "4764a28f1f28784a67bd8b52eb7e6a6d9e490f75c39b289337dd8bd6085bdf1e",
+    "immutable_evidence_binding_file_sha256": "232c04c10791f1532544ac15f3738fb907d35d157c47000ff9122bb1a2db456d"
+  },
+  "generated_at": "2026-10-23T17:12:10.147024+08:00",
+  "source_PIDs": [
+    "154061474399",
+    "154061939534",
+    "154062018024",
+    "154062313505"
+  ],
+  "public_source_quotes": 4,
+  "original_JPEGs": 1,
+  "original_PNGs": 30,
+  "actual_API_registration_events": 13,
+  "existing_case_updates": 2,
+  "new_cases_linked_existing_problem": 1,
+  "new_source_problem_cases": 10,
+  "new_pure_bug_problems": 6,
+  "new_coverage_problems": 3,
+  "new_suggestion_problems": 1,
+  "actual_public_ACKs": 3,
+  "affected_game_pages": 8,
+  "public_events": [
+    {
+      "public_event_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",
+      "public_case_key": "case-d89d628b639f1435",
+      "public_problem_key": "problem-ef215518e85b0e53",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "player_GBA_archive_image_indices": [],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|yuu4-battle-name-missing",
+      "public_case_key": "case-5d7d85365a90bf2f",
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "player_GBA_archive_image_indices": [],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|cross-hunter-x-pet-menu-version-followup",
+      "public_case_key": "case-624c5ff8cc263f25",
+      "public_problem_key": "problem-f1c0ac7794f6ddee",
+      "game_ids": [
+        "cross-hunter-x"
+      ],
+      "summary": "X猎人篇宠物加入后菜单文字消失：玩家补充v1.0.2大字版",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062313505"
+      ],
+      "player_GBA_archive_image_indices": [],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-graphics",
+      "public_case_key": "case-6cc7be3acd07f544",
+      "public_problem_key": "problem-d8e95b2aaf369c30",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket v0.1.0：标题标志与比赛画面图形异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        1,
+        5
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-2-graphics",
+      "public_case_key": "case-f2eb6dac14c4147d",
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-cinema-graphics",
+      "public_case_key": "case-a35dacebaf91c496",
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        26,
+        28
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-max-payne-title-clipping",
+      "public_case_key": "case-fdfe6d3f841786d4",
+      "public_problem_key": "problem-63d42da2f12cad86",
+      "game_ids": [
+        "max-payne-gba"
+      ],
+      "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        30
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-first-stage-freeze-supplement",
+      "public_case_key": "case-6f84aea9a1bcbc64",
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "新玩家补充v0.1.0首关变身后卡住，合入既有骑象场景问题",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        27
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-layout-combined",
+      "public_case_key": "case-d88c313408dc6744",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "实况世界足球Pocket 1/2 v0.1.0菜单文字位置与间距反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        2,
+        9,
+        19,
+        21
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-coverage",
+      "public_case_key": "case-4eb6a4433af5e84e",
+      "public_problem_key": "problem-565c62336579e0bc",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket"
+      ],
+      "summary": "[补译需求] 实况世界足球Pocket v0.1.0：杯赛、设置及通信界面残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-soccer-pocket-2-coverage",
+      "public_case_key": "case-323ec2b5594527a7",
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        12,
+        13,
+        19,
+        20,
+        22
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-cinema-coverage",
+      "public_case_key": "case-d16aebf74d23e81b",
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        23,
+        24,
+        25
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-thunder-language-flag-suggestion",
+      "public_case_key": "case-3158f504568463df",
+      "public_problem_key": "problem-bc9a00441ec4b07c",
+      "game_ids": [
+        "sound-of-thunder-gba"
+      ],
+      "summary": "[界面建议] 雷霆之音 v0.1.0：“简体中文”旁旗帜图标",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        29
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ],
+  "player_image_bindings": [
+    {
+      "source_pid": "154061474399",
+      "image_index": 1,
+      "path": "feedback/images/afc21c25738776cf182d.jpg",
+      "sha256": "afc21c25738776cf182df7a9ae1673e9f2f139c1e3288d94589dcc385532070d",
+      "bytes": 142324,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 1,
+      "path": "feedback/images/fccf470bb73afabe98cc.png",
+      "sha256": "fccf470bb73afabe98cc57fed9c9c76913f95a384d59de1953172ce1a928eaf1",
+      "bytes": 10541,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/主菜单logo被切割且显示异常.png",
+      "player_report": "主菜单logo被切割且显示异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 2,
+      "path": "feedback/images/232b10cf2049b81a39fc.png",
+      "sha256": "232b10cf2049b81a39fcab6a69ec770766befd3ec6c61b329a002d976e8ee36b",
+      "bytes": 14076,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/主菜单模式选择文字过于靠上导致显示超出边框.png",
+      "player_report": "主菜单模式选择文字过于靠上导致显示超出边框",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 3,
+      "path": "feedback/images/6a1de7f017d5efe9340c.png",
+      "sha256": "6a1de7f017d5efe9340c480b472b2c6964e0b6c4dd27487f5618aa65c491e197",
+      "bytes": 27197,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/国际杯赛开幕图片下方日文未汉化.png",
+      "player_report": "国际杯赛开幕图片下方日文未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 4,
+      "path": "feedback/images/78c2a55a8aa8fe1a3e76.png",
+      "sha256": "78c2a55a8aa8fe1a3e7646e1f206b3016193f13e555c6a139a2d5491aec2acf1",
+      "bytes": 12935,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/战绩表界面存在未汉化日文.png",
+      "player_report": "战绩表界面存在未汉化日文",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 5,
+      "path": "feedback/images/342b42e42a941d65fe96.png",
+      "sha256": "342b42e42a941d65fe96c53347ce7c0bb059d8a32308f34b6e092abe923f0cac",
+      "bytes": 64430,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/比赛中双方球门均显示异常.png",
+      "player_report": "比赛中双方球门均显示异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 6,
+      "path": "feedback/images/f2f1655d9bda4a6257f3.png",
+      "sha256": "f2f1655d9bda4a6257f3338da87f303e08bb18db510ca01b726a25df61ac2da3",
+      "bytes": 46949,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/比赛中暂停退出界面提示未汉化.png",
+      "player_report": "比赛中暂停退出界面提示未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 7,
+      "path": "feedback/images/d03dc9920102dd4ff4bf.png",
+      "sha256": "d03dc9920102dd4ff4bf46b3da08d822776c606bf4f100e8d43b1d27f0d40c37",
+      "bytes": 48300,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/比赛设置-规则位置的注释未汉化.png",
+      "player_report": "比赛设置-规则位置的注释未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 8,
+      "path": "feedback/images/6580e959e1ee6b2361a4.png",
+      "sha256": "6580e959e1ee6b2361a4e6f8e25b0b0c7883dd6f3d019117d2cee792285949d1",
+      "bytes": 24361,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/球员设置界面存在未汉化日文.png",
+      "player_report": "球员设置界面存在未汉化日文",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 9,
+      "path": "feedback/images/1a0c4285c535b841c2d6.png",
+      "sha256": "1a0c4285c535b841c2d63a58f24a6e60e719ed85740d15e776574d8e736d233a",
+      "bytes": 17756,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/赛前设置界面文字过于靠下导致显示超出边框.png",
+      "player_report": "赛前设置界面文字过于靠下导致显示超出边框",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 10,
+      "path": "feedback/images/944531e0cf86029ce14a.png",
+      "sha256": "944531e0cf86029ce14a863632a5dc3f3d3a1213889d1067568eaa121106c964",
+      "bytes": 23824,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/赛前预备界面存在未汉化日文.png",
+      "player_report": "赛前预备界面存在未汉化日文",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 11,
+      "path": "feedback/images/15f0efb4817c51294327.png",
+      "sha256": "15f0efb4817c51294327aac1c7d5e78cebd1827293cfd1e9cab7a75a96be6a3d",
+      "bytes": 4853,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket v0.1.0/通信界面未汉化.png",
+      "player_report": "通信界面未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 12,
+      "path": "feedback/images/e9809a08aee801b35b6e.png",
+      "sha256": "e9809a08aee801b35b6ef9157154a85858ca1241299e1e49368402a8e9fc55ac",
+      "bytes": 34656,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异-其他光标位置字号大小示意（此图仅做示意）.png",
+      "player_report": "“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异-其他光标位置字号大小示意（此图仅做示意）",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 13,
+      "path": "feedback/images/93402d10cae0e0452062.png",
+      "sha256": "93402d10cae0e0452062ecefa21bc6388754cbc9a292319b2d23abd5c535fcd0",
+      "bytes": 34725,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异.png",
+      "player_report": "“赛前设置-设置”光标位置的注释文本字号偏小与其他设置项的注释文本字号存在差异",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 14,
+      "path": "feedback/images/f33d29c95f5b38464135.png",
+      "sha256": "f33d29c95f5b38464135236f3b1a5333fa39df6a5d12c156f859ede96e504599",
+      "bytes": 15969,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/主标题logo及图标缺失.png",
+      "player_report": "主标题logo及图标缺失",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 15,
+      "path": "feedback/images/d7f77895065922e5ed0c.png",
+      "sha256": "d7f77895065922e5ed0caf69d2b2fc45832ae10db484df2cc6a75f5cf2edb08d",
+      "bytes": 24916,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/创建存档界面文本背景异常.png",
+      "player_report": "创建存档界面文本背景异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 16,
+      "path": "feedback/images/2c6fb1d899e94123c6fd.png",
+      "sha256": "2c6fb1d899e94123c6fdaccb781b766453943c8ba8c912e0cd7985899c6dbca0",
+      "bytes": 26717,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/存档界面文本背景异常.png",
+      "player_report": "存档界面文本背景异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 17,
+      "path": "feedback/images/3ed6c96abc93c3d4b24d.png",
+      "sha256": "3ed6c96abc93c3d4b24d9842e53632e223eedad9c49feef6f90889a50987eae0",
+      "bytes": 28373,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/战术设置界面显示异常.png",
+      "player_report": "战术设置界面显示异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 18,
+      "path": "feedback/images/40a3f4668d4fae406bf3.png",
+      "sha256": "40a3f4668d4fae406bf33abf73fa3d2af7e69e5aa6c4ff879e4b46f386a608f6",
+      "bytes": 21608,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/所有子菜单界面文本背景异常.png",
+      "player_report": "所有子菜单界面文本背景异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 19,
+      "path": "feedback/images/ea089ad305b94f464398.png",
+      "sha256": "ea089ad305b94f46439808572caf6e5e582e5a78ee3deea3f8124724cebe33a5",
+      "bytes": 31164,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/此界面右上方未汉化+“玩家2”字样未与上方文本对齐.png",
+      "player_report": "此界面右上方未汉化+“玩家2”字样未与上方文本对齐",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 20,
+      "path": "feedback/images/a00779b4e71e28370846.png",
+      "sha256": "a00779b4e71e28370846217192b285c1b67b5d47d7495bcd28b00fe4d83fc75c",
+      "bytes": 33609,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/球员设置界面位置上方所有光标注释文本均未汉化.png",
+      "player_report": "球员设置界面位置上方所有光标注释文本均未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 21,
+      "path": "feedback/images/fbd70ad6091d785e977a.png",
+      "sha256": "fbd70ad6091d785e977a0537cf11b34c47068510fa211e0cb7abaa4a4125b367",
+      "bytes": 55732,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/赛前抛硬币选边时“反面”二字有空格未与上方“正面”对齐.png",
+      "player_report": "赛前抛硬币选边时“反面”二字有空格未与上方“正面”对齐",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 22,
+      "path": "feedback/images/8a3b06023ea836cf345d.png",
+      "sha256": "8a3b06023ea836cf345d32b7032a20588e979e5611b5bc2de764559d9c36a424",
+      "bytes": 31200,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/实况世界足球pocket2 v0.1.0/阵型设置界面所有光标注释文本均未汉化.png",
+      "player_report": "阵型设置界面所有光标注释文本均未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 23,
+      "path": "feedback/images/f9afd08aa2ca12251e9f.png",
+      "sha256": "f9afd08aa2ca12251e9ff1bf7d04d89ff48062b52a336142df7c53e128e0b5da",
+      "bytes": 12586,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/R键召唤队友界面头像上方文字未汉化.png",
+      "player_report": "R键召唤队友界面头像上方文字未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 24,
+      "path": "feedback/images/5c33fa79d9f0ef7df7ef.png",
+      "sha256": "5c33fa79d9f0ef7df7ef0d19fa5bc2c7a21c3a95a377b4e7eaaedb108152182e",
+      "bytes": 17806,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/头像上方文字未汉化.png",
+      "player_report": "头像上方文字未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 25,
+      "path": "feedback/images/7e2f3974210d41aaf405.png",
+      "sha256": "7e2f3974210d41aaf40529537f3797492e934b44740205567b206709f4617398",
+      "bytes": 19679,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/左下方及右下方提示文字未汉化.png",
+      "player_report": "左下方及右下方提示文字未汉化",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 26,
+      "path": "feedback/images/1fdce9d9e548734dc6b2.png",
+      "sha256": "1fdce9d9e548734dc6b210edf6e4674485a77aeac454f469d97e17afaef5d315",
+      "bytes": 25459,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/收藏室图片显示异常.png",
+      "player_report": "收藏室图片显示异常",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 27,
+      "path": "feedback/images/8f211345ad54cfcb6184.png",
+      "sha256": "8f211345ad54cfcb6184d5e6792e61cad50e3647c02a47038844f00f350fcacd",
+      "bytes": 5715,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/第一关机车变身后死机无法继续游戏（未开任何金手指）.png",
+      "player_report": "第一关机车变身后死机无法继续游戏（未开任何金手指）",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 28,
+      "path": "feedback/images/a7705cc9b04452742c4a.png",
+      "sha256": "a7705cc9b04452742c4a8eb5d5afe1a23b1c8e00920d2d1d6f87671091409874",
+      "bytes": 49898,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/过场剧情背景图花屏.png",
+      "player_report": "过场剧情背景图花屏",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 29,
+      "path": "feedback/images/e2d5ba085adef0c7ddf5.png",
+      "sha256": "e2d5ba085adef0c7ddf52bf1beb5fbf42f8b33fdbea25b1d79bcbdf8da2d07b3",
+      "bytes": 41342,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/雷霆之音 v0.1.0/简体中文右侧是英国国旗建议更换为中国国旗.png",
+      "player_report": "简体中文右侧是英国国旗建议更换为中国国旗",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154061939534",
+      "image_index": 30,
+      "path": "feedback/images/bbd209df770ba5b08c1a.png",
+      "sha256": "bbd209df770ba5b08c1a757d5593f2dc93baaeccf98439016cf47dfedf7f1721",
+      "bytes": 28184,
+      "original_bytes_unmodified": true,
+      "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/马克思佩恩 v0.1.0/最上方的“克”字显示不完全.png",
+      "player_report": "最上方的“克”字显示不完全",
+      "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+    }
+  ],
+  "public_Issues_created": 0,
+  "private_API_bodies_copied": false,
+  "ROM_Source_patch_Release_version_or_counter_changes": 0,
+  "images_are_player_evidence_not_ROM_runtime_proof": true,
+  "maintainer_runtime_tests": 0,
+  "Source_executions": 0
+}

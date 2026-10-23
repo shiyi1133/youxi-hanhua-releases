@@ -17,6 +17,95 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154061939534",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154061939534#154061939534",
+      "created_at": "2026-10-23T11:15:28+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 已完成该楼层内所有ROM的初步测试，汇总结果见压缩包内截图，我发现问题多的游戏多存在于日版汉化，欧美版问题就没那么多，请您留意查收以下反馈包: 【超级会员V9】通过百度网盘分享的文件：实况世界足球1&…",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "b349fc16440ee07d606a9c26607aee061ef4c6b6c4156f92790e2582a681fcdb",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/f9afd08aa2ca12251e9f.png",
+          "SHA256_of_archived_preview": "f9afd08aa2ca12251e9ff1bf7d04d89ff48062b52a336142df7c53e128e0b5da",
+          "archived_bytes": 12586,
+          "image_index": 23,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/R键召唤队友界面头像上方文字未汉化.png",
+          "player_report": "R键召唤队友界面头像上方文字未汉化",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/5c33fa79d9f0ef7df7ef.png",
+          "SHA256_of_archived_preview": "5c33fa79d9f0ef7df7ef0d19fa5bc2c7a21c3a95a377b4e7eaaedb108152182e",
+          "archived_bytes": 17806,
+          "image_index": 24,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/头像上方文字未汉化.png",
+          "player_report": "头像上方文字未汉化",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/7e2f3974210d41aaf405.png",
+          "SHA256_of_archived_preview": "7e2f3974210d41aaf40529537f3797492e934b44740205567b206709f4617398",
+          "archived_bytes": 19679,
+          "image_index": 25,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/左下方及右下方提示文字未汉化.png",
+          "player_report": "左下方及右下方提示文字未汉化",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/1fdce9d9e548734dc6b2.png",
+          "SHA256_of_archived_preview": "1fdce9d9e548734dc6b210edf6e4674485a77aeac454f469d97e17afaef5d315",
+          "archived_bytes": 25459,
+          "image_index": 26,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/收藏室图片显示异常.png",
+          "player_report": "收藏室图片显示异常",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/8f211345ad54cfcb6184.png",
+          "SHA256_of_archived_preview": "8f211345ad54cfcb6184d5e6792e61cad50e3647c02a47038844f00f350fcacd",
+          "archived_bytes": 5715,
+          "image_index": 27,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/第一关机车变身后死机无法继续游戏（未开任何金手指）.png",
+          "player_report": "第一关机车变身后死机无法继续游戏（未开任何金手指）",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        },
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/a7705cc9b04452742c4a.png",
+          "SHA256_of_archived_preview": "a7705cc9b04452742c4a8eb5d5afe1a23b1c8e00920d2d1d6f87671091409874",
+          "archived_bytes": 49898,
+          "image_index": 28,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/蜡笔小新 v0.1.0/过场剧情背景图花屏.png",
+          "player_report": "过场剧情背景图花屏",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "game_page_image_scope": "仅本游戏相关原图；五作30图完整清单在全局公开原话中。"
     }
   ],
   "cases": [
@@ -28,7 +117,7 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "玩家未另报；当前原生12px仅作参考",
@@ -36,7 +125,8 @@
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154057783445"
+        "11092365551|154057783445",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -44,7 +134,179 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-crayon-first-stage-freeze-supplement",
+          "game_ids": [
+            "crayon-shin-chan-cinema-land-gba"
+          ],
+          "summary": "新玩家补充v0.1.0首关变身后卡住，合入既有骑象场景问题",
+          "feedback_summary": "新报告者une21提供首关机车变身后卡住截图，文件名补充“未开任何金手指”。静态画面与#107蓝天中小新骑象状变身的定位一致，作为同场景线索追加，不能仅凭静图证明同一根因或卡住时长。原报告者已在评论6336111009补了ROM名CrayonCinema_zhCN_v0.1.0及自动播放骑象前一步，不重复询问。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            27
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "crayon-shin-chan-cinema-land-gba",
+              "original_input_SHA256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+              "targets": [
+                {
+                  "font": "12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    },
+    {
+      "public_case_key": "case-a35dacebaf91c496",
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-crayon-cinema-graphics",
+          "game_ids": [
+            "crayon-shin-chan-cinema-land-gba"
+          ],
+          "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+          "feedback_summary": "收藏室图像有横向点线/错块，过场背景有异常图块。与既有#107首关骑象卡住分别登记，不因同作就推断同一根因。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            26,
+            28
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "crayon-shin-chan-cinema-land-gba",
+              "original_input_SHA256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+              "targets": [
+                {
+                  "font": "12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    },
+    {
+      "public_case_key": "case-d16aebf74d23e81b",
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-crayon-cinema-coverage",
+          "game_ids": [
+            "crayon-shin-chan-cinema-land-gba"
+          ],
+          "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+          "feedback_summary": "玩家请求补译R键家人召唤、服装页面和下方按键提示中的图像日文。当前Release说明少量图中微字保留；按补译覆盖需求登记，不作新纯BUG数量。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            23,
+            24,
+            25
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "crayon-shin-chan-cinema-land-gba",
+              "original_input_SHA256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+              "targets": [
+                {
+                  "font": "12px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
     }
   ],
   "problems": [
@@ -55,16 +317,57 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f84aea9a1bcbc64"
       ],
       "public_feedback_keys": [
-        "11092365551|154057783445"
+        "11092365551|154057783445",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-a35dacebaf91c496"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-d16aebf74d23e81b"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
@@ -95,7 +398,115 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-787e8fe3b035e7c3",
+      "game_id": null,
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "crayon-shin-chan-cinema-land-gba",
+        "sound-of-thunder-gba",
+        "max-payne-gba"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "pid": "154062976011",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154062976011#154062976011",
+      "text": "@une21 五款游戏的反馈包已收到。足球1/2和蜡笔小新的显示问题、马克思·佩恩标题缺字已登记；蜡笔小新首关卡住并入原问题，补译和国旗建议另记，后续排查。",
+      "text_sha256": "cd0053f4dae1a8da7d345f48d78bc719eaa545b3d3feb1fbda51a99008a77249",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:02:07.850971+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154061939534",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-cinema-graphics",
+      "public_case_key": "case-a35dacebaf91c496",
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        26,
+        28
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-first-stage-freeze-supplement",
+      "public_case_key": "case-6f84aea9a1bcbc64",
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "新玩家补充v0.1.0首关变身后卡住，合入既有骑象场景问题",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        27
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261023-1616|gba17-crayon-cinema-coverage",
+      "public_case_key": "case-d16aebf74d23e81b",
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        23,
+        24,
+        25
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

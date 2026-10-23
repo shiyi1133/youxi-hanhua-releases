@@ -3,10 +3,167 @@
   "game_id": "yuu-yuu-hakusho-4",
   "game_name": "幽游白书4",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154062018024",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "shangyewuming6",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062018024#154062018024",
+      "created_at": "2026-10-23T11:40:26+08:00",
+      "quote": "这个是d商汉化的，没有提出让大神汉化的意思，只是说明一下1.2.3代早期皆有汉化。其他人对于商汉化有苛求重新汉化是另外。我们这种要求不高。且游戏太多也没能完全测试，大神加油，有几个游戏我发现问题但是没有楼层不知道怎么反馈。比如幽游白书4，对战名字不显示不过能正常通关，工作量大，只有默默支持了",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "1d7e59d5775c810a297ef170413c8cc9caefe1f0499a6c7020abd726e4acb672",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-5d7d85365a90bf2f",
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|yuu4-battle-name-missing",
+          "game_ids": [
+            "yuu-yuu-hakusho-4"
+          ],
+          "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+          "feedback_summary": "本条原话中的新BUG仅指“幽游白书4，对战名字不显示”。同条牧场旧商汉化背景独立澄清，不转成牧场BUG或重汉化需求。",
+          "source_feedback_keys": [
+            "11092365551|154062018024"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": null,
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "yuu-yuu-hakusho-4",
+              "original_input_SHA256": "9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70",
+              "targets": [
+                {
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "output_SHA256": "715fffa9289efed9a7ea54a6de89670ccd78009b7c462eac76e982dd991a97e9"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_clear_testimony_only": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "farm_part_of_same_quote_is_third_party_context_not_this_BUG": true
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-5d7d85365a90bf2f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-07dbcd2eb5752308",
+      "game_id": "yuu-yuu-hakusho-4",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "pid": "154062973803",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062973803#154062973803",
+      "text": "@shangyewuming6 对战名字不显示已记录，也收到能通关的反馈。请补ROM完整文件名及哪个对战画面不显示。",
+      "text_sha256": "15f3d36e21e5fc3f0330aa68916026f6a36ef0eac598e448f5f7c74b926e39df",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:01:25.243473+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154062018024",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-1616|yuu4-battle-name-missing",
+      "public_case_key": "case-5d7d85365a90bf2f",
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "player_GBA_archive_image_indices": [],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

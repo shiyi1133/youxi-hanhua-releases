@@ -1,10 +1,10 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 111,
-  "open_pure_BUG_count": 37,
-  "open_requests_or_other_count": 12,
-  "open_classification_unconfirmed_count": 41,
+  "problem_count": 121,
+  "open_pure_BUG_count": 44,
+  "open_requests_or_other_count": 16,
+  "open_classification_unconfirmed_count": 40,
   "problems": [
     {
       "public_problem_key": "problem-39bfe9ad4346add4",
@@ -191,6 +191,8 @@
         "devil-children-kuro",
         "dt-lords-of-genomes",
         "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
         "mario-tennis-gb",
         "miracle-of-the-zone-2",
         "monster-traveler",
@@ -203,7 +205,7 @@
       ],
       "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-1826114663d9d86d",
         "case-30c8eb0b33ae4adf",
@@ -218,6 +220,7 @@
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
         "case-eab2c8ffe4f1ebad"
@@ -286,13 +289,16 @@
         "11092365551|154054306070",
         "11092365551|154061098688",
         "11097560613|154043716841",
-        "11097560613|154048988684"
+        "11097560613|154048988684",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
     },
     {
       "public_problem_key": "problem-7376f47bbd3b1656",
@@ -2536,13 +2542,14 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f84aea9a1bcbc64"
       ],
       "public_feedback_keys": [
-        "11092365551|154057783445"
+        "11092365551|154057783445",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2617,14 +2624,15 @@
       ],
       "summary": "X猎人篇：一个宠物跟随后主菜单与保存菜单文字消失",
       "state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-624c5ff8cc263f25"
       ],
       "public_feedback_keys": [
         "11092365551|154059864872",
-        "11092365551|154059877278"
+        "11092365551|154059877278",
+        "11092365551|154062313505"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -2650,13 +2658,213 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-a35dacebaf91c496"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-f2eb6dac14c4147d"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-565c62336579e0bc",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket"
+      ],
+      "summary": "[补译需求] 实况世界足球Pocket v0.1.0：杯赛、设置及通信界面残留日文",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-4eb6a4433af5e84e"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-63d42da2f12cad86",
+      "game_ids": [
+        "max-payne-gba"
+      ],
+      "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-fdfe6d3f841786d4"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-5d7d85365a90bf2f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154062018024"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_ids": [
+        "crayon-shin-chan-cinema-land-gba"
+      ],
+      "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-d16aebf74d23e81b"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-bc9a00441ec4b07c",
+      "game_ids": [
+        "sound-of-thunder-gba"
+      ],
+      "summary": "[界面建议] 雷霆之音 v0.1.0：“简体中文”旁旗帜图标",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-3158f504568463df"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-d8e95b2aaf369c30",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket"
+      ],
+      "summary": "[待复现] 实况世界足球Pocket v0.1.0：标题标志与比赛画面图形异常",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6cc7be3acd07f544"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-ef215518e85b0e53",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-d89d628b639f1435"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154061474399"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_ids": [
+        "jikkyou-world-soccer-pocket-2"
+      ],
+      "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-323ec2b5594527a7"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

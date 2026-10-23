@@ -3,10 +3,186 @@
   "game_id": "max-payne-gba",
   "game_name": "马克思·佩恩",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154061939534",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154061939534#154061939534",
+      "created_at": "2026-10-23T11:15:28+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 已完成该楼层内所有ROM的初步测试，汇总结果见压缩包内截图，我发现问题多的游戏多存在于日版汉化，欧美版问题就没那么多，请您留意查收以下反馈包: 【超级会员V9】通过百度网盘分享的文件：实况世界足球1&…",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "b349fc16440ee07d606a9c26607aee061ef4c6b6c4156f92790e2582a681fcdb",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": null,
+          "archived_public_path": "feedback/images/bbd209df770ba5b08c1a.png",
+          "SHA256_of_archived_preview": "bbd209df770ba5b08c1a757d5593f2dc93baaeccf98439016cf47dfedf7f1721",
+          "archived_bytes": 28184,
+          "image_index": 30,
+          "original_archive_member_caption": "实况世界足球1&2+蜡笔小新+马克思佩恩+雷霆之音问题汇总打包/马克思佩恩 v0.1.0/最上方的“克”字显示不完全.png",
+          "player_report": "最上方的“克”字显示不完全",
+          "reported_folder_version": "v0.1.0",
+          "reported_font": null,
+          "classification": "PLAYER_PROVIDED_SCREENSHOT_NOT_MAINTAINER_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true,
+      "game_page_image_scope": "仅本游戏相关原图；五作30图完整清单在全局公开原话中。"
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-fdfe6d3f841786d4",
+      "public_problem_key": "problem-63d42da2f12cad86",
+      "game_ids": [
+        "max-payne-gba"
+      ],
+      "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+      "issue_state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "reported_version": "v0.1.0",
+      "reported_font": null,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAMES_PLAYER_BYTES_UNKNOWN",
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261023-1616|gba17-max-payne-title-clipping",
+          "game_ids": [
+            "max-payne-gba"
+          ],
+          "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+          "feedback_summary": "玩家截图及文件名指出主菜单标题“马克思·佩恩”的“克”字显示不完整。维护只核静图，未确认裁切发生于字模、贴图还是显示位置。",
+          "source_feedback_keys": [
+            "11097560613|154061939534"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font_literal": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_GBA_archive_image_indices": [
+            30
+          ],
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "max-payne-gba",
+              "original_input_SHA256": "f40118daf0fa2a80169edcfe82b030e4c01aa9d7397f7a462ea25ac3c155b3e8",
+              "targets": [
+                {
+                  "font": "8px+12px-native",
+                  "version": "v0.1.0",
+                  "output_SHA256": "5726f8ab312b188279c596b9ccd93e1bf9fec42222df695ace310441aa45be91"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ],
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-63d42da2f12cad86",
+      "game_ids": [
+        "max-payne-gba"
+      ],
+      "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+      "state": "open",
+      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-fdfe6d3f841786d4"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-787e8fe3b035e7c3",
+      "game_id": null,
+      "game_ids": [
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "crayon-shin-chan-cinema-land-gba",
+        "sound-of-thunder-gba",
+        "max-payne-gba"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "floor": 17,
+      "pid": "154062976011",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154062976011#154062976011",
+      "text": "@une21 五款游戏的反馈包已收到。足球1/2和蜡笔小新的显示问题、马克思·佩恩标题缺字已登记；蜡笔小新首关卡住并入原问题，补译和国旗建议另记，后续排查。",
+      "text_sha256": "cd0053f4dae1a8da7d345f48d78bc719eaa545b3d3feb1fbda51a99008a77249",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-23T17:02:07.850971+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154061939534",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261023-1616|gba17-max-payne-title-clipping",
+      "public_case_key": "case-fdfe6d3f841786d4",
+      "public_problem_key": "problem-63d42da2f12cad86",
+      "game_ids": [
+        "max-payne-gba"
+      ],
+      "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11097560613|154061939534"
+      ],
+      "player_GBA_archive_image_indices": [
+        30
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

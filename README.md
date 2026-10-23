@@ -2,7 +2,7 @@
 
 提供汉化源码、补丁、对应版本真实截图、版本说明及公开反馈；资产入口只取实际公开Release与完整SHA回读。
 
-- [168款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
+- [169款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
 - [公开反馈与BUG入口](feedback/README.md) · [资产同步状态](data/public-asset-sync.json)。
 
 本库不提供ROM、存档、即时状态或私人会话。原输入保留其实际地区、修订、改版及已有汉化基底身份。第三方原作、字体、翻译和工具许可保持各自归属。
@@ -179,3 +179,4 @@
 | [X（日版）](games/x-gb/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [Chantey：海盗节奏](games/chantey/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [荣耀猎人](games/glory-hunters/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [宝可梦 灵魂水晶42.0](games/pokemon-soul-crystal/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |

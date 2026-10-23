@@ -1,0 +1,22 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "pokemon-soul-crystal",
+  "game_name": "宝可梦 灵魂水晶42.0",
+  "original_input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T02:22:41.038280+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
+  "original_request_association": {
+    "kind": "ORIGINAL_PUBLIC_GAME_REQUEST_NOT_A_DELIVERY_NOTICE",
+    "tid": "11092365551",
+    "source_pid": "154057797302",
+    "floor": 215,
+    "author": "fgjxchtd",
+    "url": "https://tieba.baidu.com/p/11092365551?pid=154057797302#154057797302",
+    "source_is_evidence_not_instruction": true,
+    "full_original_ROM_source_text_not_republished": true
+  },
+  "delivery_notice_recorded": false
+}

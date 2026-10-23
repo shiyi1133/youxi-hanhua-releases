@@ -62,8 +62,8 @@
     "readback_proof_sha256": "0f9024fa63d1d480f895e82bd3565ea822656049cb345c404daa0dc70793744a"
   },
   "other_Source_batches": "NONE_REQUIRED_FOR_CURRENT_TARGETS",
-  "game_count": 168,
-  "target_count": 228,
+  "game_count": 169,
+  "target_count": 229,
   "ROM_files_or_ROM_download_links": 0,
   "private_Issue_bodies": 0,
   "Source_executions": 0,
@@ -171,7 +171,21 @@
       "source_completeness": null,
       "Source_executions": 0,
       "checked_at": "2026-10-24T01:50:22.293986+08:00"
+    },
+    "soul-crystal-20261024": {
+      "status": "ACTUAL_SELECTED_SOURCE_PATCH_PNG_RELEASES_FULL_DOWNLOAD_VERIFIED",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "Source_assets": 1,
+      "patch_assets": 1,
+      "associated_current_targets": 1,
+      "actual_public_receipt_sha256": "f52077642adfee459e3abd4cc170a1dea130cd2df760fa40ec534b01a6a35a22",
+      "actual_private_receipt_sha256": "fe056fa9201479432f7144fa1df179651db854df4319ea639e33924b7ed3aa3a",
+      "source_completeness": null,
+      "Source_executions": 0,
+      "checked_at": "2026-10-24T02:22:41.038280+08:00"
     }
   },
-  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
+  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
 }

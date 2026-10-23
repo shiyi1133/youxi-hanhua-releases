@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 234,
-  "unique_PNG_file_count": 226,
+  "screenshot_binding_count": 235,
+  "unique_PNG_file_count": 227,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -5233,6 +5233,21 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "pokemon-soul-crystal",
+      "font": "8px",
+      "version": "v0.1.0",
+      "audio_variant": "unchanged",
+      "input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+      "target_rom_sha256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a",
+      "screenshot_sha256": "f94afee7405e4ff8855aed2c6a0456d4bfba6bf670dac3b3f9a29c032b03418e",
+      "screenshot_bytes": 17987,
+      "path": "games/pokemon-soul-crystal/screenshots/pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+      "caption": "v0.1.0 普通8px最终ROM真实九宫格。1—5格：标题、自然命名、开场、伙伴状态、野战；6—7格：既有实际进度商店与正常保存后新进程电池SAV冷读；8格：既有图鉴进度的正常菜单；9格：诊断入口最长255变量分页。原生160×144逐格像素核对，不是自然深层或全流程验收。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -5719,5 +5734,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
+  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
 }

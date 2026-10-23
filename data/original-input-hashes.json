@@ -1,7 +1,7 @@
 {
   "schema": "public_exact_original_input_hash_index_v1",
   "generated_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 168,
+  "count": 169,
   "ROM_files_or_download_links_included": false,
   "items": [
     {
@@ -1515,7 +1515,16 @@
       "original_input_sha256": "9d5023734c2f2090cf16187ff70711a79062913f648965699af9e2419bb79812",
       "original_input_bytes": 4194304,
       "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "pokemon-soul-crystal",
+      "game_name": "宝可梦 灵魂水晶42.0",
+      "platform": "GBC",
+      "original_input_name": "Pokemon Soul Crystal 42.0 (provider-declared English modification)",
+      "original_input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
     }
   ],
-  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
+  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
 }

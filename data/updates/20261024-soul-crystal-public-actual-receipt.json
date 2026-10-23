@@ -1,0 +1,118 @@
+{
+  "schema": "Root_batch_public_actual_published_full_asset_readback_v1",
+  "repository": "shiyi1133/youxi-hanhua-releases",
+  "repository_id": 1428723645,
+  "repository_private": false,
+  "game_releases": {
+    "pokemon-soul-crystal": {
+      "game_id": "pokemon-soul-crystal",
+      "tag": "pokemon-soul-crystal-v0.1.0",
+      "version": "v0.1.0",
+      "release_id": 422166203,
+      "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-soul-crystal-v0.1.0",
+      "draft": false,
+      "prerelease": true,
+      "all_remote_assets_sha256_verified": true,
+      "assets": [
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+          "id": 669971525,
+          "bytes": 14437445,
+          "sha256": "07ec3ef9c3d7750082c378b0ef8fc83c41bb2dacdce28ccf516160271c6586d8",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+          "id": 669971946,
+          "bytes": 210356,
+          "sha256": "b6b2eaa8d8f273c152da6d1fb26fd1a71d1b53de3b3057f1ba8e65ec14c3c23d",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+          "id": 669972204,
+          "bytes": 17987,
+          "sha256": "f94afee7405e4ff8855aed2c6a0456d4bfba6bf670dac3b3f9a29c032b03418e",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        }
+      ],
+      "complete_release_asset_guards": [
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+          "id": 669971525,
+          "bytes": 14437445,
+          "sha256": "07ec3ef9c3d7750082c378b0ef8fc83c41bb2dacdce28ccf516160271c6586d8",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+          "id": 669971946,
+          "bytes": 210356,
+          "sha256": "b6b2eaa8d8f273c152da6d1fb26fd1a71d1b53de3b3057f1ba8e65ec14c3c23d",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+          "id": 669972204,
+          "bytes": 17987,
+          "sha256": "f94afee7405e4ff8855aed2c6a0456d4bfba6bf670dac3b3f9a29c032b03418e",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        }
+      ],
+      "category": "game",
+      "initial_draft_stage_verified": true,
+      "draft_created_this_execution": true,
+      "existing_exact_tag_reused": false,
+      "all_assets_full_SHA_download_verified_before_publish": true,
+      "existing_published_exact_tag_also_full_download_verified": false,
+      "body_sha256": "79f8aa020373f53fc06d63490c636162c979bd8300026a291a573501bd56bd93",
+      "verified_at": "2026-10-24T02:15:02.846433+08:00",
+      "historical_Releases_tags_and_assets_deleted": 0
+    }
+  },
+  "expected_release_count": 1,
+  "completed_release_count": 1,
+  "all_releases_published_and_actual_full_SHA_verified": true,
+  "status": "PUBLISHED_ALL_ACTUAL_FULL_READBACK_VERIFIED",
+  "Source_private_uploads": 0,
+  "Source_semantic_completeness": null,
+  "Source_executions": 0,
+  "ROM_runtime": 0,
+  "Git_writes": 0,
+  "cloud_mutations": 0,
+  "forum_sends": 0,
+  "Issue_writes": 0,
+  "monitor_counter_increment": 0,
+  "history_deletions": 0,
+  "verified_at": "2026-10-24T02:15:07.607553+08:00"
+}

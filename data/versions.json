@@ -1,8 +1,8 @@
 {
   "schema": "public_exact_current_game_versions_and_actual_asset_receipts_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "game_count": 168,
-  "target_count": 228,
+  "game_count": 169,
+  "target_count": 229,
   "entries": [
     {
       "game_id": "azure-dreams",
@@ -19797,8 +19797,88 @@
       ],
       "page": "games/glory-hunters/README.md",
       "feedback": "games/glory-hunters/feedback.md"
+    },
+    {
+      "game_id": "pokemon-soul-crystal",
+      "game_name": "宝可梦 灵魂水晶42.0",
+      "platform": "GBC",
+      "current_targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "variant_id": "8px:unchanged",
+          "input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+          "output_sha256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a",
+          "output_bytes": 2097152,
+          "font_scope": "Fusion Pixel 2026.09.25 真实普通8px，原生8px字格；无10px大字版，CGB原生彩色，非SGB验收。",
+          "scope": "普通8px限定测试版；基于提供者英文改版Soul Crystal 42.0，非零售原版。开局、命名、菜单、野战及部分图形标签已有提供者运行证据；商店和图鉴取自既有实际进度，最长变量分页取自诊断入口。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "全流程通关、自然片尾和所有地图/道具/图鉴/深层Mega场景",
+            "实机、全部跨模拟器兼容及全部存档路径",
+            "真实联机、红外、打印机、移动通信及RTC长期漂移",
+            "维护独立源码重建、源码语义完整性与独立人员QA",
+            "外来或别版SAV、自定义旧昵称及旧存档兼容未穷尽；建议新开档并先备份电池存档"
+          ],
+          "public_source_assets": [
+            {
+              "name": "pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+              "bytes": 14437445,
+              "sha256": "07ec3ef9c3d7750082c378b0ef8fc83c41bb2dacdce28ccf516160271c6586d8",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 669971525,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-soul-crystal-v0.1.0",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
+            }
+          ],
+          "public_patch_asset": {
+            "name": "pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+            "bytes": 210356,
+            "sha256": "b6b2eaa8d8f273c152da6d1fb26fd1a71d1b53de3b3057f1ba8e65ec14c3c23d",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-soul-crystal-v0.1.0/pokemon-soul-crystal-v0.1.0-8px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 669971946,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-soul-crystal-v0.1.0"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "pokemon-soul-crystal",
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+              "target_rom_sha256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a",
+              "screenshot_sha256": "f94afee7405e4ff8855aed2c6a0456d4bfba6bf670dac3b3f9a29c032b03418e",
+              "screenshot_bytes": 17987,
+              "path": "games/pokemon-soul-crystal/screenshots/pokemon-soul-crystal-v0.1.0-8px-nine-grid-8px.png",
+              "caption": "v0.1.0 普通8px最终ROM真实九宫格。1—5格：标题、自然命名、开场、伙伴状态、野战；6—7格：既有实际进度商店与正常保存后新进程电池SAV冷读；8格：既有图鉴进度的正常菜单；9格：诊断入口最长255变量分页。原生160×144逐格像素核对，不是自然深层或全流程验收。",
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
+            }
+          ]
+        }
+      ],
+      "page": "games/pokemon-soul-crystal/README.md",
+      "feedback": "games/pokemon-soul-crystal/feedback.md"
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
+  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
 }

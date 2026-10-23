@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "chantey",
+  "game_name": "Chantey：海盗节奏",
+  "original_input_sha256": "8c42f44b1d7a20a29736349093f94ead6a58aa13b58337e02fc837f00765745f",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

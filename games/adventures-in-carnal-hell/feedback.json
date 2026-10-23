@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "adventures-in-carnal-hell",
+  "game_name": "肉体地狱历险记",
+  "original_input_sha256": "ad19372d2533ea77ceacb463e6c32cd90ed6a289e4efa0a0608bca447f643a8c",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

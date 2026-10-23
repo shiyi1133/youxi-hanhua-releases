@@ -62,8 +62,8 @@
     "readback_proof_sha256": "0f9024fa63d1d480f895e82bd3565ea822656049cb345c404daa0dc70793744a"
   },
   "other_Source_batches": "NONE_REQUIRED_FOR_CURRENT_TARGETS",
-  "game_count": 139,
-  "target_count": 198,
+  "game_count": 168,
+  "target_count": 228,
   "ROM_files_or_ROM_download_links": 0,
   "private_Issue_bodies": 0,
   "Source_executions": 0,
@@ -129,7 +129,49 @@
       "source_completeness": null,
       "source_execution": 0,
       "checked_at": "2026-10-23T17:29:04.085380+08:00"
+    },
+    "batch30-selected-20261023": {
+      "status": "ACTUAL_SELECTED_SOURCE_PATCH_PNG_RELEASES_FULL_DOWNLOAD_VERIFIED",
+      "game_ids": [
+        "honmei-boy",
+        "family-jockey",
+        "family-jockey-2",
+        "winners-horse",
+        "last-bible-gb",
+        "last-bible-ii-gb",
+        "sword-of-the-apocalypse",
+        "magic-knight-rayearth",
+        "magic-knight-rayearth-2",
+        "aretha-2",
+        "aretha-3",
+        "aretha",
+        "zeldas-adventure-dx",
+        "2021-moon-escape",
+        "unearthed",
+        "himes-quest",
+        "the-machine",
+        "basketbrawl-deluxe-edition",
+        "the-melting-apartment",
+        "adventures-in-carnal-hell",
+        "sam-mallard-the-case-of-the-missing-swan",
+        "escape-2042-the-truth-defenders",
+        "taito-memorial-bubble-bobble",
+        "sd-gundam-force",
+        "dokidoki-densetsu-mahoujin-guruguru",
+        "legend-of-dynamic-goushouden-houkai-no-rondo",
+        "x-gb",
+        "chantey",
+        "glory-hunters"
+      ],
+      "Source_assets": 29,
+      "patch_assets": 29,
+      "associated_current_targets": 30,
+      "actual_public_receipt_sha256": "3a27a5f7c5d00c540d395873a0d9a9259372fe59b730ad232bdf208931dd1116",
+      "actual_private_receipt_sha256": "dd64d2ab60be1beb369a9022c59bfc61cc36a6354e9b5bbcf5eb2798707d6819",
+      "source_completeness": null,
+      "Source_executions": 0,
+      "checked_at": "2026-10-24T01:50:22.293986+08:00"
     }
   },
-  "last_incremental_update_at": "2026-10-23T17:29:04.085380+08:00"
+  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
 }

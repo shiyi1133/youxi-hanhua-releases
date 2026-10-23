@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "aretha-2",
+  "game_name": "阿蕾莎2",
+  "original_input_sha256": "afaf5380f970c2f07ff585a84bab50295fd17888591511cc1d71e8d7ddad7599",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

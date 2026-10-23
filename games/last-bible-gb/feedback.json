@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "last-bible-gb",
+  "game_name": "女神转生外传：最后的圣经（黑白GB版）",
+  "original_input_sha256": "29cd752ce9589e77bb041c6b3d736bb6b24463305f996641eb1cd2c0be5a0c67",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

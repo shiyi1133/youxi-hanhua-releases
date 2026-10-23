@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "unearthed",
+  "game_name": "发掘",
+  "original_input_sha256": "9c9741ab1e915ed772c463446f5907b3f7091815b361626fab34a0fb547955a0",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

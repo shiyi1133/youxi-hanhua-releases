@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "basketbrawl-deluxe-edition",
+  "game_name": "篮球大乱斗 豪华版",
+  "original_input_sha256": "682fb33d56bcee40a5df5e6b7ab8a75085564652c815caa224fe65e45b6f2466",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

@@ -1,7 +1,7 @@
 {
   "schema": "public_exact_original_input_hash_index_v1",
   "generated_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 139,
+  "count": 168,
   "ROM_files_or_download_links_included": false,
   "items": [
     {
@@ -1254,7 +1254,268 @@
       "original_input_sha256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
       "original_input_bytes": 2097152,
       "identity_note": "实际用户提供的日本Rev0原输入；公开仅记录完整哈希，不提供ROM或原件下载链接。"
+    },
+    {
+      "game_id": "honmei-boy",
+      "game_name": "本命赛马",
+      "platform": "GB",
+      "original_input_name": "Honmei Boy (Japan)",
+      "original_input_sha256": "b1fbb2ea6bb711c9b99a8b13f9a179ed273425e8aaa67ef1f3a95acfc138a948",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "family-jockey",
+      "game_name": "家庭赛马",
+      "platform": "GB",
+      "original_input_name": "Family Jockey (Japan)",
+      "original_input_sha256": "ff53707dc590e3f837788d3cd20fe615a3baafdba051e4ecc59e9a410aa0f971",
+      "original_input_bytes": 131072,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "family-jockey-2",
+      "game_name": "家庭赛马2",
+      "platform": "GB",
+      "original_input_name": "Family Jockey 2 - Meiba no Kettou (Japan)",
+      "original_input_sha256": "37708a2ddc3eadeb0dd5846223befc938637be69941ce69299d5b6e950b8ffb1",
+      "original_input_bytes": 131072,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "winners-horse",
+      "game_name": "胜利赛马",
+      "platform": "GB",
+      "original_input_name": "Winner's Horse (Japan)",
+      "original_input_sha256": "fd508815ba403eafd3a8a3be21139df1891f32e4ee26e1673c3d0fe3285b3bec",
+      "original_input_bytes": 131072,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "last-bible-gb",
+      "game_name": "女神转生外传：最后的圣经（黑白GB版）",
+      "platform": "GB",
+      "original_input_name": "Megami Tensei Gaiden - Last Bible (Japan)",
+      "original_input_sha256": "29cd752ce9589e77bb041c6b3d736bb6b24463305f996641eb1cd2c0be5a0c67",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "last-bible-ii-gb",
+      "game_name": "女神转生外传：最后的圣经Ⅱ（黑白GB版）",
+      "platform": "GB",
+      "original_input_name": "Megami Tensei Gaiden - Last Bible II (Japan)",
+      "original_input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "sword-of-the-apocalypse",
+      "game_name": "末日之剑",
+      "platform": "GBC",
+      "original_input_name": "Sword of the Apocalypse (user-provided GBC input)",
+      "original_input_sha256": "376a1bb582e9391d34afe196e9939576a77586e985407763ca787d6ed3514a3d",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "magic-knight-rayearth",
+      "game_name": "魔法骑士雷阿斯",
+      "platform": "GB",
+      "original_input_name": "Magic Knight Rayearth (Japan) (SGB Enhanced)",
+      "original_input_sha256": "3be897438e69a22c64be12ab1d5ed41f9f35a54e40a1ce909f9fe080734d7fa4",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "magic-knight-rayearth-2",
+      "game_name": "魔法骑士雷阿斯2：遗失的色彩",
+      "platform": "GB",
+      "original_input_name": "Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced)",
+      "original_input_sha256": "ffeb6c8433f8d2bacceb833ec33d146ca0c2ddcd5980c2839a9c5416516c2c71",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "aretha-2",
+      "game_name": "阿蕾莎2",
+      "platform": "GB",
+      "original_input_name": "Aretha II (Japan)",
+      "original_input_sha256": "afaf5380f970c2f07ff585a84bab50295fd17888591511cc1d71e8d7ddad7599",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "aretha-3",
+      "game_name": "阿蕾莎3",
+      "platform": "GB",
+      "original_input_name": "Aretha III (Japan)",
+      "original_input_sha256": "f7311a0a392183697b06b72929e480eaf11e856d44b9b218641465cfc4b29942",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "aretha",
+      "game_name": "阿蕾莎",
+      "platform": "GB",
+      "original_input_name": "Aretha (Japan)",
+      "original_input_sha256": "b9bb5b4d3274a7f4c443bd8fb2bf5f1018358d76a54c01e3a53f7ff610fa4fa6",
+      "original_input_bytes": 131072,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "zeldas-adventure-dx",
+      "game_name": "塞尔达公主的冒险DX",
+      "platform": "GBC",
+      "original_input_name": "塞尔达公主的冒险Zeldas.Adventure.DX.v2.2.0_20261021_112110.gbc",
+      "original_input_sha256": "4eff20602acae5629814c93d9f8b363906654f94fefde2cfc50632f521335f23",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "2021-moon-escape",
+      "game_name": "2021：月球逃亡",
+      "platform": "GB",
+      "original_input_name": "2021：月球逃亡2021 - Moon Escape (World) (Aftermarket) (Unl).gb",
+      "original_input_sha256": "edaa96727092b65460b9eb6582a55f60f9e03c2f5649171679ac306a78b4587b",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "unearthed",
+      "game_name": "发掘",
+      "platform": "GBC",
+      "original_input_name": "发掘Unearthed (World) (v1.1) (2024 Version) (GB Compatible) (Aftermarket) (Unl).gbc",
+      "original_input_sha256": "9c9741ab1e915ed772c463446f5907b3f7091815b361626fab34a0fb547955a0",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "himes-quest",
+      "game_name": "公主的任务",
+      "platform": "GBC",
+      "original_input_name": "Hime's Quest (World) (Digital) (Aftermarket) (Unl)",
+      "original_input_sha256": "02bacba43892b372375d34ac56e060dca7f29111afacc94e541c33a34215e8f0",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "the-machine",
+      "game_name": "机器",
+      "platform": "GBC",
+      "original_input_name": "机器Machine, The (World) (v1.2) (GB Compatible) (Aftermarket) (Unl).gbc",
+      "original_input_sha256": "0776fadb9a9f2347b3792c8234ff97125eeefd129897aff23286cbbd3326a6c6",
+      "original_input_bytes": 2097152,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "basketbrawl-deluxe-edition",
+      "game_name": "篮球大乱斗 豪华版",
+      "platform": "GBC",
+      "original_input_name": "篮球大乱斗Basketbrawl - Deluxe Edition (World) (Aftermarket) (Unl)_20261021_112018.gbc",
+      "original_input_sha256": "682fb33d56bcee40a5df5e6b7ab8a75085564652c815caa224fe65e45b6f2466",
+      "original_input_bytes": 1048576,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "the-melting-apartment",
+      "game_name": "融化公寓",
+      "platform": "GBC",
+      "original_input_name": "融化公寓The Melting Apartment.gb",
+      "original_input_sha256": "00b42de93718b90a5379eacfa6a5147ba1d7660bbcd83492faaa3d8a8ab86a09",
+      "original_input_bytes": 524288,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "adventures-in-carnal-hell",
+      "game_name": "肉体地狱历险记",
+      "platform": "GBC",
+      "original_input_name": "肉体地狱历险记Adventures in Carnal Hell_en_ver1.03.gb",
+      "original_input_sha256": "ad19372d2533ea77ceacb463e6c32cd90ed6a289e4efa0a0608bca447f643a8c",
+      "original_input_bytes": 524288,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "sam-mallard-the-case-of-the-missing-swan",
+      "game_name": "山姆·马拉德：失踪天鹅案",
+      "platform": "GB",
+      "original_input_name": "Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl)",
+      "original_input_sha256": "e10b0b84ed423f56db58bec3cf1be81cec88f86e13446655af92764237cbfa85",
+      "original_input_bytes": 1048576,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "escape-2042-the-truth-defenders",
+      "game_name": "逃脱2042：真相捍卫者",
+      "platform": "GB",
+      "original_input_name": "逃脱 2042Escape 2042 - The Truth Defenders (World) (En) (Aftermarket) (Unl).gb",
+      "original_input_sha256": "6ee675c95c5a93aa6943abb728be966a092a7f68b99b012af85dce8021b71ca6",
+      "original_input_bytes": 32768,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "taito-memorial-bubble-bobble",
+      "game_name": "泡泡龙（Taito Memorial）",
+      "platform": "GBC",
+      "original_input_name": "Taito Memorial - Bubble Bobble (Japan) (SGB Enhanced) (GB Compatible)",
+      "original_input_sha256": "d0745da8c7824b2719e382d80eb79d9364efea83c1b7a4a185e4a864545d5b3e",
+      "original_input_bytes": 1048576,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "sd-gundam-force",
+      "game_name": "SD高达力量",
+      "platform": "GBA",
+      "original_input_name": "SD Gundam Force (USA)",
+      "original_input_sha256": "2d4bbe9fa0b7051c33a2b63b5b44513cc58e5c9cf91d88449f8cdc94f1b6a8bc",
+      "original_input_bytes": 8388608,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "dokidoki-densetsu-mahoujin-guruguru",
+      "game_name": "心跳传说：咕噜咕噜魔法阵",
+      "platform": "GBC",
+      "original_input_name": "Dokidoki Densetsu - Mahoujin Guruguru (Japan)",
+      "original_input_sha256": "9627630e771f5dd95163f29a5f034931d080b7a307d3f699f1535d2e4ecc109a",
+      "original_input_bytes": 4194304,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "legend-of-dynamic-goushouden-houkai-no-rondo",
+      "game_name": "豪翔传：崩界的轮舞曲",
+      "platform": "GBA",
+      "original_input_name": "Legend of Dynamic - Goushouden - Houkai no Rondo (Japan)",
+      "original_input_sha256": "8fdfa4bf01581dcd8bb4867365a927eaa17413e7438a52c65ca3581e27c81cc8",
+      "original_input_bytes": 8388608,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "x-gb",
+      "game_name": "X（日版）",
+      "platform": "GB",
+      "original_input_name": "X (Japan)",
+      "original_input_sha256": "d6b1e41a17244770ba3675efc73ea19cc049cb413bf6c29125b6983c6f800f61",
+      "original_input_bytes": 262144,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "chantey",
+      "game_name": "Chantey：海盗节奏",
+      "platform": "GB",
+      "original_input_name": "Chantey (World) (v1.1).gb",
+      "original_input_sha256": "8c42f44b1d7a20a29736349093f94ead6a58aa13b58337e02fc837f00765745f",
+      "original_input_bytes": 4194304,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
+    },
+    {
+      "game_id": "glory-hunters",
+      "game_name": "荣耀猎人",
+      "platform": "GB",
+      "original_input_name": "Glory Hunters(v2.0.1).gb",
+      "original_input_sha256": "9d5023734c2f2090cf16187ff70711a79062913f648965699af9e2419bb79812",
+      "original_input_bytes": 4194304,
+      "identity_note": "实际汉化原输入；保留其地区修订、改版或aftermarket身份。"
     }
   ],
-  "last_incremental_update_at": "2026-10-23T01:15:34.877589+08:00"
+  "last_incremental_update_at": "2026-10-24T01:50:22.293986+08:00"
 }

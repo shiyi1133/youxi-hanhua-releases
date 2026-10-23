@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "escape-2042-the-truth-defenders",
+  "game_name": "逃脱2042：真相捍卫者",
+  "original_input_sha256": "6ee675c95c5a93aa6943abb728be966a092a7f68b99b012af85dce8021b71ca6",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

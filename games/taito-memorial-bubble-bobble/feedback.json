@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "taito-memorial-bubble-bobble",
+  "game_name": "泡泡龙（Taito Memorial）",
+  "original_input_sha256": "d0745da8c7824b2719e382d80eb79d9364efea83c1b7a4a185e4a864545d5b3e",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

@@ -2,7 +2,7 @@
 
 提供汉化源码、补丁、对应版本真实截图、版本说明及公开反馈；资产入口只取实际公开Release与完整SHA回读。
 
-- [139款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
+- [168款版本与资产索引](data/versions.json) · [原输入完整SHA256](data/original-input-hashes.csv)。
 - [公开反馈与BUG入口](feedback/README.md) · [资产同步状态](data/public-asset-sync.json)。
 
 本库不提供ROM、存档、即时状态或私人会话。原输入保留其实际地区、修订、改版及已有汉化基底身份。第三方原作、字体、翻译和工具许可保持各自归属。
@@ -150,3 +150,32 @@
 | [塞尔达月升之歌](games/zelda-moonrise-regalia/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [徽章战士4 锹形虫版](games/medarot-4-kuwagata/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [真女神转生 卡牌召唤师](games/shin-megami-tensei-card-summoner/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [本命赛马](games/honmei-boy/README.md) | 12px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [家庭赛马](games/family-jockey/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [家庭赛马2](games/family-jockey-2/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [胜利赛马](games/winners-horse/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [女神转生外传：最后的圣经（黑白GB版）](games/last-bible-gb/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [女神转生外传：最后的圣经Ⅱ（黑白GB版）](games/last-bible-ii-gb/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [末日之剑](games/sword-of-the-apocalypse/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [魔法骑士雷阿斯](games/magic-knight-rayearth/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [魔法骑士雷阿斯2：遗失的色彩](games/magic-knight-rayearth-2/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [阿蕾莎2](games/aretha-2/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [阿蕾莎3](games/aretha-3/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [阿蕾莎](games/aretha/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [塞尔达公主的冒险DX](games/zeldas-adventure-dx/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [2021：月球逃亡](games/2021-moon-escape/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [发掘](games/unearthed/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [公主的任务](games/himes-quest/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [机器](games/the-machine/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [篮球大乱斗 豪华版](games/basketbrawl-deluxe-edition/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [融化公寓](games/the-melting-apartment/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [肉体地狱历险记](games/adventures-in-carnal-hell/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [山姆·马拉德：失踪天鹅案](games/sam-mallard-the-case-of-the-missing-swan/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [逃脱2042：真相捍卫者](games/escape-2042-the-truth-defenders/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [泡泡龙（Taito Memorial）](games/taito-memorial-bubble-bobble/README.md) | 8px v0.1.0限定测试版；10px v0.1.0限定测试版 | 有源码 2/2目标；完整性待核 | 2/2目标 |
+| [SD高达力量](games/sd-gundam-force/README.md) | 12px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [心跳传说：咕噜咕噜魔法阵](games/dokidoki-densetsu-mahoujin-guruguru/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [豪翔传：崩界的轮舞曲](games/legend-of-dynamic-goushouden-houkai-no-rondo/README.md) | 12px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [X（日版）](games/x-gb/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [Chantey：海盗节奏](games/chantey/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [荣耀猎人](games/glory-hunters/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |

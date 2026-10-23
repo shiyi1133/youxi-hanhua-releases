@@ -1,0 +1,11 @@
+{
+  "schema": "public_exact_game_feedback_index_v1",
+  "game_id": "honmei-boy",
+  "game_name": "本命赛马",
+  "original_input_sha256": "b1fbb2ea6bb711c9b99a8b13f9a179ed273425e8aaa67ef1f3a95acfc138a948",
+  "public_case_keys": [],
+  "case_count": 0,
+  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "absence_is_not_bug_free_acceptance": true,
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+}

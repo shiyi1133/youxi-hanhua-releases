@@ -116,7 +116,20 @@
         "asset_plan_sha256": "cff0093a7f6836bb4242361e4fb3818599c7a1dc56d9ff6671b04eea3517329a"
       },
       "checked_at": "2026-10-23T05:11:59.915307+08:00"
+    },
+    "manual-two-20261023": {
+      "status": "ACTUAL_SOURCE2_PATCH2_PNG6_PUBLISHED_FULL_ASSET_READBACK_VERIFIED",
+      "Source_assets": 2,
+      "patch_assets": 2,
+      "associated_current_targets": 5,
+      "current_unchanged_grid_PNGs": 5,
+      "supplemental_real_PNGs": 1,
+      "actual_public_receipt_sha256": "466627455b607643208e4a42de5e72859617dc9de5a8a7f017b4451ed941e226",
+      "actual_private_receipt_sha256": "05db94ec7f2eff7d5c5860d04c87157eab32137484ae5b835fe0076288b67da7",
+      "source_completeness": null,
+      "source_execution": 0,
+      "checked_at": "2026-10-23T17:29:04.085380+08:00"
     }
   },
-  "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
+  "last_incremental_update_at": "2026-10-23T17:29:04.085380+08:00"
 }

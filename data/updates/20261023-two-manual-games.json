@@ -1,0 +1,24 @@
+{
+  "schema": "two_actual_manual_game_public_metadata_projection_v1",
+  "parent": "a9f0056da73ed1e844ac9688bdca8c53cedf028b",
+  "game_ids": [
+    "dracula-dark-reign",
+    "saga-2-dx"
+  ],
+  "private_receipt_sha256": "05db94ec7f2eff7d5c5860d04c87157eab32137484ae5b835fe0076288b67da7",
+  "public_receipt_sha256": "466627455b607643208e4a42de5e72859617dc9de5a8a7f017b4451ed941e226",
+  "current_game_count": 139,
+  "current_target_count": 198,
+  "Source_assets": 2,
+  "patch_assets": 2,
+  "current_grid_PNGs": 5,
+  "supplemental_real_PNGs": 1,
+  "Source_completeness": null,
+  "Source_executions": 0,
+  "ROM_files": 0,
+  "ROM_download_links": 0,
+  "Issue_closed": 0,
+  "all_unrelated_current_games_and_history_preserved": true,
+  "Git_postcondition": "Root must GET every candidate blob full bytes/SHA after expected-parent CAS and preserve every old tree entry.",
+  "recorded_at": "2026-10-23T17:29:04.085380+08:00"
+}

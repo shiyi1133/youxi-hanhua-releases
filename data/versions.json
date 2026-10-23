@@ -11710,64 +11710,158 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.2",
+          "version": "v0.1.3",
           "audio_variant": "music",
           "variant_id": "8px-music",
           "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-          "output_sha256": "f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda",
+          "output_sha256": "88b264e5dd1f8a079a3d6230b96600e1e9bebf0b10d0404e1165f1a52266523f",
           "output_bytes": 524288,
-          "font_scope": "普通原生8px；标题中文为独立静态字图，不等于正文字号变化。",
-          "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+          "font_scope": "普通对白/菜单/取名/战斗为原生8px；标题为独立静态字图。",
+          "scope": "菜单反复开关死机临界区修复；音乐/静音×普通8px/对白8×12四个限定测试变体。",
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
-            "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
-            "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
-            "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+            "v0.1.3针对v0.1.2菜单反复开关死机；四变体各仅改变30字节，位于两处菜单临界区调用/IE掩码包装与校验和，字体和音频驱动未变。",
+            "提供方四个最终ROM各600次START/B循环，并测自然取名/重复字/删除重填、早期战斗、进度保存和新进程冷读；不是玩家特定存档、完整流程或实机验收。",
+            "四张九宫格分别7/9格与原生单帧像素相符；第7/8格缺独立原生PNG，仅保留提供方对应最终ROM声明，不称9/9独立核验。",
+            "8×12版九宫格所示菜单、取名、战斗仍为8px；未展示8×12对白，不以缩放替代大字取证。",
+            "Issue #68音乐卡顿不属本次菜单死机修复，保持开放；神明乱码、宙斯变身等未验收。",
+            "维护未执行附件源码、未重建、未新增ROM运行、听感测试、全通或实机验收；源码完整性保持未独立确认。"
           ],
           "public_source_assets": [
             {
-              "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
-              "bytes": 13502779,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "asset_id": 665333343,
+              "name": "saga-2-dx-v0.1.3-source-public-r01.zip",
+              "bytes": 13604306,
+              "sha256": "ec9f2043fd3f9d2dec35040db37676d10dc7aaf2365cce95228279c4a8fd1202",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 668619797,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+              "source_batch": "MANUAL_TWO_20261023",
               "bound_audio_variant": "music",
-              "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+              "audio_binding_basis": "STATIC_EXACT_FULL_INPUT_VERSION_FONT_AUDIO_TARGET_IDENTITY_NOT_REBUILT"
             }
           ],
           "public_patch_asset": {
-            "name": "saga-2-dx-v0.1.2-patches-public.zip",
-            "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
-            "bytes": 184877,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
-            "asset_id": 665334101,
+            "name": "saga-2-dx-v0.1.3-patches-public.zip",
+            "bytes": 237855,
+            "sha256": "ddc44e016d02b715fa81ff3631e129e7d2fc4376247e8eb16b4da321450e05f5",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 668621132,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3"
           },
           "public_screenshots": [
             {
               "game_id": "saga-2-dx",
               "font": "8px",
-              "version": "v0.1.2",
+              "version": "v0.1.3",
               "audio_variant": "music",
               "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-              "target_rom_sha256": "f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda",
-              "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
-              "screenshot_bytes": 37424,
-              "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
-              "caption": "v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+              "target_rom_sha256": "88b264e5dd1f8a079a3d6230b96600e1e9bebf0b10d0404e1165f1a52266523f",
+              "screenshot_sha256": "ed7f1be2722f8043454512c237ef26babba576fd5408b2979d72847ebf2bb477",
+              "screenshot_bytes": 24470,
+              "path": "games/saga-2-dx/screenshots/saga-2-dx-v0.1.3-8px-music-nine-grid.png",
+              "caption": "v0.1.3 普通8px最终CGB九格；两格缺独立单帧，按提供方最终ROM绑定记录。",
+              "independent_pixel_matched_cells": 7,
+              "missing_standalone_frame_cells": [
+                7,
+                8
+              ],
               "actual_original_PNG_full_bytes_download_verified": true,
-              "original_PNG_verified_from_private_final_release": true,
-              "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+              "original_PNG_verified_from_exact_public_final_release": true,
+              "public_PNG_bytes_expected_to_equal_verified_original": true,
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
+            }
+          ]
+        },
+        {
+          "font": "8x12",
+          "version": "v0.1.3",
+          "audio_variant": "music",
+          "variant_id": "8x12-music",
+          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+          "output_sha256": "fb86988cf60391f188ee9c0b4b8e8bc0e52d7c8c4e60e0d0c42762b2e1bc755f",
+          "output_bytes": 524288,
+          "font_scope": "仅普通对白原生8×12并上移4px；菜单、取名、战斗和密集UI保持原生8px；本次九宫格未展示8×12对白。",
+          "scope": "菜单反复开关死机临界区修复；音乐/静音×普通8px/对白8×12四个限定测试变体。",
+          "whole_game_acceptance_recorded": false,
+          "hardware_tested_recorded": false,
+          "new_runtime_or_Source_rebuild_by_this_export": false,
+          "known_limits": [
+            "v0.1.3针对v0.1.2菜单反复开关死机；四变体各仅改变30字节，位于两处菜单临界区调用/IE掩码包装与校验和，字体和音频驱动未变。",
+            "提供方四个最终ROM各600次START/B循环，并测自然取名/重复字/删除重填、早期战斗、进度保存和新进程冷读；不是玩家特定存档、完整流程或实机验收。",
+            "四张九宫格分别7/9格与原生单帧像素相符；第7/8格缺独立原生PNG，仅保留提供方对应最终ROM声明，不称9/9独立核验。",
+            "8×12版九宫格所示菜单、取名、战斗仍为8px；未展示8×12对白，不以缩放替代大字取证。",
+            "Issue #68音乐卡顿不属本次菜单死机修复，保持开放；神明乱码、宙斯变身等未验收。",
+            "维护未执行附件源码、未重建、未新增ROM运行、听感测试、全通或实机验收；源码完整性保持未独立确认。"
+          ],
+          "public_source_assets": [
+            {
+              "name": "saga-2-dx-v0.1.3-source-public-r01.zip",
+              "bytes": 13604306,
+              "sha256": "ec9f2043fd3f9d2dec35040db37676d10dc7aaf2365cce95228279c4a8fd1202",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 668619797,
+              "actual_full_SHA_download_verified": true,
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false,
+              "source_batch": "MANUAL_TWO_20261023",
+              "bound_audio_variant": "music",
+              "audio_binding_basis": "STATIC_EXACT_FULL_INPUT_VERSION_FONT_AUDIO_TARGET_IDENTITY_NOT_REBUILT"
+            }
+          ],
+          "public_patch_asset": {
+            "name": "saga-2-dx-v0.1.3-patches-public.zip",
+            "bytes": 237855,
+            "sha256": "ddc44e016d02b715fa81ff3631e129e7d2fc4376247e8eb16b4da321450e05f5",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 668621132,
+            "actual_full_SHA_download_verified": true,
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3"
+          },
+          "public_screenshots": [
+            {
+              "game_id": "saga-2-dx",
+              "font": "8x12",
+              "version": "v0.1.3",
+              "audio_variant": "music",
+              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+              "target_rom_sha256": "fb86988cf60391f188ee9c0b4b8e8bc0e52d7c8c4e60e0d0c42762b2e1bc755f",
+              "screenshot_sha256": "b738718a85c2266bc3dd59c34411acff65c56f79e19171438f22b3cb898c9277",
+              "screenshot_bytes": 24906,
+              "path": "games/saga-2-dx/screenshots/saga-2-dx-v0.1.3-8x12-music-nine-grid.png",
+              "caption": "v0.1.3 对白8×12版最终CGB九格，图中菜单、取名和战斗仍原生8px；未展示8×12对白；两格缺独立单帧，按提供方最终ROM绑定记录。",
+              "independent_pixel_matched_cells": 7,
+              "missing_standalone_frame_cells": [
+                7,
+                8
+              ],
+              "actual_original_PNG_full_bytes_download_verified": true,
+              "original_PNG_verified_from_exact_public_final_release": true,
               "public_PNG_bytes_expected_to_equal_verified_original": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -11776,64 +11870,78 @@
         },
         {
           "font": "8px",
-          "version": "v0.1.2",
+          "version": "v0.1.3",
           "audio_variant": "no-music",
           "variant_id": "8px-nomusic",
           "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-          "output_sha256": "3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00",
+          "output_sha256": "e38d72610fa5ed6eb754e4f7c67e1f0689b9d8520fabd451c35b9d8eb755797b",
           "output_bytes": 524288,
-          "font_scope": "普通原生8px；标题中文为独立静态字图，不等于正文字号变化。",
-          "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+          "font_scope": "普通对白/菜单/取名/战斗为原生8px；标题为独立静态字图。",
+          "scope": "菜单反复开关死机临界区修复；音乐/静音×普通8px/对白8×12四个限定测试变体。",
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
-            "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
-            "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
-            "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+            "v0.1.3针对v0.1.2菜单反复开关死机；四变体各仅改变30字节，位于两处菜单临界区调用/IE掩码包装与校验和，字体和音频驱动未变。",
+            "提供方四个最终ROM各600次START/B循环，并测自然取名/重复字/删除重填、早期战斗、进度保存和新进程冷读；不是玩家特定存档、完整流程或实机验收。",
+            "四张九宫格分别7/9格与原生单帧像素相符；第7/8格缺独立原生PNG，仅保留提供方对应最终ROM声明，不称9/9独立核验。",
+            "8×12版九宫格所示菜单、取名、战斗仍为8px；未展示8×12对白，不以缩放替代大字取证。",
+            "Issue #68音乐卡顿不属本次菜单死机修复，保持开放；神明乱码、宙斯变身等未验收。",
+            "维护未执行附件源码、未重建、未新增ROM运行、听感测试、全通或实机验收；源码完整性保持未独立确认。"
           ],
           "public_source_assets": [
             {
-              "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
-              "bytes": 13502779,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "asset_id": 665333343,
+              "name": "saga-2-dx-v0.1.3-source-public-r01.zip",
+              "bytes": 13604306,
+              "sha256": "ec9f2043fd3f9d2dec35040db37676d10dc7aaf2365cce95228279c4a8fd1202",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 668619797,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+              "source_batch": "MANUAL_TWO_20261023",
               "bound_audio_variant": "no-music",
-              "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+              "audio_binding_basis": "STATIC_EXACT_FULL_INPUT_VERSION_FONT_AUDIO_TARGET_IDENTITY_NOT_REBUILT"
             }
           ],
           "public_patch_asset": {
-            "name": "saga-2-dx-v0.1.2-patches-public.zip",
-            "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
-            "bytes": 184877,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
-            "asset_id": 665334101,
+            "name": "saga-2-dx-v0.1.3-patches-public.zip",
+            "bytes": 237855,
+            "sha256": "ddc44e016d02b715fa81ff3631e129e7d2fc4376247e8eb16b4da321450e05f5",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 668621132,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3"
           },
           "public_screenshots": [
             {
               "game_id": "saga-2-dx",
               "font": "8px",
-              "version": "v0.1.2",
+              "version": "v0.1.3",
               "audio_variant": "no-music",
               "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-              "target_rom_sha256": "3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00",
-              "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
-              "screenshot_bytes": 37424,
-              "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
-              "caption": "v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+              "target_rom_sha256": "e38d72610fa5ed6eb754e4f7c67e1f0689b9d8520fabd451c35b9d8eb755797b",
+              "screenshot_sha256": "40341f4a60c04291306d41cc758278520ef212d9eb905d4fd142d0925d319eb6",
+              "screenshot_bytes": 24469,
+              "path": "games/saga-2-dx/screenshots/saga-2-dx-v0.1.3-8px-nomusic-nine-grid.png",
+              "caption": "v0.1.3 普通8px最终CGB九格；两格缺独立单帧，按提供方最终ROM绑定记录。",
+              "independent_pixel_matched_cells": 7,
+              "missing_standalone_frame_cells": [
+                7,
+                8
+              ],
               "actual_original_PNG_full_bytes_download_verified": true,
-              "original_PNG_verified_from_private_final_release": true,
-              "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+              "original_PNG_verified_from_exact_public_final_release": true,
               "public_PNG_bytes_expected_to_equal_verified_original": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -11842,130 +11950,78 @@
         },
         {
           "font": "8x12",
-          "version": "v0.1.2",
-          "audio_variant": "music",
-          "variant_id": "8x12-music",
-          "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-          "output_sha256": "1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798",
-          "output_bytes": 524288,
-          "font_scope": "仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。",
-          "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
-          "whole_game_acceptance_recorded": false,
-          "hardware_tested_recorded": false,
-          "new_runtime_or_Source_rebuild_by_this_export": false,
-          "known_limits": [
-            "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
-            "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
-            "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
-            "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
-          ],
-          "public_source_assets": [
-            {
-              "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
-              "bytes": 13502779,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "asset_id": 665333343,
-              "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
-              "complete_all_modification_source": null,
-              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
-              "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
-              "bound_audio_variant": "music",
-              "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
-            }
-          ],
-          "public_patch_asset": {
-            "name": "saga-2-dx-v0.1.2-patches-public.zip",
-            "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
-            "bytes": 184877,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
-            "asset_id": 665334101,
-            "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
-          },
-          "public_screenshots": [
-            {
-              "game_id": "saga-2-dx",
-              "font": "8x12",
-              "version": "v0.1.2",
-              "audio_variant": "music",
-              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-              "target_rom_sha256": "1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798",
-              "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
-              "screenshot_bytes": 37424,
-              "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
-              "caption": "v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
-              "actual_original_PNG_full_bytes_download_verified": true,
-              "original_PNG_verified_from_private_final_release": true,
-              "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
-              "public_PNG_bytes_expected_to_equal_verified_original": true,
-              "new_runtime_test_by_this_export": false,
-              "PNG_pixels_modified": false
-            }
-          ]
-        },
-        {
-          "font": "8x12",
-          "version": "v0.1.2",
+          "version": "v0.1.3",
           "audio_variant": "no-music",
           "variant_id": "8x12-nomusic",
           "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-          "output_sha256": "347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180",
+          "output_sha256": "99369f30e5c17a562e0ba2cd4f8bd3486c9862eb87b00c67edfa38c3b645270d",
           "output_bytes": 524288,
-          "font_scope": "仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。",
-          "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+          "font_scope": "仅普通对白原生8×12并上移4px；菜单、取名、战斗和密集UI保持原生8px；本次九宫格未展示8×12对白。",
+          "scope": "菜单反复开关死机临界区修复；音乐/静音×普通8px/对白8×12四个限定测试变体。",
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
-            "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
-            "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
-            "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+            "v0.1.3针对v0.1.2菜单反复开关死机；四变体各仅改变30字节，位于两处菜单临界区调用/IE掩码包装与校验和，字体和音频驱动未变。",
+            "提供方四个最终ROM各600次START/B循环，并测自然取名/重复字/删除重填、早期战斗、进度保存和新进程冷读；不是玩家特定存档、完整流程或实机验收。",
+            "四张九宫格分别7/9格与原生单帧像素相符；第7/8格缺独立原生PNG，仅保留提供方对应最终ROM声明，不称9/9独立核验。",
+            "8×12版九宫格所示菜单、取名、战斗仍为8px；未展示8×12对白，不以缩放替代大字取证。",
+            "Issue #68音乐卡顿不属本次菜单死机修复，保持开放；神明乱码、宙斯变身等未验收。",
+            "维护未执行附件源码、未重建、未新增ROM运行、听感测试、全通或实机验收；源码完整性保持未独立确认。"
           ],
           "public_source_assets": [
             {
-              "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
-              "bytes": 13502779,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
-              "asset_id": 665333343,
+              "name": "saga-2-dx-v0.1.3-source-public-r01.zip",
+              "bytes": 13604306,
+              "sha256": "ec9f2043fd3f9d2dec35040db37676d10dc7aaf2365cce95228279c4a8fd1202",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 668619797,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+              "source_batch": "MANUAL_TWO_20261023",
               "bound_audio_variant": "no-music",
-              "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+              "audio_binding_basis": "STATIC_EXACT_FULL_INPUT_VERSION_FONT_AUDIO_TARGET_IDENTITY_NOT_REBUILT"
             }
           ],
           "public_patch_asset": {
-            "name": "saga-2-dx-v0.1.2-patches-public.zip",
-            "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
-            "bytes": 184877,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
-            "asset_id": 665334101,
+            "name": "saga-2-dx-v0.1.3-patches-public.zip",
+            "bytes": 237855,
+            "sha256": "ddc44e016d02b715fa81ff3631e129e7d2fc4376247e8eb16b4da321450e05f5",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 668621132,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3"
           },
           "public_screenshots": [
             {
               "game_id": "saga-2-dx",
               "font": "8x12",
-              "version": "v0.1.2",
+              "version": "v0.1.3",
               "audio_variant": "no-music",
               "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
-              "target_rom_sha256": "347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180",
-              "screenshot_sha256": "caef9fc6729078c6bc97ba66c8ba63fb7aee5d407dce6ca51546ca96daf359a2",
-              "screenshot_bytes": 37420,
-              "path": "games/saga-2-dx/screenshots/caef9fc6729078c6bc97.png",
-              "caption": "v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+              "target_rom_sha256": "99369f30e5c17a562e0ba2cd4f8bd3486c9862eb87b00c67edfa38c3b645270d",
+              "screenshot_sha256": "b738718a85c2266bc3dd59c34411acff65c56f79e19171438f22b3cb898c9277",
+              "screenshot_bytes": 24906,
+              "path": "games/saga-2-dx/screenshots/saga-2-dx-v0.1.3-8x12-nomusic-nine-grid.png",
+              "caption": "v0.1.3 对白8×12版最终CGB九格，图中菜单、取名和战斗仍原生8px；未展示8×12对白；两格缺独立单帧，按提供方最终ROM绑定记录。",
+              "independent_pixel_matched_cells": 7,
+              "missing_standalone_frame_cells": [
+                7,
+                8
+              ],
               "actual_original_PNG_full_bytes_download_verified": true,
-              "original_PNG_verified_from_private_final_release": true,
-              "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+              "original_PNG_verified_from_exact_public_final_release": true,
               "public_PNG_bytes_expected_to_equal_verified_original": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -12270,6 +12326,279 @@
                   },
                   "actual_original_PNG_full_bytes_download_verified": true,
                   "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "page": "games/saga-2-dx/README.md",
+          "feedback": "games/saga-2-dx/feedback.md"
+        },
+        {
+          "game_id": "saga-2-dx",
+          "game_name": "沙加2 DX",
+          "platform": "GBC",
+          "current_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.2",
+              "audio_variant": "music",
+              "variant_id": "8px-music",
+              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+              "output_sha256": "f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda",
+              "output_bytes": 524288,
+              "font_scope": "普通原生8px；标题中文为独立静态字图，不等于正文字号变化。",
+              "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+                "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
+                "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
+                "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
+                  "bytes": 13502779,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "asset_id": 665333343,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+                  "bound_audio_variant": "music",
+                  "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "saga-2-dx-v0.1.2-patches-public.zip",
+                "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
+                "bytes": 184877,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
+                "asset_id": 665334101,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "saga-2-dx",
+                  "font": "8px",
+                  "version": "v0.1.2",
+                  "audio_variant": "music",
+                  "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+                  "target_rom_sha256": "f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda",
+                  "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
+                  "screenshot_bytes": 37424,
+                  "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
+                  "caption": "v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "original_PNG_verified_from_private_final_release": true,
+                  "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+                  "public_PNG_bytes_expected_to_equal_verified_original": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            },
+            {
+              "font": "8px",
+              "version": "v0.1.2",
+              "audio_variant": "no-music",
+              "variant_id": "8px-nomusic",
+              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+              "output_sha256": "3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00",
+              "output_bytes": 524288,
+              "font_scope": "普通原生8px；标题中文为独立静态字图，不等于正文字号变化。",
+              "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+                "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
+                "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
+                "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
+                  "bytes": 13502779,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "asset_id": 665333343,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+                  "bound_audio_variant": "no-music",
+                  "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "saga-2-dx-v0.1.2-patches-public.zip",
+                "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
+                "bytes": 184877,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
+                "asset_id": 665334101,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "saga-2-dx",
+                  "font": "8px",
+                  "version": "v0.1.2",
+                  "audio_variant": "no-music",
+                  "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+                  "target_rom_sha256": "3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00",
+                  "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
+                  "screenshot_bytes": 37424,
+                  "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
+                  "caption": "v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "original_PNG_verified_from_private_final_release": true,
+                  "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+                  "public_PNG_bytes_expected_to_equal_verified_original": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            },
+            {
+              "font": "8x12",
+              "version": "v0.1.2",
+              "audio_variant": "music",
+              "variant_id": "8x12-music",
+              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+              "output_sha256": "1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798",
+              "output_bytes": 524288,
+              "font_scope": "仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。",
+              "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+                "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
+                "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
+                "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
+                  "bytes": 13502779,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "asset_id": 665333343,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+                  "bound_audio_variant": "music",
+                  "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "saga-2-dx-v0.1.2-patches-public.zip",
+                "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
+                "bytes": 184877,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
+                "asset_id": 665334101,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "saga-2-dx",
+                  "font": "8x12",
+                  "version": "v0.1.2",
+                  "audio_variant": "music",
+                  "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+                  "target_rom_sha256": "1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798",
+                  "screenshot_sha256": "41c7eae6e38555ed6f7956e79350598bcdb206a5f88297cdae74bf34962ce460",
+                  "screenshot_bytes": 37424,
+                  "path": "games/saga-2-dx/screenshots/41c7eae6e38555ed6f79.png",
+                  "caption": "v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "original_PNG_verified_from_private_final_release": true,
+                  "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+                  "public_PNG_bytes_expected_to_equal_verified_original": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            },
+            {
+              "font": "8x12",
+              "version": "v0.1.2",
+              "audio_variant": "no-music",
+              "variant_id": "8x12-nomusic",
+              "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+              "output_sha256": "347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180",
+              "output_bytes": 524288,
+              "font_scope": "仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。",
+              "scope": "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.",
+                "未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。",
+                "无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。",
+                "本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "sha256": "4440120b841f58f92392a24f1905457b1910248f6baa81aee1d441881b8d6c8a",
+                  "bytes": 13502779,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip",
+                  "asset_id": 665333343,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+                  "bound_audio_variant": "no-music",
+                  "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "saga-2-dx-v0.1.2-patches-public.zip",
+                "sha256": "cface6c0213a4645a729f4eea666babd688d82d037a36ce5635ed3eeac19012b",
+                "bytes": 184877,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip",
+                "asset_id": 665334101,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "saga-2-dx",
+                  "font": "8x12",
+                  "version": "v0.1.2",
+                  "audio_variant": "no-music",
+                  "input_sha256": "3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2",
+                  "target_rom_sha256": "347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180",
+                  "screenshot_sha256": "caef9fc6729078c6bc97ba66c8ba63fb7aee5d407dce6ca51546ca96daf359a2",
+                  "screenshot_bytes": 37420,
+                  "path": "games/saga-2-dx/screenshots/caef9fc6729078c6bc97.png",
+                  "caption": "v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "original_PNG_verified_from_private_final_release": true,
+                  "Root_actual_nine_native_frame_pixel_review_sha256": "d32de3924052ecc38e55316f8db20817ca71c9eab08cc7fa6ddbf8a293cb7e48",
+                  "public_PNG_bytes_expected_to_equal_verified_original": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
                 }
               ]
             }
@@ -15933,80 +16262,167 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "8px",
+          "variant_id": null,
           "input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
-          "output_sha256": "21cf09649d8fe9072e985de00b580f8bfdfcd2fab7d453ae33c1cb57384a4773",
+          "output_sha256": "369686ed731496074bf4c30acbd4e19200b41c3201adbc53a5fb7fb9843b4dbc",
           "output_bytes": 4194304,
-          "font_scope": "普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。",
-          "scope": "普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。",
+          "font_scope": "普通 Fusion Pixel 原生8px；图像/tile分区与四固定人物名；CGB，无独立大字或SGB。",
+          "scope": "七张地点/人物标题卡修订；限定测试版。",
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "未自然到达保存点；诊断冷读仅显示有效槽与字段，选择槽后原版和汉化都回开场，不称进度位置恢复。",
-            "后段/全部物品技能/结局、全部最长变量、全通/实机未验；保留未确认可达旧调试素材，未新增取名。"
+            "七张地点/人物标题卡调整；独立差分限于标题卡图像和全局校验和，未改VM或玩法逻辑。",
+            "提供方标题卡验证为1处自然开场、6处原生场景加载参数诊断；不能当自然到达全部后段地点。",
+            "普通九宫格9/9格与所附原生PNG像素精确一致；图8/9为诊断保存及槽位新进程冷读，不证明自然保存点或进度位置恢复。",
+            "自然前期开场/菜单/装备/操作/早期战斗/死亡等为提供方自测；后期、全物品技能、结局、全流程、实机未验收。",
+            "维护仅独立核完整输入/输出/补丁、ZIP、图证与源码静态安全；未执行附件源码、未重建、未新增ROM运行。"
           ],
           "public_source_assets": [
             {
-              "name": "dracula-dark-reign-current-source-b820bbb9046a-public-r01.zip",
-              "sha256": "ca0d7657de75c0870b5449e92d1c4863ce0fca0303fb45024794d3e605c69d72",
-              "bytes": 11369801,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/dracula-dark-reign-current-source-b820bbb9046a-public-r01.zip",
-              "asset_id": 663485983,
+              "name": "dracula-dark-reign-v0.1.1-source-public-r01.zip",
+              "bytes": 11470402,
+              "sha256": "ab57e8f3acb4db2b1da2bd0588645321125f411ecd22ee07bf74062333f56afd",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/dracula-dark-reign-v0.1.1/dracula-dark-reign-v0.1.1-source-public-r01.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 668614117,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/dracula-dark-reign-v0.1.1",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02a",
+              "source_batch": "MANUAL_TWO_20261023",
               "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "audio_binding_basis": "STATIC_EXACT_FULL_INPUT_VERSION_FONT_AUDIO_TARGET_IDENTITY_NOT_REBUILT"
             }
           ],
           "public_patch_asset": {
-            "name": "dracula-dark-reign-current-patches.zip",
-            "sha256": "36a2cc1856e5154d8d6a4de1e9ff3e58f64e4391e66df8557ad7d758337c7564",
-            "bytes": 35907,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/dracula-dark-reign-current-patches.zip",
-            "asset_id": 663511001,
+            "name": "dracula-dark-reign-v0.1.1-patches-public.zip",
+            "bytes": 41024,
+            "sha256": "b693fcd01b6edce91d9e600ea4b546a8f874e456d2f4a999d0647eae5ce6037f",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/dracula-dark-reign-v0.1.1/dracula-dark-reign-v0.1.1-patches-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 668614915,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/dracula-dark-reign-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "dracula-dark-reign",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
-              "target_rom_sha256": "21cf09649d8fe9072e985de00b580f8bfdfcd2fab7d453ae33c1cb57384a4773",
-              "screenshot_sha256": "d125e13f5cd621c49f5c61316d81e21182daf067541edb9bbedd4351ef5d11dd",
-              "screenshot_bytes": 124483,
-              "path": "games/dracula-dark-reign/screenshots/d125e13f5cd621c49f5c.png",
-              "caption": "v0.1.0 普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。 音频：unchanged；自然前期与诊断保存严格区分；Source仅本地附原生PNG可与拼图精确对照。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 1020,
-                "height": 1200,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "369686ed731496074bf4c30acbd4e19200b41c3201adbc53a5fb7fb9843b4dbc",
+              "screenshot_sha256": "50e6286153133edeb9ef7c348ace3c7076e43f315b9790d62c8a28c0bc606a57",
+              "screenshot_bytes": 128670,
+              "path": "games/dracula-dark-reign/screenshots/dracula-dark-reign-v0.1.1-8px-nine-grid.png",
+              "caption": "v0.1.1 普通8px最终CGB九格；图8/9为诊断保存与槽位冷读，不表示自然存档位置恢复。",
+              "independent_pixel_matched_cells": 9,
+              "missing_standalone_frame_cells": [],
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "original_PNG_verified_from_exact_public_final_release": true,
+              "public_PNG_bytes_expected_to_equal_verified_original": true,
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/dracula-dark-reign/README.md",
-      "feedback": "games/dracula-dark-reign/feedback.md"
+      "feedback": "games/dracula-dark-reign/feedback.md",
+      "published_history": [
+        {
+          "game_id": "dracula-dark-reign",
+          "game_name": "德古拉黑暗统治",
+          "platform": "GBC",
+          "current_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px",
+              "input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
+              "output_sha256": "21cf09649d8fe9072e985de00b580f8bfdfcd2fab7d453ae33c1cb57384a4773",
+              "output_bytes": 4194304,
+              "font_scope": "普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。",
+              "scope": "普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "未自然到达保存点；诊断冷读仅显示有效槽与字段，选择槽后原版和汉化都回开场，不称进度位置恢复。",
+                "后段/全部物品技能/结局、全部最长变量、全通/实机未验；保留未确认可达旧调试素材，未新增取名。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "dracula-dark-reign-current-source-b820bbb9046a-public-r01.zip",
+                  "sha256": "ca0d7657de75c0870b5449e92d1c4863ce0fca0303fb45024794d3e605c69d72",
+                  "bytes": 11369801,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/dracula-dark-reign-current-source-b820bbb9046a-public-r01.zip",
+                  "asset_id": 663485983,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02a",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "dracula-dark-reign-current-patches.zip",
+                "sha256": "36a2cc1856e5154d8d6a4de1e9ff3e58f64e4391e66df8557ad7d758337c7564",
+                "bytes": 35907,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/dracula-dark-reign-current-patches.zip",
+                "asset_id": 663511001,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "dracula-dark-reign",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "632cb19b71cbda1876ba3a807ef2e05b6d2d0596130110d6da404bc2f0702758",
+                  "target_rom_sha256": "21cf09649d8fe9072e985de00b580f8bfdfcd2fab7d453ae33c1cb57384a4773",
+                  "screenshot_sha256": "d125e13f5cd621c49f5c61316d81e21182daf067541edb9bbedd4351ef5d11dd",
+                  "screenshot_bytes": 124483,
+                  "path": "games/dracula-dark-reign/screenshots/d125e13f5cd621c49f5c.png",
+                  "caption": "v0.1.0 普通Fusion Pixel8px图像/tile分区汉化，四固定人物名；CGB，无独立大字或SGB。 音频：unchanged；自然前期与诊断保存严格区分；Source仅本地附原生PNG可与拼图精确对照。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 1020,
+                    "height": 1200,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "page": "games/dracula-dark-reign/README.md",
+          "feedback": "games/dracula-dark-reign/feedback.md"
+        }
+      ]
     },
     {
       "game_id": "jikkyou-world-soccer-pocket",
@@ -17015,5 +17431,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-23T05:11:59.915307+08:00"
+  "last_incremental_update_at": "2026-10-23T17:29:04.085380+08:00"
 }

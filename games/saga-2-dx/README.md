@@ -1,68 +1,80 @@
-# 沙加2 DX（限定测试版）
+# 沙加2 DX v0.1.3（限定测试版）
 
 [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原游戏／实际基底：Final Fantasy Legend II DX (user-provided English color modified edition)
+[公开源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/saga-2-dx-v0.1.3)
 
-原输入完整SHA-256：`3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2`（524288字节）。原输入保留其地区、修订、改版或已有汉化基底身份。
+原游戏／实际输入：Final Fantasy Legend II DX (user-provided English color modified edition)
 
-## 8px v0.1.2 music
+原输入完整SHA-256：`3330a0c9187afe8b9a9f33b5975880f9e965f5e5bfa6944e89b4b69f937c40a2`（524288字节）。
 
-字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
+## v0.1.3 8px music
 
-[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
+字号范围：普通对白/菜单/取名/战斗为原生8px；标题为独立静态字图。
 
-目标完整SHA-256：`f00b2308879e0fb7d5b640bbd1593679e7794d2682491b33634b02bb5bb3dbda`（524288字节）。
+目标完整SHA-256：`88b264e5dd1f8a079a3d6230b96600e1e9bebf0b10d0404e1165f1a52266523f`（524288字节）。
 
-![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
+补丁：`SaGa2-DX-zh-v0.1.3-8px-music.ips`；完整SHA-256 `4d28b8ef2a1d372d964a09d8a131d335c4e17f1663fedec617e28650578d0a4b`。
 
-图证：v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip)
 
-## 8px v0.1.2 no-music
+![最终ROM对应实际九宫格](screenshots/saga-2-dx-v0.1.3-8px-music-nine-grid.png)
 
-字号范围：普通原生8px；标题中文为独立静态字图，不等于正文字号变化。
+v0.1.3 普通8px最终CGB九格；两格缺独立单帧，按提供方最终ROM绑定记录。
 
-[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
+## v0.1.3 8x12 music
 
-目标完整SHA-256：`3a1b5c255ab01edb29efa8285c241fd7df660411599241f657b2dda9f1bdaa00`（524288字节）。
+字号范围：仅普通对白原生8×12并上移4px；菜单、取名、战斗和密集UI保持原生8px；本次九宫格未展示8×12对白。
 
-![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
+目标完整SHA-256：`fb86988cf60391f188ee9c0b4b8e8bc0e52d7c8c4e60e0d0c42762b2e1bc755f`（524288字节）。
 
-图证：v0.1.2 普通原生8px；标题中文为独立静态字图，不等于正文字号变化。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+补丁：`SaGa2-DX-zh-v0.1.3-8x12-music.ips`；完整SHA-256 `f9dae0a96811286ac5e3e85acb366301223d3a7c21e1459609a2d45f65790da6`。
 
-## 8x12 v0.1.2 music
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip)
 
-字号范围：仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。
+![最终ROM对应实际九宫格](screenshots/saga-2-dx-v0.1.3-8x12-music-nine-grid.png)
 
-[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
+v0.1.3 对白8×12版最终CGB九格，图中菜单、取名和战斗仍原生8px；未展示8×12对白；两格缺独立单帧，按提供方最终ROM绑定记录。
 
-目标完整SHA-256：`1ac73a079b6349c761cf65a1ac4956cebc8cb805abf2b09466fe2ca941ab3798`（524288字节）。
+## v0.1.3 8px no-music
 
-![对应最终ROM真实九宫格](screenshots/41c7eae6e38555ed6f79.png)
+字号范围：普通对白/菜单/取名/战斗为原生8px；标题为独立静态字图。
 
-图证：v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+目标完整SHA-256：`e38d72610fa5ed6eb754e4f7c67e1f0689b9d8520fabd451c35b9d8eb755797b`（524288字节）。
 
-## 8x12 v0.1.2 no-music
+补丁：`SaGa2-DX-zh-v0.1.3-8px-nomusic.ips`；完整SHA-256 `b505c14d28984f0fb6f7763660d9f9915d86ddbce83844714d6edaa663fff864`。
 
-字号范围：仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip)
 
-[源码包（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-logo-restored-four-variants-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/saga-2-dx-v0.1.2-patches-public.zip)
+![最终ROM对应实际九宫格](screenshots/saga-2-dx-v0.1.3-8px-nomusic-nine-grid.png)
 
-目标完整SHA-256：`347492e8ce7c69bf60485588bc5a50cd4b434df262ced2e2bb735bf950018180`（524288字节）。
+v0.1.3 普通8px最终CGB九格；两格缺独立单帧，按提供方最终ROM绑定记录。
 
-![对应最终ROM真实九宫格](screenshots/caef9fc6729078c6bc97.png)
+## v0.1.3 8x12 no-music
 
-图证：v0.1.2 仅普通对白原生8×12并上移4px，战斗/菜单/取名/密集UI仍8px。 音频：no-music；提供方最终ROM真实CGB九宫格，维护侧新运行未执行。
+字号范围：仅普通对白原生8×12并上移4px；菜单、取名、战斗和密集UI保持原生8px；本次九宫格未展示8×12对白。
 
-## 范围与测试边界
+目标完整SHA-256：`99369f30e5c17a562e0ba2cd4f8bd3486c9862eb87b00c67edfa38c3b645270d`（524288字节）。
 
-- Restore original title logo/background/copyright and add Chinese title in blank rows; title/init/local data/checksum increment.
-- 未自然商店买卖、全地图事件/技能状态/最长变量/首领结局/全通、实机/其它模拟器/联机/其它版存档。
-- 无音乐不是全作卡顿修复；原版/旧汉化非ASCII姓名含义未保证；大字刷新/实机帧率未验。
-- 本次是标题恢复修订；独立核验对应补丁还原完整目标字节及最终九宫格原生像素。本轮维护未执行源码、重新构建或运行游戏；不增加SAVE、冷读或自然全流程通过声明。
+补丁：`SaGa2-DX-zh-v0.1.3-8x12-nomusic.ips`；完整SHA-256 `5afccc52f8259b1cb012b1c356eb0f175749370550346815c7b9f95bf9b9738d`。
 
-维护侧独立补丁应用与目标字节一致；18张本批最终九宫格已各自核对9张原生单帧。未执行源码、未新增游戏运行、全流程或实机验收。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-source-public-r01.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/saga-2-dx-v0.1.3/saga-2-dx-v0.1.3-patches-public.zip)
 
-大字版更容易出现拖慢、刷新残留等问题，遇到请在原反馈楼说明版本和触发方式。
+![最终ROM对应实际九宫格](screenshots/saga-2-dx-v0.1.3-8x12-nomusic-nine-grid.png)
 
-公开问题状态与玩家测试记录见[反馈页](feedback.md)。开放不代表正在修复；已关闭也不能单独证明所有症状或完整游戏验收。
+v0.1.3 对白8×12版最终CGB九格，图中菜单、取名和战斗仍原生8px；未展示8×12对白；两格缺独立单帧，按提供方最终ROM绑定记录。
+
+## 范围与限制
+
+- v0.1.3针对v0.1.2菜单反复开关死机；四变体各仅改变30字节，位于两处菜单临界区调用/IE掩码包装与校验和，字体和音频驱动未变。
+- 提供方四个最终ROM各600次START/B循环，并测自然取名/重复字/删除重填、早期战斗、进度保存和新进程冷读；不是玩家特定存档、完整流程或实机验收。
+- 四张九宫格分别7/9格与原生单帧像素相符；第7/8格缺独立原生PNG，仅保留提供方对应最终ROM声明，不称9/9独立核验。
+- 8×12版九宫格所示菜单、取名、战斗仍为8px；未展示8×12对白，不以缩放替代大字取证。
+- Issue #68音乐卡顿不属本次菜单死机修复，保持开放；神明乱码、宙斯变身等未验收。
+- 维护未执行附件源码、未重建、未新增ROM运行、听感测试、全通或实机验收；源码完整性保持未独立确认。
+
+源码完整性未独立确认；维护源码执行、重建、ROM新增运行均未执行。
+
+大字版更容易出现拖慢、刷新残留等问题，遇到请及时在原楼反馈。
+
+[此前完整版本记录](history/readme-a8b54d0c0eb2b524f700.md)。

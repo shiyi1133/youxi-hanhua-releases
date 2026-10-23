@@ -271,6 +271,177 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154062894676",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062894676#154062894676",
+      "created_at": "2026-10-23T16:35:43+08:00",
+      "quote": "繼續反饋oni4，檔案一樣Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px這個。 圖一二是狀態列斜線的不正常與正常顯示，偶爾會正常，目前不清楚原因為何。 圖三是岩國村神社的對話，其他地方顯示京都城的地名此對話變成“京城的城堡”，可在下次更新統一。 圖四是對同伴使用法術時游標異常。 圖五是被狀態攻擊時顯示異常，但大概經過京都城劇情後的戰役遭受攻擊時的狀態顯示變為圖六正常顯示了，目前目前至遊戲約三分之二處為止都正常顯示。 遊戲中九州的城堡“久米本城”可以正名為夈元城，夈字發音同齋戒的齋。 目前實際遊玩較為影響體驗的只有進菜單時卡頓，以及菜單與戰鬥中選擇法術時會較為嚴重的卡頓拖慢，其他部分皆正常。 這一兩天會將它盡速通關，感謝。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cf8902597faccdd976c6b3ed0bf9dddd583591a811a3b46e23ad25302e19ef13",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab64b4821cc7b136afc378311e74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f05cdf9bbe0d8dc47951.jpg",
+          "SHA256_of_archived_preview": "f05cdf9bbe0d8dc479517ae1e429ec6711ba80c10bd2e7f3a33752e8213ff3b0",
+          "archived_bytes": 1457171,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c14627738bd4b31c4729d8bcc1d6277f9f2ff8c8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/0441456b1c45f39bcda9.jpg",
+          "SHA256_of_archived_preview": "0441456b1c45f39bcda9210589d22d3efba9ac71737f881ac693ac6f666c2889",
+          "archived_bytes": 1375651,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b1583387e950352acb75690f1543fbf2b3118bc8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/82a8e2ddf4481eea010a.jpg",
+          "SHA256_of_archived_preview": "82a8e2ddf4481eea010ad25cd2b785a7b86755d45c4881060099e9379330542d",
+          "archived_bytes": 1691302,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c14627738bd4b31c4729d8bcc1d6277f9f2ff8c8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/0441456b1c45f39bcda9.jpg",
+          "SHA256_of_archived_preview": "0441456b1c45f39bcda9210589d22d3efba9ac71737f881ac693ac6f666c2889",
+          "archived_bytes": 1375651,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2aefa4345982b2b7e26f68c377adcbef77099b74.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/4eeaf8a88a74fa1ca5c7.jpg",
+          "SHA256_of_archived_preview": "4eeaf8a88a74fa1ca5c791c488ca81872ce3b54ba545a720d10e42e59de8085d",
+          "archived_bytes": 1416608,
+          "image_index": 5,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbfa6e8b28f8096b63f724a8c8.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/a6488fe8c1e1c7958136.jpg",
+          "SHA256_of_archived_preview": "a6488fe8c1e1c795813671d9d6ef246b66b9e8b7f7eafe77feb33f8fed49d845",
+          "archived_bytes": 1628760,
+          "image_index": 6,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154063246519",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063246519#154063246519",
+      "created_at": "2026-10-23T18:32:15+08:00",
+      "quote": "補充oni4，剛忘了一個，如下列兩圖所示，頭部防具最低階的兩個，分別是防禦10跟防禦16的兩項防具，防禦力不同但翻譯名稱都是頭巾，如果可以適當的將其中一個改為頭帶做個區分較好。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "b50f0cfa7ad37be976b2457cbc6f82fa01ab79d79f948129709c0ce5805027b9",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1c80dd0735fae6cdeb36e46649b30f2443a70f66.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b46b692e5b36439a9587.jpg",
+          "SHA256_of_archived_preview": "b46b692e5b36439a958783c66faa573de978b5566c522a4358cd85997adda1a3",
+          "archived_bytes": 1589357,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c050f2edab64034fda4f8d01e9c379310b551d66.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/d9b1225204b826fe6299.jpg",
+          "SHA256_of_archived_preview": "d9b1225204b826fe62997d6d0a725621d5fedb8973923e21c161ad79b11e44ea",
+          "archived_bytes": 1632483,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154063558744",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063558744#154063558744",
+      "created_at": "2026-10-23T20:12:00+08:00",
+      "quote": "關於oni4的人名地名稍微補充整合一下： 01.第一個同伴岩鬼丸->雁木丸。02.忘卻鎮->忘卻町。03.火狼洞窟/家老洞窟->彼廊洞窟。04.遠矢村->遠野村。05.夕陽鎮->夕日町。06.田岳村->多掛村。07.地縛里->地張之里。08.白館鎮->泊立町。09.同伴“姬乃”->秘女乃。10.久米本城->夈元城。 11.主角妹妹本名“命”->御琴。12.主角原名“御珈丸”->音鬼丸。 以上為上網找中文日文攻略整合的資料，供up改版時參考。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "dabe4933498450b9fd6d88fbfffe6cb5a95ffea537aea6e8605fffb6c417642a",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154064248278",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064248278#154064248278",
+      "created_at": "2026-10-23T23:42:09+08:00",
+      "quote": "回報oni4，全流程正常通關無惡性bug，全技能習得，全最強裝備取得，也打完隱王拿草薙劍。 缺點一樣是菜單與戰鬥時進法術或裝備等菜單拖慢問題而已。 建議人名“妖鬼郎”->妖奇老。物品名“叢云劍”->天叢云劍。 感謝漢化",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6e77f4e81aed6f42bec0cde93c19532c822369592b2940394febe73ff7935e3c",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/77a89b45d688d43fff27daf53b1ed21b0ff43b52.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/c712a1140a684a47970a.jpg",
+          "SHA256_of_archived_preview": "c712a1140a684a47970a96c5a605a912dcfcd493f498dc303e79a59a49bcdb7c",
+          "archived_bytes": 1615861,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4856f5039245d688a38cf9a3e2c27d1ed31b2452.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/50648ccace07bd3200bc.jpg",
+          "SHA256_of_archived_preview": "50648ccace07bd3200bc8487c15ab1f86b84116d16a87b1ad2896b24b8c8353d",
+          "archived_bytes": 1586468,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/20b39e2bd40735fa6d7e05bed8510fb30e240852.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/eaaf20047496ddc9c253.jpg",
+          "SHA256_of_archived_preview": "eaaf20047496ddc9c25336ca6412e07ab471f9045d3eb76e497e06af13e16ed8",
+          "archived_bytes": 1552415,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42bc763e6709c93d177c45f0d93df8dcd0005452.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/7eaa257ce4ea9ad3f555.jpg",
+          "SHA256_of_archived_preview": "7eaa257ce4ea9ad3f555104a7ecf0fda9e00b591f4dfcecd14fed438e7c7d411",
+          "archived_bytes": 1629032,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -364,7 +535,7 @@
       ],
       "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "reported_version": "v0.12",
       "reported_font": null,
@@ -372,12 +543,57 @@
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154054053147"
+        "11092365551|154054053147",
+        "11092365551|154062894676",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|oni4-status-and-performance-followup",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "ONIⅣ v0.1.2普通8px：状态显示、菜单/法术拖慢及玩家通关反馈",
+          "feedback_summary": "原103继续open：玩家给精确文件名、HP斜线异常/恢复正常与状态攻击画面；后续称全流程通关、全技能/最强装备/隐王，但菜单/法术/装备拖慢仍在。通关仅玩家陈述，不能冒称维护全通或关闭性能/状态缺陷。同伴法术光标另单，译名另113。",
+          "source_feedback_keys": [
+            "11092365551|154062894676",
+            "11092365551|154064248278"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "oni-iv",
+              "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.2限定测试版",
+                  "output_SHA256": "0b27b9ede35f04aa43410b988e30ea41e9bb6037191bf0051f6ea211f605bfcc"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_clear_statement_only": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "terminology_and_equipment_rename_not_confirmed_errors": true
+        }
+      ]
     },
     {
       "public_case_key": "case-ccaa1786fe65adf6",
@@ -413,7 +629,7 @@
       ],
       "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.2",
       "reported_font": "8px",
@@ -422,7 +638,11 @@
       "actual_reporter_output_sha256": null,
       "identity_scope": "SINGLE_RECORDED_GAME_REFERENCE",
       "public_feedback_keys": [
-        "11092365551|154059170832"
+        "11092365551|154059170832",
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -430,7 +650,115 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|oni4-terminology-and-equipment-suggestions",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "ONIⅣ v0.1.2普通8px：新增人地名校准资料与同名装备建议",
+          "feedback_summary": "补原113：保留玩家列举12项人地名、京都城/京城的城堡、妖鬼郎/妖奇老、丛云剑/天丛云剑，以及防10/防16两头巾区分建议。攻略转述和风格/区分建议不是已证译错；逐项核日文场景/原文，不自行应用，不额外把建议加纯BUG计数。",
+          "source_feedback_keys": [
+            "11092365551|154062894676",
+            "11092365551|154063246519",
+            "11092365551|154063558744",
+            "11092365551|154064248278"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "oni-iv",
+              "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.2限定测试版",
+                  "output_SHA256": "0b27b9ede35f04aa43410b988e30ea41e9bb6037191bf0051f6ea211f605bfcc"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_clear_statement_only": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "terminology_and_equipment_rename_not_confirmed_errors": true
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-78f01adaf427d2ea",
+      "public_problem_key": "problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154062894676"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|oni4-companion-spell-cursor",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
+          "feedback_summary": "只登记本反馈图四“对同伴使用法术时游标异常”新消费者。与103菜单拖慢/HP状态显示分开，不据同一原反馈推断同根因。",
+          "source_feedback_keys": [
+            "11092365551|154062894676"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "oni-iv",
+              "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.2限定测试版",
+                  "output_SHA256": "0b27b9ede35f04aa43410b988e30ea41e9bb6037191bf0051f6ea211f605bfcc"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "player_clear_statement_only": true,
+          "maintainer_full_playthrough_acceptance": false,
+          "terminology_and_equipment_rename_not_confirmed_errors": true
+        }
+      ]
     }
   ],
   "problems": [
@@ -511,7 +839,7 @@
       ],
       "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。；同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-be4e55694caf28dc",
@@ -519,7 +847,9 @@
       ],
       "public_feedback_keys": [
         "11092365551|154054053147",
-        "11092365551|154057843413"
+        "11092365551|154057843413",
+        "11092365551|154062894676",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -533,16 +863,40 @@
       ],
       "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
       "state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-8f884e0516c7046d"
       ],
       "public_feedback_keys": [
-        "11092365551|154059170832"
+        "11092365551|154059170832",
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-78f01adaf427d2ea"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154062894676"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
@@ -596,7 +950,105 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-d33d1180c3696893",
+      "game_id": "oni-iv",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154064806157",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064806157#154064806157",
+      "text": "@吉他手阿室 状态栏、法术游标、菜单拖慢及人名地名、装备译名建议已一起记录。感谢你反馈全流程通关，后续继续排查剩余问题。",
+      "text_sha256": "25f477d9ee100041be5b80d76ce71a428a51e4e3675c533c7741061d03181d6b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:54:49.469002+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-0412|oni4-status-and-performance-followup",
+      "public_case_key": "case-be4e55694caf28dc",
+      "public_problem_key": "problem-cb6bf37dd471ed60",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "ONIⅣ v0.1.2普通8px：状态显示、菜单/法术拖慢及玩家通关反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062894676",
+        "11092365551|154064248278"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-0412|oni4-companion-spell-cursor",
+      "public_case_key": "case-78f01adaf427d2ea",
+      "public_problem_key": "problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062894676"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-0412|oni4-terminology-and-equipment-suggestions",
+      "public_case_key": "case-8f884e0516c7046d",
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "ONIⅣ v0.1.2普通8px：新增人地名校准资料与同名装备建议",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

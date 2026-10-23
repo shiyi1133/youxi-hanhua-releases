@@ -3,10 +3,185 @@
   "game_id": "bugsite-beta",
   "game_name": "网络冒险记 虫网世界 贝塔版",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154064536603",
+      "parent_pid": "154022398676",
+      "floor": 36,
+      "public_nickname": "bantuwang1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064536603#154064536603",
+      "created_at": "2026-10-24T01:30:20+08:00",
+      "quote": "rom：bugsite_zh_v1.0.1_10px，游戏开始不久截图这里有几段没翻译",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ffb8e12cbb2b362e830ae2a87fac4029ea714bbe5011e63342326fedebce200c",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d7cb3da85edf8db18dd736634f23dd54574e7463.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/770a3a088ed2ced8d8f7.jpg",
+          "SHA256_of_archived_preview": "770a3a088ed2ced8d8f71f7070c8db9a6673ec126f67b57597118ef550495ede",
+          "archived_bytes": 207821,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bf0357df8db1cb130e9076149b54564e93584b63.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/5d0891b71febdc52dce6.jpg",
+          "SHA256_of_archived_preview": "5d0891b71febdc52dce626953de69afd58c56a03ac491abe1f72170775a5eb51",
+          "archived_bytes": 207336,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-11c5669c33e4f522",
+      "public_problem_key": "problem-e31f04675966623e",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "summary": "[覆盖反馈] 虫网世界贝塔版10px v1.0.1：开场机器人自我介绍残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "public_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|bugsite-intro-Japanese",
+          "game_ids": [
+            "bugsite-beta"
+          ],
+          "summary": "[覆盖反馈] 虫网世界贝塔版10px v1.0.1：开场机器人自我介绍残留日文",
+          "feedback_summary": "玩家已明确10px文件与v1.0.1；两图为开场机器人/AI自我介绍日文，不把整段漏译仅归原艺术Logo。普通8px仍v1.0.0，不混版本。",
+          "source_feedback_keys": [
+            "11092365551|154064536603"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v1.0.1",
+          "reported_font": "10px-dialogue",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "bugsite-beta",
+              "original_input_SHA256": "fd7b902f7c7dc0ac0ef425b17995bdb1196eda0920b0a5bbbd65b0e13b72ea50",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v1.0.0测试版",
+                  "output_SHA256": "552eac0abe276efe30eb76a8b67c56310dc36f8dc30262d3c839beadf75bffe1"
+                },
+                {
+                  "font": "10px-dialogue",
+                  "audio_variant": null,
+                  "version": "v1.0.1大字号排版限定修订测试版",
+                  "output_SHA256": "a6a99001a4c152da690ead867b1ddcf0588db92254a3991d3d4552d042ec01aa"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-e31f04675966623e",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "summary": "[覆盖反馈] 虫网世界贝塔版10px v1.0.1：开场机器人自我介绍残留日文",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-11c5669c33e4f522"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-9a4d345c6da3c992",
+      "game_id": "bugsite-beta",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154022398676",
+      "floor": 36,
+      "pid": "154064804218",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064804218#154064804218",
+      "text": "@bantuwang1 10px v1.0.1这两处日文对白已记录，后续排查。",
+      "text_sha256": "01cc64b8524a1827def16c8281821f88bad6450e34017e734b976d05d44bf15a",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:53:08.700482+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-0412|bugsite-intro-Japanese",
+      "public_case_key": "case-11c5669c33e4f522",
+      "public_problem_key": "problem-e31f04675966623e",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "summary": "[覆盖反馈] 虫网世界贝塔版10px v1.0.1：开场机器人自我介绍残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

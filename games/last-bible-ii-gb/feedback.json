@@ -3,8 +3,10 @@
   "game_id": "last-bible-ii-gb",
   "game_name": "女神转生外传：最后的圣经Ⅱ（黑白GB版）",
   "original_input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
-  "public_case_keys": [],
-  "case_count": 0,
+  "public_case_keys": [
+    "case-6f538ad1870af685"
+  ],
+  "case_count": 1,
   "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
@@ -131,7 +133,180 @@
           "independent_pixel_matched_cells": 9
         }
       ]
+    },
+    {
+      "public_reply_key": "reply-5c741ab4d53ba047",
+      "game_id": "last-bible-ii-gb",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "pid": "154064809247",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064809247#154064809247",
+      "text": "@炽天火3 黑白GB版《最后的圣经Ⅱ》的声音/开场拖慢和对白黑块已记录。请补ROM完整文件名或实际版本、字号，方便核对。",
+      "text_sha256": "b3c4ccb5293a2fc03f6bae8b206636f04ec8aef861c8cc43bc5405a543985020",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:57:07.202407+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154064717870",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064717870#154064717870",
+      "created_at": "2026-10-24T03:27:57+08:00",
+      "quote": "女神转生外传最后的圣经2进入游戏正常，目前发现： 1.人物对话和菜单指令执行时候声音会有卡顿拖慢 2.已对话部分会有文字黑块出现 3.开局背景介绍有拖慢情况",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "41d467ac42aaa14167614ca089fba5e8c70e1bebf148cdd59c2aaf705b98ef5f",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/62fb3c2ac65c10385b317bc5f4119313b17e8991.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/968cf920ac3341f7cd02.jpg",
+          "SHA256_of_archived_preview": "968cf920ac3341f7cd0250f7aa7df87b65d0367d04388ff93714e755d6e912e1",
+          "archived_bytes": 166416,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b12ce050352ac65c174ad374bdf2b21192138a91.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/a90e1fc11c816cecf75a.jpg",
+          "SHA256_of_archived_preview": "a90e1fc11c816cecf75a24ce72ed67a7339ecabc09dad4f11e7141438787ee33",
+          "archived_bytes": 171740,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",
+          "game_ids": [
+            "last-bible-ii-gb"
+          ],
+          "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
+          "feedback_summary": "原需求楼为黑白GB两作，图为黑白二代；必须与GBC last-bible-ii输入、版本、字号分开。两图支持黑块现象，声音/开场拖慢仅玩家文本。玩家未给实际文件版本字号，保留unknown；最新v0.1.0普通8px只作参考，补问实际文件名或版本/字号。",
+          "source_feedback_keys": [
+            "11092365551|154064717870"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "last-bible-ii-gb",
+              "original_input_SHA256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.0",
+                  "output_SHA256": "341263f49d7637c4442a69b9d7dc09589c0550af57622403d42389646903ed40"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "black_and_white_GB_not_GBC": true,
+          "player_actual_version_and_font_unconfirmed": true,
+          "current_release_only_a_reference_not_player_identity": true
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6f538ad1870af685"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 121,
-  "open_pure_BUG_count": 44,
-  "open_requests_or_other_count": 16,
-  "open_classification_unconfirmed_count": 40,
+  "problem_count": 132,
+  "open_pure_BUG_count": 53,
+  "open_requests_or_other_count": 19,
+  "open_classification_unconfirmed_count": 39,
   "problems": [
     {
       "public_problem_key": "problem-39bfe9ad4346add4",
@@ -193,6 +193,7 @@
         "gegege-kitarou",
         "jikkyou-world-soccer-pocket",
         "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
         "mario-tennis-gb",
         "miracle-of-the-zone-2",
         "monster-traveler",
@@ -209,6 +210,7 @@
       "case_keys": [
         "case-1826114663d9d86d",
         "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
         "case-4ab74c8d26e6d9c2",
         "case-4fc1b958aac9569b",
         "case-6bd0fcf592305cbc",
@@ -288,6 +290,8 @@
         "11092365551|154054296408",
         "11092365551|154054306070",
         "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -296,7 +300,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
     },
@@ -670,8 +674,8 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
       "case_keys": [
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
@@ -701,12 +705,19 @@
         "11092365551|154058601449",
         "11092365551|154058621132",
         "11092365551|154058633740",
-        "11092365551|154058646517"
+        "11092365551|154058646517",
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有运行/显示BUG；本次只补同编号已登记范围，不新增问题。"
     },
     {
       "public_problem_key": "problem-45c6c9416c578449",
@@ -2376,7 +2387,7 @@
       ],
       "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。；同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-be4e55694caf28dc",
@@ -2384,7 +2395,9 @@
       ],
       "public_feedback_keys": [
         "11092365551|154054053147",
-        "11092365551|154057843413"
+        "11092365551|154057843413",
+        "11092365551|154062894676",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2563,13 +2576,17 @@
       ],
       "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
       "state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-8f884e0516c7046d"
       ],
       "public_feedback_keys": [
-        "11092365551|154059170832"
+        "11092365551|154059170832",
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2603,14 +2620,15 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
-        "11092365551|154060968332"
+        "11092365551|154060968332",
+        "11092365551|154063811817"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -2858,13 +2876,236 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-78f01adaf427d2ea"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154062894676"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-04cccd019baeb936",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "summary": "[覆盖反馈] 庇护区区长：START后SELECT收藏品界面恢复英文",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-5548a0af702d1591"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063415679"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-0db6bd45feeb8281",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[BUG待复现] 沙加1 v1.0.1：战斗选择逃跑后死机",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-2af8155d7ffb992e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063176256"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-62bcf2511c2f1d5f",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[BUG待复现] 沙加1 v1.0.1：战斗阵亡后角色名字乱码",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-bcecbd38e6efe4aa"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063313518"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7c55eeb945e612a0",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：PUSH START左侧残留署名字形",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6dce938cce2d0e78"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063799378"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6f538ad1870af685"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-ab91415dc04b6622",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-e1e312e2ff4d2255"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063853152"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-bc2a5521fb75a760",
+      "game_ids": [
+        "pocket-king"
+      ],
+      "summary": "[BUG待核版本] 口袋国王：人物/光标移动后地图与菜单乱码",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-aa0b1cca78339430"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154064660737"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-cf1dcde252ac2624",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1c81e259d36c5e96"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063859004"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-d471fedd2626e9fd",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：状态图标/词条及保存界面闪烁",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-0519710788cd54cd"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063772954",
+        "11092365551|154063779489",
+        "11092365551|154063791789"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-e31f04675966623e",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "summary": "[覆盖反馈] 虫网世界贝塔版10px v1.0.1：开场机器人自我介绍残留日文",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-11c5669c33e4f522"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

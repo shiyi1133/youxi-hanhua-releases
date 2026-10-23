@@ -52,3 +52,88 @@
 [已公开答复](https://tieba.baidu.com/p/11092365551?pid=154061178145#154061178145)：@醒着做梦ლ Koto v0.1.0普通8px的对白字形镜像，以及设置、石碑、老师对白和战斗残留日文都已记录，截图够用，后续排查。
 
 玩家实际输入/输出完整SHA保持未知；公开答复属于登记/信息回复，不是ROM新交付或修复完成通知。
+
+## 20261024-0412 公开反馈补充
+
+公开 BUG 入口：[提交反馈](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new/choose)。
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063772954#154063772954)
+
+> 8px 0.1.0，进入状态页面，画面上方的六个图标，图标下方的中文词条的显示会闪烁
+
+![玩家公开反馈原图](../../feedback/images/61d430b2abda2b9ac08d.jpg)
+
+![玩家公开反馈原图](../../feedback/images/80cf8ae2160038f6ba98.jpg)
+
+![玩家公开反馈原图](../../feedback/images/3a068629e672f4b90bc0.jpg)
+
+![玩家公开反馈原图](../../feedback/images/2b5d15997238194a1ddc.jpg)
+
+![玩家公开反馈原图](../../feedback/images/378da4eabb0145415252.jpg)
+
+![玩家公开反馈原图](../../feedback/images/74add5bffa445828be49.jpg)
+
+![玩家公开反馈原图](../../feedback/images/f14cae68d5fba9898341.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063779489#154063779489)
+
+> 8px 0.1.0，状态页面，左上方两个图标，图标本身会闪烁（图标闪烁，文字也闪烁）
+
+![玩家公开反馈原图](../../feedback/images/9f4e9b7a6469edef44c6.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063791789#154063791789)
+
+> 8px 0.1.0，存档页面上方文字的显示不稳定，文字会轻微闪烁，存档成功后有0.2秒的短暂花屏（图4）
+
+![玩家公开反馈原图](../../feedback/images/9f4e9b7a6469edef44c6.jpg)
+
+![玩家公开反馈原图](../../feedback/images/a8ffbd0a425f035a319e.jpg)
+
+![玩家公开反馈原图](../../feedback/images/0da055cafab2bc28c830.jpg)
+
+![玩家公开反馈原图](../../feedback/images/aa8d40074d2f9373f827.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063799378#154063799378)
+
+> 8px 0.1.0，标题画面显示“push start”时，在其左边会有汉化作者名字的首字“哇”的残留“图1。排版问题？
+
+![玩家公开反馈原图](../../feedback/images/6c685ef7e2f08605d743.jpg)
+
+![玩家公开反馈原图](../../feedback/images/b46352a3e457ea020aaf.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063807720#154063807720)
+
+> 8px 0.1.0，对话文本超出对话框，对话框右侧横线缺失
+
+![玩家公开反馈原图](../../feedback/images/f887fbad99acdd2718f1.jpg)
+
+![玩家公开反馈原图](../../feedback/images/8e0fdda28c4f00ecc3ef.jpg)
+
+![玩家公开反馈原图](../../feedback/images/ec789e4df74e201184be.jpg)
+
+![玩家公开反馈原图](../../feedback/images/b65714aaeb2050f5debd.jpg)
+
+![玩家公开反馈原图](../../feedback/images/8be594b07fc09f8f4aaf.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063809711#154063809711)
+
+> 8px 0.1.0，对话文本超出对话框，且显示乱码
+
+![玩家公开反馈原图](../../feedback/images/8d4516b765f868c7a1cd.jpg)
+
+![玩家公开反馈原图](../../feedback/images/42b1a166bd8436e73aee.jpg)
+
+170楼 · 球总好学 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154063811817#154063811817)
+
+> 8px 0.1.0，对话文本，部分未翻译，日文残留
+
+![玩家公开反馈原图](../../feedback/images/ddcaa62aac56f982fcb6.jpg)
+
+- [BUG待复现] Koto Battle v0.1.0普通8px：状态图标/词条及保存界面闪烁：已记录，开放待核。
+- [BUG待复现] Koto Battle v0.1.0普通8px：PUSH START左侧残留署名字形：已记录，开放待核。
+- Koto Battle v0.1.0普通8px：对白越右边框、边框缺失及同画面乱码：已记录，开放待核。
+- Koto Battle v0.1.0普通8px：新增短句日文覆盖反馈：已记录，开放待核。
+
+[已公开登记答复](https://tieba.baidu.com/p/11092365551?pid=154064808718#154064808718)：@球总好学 v0.1.0普通8px的状态/存档闪烁、标题残留、对白越界乱码及日文漏译已一起记录，后续排查。
+
+除另注已实收核验的译版 ROM 外，玩家实际输入/输出 SHA 未核定。图片与通关描述仅为玩家反馈；本次没有新增维护运行复现、修复或完整流程验收。

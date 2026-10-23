@@ -4665,8 +4665,258 @@
           "independent_pixel_matched_cells": 9
         }
       ]
+    },
+    {
+      "public_reply_key": "reply-9a4d345c6da3c992",
+      "game_id": "bugsite-beta",
+      "game_ids": [
+        "bugsite-beta"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154064536603"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154022398676",
+      "floor": 36,
+      "pid": "154064804218",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064804218#154064804218",
+      "text": "@bantuwang1 10px v1.0.1这两处日文对白已记录，后续排查。",
+      "text_sha256": "01cc64b8524a1827def16c8281821f88bad6450e34017e734b976d05d44bf15a",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:53:08.700482+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-21913c2468adf06b",
+      "game_id": "shin-megami-tensei-card-summoner",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063853152",
+        "11092365551|154063859004"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154047071998",
+      "floor": 162,
+      "pid": "154064808031",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064808031#154064808031",
+      "text": "@球总好学 v0.1.0普通8px的取名黑条、对战开场日文和“主要阶段”栏残留已一起记录，后续排查。",
+      "text_sha256": "9ef262b18ba62d3eec921b64ad9a6078cba8556431a55f61bf38f5479ff15396",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:56:08.311209+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-8129739d9be4086f",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154063772954",
+        "11092365551|154063779489",
+        "11092365551|154063791789",
+        "11092365551|154063799378",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154063811817"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154064808718",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064808718#154064808718",
+      "text": "@球总好学 v0.1.0普通8px的状态/存档闪烁、标题残留、对白越界乱码及日文漏译已一起记录，后续排查。",
+      "text_sha256": "2f9d535dc8c6d2aa97b782202430c3e80717f4d75b18f6ac1ada80a429cfdd28",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:56:41.716899+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-5c741ab4d53ba047",
+      "game_id": "last-bible-ii-gb",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154064717870"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "pid": "154064809247",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064809247#154064809247",
+      "text": "@炽天火3 黑白GB版《最后的圣经Ⅱ》的声音/开场拖慢和对白黑块已记录。请补ROM完整文件名或实际版本、字号，方便核对。",
+      "text_sha256": "b3c4ccb5293a2fc03f6bae8b206636f04ec8aef861c8cc43bc5405a543985020",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:57:07.202407+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-deea96fccbf2154f",
+      "game_id": "mayor-of-sanctuary",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154063415679"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040199569",
+      "floor": 117,
+      "pid": "154064806892",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064806892#154064806892",
+      "text": "@可可洛图书馆 v1.0.0普通8px收藏品界面切回英文已记录，后续排查。感谢通关反馈。",
+      "text_sha256": "59e06da6e4976b7839af5033ea8535c8c6ae9e773c9bc61428371d885dcbbf00",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:55:16.173164+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-d33d1180c3696893",
+      "game_id": "oni-iv",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062894676",
+        "11092365551|154063246519",
+        "11092365551|154063558744",
+        "11092365551|154064248278"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154064806157",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064806157#154064806157",
+      "text": "@吉他手阿室 状态栏、法术游标、菜单拖慢及人名地名、装备译名建议已一起记录。感谢你反馈全流程通关，后续继续排查剩余问题。",
+      "text_sha256": "25f477d9ee100041be5b80d76ce71a428a51e4e3675c533c7741061d03181d6b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:54:49.469002+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-5cd62465409ce466",
+      "game_id": "pocket-king",
+      "game_ids": [
+        "pocket-king"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154064660737"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154044735608",
+      "floor": 147,
+      "pid": "154064807407",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064807407#154064807407",
+      "text": "@恩膝盖 移动人物或光标后乱码已记录。请补ROM完整文件名或实际版本、字号，方便核对。",
+      "text_sha256": "779b9fc6d57a87c791e79cfeeaf4c1f2c6f579166b329db1c01f00829909268b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:55:40.715280+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-6890398aa916db68",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154064805250",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064805250#154064805250",
+      "text": "@球总好学 v0.1.4普通8px的吃包子界面、召唤兽说明/名称/菜单异常和首个BOSS日文已一起记录，后续排查。",
+      "text_sha256": "25b98432cc82d433cfcfd46ad32c40a898c923390e9d07c32ac470c0c4871238",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:54:07.031014+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-590557babe7b0fbd",
+      "game_id": "saga-1",
+      "game_ids": [
+        "saga-1"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154063176256",
+        "11092365551|154063313518"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "pid": "154064804797",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064804797#154064804797",
+      "text": "@♬肚皮吸碗🎶 v1.0.1逃跑死机和阵亡角色姓名乱码已一起记录，后续排查。",
+      "text_sha256": "33d9f8bf42d7a251fceaef8ef5207c0d95a55eee167e51ff535c3eb6d7a82584",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:53:30.008933+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 58,
-  "last_incremental_update_at": "2026-10-24T03:00:43.137691+08:00"
+  "row_count": 67,
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00"
 }

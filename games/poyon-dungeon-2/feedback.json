@@ -562,6 +562,230 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154062893301",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062893301#154062893301",
+      "created_at": "2026-10-23T16:35:15+08:00",
+      "quote": "8px 0.1.4，第一大关迷宫中，这个房间里面，跟人进行吃包子比赛的界面，中文显示错误。图4和图5的左上方文字、右上方文字、中间位置的左侧两行文字。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6baa7091dd90afd4e514cfa46ac9cefe1f9a4658afe7d861cae06f42645e12a3",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5f948e94a4c27d1e525777c35dd5ad6edcc438eb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/880812e5a242d17f0065.jpg",
+          "SHA256_of_archived_preview": "880812e5a242d17f00655ab2a262c9ccc8711cb1826e57a8d4668a400cae8ee1",
+          "archived_bytes": 221795,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/77a89b45d688d43ffad8ddf53b1ed21b0ff43beb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/53c2a59fc1df80dbb1e6.jpg",
+          "SHA256_of_archived_preview": "53c2a59fc1df80dbb1e6b5bae928e7a4f6e2c8e13c8fbe0a77de43d63ad44737",
+          "archived_bytes": 165616,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5d23dd3f8794a4c20252ab2c48f41bd5ac6e39eb.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/bd08416996d6d1ebcd90.jpg",
+          "SHA256_of_archived_preview": "bd08416996d6d1ebcd9082e18b212a49b17ce937b52506d1bdfca0baa9f3ca7a",
+          "archived_bytes": 169250,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/511f43ed2e738bd40c50fe36e78b87d6267ff9f4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b4c8bc52af9802e239f5.jpg",
+          "SHA256_of_archived_preview": "b4c8bc52af9802e239f5debe81e0a151a49e574354cc36d35e27c81c589609ee",
+          "archived_bytes": 149434,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0db33f7adab44aed933ff2e3f51c8701a08bfbf4.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/92e5582c480c880e7258.jpg",
+          "SHA256_of_archived_preview": "92e5582c480c880e7258d83104c4387534d9785a618e5953d0dcba852274bda6",
+          "archived_bytes": 149015,
+          "image_index": 5,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154062915836",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062915836#154062915836",
+      "created_at": "2026-10-23T16:42:26+08:00",
+      "quote": "8px 0.1.4，获得了第一只召唤兽（炸弹怪），获得之后显示的召唤兽状态页面的右上角文字错误或乱码（右上角“爆兽”下方）",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2f81684f4a9206359e1ef177bfb87d048540f948920f0b08d775dded8d4ab58c",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c90cd033c895d143342da82435f082025baf078d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/8fe78903ad0069f1af4d.jpg",
+          "SHA256_of_archived_preview": "8fe78903ad0069f1af4d086f499d74cad9b701aa463ce2a4511172ebe438c81a",
+          "archived_bytes": 161161,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c14627738bd4b31c4767d8bcc1d6277f9f2ff88e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/eeeba911c03a41243dde.jpg",
+          "SHA256_of_archived_preview": "eeeba911c03a41243ddee95cf3da3f698cf5dbdf7b183b0ad77f78f5d64a8008",
+          "archived_bytes": 160764,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154062922078",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062922078#154062922078",
+      "created_at": "2026-10-23T16:44:21+08:00",
+      "quote": "8px 0.1.4，获得的召唤兽的名字显示错误或乱码，菜单-召唤。图2、图3画面右上方",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d7d49cef632f181ef541f445243b61271d3d3a63b0534ebb11e1a87634cb8d1c",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ca9f9e0a304e251ff0a6a8ffe186c9177e3e538b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f40f57bd5be0430cc9d2.jpg",
+          "SHA256_of_archived_preview": "f40f57bd5be0430cc9d2df4b6f736b85603602ce75467a070ab2598d76cb1904",
+          "archived_bytes": 203601,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3332a0014c086e06d0f9734c44087bf40bd1cb94.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e031d5465954fde0991a.jpg",
+          "SHA256_of_archived_preview": "e031d5465954fde0991ada537fec0b8548b0442fe7480892b61d0645aae85428",
+          "archived_bytes": 145259,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d921bf2e1b57dfa9ec8b13cd94.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/af383e51cb75c95a99b7.jpg",
+          "SHA256_of_archived_preview": "af383e51cb75c95a99b72f942b5d08fb98e7de9476563ee36d265a5a878467ee",
+          "archived_bytes": 146886,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154062937675",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154062937675#154062937675",
+      "created_at": "2026-10-23T16:49:33+08:00",
+      "quote": "8px 0.1.4，菜单-召唤-招式，点进去后的选项显示错误（图3左上三个选项），且这时返回上一级菜单，选项也显示错误（图4共六处错误）（图4左上五个选项加左上方框上方词条）",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e774e719c2578e7afc8295c593367d01feb7042ff848ea4766d8bd03b04fe5a3",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7c9da6c379310a551b6c92f3f14543a98326109c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/6a718d488837ad2fc13b.jpg",
+          "SHA256_of_archived_preview": "6a718d488837ad2fc13b558c2b7c1989a4bafe12668e306d12c9835981d925d1",
+          "archived_bytes": 202750,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f35bfe36afc37931ad20ca2eadc4b74542a9119c.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/7f999236666558a9698e.jpg",
+          "SHA256_of_archived_preview": "7f999236666558a9698eb67d512a884750286b740783c09486eaa9186656b148",
+          "archived_bytes": 143863,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3f24855494eef01f795154c2a6fe9925bd317d9f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/272a448fea763746416a.jpg",
+          "SHA256_of_archived_preview": "272a448fea763746416aafc878902ac17674b82cd8dd1c796549e247f9454e50",
+          "archived_bytes": 142097,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d104ad0f4bfbfbed0a1c7a783ef0f736aec31f9f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e951ae8eca1fc6a799be.jpg",
+          "SHA256_of_archived_preview": "e951ae8eca1fc6a799bee7232032fb20f44edae92006ea0cbd72f3beef8438de",
+          "archived_bytes": 146146,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154063905648",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063905648#154063905648",
+      "created_at": "2026-10-23T22:00:59+08:00",
+      "quote": "8px 0.1.4，打第一个boss时，进入这个房间后会显示boss的全身图像，此画面下方为boss的名字等信息，残留日文，未翻译（图2）",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "34bbf164f3dc7f155e11fe3570062dcea800aede88a7731ad1804a561c29e94e",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b1583387e950352acf2a6d0f1543fbf2b3118b9d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/ddd7d23edd8f016be82f.jpg",
+          "SHA256_of_archived_preview": "ddd7d23edd8f016be82f3590425fdc36b3e8985af1d0d61d66aef61a858ac44f",
+          "archived_bytes": 231510,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c469dc628535e5ddd567edd830c6a7efcf1b629d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e31129b11aee48c294f4.jpg",
+          "SHA256_of_archived_preview": "e31129b11aee48c294f4706a916d4282ab354dbf8af69c6c4d64a53a30841651",
+          "archived_bytes": 168170,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -573,8 +797,8 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
       "reported_version": "0.1版",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -587,12 +811,62 @@
         "11092365551|154038630725",
         "11092365551|154038635323",
         "11092365551|154038639796",
-        "11092365551|154038903946"
+        "11092365551|154038903946",
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有图块/菜单显示问题，本次实际同编号补充仍按BUG登记；未新建问题。",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|poyon2-v014-five-consumers",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2 v0.1.4普通8px：包子比赛、召唤兽及招式菜单、Boss介绍反馈",
+          "feedback_summary": "补充仍open #22：包子比赛文字、召唤兽状态/名字与菜单、进入招式后返回的菜单异常分别记录；Boss介绍日文作为覆盖子项。当前v0.1.4只限仓库装备/五小弹窗修订，不能据其它修复关闭这些新场景。",
+          "source_feedback_keys": [
+            "11092365551|154062893301",
+            "11092365551|154062915836",
+            "11092365551|154062922078",
+            "11092365551|154062937675",
+            "11092365551|154063905648"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.4",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "poyon-dungeon-2",
+              "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.4",
+                  "output_SHA256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
     },
     {
       "public_case_key": "case-d5ed9d305b4e1449",
@@ -667,8 +941,8 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
       "case_keys": [
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
@@ -698,12 +972,19 @@
         "11092365551|154058601449",
         "11092365551|154058621132",
         "11092365551|154058633740",
-        "11092365551|154058646517"
+        "11092365551|154058646517",
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有运行/显示BUG；本次只补同编号已登记范围，不新增问题。"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -736,7 +1017,64 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-6890398aa916db68",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154064805250",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064805250#154064805250",
+      "text": "@球总好学 v0.1.4普通8px的吃包子界面、召唤兽说明/名称/菜单异常和首个BOSS日文已一起记录，后续排查。",
+      "text_sha256": "25b98432cc82d433cfcfd46ad32c40a898c923390e9d07c32ac470c0c4871238",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:54:07.031014+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-0412|poyon2-v014-five-consumers",
+      "public_case_key": "case-63a908948eb64951",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2 v0.1.4普通8px：包子比赛、召唤兽及招式菜单、Boss介绍反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154062893301",
+        "11092365551|154062915836",
+        "11092365551|154062922078",
+        "11092365551|154062937675",
+        "11092365551|154063905648"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

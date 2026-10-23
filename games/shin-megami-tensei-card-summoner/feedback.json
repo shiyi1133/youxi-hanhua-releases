@@ -2,12 +2,336 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "shin-megami-tensei-card-summoner",
   "game_name": "真女神转生 卡牌召唤师",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154063840386",
+      "parent_pid": "154047071998",
+      "floor": 162,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063840386#154063840386",
+      "created_at": "2026-10-23T21:41:02+08:00",
+      "quote": "8px 0.1.0，游戏一开始，取名界面，画面左下方有黑条",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "60b220fd41e106cd8cd5c00264bc562e95c2676c42e0100606f6700d67288696",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343f7c4cf26d513b07ecb8088dd.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/c8a7b6d127a903b5b1c3.jpg",
+          "SHA256_of_archived_preview": "c8a7b6d127a903b5b1c31be8d4b39715872ad50b0595cf290d1314eff20ff64b",
+          "archived_bytes": 175465,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154063853152",
+      "parent_pid": "154047071998",
+      "floor": 162,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063853152#154063853152",
+      "created_at": "2026-10-23T21:44:58+08:00",
+      "quote": "8px 0.1.0，正式开始对战时的这个界面，画面上方和下方各有一行日文没有翻译",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "46697bbb424f82d5c465e48a9a57889b36b3b20b6d81d29f73754ccccf1eb2ee",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b6c65cfbb2fb43168c62327d66a4462308f7d3e0.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b34989c7de5205de388b.jpg",
+          "SHA256_of_archived_preview": "b34989c7de5205de388be614812b3891a72cadd9cf208f30a48ac062d482f25c",
+          "archived_bytes": 165237,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154063859004",
+      "parent_pid": "154047071998",
+      "floor": 162,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154063859004#154063859004",
+      "created_at": "2026-10-23T21:46:45+08:00",
+      "quote": "8px 0.1.0，画面右上方“主要阶段”的“阶段”左边有残留图案或者部分日文文字没有优化好（“主要”和“阶段”的中间，红色字样）",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "354b3d3d3f9b9279079a28b57ebeaa429bc70ae2aa96a16e585462faded40b76",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40b840540923dd541a0def6f9709b3de9d8248e2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/342ca993202115520151.jpg",
+          "SHA256_of_archived_preview": "342ca9932021155201510ad3b2fda240dad406f3bcc4b49d083edaedbe06f7fd",
+          "archived_bytes": 191049,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac2134954092396172b79d458d109b2de49e2.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/76720fdebde84141a304.jpg",
+          "SHA256_of_archived_preview": "76720fdebde84141a3048c22fb183409e3212ba162a13c78c26e85ae400d06d2",
+          "archived_bytes": 181905,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-1c81e259d36c5e96",
+      "public_problem_key": "problem-cf1dcde252ac2624",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063859004"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|card-summoner-UI-residual",
+          "game_ids": [
+            "shin-megami-tensei-card-summoner"
+          ],
+          "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
+          "feedback_summary": "分别列取名页左下黑条、主要阶段文字之间残留红色/图案两个UI子项；仅复用一界面显示问题单，不声称两者同根因。VS日文另覆盖反馈。",
+          "source_feedback_keys": [
+            "11092365551|154063840386",
+            "11092365551|154063859004"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "shin-megami-tensei-card-summoner",
+              "original_input_SHA256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.0",
+                  "output_SHA256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-e1e312e2ff4d2255",
+      "public_problem_key": "problem-ab91415dc04b6622",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
+      "classification": "REQUEST_OR_OTHER",
+      "public_feedback_keys": [
+        "11092365551|154063853152"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-0412|card-summoner-VS-Japanese",
+          "game_ids": [
+            "shin-megami-tensei-card-summoner"
+          ],
+          "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
+          "feedback_summary": "两行位于正式对战VS页；逐项核现有原图/阵营保留范围，玩家反馈与限定交付边界均保存，不直接宣称全作漏译清零。",
+          "source_feedback_keys": [
+            "11092365551|154063853152"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "shin-megami-tensei-card-summoner",
+              "original_input_SHA256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.0",
+                  "output_SHA256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-ab91415dc04b6622",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-e1e312e2ff4d2255"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063853152"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-cf1dcde252ac2624",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
+      "state": "open",
+      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1c81e259d36c5e96"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063859004"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-21913c2468adf06b",
+      "game_id": "shin-megami-tensei-card-summoner",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063853152",
+        "11092365551|154063859004"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154047071998",
+      "floor": 162,
+      "pid": "154064808031",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064808031#154064808031",
+      "text": "@球总好学 v0.1.0普通8px的取名黑条、对战开场日文和“主要阶段”栏残留已一起记录，后续排查。",
+      "text_sha256": "9ef262b18ba62d3eec921b64ad9a6078cba8556431a55f61bf38f5479ff15396",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T04:56:08.311209+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-0412|card-summoner-UI-residual",
+      "public_case_key": "case-1c81e259d36c5e96",
+      "public_problem_key": "problem-cf1dcde252ac2624",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154063840386",
+        "11092365551|154063859004"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-0412|card-summoner-VS-Japanese",
+      "public_case_key": "case-e1e312e2ff4d2255",
+      "public_problem_key": "problem-ab91415dc04b6622",
+      "game_ids": [
+        "shin-megami-tensei-card-summoner"
+      ],
+      "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154063853152"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

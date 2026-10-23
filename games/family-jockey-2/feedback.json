@@ -7,5 +7,131 @@
   "case_count": 0,
   "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
   "absence_is_not_bug_free_acceptance": true,
-  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
+  "acknowledgements": [
+    {
+      "public_reply_key": "delivery-notice-b46a1b0caf9a874dcfa7",
+      "game_id": "family-jockey-2",
+      "game_name": "家庭赛马2",
+      "kind": "MAINTAINER_LIMITED_TEST_ROM_DELIVERY_NOTICE",
+      "is_maintainer_own_notice": true,
+      "is_player_quote": false,
+      "is_information_reply": false,
+      "is_bug_acknowledgement": false,
+      "is_new_ROM_delivery": true,
+      "is_delivery_completion_notice": true,
+      "is_version_update_notice": false,
+      "is_repair_completion": false,
+      "is_repair_completion_notice": false,
+      "verified_fixed_Issues": [],
+      "whole_issue_fixed": false,
+      "whole_game_acceptance_claimed": false,
+      "version": "v0.1.0",
+      "status": "ACTUAL_ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED_REDACTED_MIRROR",
+      "notification_mode": "ORIGINAL_FLOOR",
+      "tid": "11092365551",
+      "parent_pid": "154051163806",
+      "floor": 172,
+      "pid": "154064615059",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064615059#p154064615059",
+      "source_feedback_keys": [
+        "11092365551|154051163806"
+      ],
+      "original_request_location": {
+        "tid": "11092365551",
+        "parent_pid": "154051163806",
+        "source_pid": "154051163806",
+        "floor": 172
+      },
+      "actual_posted_location": {
+        "tid": "11092365551",
+        "parent_pid": "154051163806",
+        "pid": "154064615059",
+        "floor": 172,
+        "url": "https://tieba.baidu.com/p/11092365551?pid=154064615059#p154064615059"
+      },
+      "route_details": {
+        "original_source_missing_verified": false,
+        "original_deleted_claimed": false,
+        "user_requested_new_floor": false
+      },
+      "text": "《家庭赛马2》v0.1.0限定测试版已发布。\n字号：普通8px；原16px图字槽内部12px；不是全局12px，无10px或大字版。\n范围：120普通脚本字段、319动态源记录/281去重记录、独立草泥HUD、命名/赛前/下注/赛后/领奖图字；195根/2489指令/382字段为静态枚举非自然全通\n原答复中的ROM下载链接、提取码、网盘目录及下载指示已省略；私库保留完整原文证据。",
+      "text_sha256": "a7076caf434c76c41f525935b4f962d4d25695eef334cfe5ba2c135e315ff64a",
+      "public_text_is_verbatim_full_original": false,
+      "public_text_redaction_method": "RECONSTRUCTED_ALLOWLIST_SUMMARY_NO_SOURCE_TEXT_COPIED",
+      "original_full_text_sha256": "0e53323be5d94f0ade3cd2ba4e1b74322d4af9c2ce1dcd340e4b6a94d88aa176",
+      "original_full_text_UTF8_bytes": 262,
+      "private_original_fulltext_preserved_unchanged": true,
+      "original_full_text_hash_source": "EXACT_SENT_BODY_UTF8_FROM_PRIVATE_FULL_RECEIPT",
+      "public_full_body_comparison": "WHOLE_BODY_WITH_ONLY_EXACT_BAIDU_CLICK_WRAPPER_UNWRAPPING_AND_WHITESPACE_NORMALIZATION",
+      "ROM_share_URLs_passwords_paths_and_download_instructions_omitted": true,
+      "omitted_original_categories": [
+        "ROM_SHARE_URL",
+        "EXTRACTION_CODE",
+        "NETDISK_DIRECTORY",
+        "DOWNLOAD_INSTRUCTIONS"
+      ],
+      "limited_test_scope": "120普通脚本字段、319动态源记录/281去重记录、独立草泥HUD、命名/赛前/下注/赛后/领奖图字；195根/2489指令/382字段为静态枚举非自然全通",
+      "targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "target_sha256": "6049dc55340fca91ed3955f6248ee409882b98496670c5d255cd79f387fb121a",
+          "target_bytes": 262144,
+          "font_scope": "普通8px；原16px图字槽内部12px；不是全局12px，无10px或大字版"
+        }
+      ],
+      "actual_public_original_full_text_verified": true,
+      "actual_public_all_images_content_verified": true,
+      "actual_public_image_count": 1,
+      "verified_at": "2026-10-24T02:12:42.192800+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_source_PID": "154051163806",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "private_registry_commit": "feb6e2f57145a1150896e3f22e218a9c4648d9b9",
+      "private_evidence_binding_sha256": "724b748ece01811fba879906db435b15594af6c1fefe36740173295a3f5c46a4",
+      "actual_notice_receipt_sha256": "39230a3752960ce96440eeb8946303c5a6a63ba7cf93da7b2ebee020698fa6a0",
+      "actual_original_body_private_receipt_repo_path": "docs/user-ingestions/batch30-20261023/notices/family-jockey-2-v0.1.0-notice-send-public.json",
+      "actual_game_commit": "0c29eaa4b8194bf3195cdec25004168b11971ac9",
+      "actual_cloud_commit": "305f40ee4838f8afcc1a63b2ca1e5ad91e685b69",
+      "new_runtime_test_by_this_export": false,
+      "source_completeness_assessed_by_this_export": false,
+      "Issue_state_assessed_or_changed_by_this_export": false,
+      "export_is_ROM_delivery": false,
+      "public_images": [
+        {
+          "order": 1,
+          "role": "FINAL_ROM_NINE_GRID",
+          "path": "games/family-jockey-2/screenshots/family-jockey-2-v0.1.0-8px-ninegrid.png",
+          "original_PNG_sha256": "a5e257f3ff241573bcecce76b8501d90b8dfd6abb0bdd19d6e1379ec3db8a4bf",
+          "original_PNG_bytes": 21716,
+          "original_public_Git_commit": "04b83c26d241188de715467024e6e0c56767fda1",
+          "original_public_blob_OID": "004168a8f8864585f22d7f4787048bcffbf1d965",
+          "font": "8px",
+          "font_kind": "ordinary",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "font_scope": "普通8px；原16px图字槽内部12px；不是全局12px，无10px或大字版",
+          "target_rom_sha256": "6049dc55340fca91ed3955f6248ee409882b98496670c5d255cd79f387fb121a",
+          "caption": "家庭赛马2 v0.1.0 8px限定测试版；普通8px；原16px图字槽内部12px；不是全局12px，无10px或大字版 自然路径与诊断范围见测试说明，不代表全流程。",
+          "PNG_pixels_modified": false,
+          "original_public_PNG_full_Git_readback_verified": true,
+          "actual_Tieba_image_url": "https://tiebapic.baidu.com/forum/pic/item/45b09416fdfaaf51c4ce34b8ca5494eef01f7a37.jpg?tbpicau=2026-11-04-05_d223043e904f119cf01035669fceb4ca",
+          "actual_Tieba_PID": "154064615059",
+          "actual_Tieba_thread_url": "https://tieba.baidu.com/p/11092365551?pid=154064615059#p154064615059",
+          "actual_Tieba_image_sha256": "793241f80b73947429ca8bdc9cf48768b97b49b8b33ec989eea7bb0379ccb71c",
+          "actual_Tieba_image_bytes": 49562,
+          "actual_Tieba_same_dimensions": true,
+          "actual_Tieba_exact_full_bytes": false,
+          "actual_Tieba_RGB_RMS_128": 1.376,
+          "actual_Tieba_content_threshold": 8,
+          "actual_Tieba_content_verified": true,
+          "independent_pixel_matched_cells": 9
+        }
+      ]
+    }
+  ],
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
 }

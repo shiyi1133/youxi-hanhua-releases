@@ -7,5 +7,131 @@
   "case_count": 0,
   "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
   "absence_is_not_bug_free_acceptance": true,
-  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
+  "acknowledgements": [
+    {
+      "public_reply_key": "delivery-notice-e2797efb599b38a3a71b",
+      "game_id": "x-gb",
+      "game_name": "X（日版）",
+      "kind": "MAINTAINER_LIMITED_TEST_ROM_DELIVERY_NOTICE",
+      "is_maintainer_own_notice": true,
+      "is_player_quote": false,
+      "is_information_reply": false,
+      "is_bug_acknowledgement": false,
+      "is_new_ROM_delivery": true,
+      "is_delivery_completion_notice": true,
+      "is_version_update_notice": false,
+      "is_repair_completion": false,
+      "is_repair_completion_notice": false,
+      "verified_fixed_Issues": [],
+      "whole_issue_fixed": false,
+      "whole_game_acceptance_claimed": false,
+      "version": "v0.1.0",
+      "status": "ACTUAL_ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED_REDACTED_MIRROR",
+      "notification_mode": "ORIGINAL_FLOOR",
+      "tid": "11092365551",
+      "parent_pid": "154058471169",
+      "floor": 216,
+      "pid": "154064634289",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064634289#p154064634289",
+      "source_feedback_keys": [
+        "11092365551|154058471169"
+      ],
+      "original_request_location": {
+        "tid": "11092365551",
+        "parent_pid": "154058471169",
+        "source_pid": "154058471169",
+        "floor": 216
+      },
+      "actual_posted_location": {
+        "tid": "11092365551",
+        "parent_pid": "154058471169",
+        "pid": "154064634289",
+        "floor": 216,
+        "url": "https://tieba.baidu.com/p/11092365551?pid=154064634289#p154064634289"
+      },
+      "route_details": {
+        "original_source_missing_verified": false,
+        "original_deleted_claimed": false,
+        "user_requested_new_floor": false
+      },
+      "text": "《X（日版）》v0.1.0限定测试版已发布。\n字号：普通8px；标题2倍图字和结尾3D线条不是独立大字版。无10px。。\n范围：X黑白GB精确日版输入的菜单、教程、任务及已识别图字；MBC2电池，不扩ROM。\n原答复中的ROM下载链接、提取码、网盘目录及下载指示已省略；私库保留完整原文证据。",
+      "text_sha256": "3186ae2e5c9b9a9ac20c25916b826ef41efc199cb761e3d0a5017450918fbcdf",
+      "public_text_is_verbatim_full_original": false,
+      "public_text_redaction_method": "RECONSTRUCTED_ALLOWLIST_SUMMARY_NO_SOURCE_TEXT_COPIED",
+      "original_full_text_sha256": "187c2746f96cf43863e967920acbf6899e5c73d8523c6a045f2703a869e0ceab",
+      "original_full_text_UTF8_bytes": 257,
+      "private_original_fulltext_preserved_unchanged": true,
+      "original_full_text_hash_source": "EXACT_SENT_BODY_UTF8_FROM_PRIVATE_FULL_RECEIPT",
+      "public_full_body_comparison": "WHOLE_BODY_WITH_ONLY_EXACT_BAIDU_CLICK_WRAPPER_UNWRAPPING_AND_WHITESPACE_NORMALIZATION",
+      "ROM_share_URLs_passwords_paths_and_download_instructions_omitted": true,
+      "omitted_original_categories": [
+        "ROM_SHARE_URL",
+        "EXTRACTION_CODE",
+        "NETDISK_DIRECTORY",
+        "DOWNLOAD_INSTRUCTIONS"
+      ],
+      "limited_test_scope": "X黑白GB精确日版输入的菜单、教程、任务及已识别图字；MBC2电池，不扩ROM。",
+      "targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "target_sha256": "774f22aca82de1024f42f5850136fe4a09e248ac9321b591659571943eef3970",
+          "target_bytes": 262144,
+          "font_scope": "普通8px；标题2倍图字和结尾3D线条不是独立大字版。无10px。"
+        }
+      ],
+      "actual_public_original_full_text_verified": true,
+      "actual_public_all_images_content_verified": true,
+      "actual_public_image_count": 1,
+      "verified_at": "2026-10-24T02:24:23.796741+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_source_PID": "154058471169",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "private_registry_commit": "feb6e2f57145a1150896e3f22e218a9c4648d9b9",
+      "private_evidence_binding_sha256": "724b748ece01811fba879906db435b15594af6c1fefe36740173295a3f5c46a4",
+      "actual_notice_receipt_sha256": "737cb679dadafd2b3ea2d1653f71044d9e4109ae66033d90ea7bc98af23a1bca",
+      "actual_original_body_private_receipt_repo_path": "docs/user-ingestions/batch30-20261023/notices/x-gb-v0.1.0-notice-send-public.json",
+      "actual_game_commit": "0c29eaa4b8194bf3195cdec25004168b11971ac9",
+      "actual_cloud_commit": "305f40ee4838f8afcc1a63b2ca1e5ad91e685b69",
+      "new_runtime_test_by_this_export": false,
+      "source_completeness_assessed_by_this_export": false,
+      "Issue_state_assessed_or_changed_by_this_export": false,
+      "export_is_ROM_delivery": false,
+      "public_images": [
+        {
+          "order": 1,
+          "role": "FINAL_ROM_NINE_GRID",
+          "path": "games/x-gb/screenshots/x-gb-v0.1.0-8px-ninegrid.png",
+          "original_PNG_sha256": "1199d8587177b2a5aaf2977714799f35a29e451ee8f3877156f0ccd7f349499b",
+          "original_PNG_bytes": 21659,
+          "original_public_Git_commit": "04b83c26d241188de715467024e6e0c56767fda1",
+          "original_public_blob_OID": "6e0e7d48108df07bef37bcaeae5df676b33496d3",
+          "font": "8px",
+          "font_kind": "ordinary",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "font_scope": "普通8px；标题2倍图字和结尾3D线条不是独立大字版。无10px。",
+          "target_rom_sha256": "774f22aca82de1024f42f5850136fe4a09e248ac9321b591659571943eef3970",
+          "caption": "X（日版） v0.1.0 8px限定测试版；普通8px；标题2倍图字和结尾3D线条不是独立大字版。无10px。 自然路径与诊断范围见测试说明，不代表全流程。",
+          "PNG_pixels_modified": false,
+          "original_public_PNG_full_Git_readback_verified": true,
+          "actual_Tieba_image_url": "https://tiebapic.baidu.com/forum/pic/item/3d565b66d01609242e3a171c920735fae7cd34c1.jpg?tbpicau=2026-11-04-05_a9c3b25f176e40477e16197031938c59",
+          "actual_Tieba_PID": "154064634289",
+          "actual_Tieba_thread_url": "https://tieba.baidu.com/p/11092365551?pid=154064634289#p154064634289",
+          "actual_Tieba_image_sha256": "48c061bf9f06faa406beeee922533a23e36f328b777a77964c862c0796d98689",
+          "actual_Tieba_image_bytes": 47296,
+          "actual_Tieba_same_dimensions": true,
+          "actual_Tieba_exact_full_bytes": false,
+          "actual_Tieba_RGB_RMS_128": 6.456,
+          "actual_Tieba_content_threshold": 8,
+          "actual_Tieba_content_verified": true,
+          "independent_pixel_matched_cells": 9
+        }
+      ]
+    }
+  ],
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
 }

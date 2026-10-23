@@ -7,5 +7,131 @@
   "case_count": 0,
   "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
   "absence_is_not_bug_free_acceptance": true,
-  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md"
+  "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
+  "acknowledgements": [
+    {
+      "public_reply_key": "delivery-notice-f84b27fc324e211f4af2",
+      "game_id": "dokidoki-densetsu-mahoujin-guruguru",
+      "game_name": "心跳传说：咕噜咕噜魔法阵",
+      "kind": "MAINTAINER_LIMITED_TEST_ROM_DELIVERY_NOTICE",
+      "is_maintainer_own_notice": true,
+      "is_player_quote": false,
+      "is_information_reply": false,
+      "is_bug_acknowledgement": false,
+      "is_new_ROM_delivery": true,
+      "is_delivery_completion_notice": true,
+      "is_version_update_notice": false,
+      "is_repair_completion": false,
+      "is_repair_completion_notice": false,
+      "verified_fixed_Issues": [],
+      "whole_issue_fixed": false,
+      "whole_game_acceptance_claimed": false,
+      "version": "v0.1.0",
+      "status": "ACTUAL_ROM_DELIVERY_NOTICE_PUBLIC_VERIFIED_REDACTED_MIRROR",
+      "notification_mode": "ORIGINAL_FLOOR",
+      "tid": "11092365551",
+      "parent_pid": "154056382340",
+      "floor": 207,
+      "pid": "154064612812",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064612812#p154064612812",
+      "source_feedback_keys": [
+        "11092365551|154056382340"
+      ],
+      "original_request_location": {
+        "tid": "11092365551",
+        "parent_pid": "154056382340",
+        "source_pid": "154056382340",
+        "floor": 207
+      },
+      "actual_posted_location": {
+        "tid": "11092365551",
+        "parent_pid": "154056382340",
+        "pid": "154064612812",
+        "floor": 207,
+        "url": "https://tieba.baidu.com/p/11092365551?pid=154064612812#p154064612812"
+      },
+      "route_details": {
+        "original_source_missing_verified": false,
+        "original_deleted_claimed": false,
+        "user_requested_new_floor": false
+      },
+      "text": "《心跳传说：咕噜咕噜魔法阵》v0.1.0限定测试版已发布。\n字号：普通8px，标题图字12px不是独立大字版；无10px。。\n范围：5895文本/3222种去重文字、菜单/地图/卡片及已识别图字；CGB-only。\n原答复中的ROM下载链接、提取码、网盘目录及下载指示已省略；私库保留完整原文证据。",
+      "text_sha256": "d0c27ffbd37c17bfd15f3d23885d3a96306e92218af7fc0e82bae54d9c4157f8",
+      "public_text_is_verbatim_full_original": false,
+      "public_text_redaction_method": "RECONSTRUCTED_ALLOWLIST_SUMMARY_NO_SOURCE_TEXT_COPIED",
+      "original_full_text_sha256": "5a452ceb6dc098d790e8cec1cdeabb686b16ccdfb3cd7573c6e86c87806dde4a",
+      "original_full_text_UTF8_bytes": 311,
+      "private_original_fulltext_preserved_unchanged": true,
+      "original_full_text_hash_source": "EXACT_SENT_BODY_UTF8_FROM_PRIVATE_FULL_RECEIPT",
+      "public_full_body_comparison": "WHOLE_BODY_WITH_ONLY_EXACT_BAIDU_CLICK_WRAPPER_UNWRAPPING_AND_WHITESPACE_NORMALIZATION",
+      "ROM_share_URLs_passwords_paths_and_download_instructions_omitted": true,
+      "omitted_original_categories": [
+        "ROM_SHARE_URL",
+        "EXTRACTION_CODE",
+        "NETDISK_DIRECTORY",
+        "DOWNLOAD_INSTRUCTIONS"
+      ],
+      "limited_test_scope": "5895文本/3222种去重文字、菜单/地图/卡片及已识别图字；CGB-only。",
+      "targets": [
+        {
+          "font": "8px",
+          "version": "v0.1.0",
+          "audio_variant": "unchanged",
+          "target_sha256": "6b360af4ee4b85c23340cb09a73f7db3069ae8a19b248e23762150d5fe60245e",
+          "target_bytes": 4194304,
+          "font_scope": "普通8px，标题图字12px不是独立大字版；无10px。"
+        }
+      ],
+      "actual_public_original_full_text_verified": true,
+      "actual_public_all_images_content_verified": true,
+      "actual_public_image_count": 1,
+      "verified_at": "2026-10-24T02:11:26.228053+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_source_PID": "154056382340",
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "private_registry_commit": "feb6e2f57145a1150896e3f22e218a9c4648d9b9",
+      "private_evidence_binding_sha256": "724b748ece01811fba879906db435b15594af6c1fefe36740173295a3f5c46a4",
+      "actual_notice_receipt_sha256": "793432fe6562447e9c67b34180ec86313ddb1c2f19199e45467ed4152590fc65",
+      "actual_original_body_private_receipt_repo_path": "docs/user-ingestions/batch30-20261023/notices/dokidoki-densetsu-mahoujin-guruguru-v0.1.0-notice-send-public.json",
+      "actual_game_commit": "0c29eaa4b8194bf3195cdec25004168b11971ac9",
+      "actual_cloud_commit": "305f40ee4838f8afcc1a63b2ca1e5ad91e685b69",
+      "new_runtime_test_by_this_export": false,
+      "source_completeness_assessed_by_this_export": false,
+      "Issue_state_assessed_or_changed_by_this_export": false,
+      "export_is_ROM_delivery": false,
+      "public_images": [
+        {
+          "order": 1,
+          "role": "FINAL_ROM_NINE_GRID",
+          "path": "games/dokidoki-densetsu-mahoujin-guruguru/screenshots/dokidoki-densetsu-mahoujin-guruguru-v0.1.0-8px-ninegrid.png",
+          "original_PNG_sha256": "3d242536ed0e62a642bc8e2371c5c2e872aa5f60f1c3c71f5e4ade9af966424f",
+          "original_PNG_bytes": 23458,
+          "original_public_Git_commit": "04b83c26d241188de715467024e6e0c56767fda1",
+          "original_public_blob_OID": "e53b69d22ea7cd6a3c65bce5d45d758c2b5452f9",
+          "font": "8px",
+          "font_kind": "ordinary",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "font_scope": "普通8px，标题图字12px不是独立大字版；无10px。",
+          "target_rom_sha256": "6b360af4ee4b85c23340cb09a73f7db3069ae8a19b248e23762150d5fe60245e",
+          "caption": "心跳传说：咕噜咕噜魔法阵 v0.1.0 8px限定测试版；普通8px，标题图字12px不是独立大字版；无10px。 自然路径与诊断范围见测试说明，不代表全流程。",
+          "PNG_pixels_modified": false,
+          "original_public_PNG_full_Git_readback_verified": true,
+          "actual_Tieba_image_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343f2fc3226d513b07eca808835.jpg?tbpicau=2026-11-04-05_a274ddb5aea60b7ead21c62ed0bfad39",
+          "actual_Tieba_PID": "154064612812",
+          "actual_Tieba_thread_url": "https://tieba.baidu.com/p/11092365551?pid=154064612812#p154064612812",
+          "actual_Tieba_image_sha256": "f363ee992a48fd9dbdf85fcb9d942b14f18b097aa0d7161015702cc18ffa403b",
+          "actual_Tieba_image_bytes": 60813,
+          "actual_Tieba_same_dimensions": true,
+          "actual_Tieba_exact_full_bytes": false,
+          "actual_Tieba_RGB_RMS_128": 7.149,
+          "actual_Tieba_content_threshold": 8,
+          "actual_Tieba_content_verified": true,
+          "independent_pixel_matched_cells": 9
+        }
+      ]
+    }
+  ],
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
 }

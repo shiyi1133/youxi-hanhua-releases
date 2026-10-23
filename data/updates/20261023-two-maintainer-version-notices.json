@@ -1,0 +1,39 @@
+{
+  "schema": "two_actual_maintainer_version_notice_public_feedback_export_v1",
+  "public_parent": "a055a4dd2bd1cc9cf94ea55f5ca4d6eb7931b40d",
+  "recorded_at": "2026-10-23T18:08:53.172626+08:00",
+  "bindings": {
+    "private_registry_Git_proof_sha256": "66131680fe8575e4068d68b61d0baebc2725215367e1a558ed5a64f653369596",
+    "original_public_PNG_Git_proof_sha256": "5cc3b84c0122685905ffc5b7a39a9c5d298f3df2ee819f885127e00f078f67be",
+    "notice_contract_sha256": "6ea8c7e4476b7f54c2413079a962f485d4d877504e10232b3362b075adc09172",
+    "actual_notice_receipt_SHA256s": {
+      "dracula-dark-reign": "10b307527b31e471bcbfe16a8524b5ed724dade316741b80613e27e01bd67ed2",
+      "saga-2-dx": "fdd0fe52c4c70481abaa7c37389b1bbd73850f3a27e3182c74a8880a262c732b"
+    }
+  },
+  "own_notice_PIDs": [
+    "154063167766",
+    "154063169543"
+  ],
+  "game_ids": [
+    "dracula-dark-reign",
+    "saga-2-dx"
+  ],
+  "actual_maintainer_notices": 2,
+  "actual_original_PNG_references": 6,
+  "actual_final_ROM_grids": 5,
+  "actual_title_card_comparison_supplements": 1,
+  "actual_original_PNGs_uploaded_by_this_export": 0,
+  "own_notices_are_not_player_quotes": true,
+  "player_quotes_cases_Issue_states_Source_versions_and_all_history_preserved": true,
+  "Source_completeness_assessed": false,
+  "new_Source_builds": 0,
+  "new_runtime_tests": 0,
+  "Issue_closures": 0,
+  "ROM_files": 0,
+  "ROM_or_permanent_share_download_links": 0,
+  "private_repository_links": 0,
+  "public_issue_writes": 0,
+  "private_Git_writes": 0,
+  "monitor_counter_increment": 0
+}

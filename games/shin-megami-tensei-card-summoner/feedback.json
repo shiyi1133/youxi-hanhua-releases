@@ -569,5 +569,53 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
+  ],
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-4855d2f334f07645fe00",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "shin-megami-tensei-card-summoner",
+      "game_name": "真女神转生 卡牌召唤师",
+      "version": "v0.1.1",
+      "font": "8px",
+      "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+      "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+      "target_bytes": 4194304,
+      "tid": "11092365551",
+      "parent_pid": "154047071998",
+      "source_pid": "154047071998",
+      "floor": 162,
+      "pid": "154066307044",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066307044#p154066307044",
+      "text": "@bantuwang1 《真女神转生 卡牌召唤师》v0.1.1普通8px限定修复版已更新：取名页黑条、主要及结束阶段残留图块，补译教学固定卡组名和卡组标签。部分深层卡组名仍待处理。附本版真实九宫格，欢迎继续测试。",
+      "text_sha256": "239bbccf84dd469f49b9d209e02761aadecd359b9ce4dd1a47c043fda248ca12",
+      "images": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+          "expected_screenshot_sha256": "625fe65ef19defeefad933c25d079a1ab7f60ec49f6957ae0c2c61aff190cd05",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2aefa4345982b2b7df8f8bc377adcbef77099bd4.jpg?tbpicau=2026-11-04-05_245ca82192039ec682a52fb7ed3e05d7",
+          "actual_public_image_sha256": "3600a07e36ad5f4cf6e9abef0499fd92219291ed6f0537cdb27e3150f23962d9",
+          "actual_public_image_bytes": 343681,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T16:01:13.890046+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "4f08e78cb1fa3cd6f0b0c34e3de3e3711eabd0baaa2f2e2e2b6185dcc8baf0c8"
+    }
   ]
 }

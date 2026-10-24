@@ -1,0 +1,65 @@
+{
+  "schema": "public_four_actual_version_update_notice_sync_v1",
+  "parent": "8847d88e4b5c661d5e80cf7e7b5940817577fdf3",
+  "recorded_at": "2026-10-24T16:09:20.607175+08:00",
+  "game_ids": [
+    "last-bible-ii-gb",
+    "shin-megami-tensei-card-summoner",
+    "tokimeki-memorial-pocket-culture",
+    "tokimeki-memorial-pocket-sport"
+  ],
+  "actual_notice_count": 4,
+  "actual_image_count": 4,
+  "actual_private_registry_proof_sha256": "4ddbdb1a8b1ec9a1dfe96effa78632604dc3393ad3c9a435201da48d5393b8ed",
+  "actual_public14_metadata_proof_sha256": "136751db8af118586ea09b3da7c1a44c88786247a566c683e185ebf5a517df23",
+  "reply_bindings": [
+    {
+      "game_id": "last-bible-ii-gb",
+      "pid": "154066304798",
+      "text_sha256": "f5c56567d6ffa7cefa9214adf16dd9c67e57419634a8d4a9eb053b558f549827",
+      "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+      "target_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4"
+    },
+    {
+      "game_id": "shin-megami-tensei-card-summoner",
+      "pid": "154066307044",
+      "text_sha256": "239bbccf84dd469f49b9d209e02761aadecd359b9ce4dd1a47c043fda248ca12",
+      "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+      "target_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1"
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "pid": "154066314306",
+      "text_sha256": "820008fe6755c3e61e9b2ba702c8e74620ab8699c38da6d7274f38e5d209dd12",
+      "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "target_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559"
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "pid": "154066310608",
+      "text_sha256": "092d35c7cafbd499a7c0baaf276dd48a4b94d5ea9db542c70d98db968964442b",
+      "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "target_sha256": "17fd2047f4a4c80b176e0c03c76425e6e07d4c20787a30a7c2787021ed9e1b0d"
+    }
+  ],
+  "is_version_update_delivery": true,
+  "is_new_ROM_delivery": false,
+  "ACKs_added": 0,
+  "Issue_states_changed": 0,
+  "old_quotes_ACKs_Source_versions_original_hashes_and_other_feedback_preserved": true,
+  "monitor_counter_increment": 0,
+  "Source_executions": 0,
+  "forum_sends": 0,
+  "cloud_mutations": 0,
+  "ROM_uploads": 0,
+  "protected_current_SHA256s": {
+    "README.md": "25a94203de465626d41decf53ab0252d5449268a59d8b104d00dea25b256622a",
+    "data/original-input-hashes.csv": "1805af3e2c62ffc6e75f3669e86fe4f0681126f62f796286b97ce0fd4af93a9b",
+    "data/original-input-hashes.json": "8b9d0960319ba7457ee9a9c757371bcaa0a6c6df98075b374129b6a7c97fa3ab",
+    "data/public-asset-sync.json": "f6b3a2d3ce1f80cbb01379ae37c1206a59c46a655ac0c48d270f9a469857ead2",
+    "data/screenshot-provenance.json": "4296cc7c054b41971c3a3f2a30718ba512cde312499a5d6fa010133a570ca38f",
+    "data/versions.json": "25c5f7c915920c4fa981c8010c91f47f6dba87f7b7246b817115efc5797a66c2",
+    "feedback/cases.json": "a021f4755e0b0bcefa3b00f852cb6a5a838c07da3baa7220c8d359433caa9963",
+    "feedback/problems.json": "a1744b2e85bdff3201cddded70436fa1539a291a38aba05645cbb26994c236b8"
+  }
+}

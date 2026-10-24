@@ -484,5 +484,53 @@
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
   "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00",
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-0e4a735cb8b1bec27f0c",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "game_name": "心跳回忆Pocket：文化篇",
+      "version": "v0.1.3",
+      "font": "native8px-12px",
+      "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "target_rom_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559",
+      "target_bytes": 8388608,
+      "tid": "11092365551",
+      "parent_pid": "154032152268",
+      "source_pid": "154032152674",
+      "floor": 83,
+      "pid": "154066314306",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066314306#p154066314306",
+      "text": "@腌在渡土看了 《心跳回忆Pocket：文化篇》v0.1.3限定测试版（原生12px对白、8px姓名等）已更新：系列Logo、真人语音开关及确认文字，并保留敬称、称呼分支修订。附本版SGB真实九宫格，语音效果及深层路线请继续测试。",
+      "text_sha256": "820008fe6755c3e61e9b2ba702c8e74620ab8699c38da6d7274f38e5d209dd12",
+      "images": [
+        {
+          "font": "native8px-12px",
+          "version": "v0.1.3",
+          "target_rom_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559",
+          "expected_screenshot_sha256": "7e6a32e38a3554d8c9c32238af3f992764d3f27a5e750b0567ea5655c3a509de",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/acd4972f07082838a6056e13fe99a9014d08f1dd.jpg?tbpicau=2026-11-04-05_0642b17e0d4c374ac95a183ea485fa56",
+          "actual_public_image_sha256": "6da0224875f7c9f9c7c9005218b33840d824735ba916dd3d45b9c5487b6d4705",
+          "actual_public_image_bytes": 133200,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.3",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T16:03:51.182161+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "9127dca027a10f2d8c5936b0993f38c3488076a7feac8c3cf7c26d0132b8ae3d"
+    }
+  ]
 }

@@ -96,3 +96,15 @@
 - 作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。：开放；公开Issue待单独建档。
 
 实际玩家ROM SHA未知时保持未知；当前参考版本SHA不能冒充玩家字节。
+
+## 版本更新答复（v0.1.3）
+
+[已公开版本答复](https://tieba.baidu.com/p/11092365551?pid=154066314306#p154066314306) · [对应公开版本](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.3) · [版本答复索引](../../feedback/version-replies.md)
+
+> @腌在渡土看了 《心跳回忆Pocket：文化篇》v0.1.3限定测试版（原生12px对白、8px姓名等）已更新：系列Logo、真人语音开关及确认文字，并保留敬称、称呼分支修订。附本版SGB真实九宫格，语音效果及深层路线请继续测试。
+
+此前反馈、确认和问题状态均按原文保留；本次版本答复仅代表明确列出的交付范围。
+
+本条是已有游戏的版本更新完成通知；原BUG确认、原反馈和当前问题状态各自保留，不代表整单、全流程、实机或玩家复测全部通过。
+
+![实际公开的v0.1.3 / native8px-12px最终ROM九宫格](https://tiebapic.baidu.com/forum/pic/item/acd4972f07082838a6056e13fe99a9014d08f1dd.jpg?tbpicau=2026-11-04-05_0642b17e0d4c374ac95a183ea485fa56)

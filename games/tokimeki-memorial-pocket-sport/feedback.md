@@ -24,3 +24,15 @@
 - [原答复](https://tieba.baidu.com/p/11092365551?pid=154059407741#154059407741)：@简单Matser 体育篇、文艺篇v0.1.1的游戏设定下划线和转场花屏已登记，屏保日文也记作未译范围，后续排查。
 
 实际玩家ROM SHA未知时保持未知；当前参考版本SHA不能冒充玩家字节。
+
+## 版本更新答复（v0.1.3）
+
+[已公开版本答复](https://tieba.baidu.com/p/11092365551?pid=154066310608#p154066310608) · [对应公开版本](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.3) · [版本答复索引](../../feedback/version-replies.md)
+
+> @腌在渡土看了 《心跳回忆Pocket：运动篇》v0.1.3限定测试版（原生12px对白、8px姓名等）已更新：系列Logo、真人语音开关及确认文字，并保留敬称、称呼分支修订。附本版真实九宫格，语音效果及深层路线请继续测试。
+
+此前反馈、确认和问题状态均按原文保留；本次版本答复仅代表明确列出的交付范围。
+
+本条是已有游戏的版本更新完成通知；原BUG确认、原反馈和当前问题状态各自保留，不代表整单、全流程、实机或玩家复测全部通过。
+
+![实际公开的v0.1.3 / native8px-12px最终ROM九宫格](https://tiebapic.baidu.com/forum/pic/item/33a572ec54e736d10e1f3e0fdd504fc2d46269d0.jpg?tbpicau=2026-11-04-05_27bd4609c9aca04859408b5dc60ee13d)

@@ -141,6 +141,61 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066454789",
+      "parent_pid": "0",
+      "floor": 245,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066454789#154066454789",
+      "created_at": "2026-10-24T16:51:53+08:00",
+      "quote": "通过百度网盘分享的文件：SaGa-dx3....state4\n沙加 3dx 小字版卡死前即时存档，试了好几次 100% 复现",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "71ac5d67b64dd04878c7620167f2368a2c6a04bc9d31456a41aec00e121bc1dc",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文、本账号@提及及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066466539",
+      "parent_pid": "154066454789",
+      "floor": 245,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066466539#154066466539",
+      "created_at": "2026-10-24T16:55:47+08:00",
+      "quote": "全能模拟器 mgba 内核",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "0cd99416294a47c1694a7f88d0dd041772e474407e2d43eb437ee58c370fbc3b",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068011792",
+      "parent_pid": "0",
+      "floor": 247,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068011792#154068011792",
+      "created_at": "2026-10-25T01:07:37+08:00",
+      "quote": "通过百度网盘分享的文件：SaGa-dx3....state1\n沙加 3 彩色版到这个 boss 直接死机了附上即时存档",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "fc8afadc74f14b2aa5d44b9ab7d3006970070567bde95dcb63651ec52fdf2f60",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文、本账号@提及及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2c44c71b9d16fdfa86bd7ee9f28f8c5495ee7b0b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068011792-1-593061148c81cee74514.jpg",
+          "SHA256_of_archived_preview": "593061148c81cee74514d90766b25ca83d14d9f94a6b6a8b98c1b431a4d1db75",
+          "archived_bytes": 70289,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -217,6 +272,87 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-bb4985895854e375",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|saga3-two-freeze-scenes",
+          "game_ids": [
+            "saga-3"
+          ],
+          "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+          "feedback_summary": "同一玩家两个主楼的两处触发分列保留：245楼称小字版卡死前即时状态且多次100%复现，楼中楼补“全能模拟器mgba内核”；247楼称彩色版到图中boss死机并附另一即时状态。静态图为紫色怪物，可读“非伊虫用了／特大，攻击”；不能认定是既有问题的最终宙斯转换，关联既有问题作待核线索，不合并触发场景。玩家实际ROM文件名/数字版本、音乐或静音版仍未知；小字已明确，不重复问字号，不索模拟器或新存档。两个state分享只供本地排查，不当ROM原件归档。",
+          "source_feedback_keys": [
+            "11092365551|154066454789",
+            "11092365551|154066466539",
+            "11092365551|154068011792"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "未知（小字已明确）",
+          "reported_font": "小字/8px（玩家称小字，未核字节）",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "saga-3",
+              "original_input_SHA256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "music",
+                  "version": "v1.0.6",
+                  "output_SHA256": "9f0eb758731af3e40cdb6256e0c49d85cdf36252249d1c6234b186cbd0a70f62"
+                },
+                {
+                  "font": "8px",
+                  "audio_variant": "no-music",
+                  "version": "v1.0.6",
+                  "output_SHA256": "6829523388b051844f8e49df439cd84359f096142f61c622b847e8767762bee4"
+                },
+                {
+                  "font": "8x12",
+                  "audio_variant": "music",
+                  "version": "v1.0.9",
+                  "output_SHA256": "9aa0c4b712b5c2f0d5ceac5f35136bbef44630ac3c1644a3923d77aae2662d26"
+                },
+                {
+                  "font": "8x12",
+                  "audio_variant": "no-music",
+                  "version": "v1.0.9",
+                  "output_SHA256": "f524b05686128a6f3c0bbcbf891a7ade7613e1a44124e2972ed1daa034f0fbd3"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -281,11 +417,88 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "case_keys": [
+        "case-bb4985895854e375"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-5b2c2a2c27df321a",
+      "game_id": "saga-3",
+      "game_ids": [
+        "saga-3"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154068011792",
+      "floor": 247,
+      "pid": "154068343971",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068343971#154068343971",
+      "text": "@xfbb333 两处卡死和存档链接已记录，请补实际ROM完整文件名（含版本），以及音乐/静音版。",
+      "text_sha256": "a310da3ba6eb595f8284d88f427559364b7e62435254dc9a8868e85d31645557",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:17:47.450545+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261025-0421|saga3-two-freeze-scenes",
+      "public_case_key": "case-bb4985895854e375",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "case_count": 172,
+  "case_count": 177,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -1020,7 +1020,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": "0.1版",
       "reported_font": "8px",
@@ -1042,7 +1042,10 @@
         "11092365551|154063905648",
         "11092365551|154065524006",
         "11092365551|154065538172",
-        "11092365551|154065541954"
+        "11092365551|154065541954",
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1123,6 +1126,44 @@
                 }
               ],
               "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        },
+        {
+          "public_update_key": "20261025-0421|poyon2-v014-terms-shop-untranslated",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2 v0.1.4普通8px：职业术语、NPC日文选项与商店物品名",
+          "feedback_summary": "补现有既有问题并分三消费者：1）武器说明“贝兽职业时，全能力+5”与职业列表“怪兽”不统一；玩家建议初始职业名用“贝兽”，实际效果/对应关系尚未核。2）第二大关门内NPC选项アイテム/オススメ/???日文残留。3）首选项进入商店后绿色药水等图标旁显示“缩小饮”“元气果”等，玩家认为错位；实际正确物品名和指针根因待核，不把猜测写成机制结论。文件名Poyon2_v0.1.4_8px_limited可在截图相册读到。两句越框另补排版总问题，不重复新建Issue。",
+          "source_feedback_keys": [
+            "11092365551|154066475055",
+            "11092365551|154066523183",
+            "11092365551|154066531004"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.4",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "poyon-dungeon-2",
+              "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.4",
+                  "output_SHA256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff"
+                }
+              ]
             }
           ],
           "maintainer_new_runtime_tests": false,
@@ -3284,8 +3325,8 @@
         "harry-potter-stone"
       ],
       "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": "大字（具体字号未确认）",
@@ -3302,7 +3343,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-4798e77b7649a204",
+          "game_ids": [
+            "harry-potter-stone"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T20:50:52Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-8f0ceda017c193d4",
@@ -3477,8 +3533,8 @@
         "fleet-commander-vs"
       ],
       "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -3491,7 +3547,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-173fda5b13ff78c3",
+          "game_ids": [
+            "fleet-commander-vs"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T22:11:48Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-e67957eb50f47420",
@@ -3523,8 +3594,8 @@
         "fleet-commander-vs"
       ],
       "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -3537,7 +3608,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-97fc3c832eefcfaf",
+          "game_ids": [
+            "fleet-commander-vs"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T22:12:22Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-677b4e7a28d20c12",
@@ -4955,7 +5041,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -4967,7 +5053,8 @@
         "11092365551|154060968332",
         "11092365551|154063811817",
         "11092365551|154065777243",
-        "11092365551|154065827377"
+        "11092365551|154065827377",
+        "11092365551|154068153590"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -5060,6 +5147,42 @@
                 }
               ],
               "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        },
+        {
+          "public_update_key": "20261025-0421|koto-v013-untranslated-consumers",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle v0.1.3普通8px：魔法、老者、野外遇敌与宝箱未译续证据",
+          "feedback_summary": "玩家明确“新ROM：v0.1.3普通8px测试”，覆盖部分按其编号1/6/7/8补现有既有问题：魔法时日文、考试后右上角老者对白、野外遇敌界面左下、野外开宝箱说明。不是旧v0.1.0报告，不一律建议重下。战斗图块/人物名/卡片及装备光标闪烁另归本轮新视觉BUG组；已有已修范围和其余未译继续分开，既有问题保持open。",
+          "source_feedback_keys": [
+            "11092365551|154068153590"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "kotobattle",
+              "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.3",
+                  "output_SHA256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387"
+                }
+              ]
             }
           ],
           "maintainer_new_runtime_tests": false,
@@ -7602,7 +7725,8 @@
       "classification": "BUG",
       "public_feedback_keys": [
         "11092365551|154064717870",
-        "11092365551|154064883516"
+        "11092365551|154064883516",
+        "11092365551|154066539078"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -7612,7 +7736,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -7694,6 +7818,42 @@
           "player_actual_version_and_font_unconfirmed": false,
           "actual_ROM_filename": null,
           "current_v011_delivery_not_repeated": true
+        },
+        {
+          "public_update_key": "20261025-0421|last-bible-II-GB-v011-levelup-consumer",
+          "game_ids": [
+            "last-bible-ii-gb"
+          ],
+          "summary": "最后的圣经Ⅱ黑白GB版 v0.1.1普通8px：升级加点界面乱码",
+          "feedback_summary": "同作既有问题追加新消费者：玩家明确二代v0.1.1 8px升级后加点，截图下窗属性数字后有重复乱码。黑白GB last-bible-ii-gb 与GBC last-bible-ii v1.0.5完全分开。不能把v0.1.0旧对白问题的局部修复视为本加点界面通过，既有问题保持open；实际玩家完整字节未核，维护未复现或修复。",
+          "source_feedback_keys": [
+            "11092365551|154066539078"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.1",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "last-bible-ii-gb",
+              "original_input_SHA256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.1",
+                  "output_SHA256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
         }
       ],
       "fixed": false,
@@ -8334,7 +8494,340 @@
           }
         }
       ]
+    },
+    {
+      "public_case_key": "case-bb4985895854e375",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|saga3-two-freeze-scenes",
+          "game_ids": [
+            "saga-3"
+          ],
+          "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+          "feedback_summary": "同一玩家两个主楼的两处触发分列保留：245楼称小字版卡死前即时状态且多次100%复现，楼中楼补“全能模拟器mgba内核”；247楼称彩色版到图中boss死机并附另一即时状态。静态图为紫色怪物，可读“非伊虫用了／特大，攻击”；不能认定是既有问题的最终宙斯转换，关联既有问题作待核线索，不合并触发场景。玩家实际ROM文件名/数字版本、音乐或静音版仍未知；小字已明确，不重复问字号，不索模拟器或新存档。两个state分享只供本地排查，不当ROM原件归档。",
+          "source_feedback_keys": [
+            "11092365551|154066454789",
+            "11092365551|154066466539",
+            "11092365551|154068011792"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "未知（小字已明确）",
+          "reported_font": "小字/8px（玩家称小字，未核字节）",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "saga-3",
+              "original_input_SHA256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "music",
+                  "version": "v1.0.6",
+                  "output_SHA256": "9f0eb758731af3e40cdb6256e0c49d85cdf36252249d1c6234b186cbd0a70f62"
+                },
+                {
+                  "font": "8px",
+                  "audio_variant": "no-music",
+                  "version": "v1.0.6",
+                  "output_SHA256": "6829523388b051844f8e49df439cd84359f096142f61c622b847e8767762bee4"
+                },
+                {
+                  "font": "8x12",
+                  "audio_variant": "music",
+                  "version": "v1.0.9",
+                  "output_SHA256": "9aa0c4b712b5c2f0d5ceac5f35136bbef44630ac3c1644a3923d77aae2662d26"
+                },
+                {
+                  "font": "8x12",
+                  "audio_variant": "no-music",
+                  "version": "v1.0.9",
+                  "output_SHA256": "f524b05686128a6f3c0bbcbf891a7ade7613e1a44124e2972ed1daa034f0fbd3"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ec0244e7436f6ab8",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154066502119",
+        "11092365551|154066519512"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|poyon2-v014-two-overflow-consumers",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+          "feedback_summary": "按来源PID补历史对白排版排版总问题：万能球苗及斧头两句拾取提示的文本越右边框、右侧框线缺失，原图和原话分别保留。既有问题内术语/商店项目另记录；本条不新建排版Issue，不声明复现或修复。本次仅记录玩家反馈，尚未确认修复或交付。",
+          "source_feedback_keys": [
+            "11092365551|154066502119",
+            "11092365551|154066519512"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.4",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "poyon-dungeon-2",
+              "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.4",
+                  "output_SHA256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b68d8962e43cd1cf",
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|koto-v013-battle-buffer-and-empty-cursor",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+          "feedback_summary": "同一玩家两条补充合并一个新视觉BUG组，保留原编号2/3/4/5/9/10/11/12：战斗人物名位置错误、防御/逃跑敌方名错误、魔法上方说明/防御右下文字错乱、敌人或boss身上文字覆盖、卡片界面偶发乱码按START复原、装备言灵空白处闪烁移动到具体文字时停止。照片支持可见静态图块异常，不能证明闪烁/按START恢复或根因。关联旧既有问题显示/保存上下文、已闭既有问题标题与已闭既有问题中央立绘，但不重开既有问题/既有问题：既有问题原卡片中央立绘不等同本次面板缓冲乱码，既有问题旧保存图标问题继续open。明确报告当前v0.1.3，不用旧版标签覆盖，也不冒称新报告已修复。",
+          "source_feedback_keys": [
+            "11092365551|154068153590",
+            "11092365551|154068154879"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "kotobattle",
+              "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.3",
+                  "output_SHA256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-56f0cf0403cae64c",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|first-contact-avatar-character-tearing",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+          "feedback_summary": "精确游戏first-contact-protocol《第一次接触协议》，父楼154040128429；不使用其它游戏的Issue。玩家称全结局通关并补mGBA存档/截图说明，报告部分人物对白时头像出现字符、新文件提示时头像撕裂。全结局是玩家自述，维护未运行或独立复现；本条无inline图，但已只读核现存原分享11PNG+10state+v0.1.0普通8px测试版ROM文件名；11张公开JPEG预览已实际读取，属于旧公开分享的截图证据、不是原PNG，不证明新报告实际ROM字节，不重复索取已给来源。新建头像视觉BUG组；数字/英文错行另补排版总问题，避免把排版与图像消费者混为根因。现存反馈分享明确文件名“第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc”，历史来源的版本/字号只作上下文，不证明新mGBA报告实际执行同一文件；本条未明写版本；旧反馈分享提供v0.1.0/8px上下文，新mGBA报告实际版本/字号与完整SHA未核，暂不重复问已给截图来源。 旧分享“文件结尾英文字符”两图可读脚本样英文token（如hidefromdatabase=TRUE），作为本视觉BUG组的额外显示消费者；不把脚本样异常行一概当基线排版。",
+          "source_feedback_keys": [
+            "11092365551|154067485113"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "historical_identity_context_not_current_ROM_proof": {
+            "version": "v0.1.0",
+            "font": "8px",
+            "filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc",
+            "source_pid": "154057223210",
+            "current_report_actual_ROM_identity_verified": false
+          },
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "first-contact-protocol",
+              "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.0",
+                  "output_SHA256": "d8ce2fa6ca3b6697e537f61d6b3187d3ee8f91b30eb823efa48445e1b00a5629"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-a10f735ac4e1950f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：数字与英文错行可读性反馈",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|first-contact-numeric-English-layout",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "第一次接触协议：数字与英文错行可读性反馈",
+          "feedback_summary": "精确first-contact-protocol《第一次接触协议》父楼154040128429。将同一玩家全结局补充中的“数字和英文错行有时会不太好辨认”作为排版反馈补排版总问题；头像字符和提示头像撕裂另记新视觉BUG。当前新文本未给例句，现存反馈分享已只读列出“文件结尾英文字符”“数字英文位置过高”等11PNG分类及v0.1.0普通8px文件名；11张公开JPEG预览已读取并另附Root补审，属于旧公开分享的截图证据、不是原PNG，不假定维护已经复现，不重复索图或追问已知版本。",
+          "source_feedback_keys": [
+            "11092365551|154067485113"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "historical_identity_context_not_current_ROM_proof": {
+            "version": "v0.1.0",
+            "font": "8px",
+            "filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc",
+            "source_pid": "154057223210",
+            "current_report_actual_ROM_identity_verified": false
+          },
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "first-contact-protocol",
+              "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.0",
+                  "output_SHA256": "d8ce2fa6ca3b6697e537f61d6b3187d3ee8f91b30eb823efa48445e1b00a5629"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00"
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
 }

@@ -90,8 +90,8 @@
         "fleet-commander-vs"
       ],
       "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -104,7 +104,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-173fda5b13ff78c3",
+          "game_ids": [
+            "fleet-commander-vs"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T22:11:48Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-9c7b7803d3a2af27",
@@ -113,8 +128,8 @@
         "fleet-commander-vs"
       ],
       "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -127,7 +142,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-97fc3c832eefcfaf",
+          "game_ids": [
+            "fleet-commander-vs"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T22:12:22Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-677b4e7a28d20c12",
@@ -186,7 +216,7 @@
         "fleet-commander-vs"
       ],
       "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-d2d25f6788a85946"
@@ -197,7 +227,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     },
     {
       "public_problem_key": "problem-97fc3c832eefcfaf",
@@ -205,7 +236,7 @@
         "fleet-commander-vs"
       ],
       "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-9c7b7803d3a2af27"
@@ -216,7 +247,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     },
     {
       "public_problem_key": "problem-6c683d590ea6d219",
@@ -269,5 +301,5 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00"
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
 }

@@ -1,0 +1,123 @@
+{
+  "schema": "public_FCP_supplied_share_JPEG_previews_v1",
+  "source_public_PID": "154057223210",
+  "current_feedback_PID": "154067485113",
+  "source_manifest_sha256": "53dbdc42abfefb78a7c083cad7044f07a13f8e854df1e862675dbc52b6c414b7",
+  "preview_count": 11,
+  "previews": [
+    {
+      "archived_public_path": "feedback/images/414465c63e3b4908fdea.jpg",
+      "sha256": "414465c63e3b4908fdeab13322293e582dc8e46a1e9ae1877bd47d982b397611",
+      "bytes": 71631,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223449.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/917e16ad9e663dbc3893.jpg",
+      "sha256": "917e16ad9e663dbc3893cfaff1da99c517869f3371d2c1a5e3ce1c23ea9d18e4",
+      "bytes": 76419,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224200.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/9bff011bffab1243490e.jpg",
+      "sha256": "9bff011bffab1243490e9ad92ad63b208c50a2b304c5398c5fc56021117b3445",
+      "bytes": 78862,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224954.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/67b3deea0ee24a85db84.jpg",
+      "sha256": "67b3deea0ee24a85db8423acd2631225e152adde3913d0d135ef6872a1b7c7e7",
+      "bytes": 78823,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-225443.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/a073385c2d015b275607.jpg",
+      "sha256": "a073385c2d015b2756071e4b1e84aa73d491d5e9c128a207bb78305715d15936",
+      "bytes": 83429,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223821.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/7f3b5c91f80ccc392737.jpg",
+      "sha256": "7f3b5c91f80ccc39273769505fdb453a2f1c4938263a0bbb9af32cf367b68e0d",
+      "bytes": 86027,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224542.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/fb198838853d858fcd3f.jpg",
+      "sha256": "fb198838853d858fcd3f17bd02bee41680999e58a7a4f40f0a7dd60a7fcc1ee3",
+      "bytes": 55341,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-220152.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/d71999119681ea732688.jpg",
+      "sha256": "d71999119681ea732688a283514bbcff543e19ff0bc50bfdc844f41e35119bf4",
+      "bytes": 63570,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-233120.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/441b8cd26c93beab1202.jpg",
+      "sha256": "441b8cd26c93beab12024c2457c39239a9b3b8f9650e91dc9b7735b2a3e9de11",
+      "bytes": 83357,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-234300.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/404a46274c9bb664405d.jpg",
+      "sha256": "404a46274c9bb664405d06ee2e99e16a6569a8f36aca724cf22363b81679f42a",
+      "bytes": 75161,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-221927.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/490d98e26996b2ed6c1c.jpg",
+      "sha256": "490d98e26996b2ed6c1c1be1786c0a853c13064e2f12276f5f81086878727c85",
+      "bytes": 74433,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-222016.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    }
+  ],
+  "original_PNGs_downloaded": 0,
+  "ROM_or_state_downloads": 0,
+  "maintainer_ROM_or_state_execution": 0,
+  "new_report_actual_ROM_identity_verified": false
+}

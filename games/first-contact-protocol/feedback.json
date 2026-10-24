@@ -3,10 +3,492 @@
   "game_id": "first-contact-protocol",
   "game_name": "第一次接触协议",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154067485113",
+      "parent_pid": "154040128429",
+      "floor": 112,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154067485113#154067485113",
+      "created_at": "2026-10-24T22:21:19+08:00",
+      "quote": "全结局通关了，补充一份mGBA版的存档和问题截图说明：基本就是有些人物对话时头像会出现字符、数字和英文错行有时会不太好辨认，人物出现新文件提示时人物头像会撕裂之类的小问题。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f6272406475e7d1cef238a23f550af05602ec1ff810124885f33874fde802e2f",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "supplemental_share_previews": [
+        {
+          "archived_public_path": "feedback/images/414465c63e3b4908fdea.jpg",
+          "sha256": "414465c63e3b4908fdeab13322293e582dc8e46a1e9ae1877bd47d982b397611",
+          "bytes": 71631,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223449.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/917e16ad9e663dbc3893.jpg",
+          "sha256": "917e16ad9e663dbc3893cfaff1da99c517869f3371d2c1a5e3ce1c23ea9d18e4",
+          "bytes": 76419,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224200.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/9bff011bffab1243490e.jpg",
+          "sha256": "9bff011bffab1243490e9ad92ad63b208c50a2b304c5398c5fc56021117b3445",
+          "bytes": 78862,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224954.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/67b3deea0ee24a85db84.jpg",
+          "sha256": "67b3deea0ee24a85db8423acd2631225e152adde3913d0d135ef6872a1b7c7e7",
+          "bytes": 78823,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-225443.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/a073385c2d015b275607.jpg",
+          "sha256": "a073385c2d015b2756071e4b1e84aa73d491d5e9c128a207bb78305715d15936",
+          "bytes": 83429,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223821.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/7f3b5c91f80ccc392737.jpg",
+          "sha256": "7f3b5c91f80ccc39273769505fdb453a2f1c4938263a0bbb9af32cf367b68e0d",
+          "bytes": 86027,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224542.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/fb198838853d858fcd3f.jpg",
+          "sha256": "fb198838853d858fcd3f17bd02bee41680999e58a7a4f40f0a7dd60a7fcc1ee3",
+          "bytes": 55341,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-220152.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/d71999119681ea732688.jpg",
+          "sha256": "d71999119681ea732688a283514bbcff543e19ff0bc50bfdc844f41e35119bf4",
+          "bytes": 63570,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-233120.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/441b8cd26c93beab1202.jpg",
+          "sha256": "441b8cd26c93beab12024c2457c39239a9b3b8f9650e91dc9b7735b2a3e9de11",
+          "bytes": 83357,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-234300.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/404a46274c9bb664405d.jpg",
+          "sha256": "404a46274c9bb664405d06ee2e99e16a6569a8f36aca724cf22363b81679f42a",
+          "bytes": 75161,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-221927.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        },
+        {
+          "archived_public_path": "feedback/images/490d98e26996b2ed6c1c.jpg",
+          "sha256": "490d98e26996b2ed6c1c1be1786c0a853c13064e2f12276f5f81086878727c85",
+          "bytes": 74433,
+          "width": 640,
+          "height": 576,
+          "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-222016.png",
+          "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+          "original_preview_bytes_unmodified": true
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-56f0cf0403cae64c",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|first-contact-avatar-character-tearing",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+          "feedback_summary": "精确游戏first-contact-protocol《第一次接触协议》，父楼154040128429；不使用其它游戏的Issue。玩家称全结局通关并补mGBA存档/截图说明，报告部分人物对白时头像出现字符、新文件提示时头像撕裂。全结局是玩家自述，维护未运行或独立复现；本条无inline图，但已只读核现存原分享11PNG+10state+v0.1.0普通8px测试版ROM文件名；11张公开JPEG预览已实际读取，属于旧公开分享的截图证据、不是原PNG，不证明新报告实际ROM字节，不重复索取已给来源。新建头像视觉BUG组；数字/英文错行另补排版总问题，避免把排版与图像消费者混为根因。现存反馈分享明确文件名“第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc”，历史来源的版本/字号只作上下文，不证明新mGBA报告实际执行同一文件；本条未明写版本；旧反馈分享提供v0.1.0/8px上下文，新mGBA报告实际版本/字号与完整SHA未核，暂不重复问已给截图来源。 旧分享“文件结尾英文字符”两图可读脚本样英文token（如hidefromdatabase=TRUE），作为本视觉BUG组的额外显示消费者；不把脚本样异常行一概当基线排版。",
+          "source_feedback_keys": [
+            "11092365551|154067485113"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "historical_identity_context_not_current_ROM_proof": {
+            "version": "v0.1.0",
+            "font": "8px",
+            "filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc",
+            "source_pid": "154057223210",
+            "current_report_actual_ROM_identity_verified": false
+          },
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "first-contact-protocol",
+              "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.0",
+                  "output_SHA256": "d8ce2fa6ca3b6697e537f61d6b3187d3ee8f91b30eb823efa48445e1b00a5629"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-a10f735ac4e1950f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：数字与英文错行可读性反馈",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|first-contact-numeric-English-layout",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "第一次接触协议：数字与英文错行可读性反馈",
+          "feedback_summary": "精确first-contact-protocol《第一次接触协议》父楼154040128429。将同一玩家全结局补充中的“数字和英文错行有时会不太好辨认”作为排版反馈补排版总问题；头像字符和提示头像撕裂另记新视觉BUG。当前新文本未给例句，现存反馈分享已只读列出“文件结尾英文字符”“数字英文位置过高”等11PNG分类及v0.1.0普通8px文件名；11张公开JPEG预览已读取并另附Root补审，属于旧公开分享的截图证据、不是原PNG，不假定维护已经复现，不重复索图或追问已知版本。",
+          "source_feedback_keys": [
+            "11092365551|154067485113"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "historical_identity_context_not_current_ROM_proof": {
+            "version": "v0.1.0",
+            "font": "8px",
+            "filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版.gbc",
+            "source_pid": "154057223210",
+            "current_report_actual_ROM_identity_verified": false
+          },
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "first-contact-protocol",
+              "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.0",
+                  "output_SHA256": "d8ce2fa6ca3b6697e537f61d6b3187d3ee8f91b30eb823efa48445e1b00a5629"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "case_keys": [
+        "case-56f0cf0403cae64c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+    },
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-d88c313408dc6744",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
+        "11097560613|154043716841",
+        "11097560613|154048988684",
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-bc800483138395cf",
+      "game_id": "first-contact-protocol",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040128429",
+      "floor": 112,
+      "pid": "154068345520",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068345520#154068345520",
+      "text": "@可可洛图书馆 旧分享里的11张截图预览已看到，头像字符/撕裂、文件末尾英文字符和数字英文错行已一起记录，后续排查。",
+      "text_sha256": "3b23050d7fb7c8e46b1bb2ea351a3d956b08bfe0aa5cbea212ab8d1eddac96f6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:19:50.947966+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    }
+  ],
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261025-0421|first-contact-avatar-character-tearing",
+      "public_case_key": "case-56f0cf0403cae64c",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|first-contact-numeric-English-layout",
+      "public_case_key": "case-a10f735ac4e1950f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：数字与英文错行可读性反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
 }

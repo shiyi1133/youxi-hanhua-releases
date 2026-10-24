@@ -1,10 +1,10 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 136,
+  "problem_count": 139,
   "open_pure_BUG_count": 44,
-  "open_requests_or_other_count": 18,
-  "open_classification_unconfirmed_count": 39,
+  "open_requests_or_other_count": 19,
+  "open_classification_unconfirmed_count": 40,
   "problems": [
     {
       "public_problem_key": "problem-39bfe9ad4346add4",
@@ -190,6 +190,7 @@
         "conan-underground",
         "devil-children-kuro",
         "dt-lords-of-genomes",
+        "first-contact-protocol",
         "gegege-kitarou",
         "jikkyou-world-soccer-pocket",
         "jikkyou-world-soccer-pocket-2",
@@ -199,6 +200,7 @@
         "monster-traveler",
         "one-piece-grand-line",
         "poyon-dungeon-1",
+        "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
         "xtreme-sports",
@@ -217,6 +219,7 @@
         "case-73251cc6b76d6c92",
         "case-77dad19aec9301d9",
         "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
         "case-abf003d1eb6c9f16",
         "case-adf93c114ce30a75",
         "case-b0b7494a88f9593f",
@@ -225,7 +228,8 @@
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
-        "case-eab2c8ffe4f1ebad"
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -292,6 +296,9 @@
         "11092365551|154061098688",
         "11092365551|154063807720",
         "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -300,7 +307,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
     },
@@ -674,7 +681,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-63a908948eb64951",
@@ -713,7 +720,10 @@
         "11092365551|154063905648",
         "11092365551|154065524006",
         "11092365551|154065538172",
-        "11092365551|154065541954"
+        "11092365551|154065541954",
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2246,7 +2256,7 @@
         "harry-potter-stone"
       ],
       "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-9841b3ddd62e7308"
@@ -2261,7 +2271,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     },
     {
       "public_problem_key": "problem-ee4b75963875976b",
@@ -2369,7 +2380,7 @@
         "fleet-commander-vs"
       ],
       "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-d2d25f6788a85946"
@@ -2380,7 +2391,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     },
     {
       "public_problem_key": "problem-334d9428f8b3576a",
@@ -2407,7 +2419,7 @@
         "fleet-commander-vs"
       ],
       "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-9c7b7803d3a2af27"
@@ -2418,7 +2430,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     },
     {
       "public_problem_key": "problem-6c683d590ea6d219",
@@ -3267,7 +3280,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
@@ -3277,7 +3290,8 @@
         "11092365551|154060968332",
         "11092365551|154063811817",
         "11092365551|154065777243",
-        "11092365551|154065827377"
+        "11092365551|154065827377",
+        "11092365551|154068153590"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -4355,14 +4369,15 @@
       ],
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f538ad1870af685"
       ],
       "public_feedback_keys": [
         "11092365551|154064717870",
-        "11092365551|154064883516"
+        "11092365551|154064883516",
+        "11092365551|154066539078"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -5144,13 +5159,76 @@
           }
         }
       ]
+    },
+    {
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "case_keys": [
+        "case-56f0cf0403cae64c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+    },
+    {
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "case_keys": [
+        "case-bb4985895854e375"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+    },
+    {
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "case_keys": [
+        "case-b68d8962e43cd1cf"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",
@@ -5163,5 +5241,23 @@
     "problem-cc335a785d542cae",
     "problem-f0b3edaaeebec4f9",
     "problem-fdd0ed6d2ee71595"
+  ],
+  "classification_only_open_problem_metadata": [
+    {
+      "public_problem_key": "problem-c89ca571796f5a80",
+      "state": "open",
+      "classification": "UNCLASSIFIED",
+      "source_body_exported": false,
+      "source_quote_exported": false,
+      "classification_only_no_fix_claim": true
+    },
+    {
+      "public_problem_key": "problem-10474764033b5802",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "source_body_exported": false,
+      "source_quote_exported": false,
+      "classification_only_no_fix_claim": true
+    }
   ]
 }

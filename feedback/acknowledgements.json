@@ -5060,8 +5060,155 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-5b2c2a2c27df321a",
+      "game_id": "saga-3",
+      "game_ids": [
+        "saga-3"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154068011792",
+      "floor": 247,
+      "pid": "154068343971",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068343971#154068343971",
+      "text": "@xfbb333 两处卡死和存档链接已记录，请补实际ROM完整文件名（含版本），以及音乐/静音版。",
+      "text_sha256": "a310da3ba6eb595f8284d88f427559364b7e62435254dc9a8868e85d31645557",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:17:47.450545+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-df481822896514c8",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154066475055",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154068344415",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068344415#154068344415",
+      "text": "@球总好学 v0.1.4普通8px的职业用词、两句越框、NPC日文选项和商店物品名已一起记录，后续排查。",
+      "text_sha256": "5057b2ea91de370341cc193ca620b870984984804c75d413f17b54bb68d2f821",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:18:34.437694+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-103e3705288f11b7",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154068344978",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068344978#154068344978",
+      "text": "@醒着做梦ლ v0.1.3普通8px的残留日文、战斗文字/图块错乱、卡片乱码和装备空白处闪烁已一起记录，后续排查。",
+      "text_sha256": "ff5d2c29fb65a288fb4c047db5e29b193354ebc8eb3a12d32bb79bb88fd8bf24",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:19:16.817046+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-bc800483138395cf",
+      "game_id": "first-contact-protocol",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040128429",
+      "floor": 112,
+      "pid": "154068345520",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068345520#154068345520",
+      "text": "@可可洛图书馆 旧分享里的11张截图预览已看到，头像字符/撕裂、文件末尾英文字符和数字英文错行已一起记录，后续排查。",
+      "text_sha256": "3b23050d7fb7c8e46b1bb2ea351a3d956b08bfe0aa5cbea212ab8d1eddac96f6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:19:50.947966+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-ceccc6e2fbda0cea",
+      "game_id": "last-bible-ii-gb",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154066539078"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "pid": "154068345938",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068345938#154068345938",
+      "text": "@炽天火3 黑白GB二代v0.1.1普通8px的升级加点界面乱码已记录，后续排查。",
+      "text_sha256": "0d69f576a34e284dd4e3cacaabdba842ddeffe0628ecd0a279766c9b52149327",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:20:24.758764+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
     }
   ],
-  "row_count": 72,
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00"
+  "row_count": 77,
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
 }

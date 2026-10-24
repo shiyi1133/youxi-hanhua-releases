@@ -1,0 +1,17 @@
+{
+  "schema": "public_actual_Root_FCP_preview_visual_boundaries_v1",
+  "source_review_sha256": "0592dfeab5760bdb524732ad54fb9f23143359f904320bd3064c990fce9d2139",
+  "source_manifest_sha256": "53dbdc42abfefb78a7c083cad7044f07a13f8e854df1e862675dbc52b6c414b7",
+  "Root_reviewed": true,
+  "reviewed_at": "2026-10-25T04:50:15.313206+08:00",
+  "actual11_JPEG_previews_reviewed": true,
+  "previews_not_original_PNG_or_latest_ROM_screenshots": true,
+  "new_mGBA_report_actual_version_or_ROM_SHA_not_proven": true,
+  "findings": {
+    "numeric_English_baseline": "Four previews visibly place digits/English higher than adjacent Chinese or overlapping lines; route as layout consumer clues to 排版总问题 without declaring root cause.",
+    "portrait_and_diary_regions": "Three portrait previews show text/fragments crossing portrait and two diary-notification previews show split portrait blocks; keep as unverified visual consumers.",
+    "document_end_unexpected_English": "Two document screenshots visibly include unexpected English/token-like lines including .hidefromdatabase=TRUE and RabenMarrona; not merely a baseline difference, include in new visual/text consumer BUG group."
+  },
+  "no_repair_or_full_acceptance_claimed": true,
+  "original11_preview_bytes_unchanged": true
+}

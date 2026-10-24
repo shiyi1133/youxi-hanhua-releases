@@ -559,6 +559,146 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068153590",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068153590#154068153590",
+      "created_at": "2026-10-25T02:15:47+08:00",
+      "quote": "新ROM：v0.1.3普通8px测试 1：使用魔法时出现未翻译日文 2：战斗中双方人物头像本来应该显示名字的位置出现错误 3：战斗中选择防御或者逃跑时对方人物名字显示错误 4：使用魔法时最上方的文字说明错乱 5：使用防御时右下方文字错乱 6：考试完和右上角老者对话扔存在未译 7：野外遇怪界面左下角未翻译 8：野外开启宝箱文字说明未译",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "0d8f09ff18a5c9fe1293becc72e8bfe8cfa36f98fd5777b20b7fba265e21c840",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文、本账号@提及及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0ba110d8bc3eb135749c0cbce01ea8d3fc1f448d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-1-a47afab27eec85773b67.jpg",
+          "SHA256_of_archived_preview": "a47afab27eec85773b674baa977fb6fe949697027c3941b5647260a3625839a5",
+          "archived_bytes": 166709,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3a9e3afa828ba61ee2b573280734970a314e598d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-2-2b0a6cdc36ce7e32bc6f.jpg",
+          "SHA256_of_archived_preview": "2b0a6cdc36ce7e32bc6fd28dc2106dc204b953ceaef1b27864c7e26150489bfa",
+          "archived_bytes": 197953,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1e61d8c8a786c9172b58e93e8f3d70cf3ac7578d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-3-956808c375abdfb7e95d.jpg",
+          "SHA256_of_archived_preview": "956808c375abdfb7e95df9f0e1c200c132d1f6a7da5c34224f5580208af7cfcb",
+          "archived_bytes": 186564,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/47146581800a19d8f9583f0275fa828ba71e468d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-4-2f9dfbe8a56d5729f13e.jpg",
+          "SHA256_of_archived_preview": "2f9dfbe8a56d5729f13e9db59d7b2182d7d3f37c560feff2ef159a6a8084f34c",
+          "archived_bytes": 185660,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5d23dd3f8794a4c217785c2c48f41bd5ac6e398d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-5-9b46b9c77448ebca6845.jpg",
+          "SHA256_of_archived_preview": "9b46b9c77448ebca684507fa4cbd98a12acfa4edf6995e519510efbb914f9b17",
+          "archived_bytes": 177273,
+          "image_index": 5,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2f69741ed21b0ef476b323599bc451da80cb3e8d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-6-a6d9384728defb871e5c.jpg",
+          "SHA256_of_archived_preview": "a6d9384728defb871e5c90c6818f3a82eab00cd52d1044b9fa160491aadd29d3",
+          "archived_bytes": 174329,
+          "image_index": 6,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/32b9c1fcc3cec3fd98651c729088d43f8694278d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-7-f2b60f1325ebe3ea8cfe.jpg",
+          "SHA256_of_archived_preview": "f2b60f1325ebe3ea8cfe224e5df5ebdcc0ea216374bad7d694ccafa02f63461f",
+          "archived_bytes": 183617,
+          "image_index": 7,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f4956e09c93d70cf63a1110abedcd100bba12b8d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-8-24cbfa43a277e89dcdb6.jpg",
+          "SHA256_of_archived_preview": "24cbfa43a277e89dcdb66a6376ee31e4d8cd58bfb9787e7b913d7ed8d7aab3f1",
+          "archived_bytes": 162700,
+          "image_index": 8,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42bc763e6709c93d27a9b5f0d93df8dcd000548d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068153590-9-d4c0da00c008ccf1a0d5.jpg",
+          "SHA256_of_archived_preview": "d4c0da00c008ccf1a0d5e3f8b69d49ab8f14c419be26f3e143fe46324ef14381",
+          "archived_bytes": 247333,
+          "image_index": 9,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068154879",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068154879#154068154879",
+      "created_at": "2026-10-25T02:16:30+08:00",
+      "quote": "9：与野怪战斗时野怪身上出现文字 10：战斗中选择卡片的界面偶尔乱码，按start后复原 11：第一个boss身上出现不该有的文字 12：平时在菜单中的装备言灵界面，光标在空白处时画面会一直闪烁，当移动到具体言灵文字上面时消失",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "b3d61c4548f345b710c9fd90cb7dd9f96d3a9d29ac705613442ad89c4a1565e1",
+      "omission_notice": "已省略原件/ROM/即时状态下载链接、提取码、客户端附文、本账号@提及及本机路径；保留反馈原话，其余全文可回原楼查阅。",
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7046a264034f78f0785d21f43f310a55b2191c8a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068154879-1-9493f425413b5d158a57.jpg",
+          "SHA256_of_archived_preview": "9493f425413b5d158a57940804e30f250933dbd07232ee01acc4f937eae15528",
+          "archived_bytes": 174150,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2fa442fbfbedab648e24f6c7b136afc378311e8a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068154879-2-57c11ecf73ff1ceefff2.jpg",
+          "SHA256_of_archived_preview": "57c11ecf73ff1ceefff2f17f97393a236fad2b76003c202e0521dcb2ecb94f81",
+          "archived_bytes": 183703,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/09a953afa40f4bfb70862553454f78f0f636188a.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154068154879-3-abd33b8f763a354b9a57.jpg",
+          "SHA256_of_archived_preview": "abd33b8f763a354b9a57ac099833dc41c411f173f21ccc0ef8028e30df97f5a5",
+          "archived_bytes": 170837,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -671,7 +811,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -683,7 +823,8 @@
         "11092365551|154060968332",
         "11092365551|154063811817",
         "11092365551|154065777243",
-        "11092365551|154065827377"
+        "11092365551|154065827377",
+        "11092365551|154068153590"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -776,6 +917,42 @@
                 }
               ],
               "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        },
+        {
+          "public_update_key": "20261025-0421|koto-v013-untranslated-consumers",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle v0.1.3普通8px：魔法、老者、野外遇敌与宝箱未译续证据",
+          "feedback_summary": "玩家明确“新ROM：v0.1.3普通8px测试”，覆盖部分按其编号1/6/7/8补现有既有问题：魔法时日文、考试后右上角老者对白、野外遇敌界面左下、野外开宝箱说明。不是旧v0.1.0报告，不一律建议重下。战斗图块/人物名/卡片及装备光标闪烁另归本轮新视觉BUG组；已有已修范围和其余未译继续分开，既有问题保持open。",
+          "source_feedback_keys": [
+            "11092365551|154068153590"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "kotobattle",
+              "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.3",
+                  "output_SHA256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387"
+                }
+              ]
             }
           ],
           "maintainer_new_runtime_tests": false,
@@ -1465,6 +1642,67 @@
           }
         }
       ]
+    },
+    {
+      "public_case_key": "case-b68d8962e43cd1cf",
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|koto-v013-battle-buffer-and-empty-cursor",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+          "feedback_summary": "同一玩家两条补充合并一个新视觉BUG组，保留原编号2/3/4/5/9/10/11/12：战斗人物名位置错误、防御/逃跑敌方名错误、魔法上方说明/防御右下文字错乱、敌人或boss身上文字覆盖、卡片界面偶发乱码按START复原、装备言灵空白处闪烁移动到具体文字时停止。照片支持可见静态图块异常，不能证明闪烁/按START恢复或根因。关联旧既有问题显示/保存上下文、已闭既有问题标题与已闭既有问题中央立绘，但不重开既有问题/既有问题：既有问题原卡片中央立绘不等同本次面板缓冲乱码，既有问题旧保存图标问题继续open。明确报告当前v0.1.3，不用旧版标签覆盖，也不冒称新报告已修复。",
+          "source_feedback_keys": [
+            "11092365551|154068153590",
+            "11092365551|154068154879"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "kotobattle",
+              "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.3",
+                  "output_SHA256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -1551,7 +1789,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
@@ -1561,7 +1799,8 @@
         "11092365551|154060968332",
         "11092365551|154063811817",
         "11092365551|154065777243",
-        "11092365551|154065827377"
+        "11092365551|154065827377",
+        "11092365551|154068153590"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -1824,6 +2063,7 @@
         "conan-underground",
         "devil-children-kuro",
         "dt-lords-of-genomes",
+        "first-contact-protocol",
         "gegege-kitarou",
         "jikkyou-world-soccer-pocket",
         "jikkyou-world-soccer-pocket-2",
@@ -1833,6 +2073,7 @@
         "monster-traveler",
         "one-piece-grand-line",
         "poyon-dungeon-1",
+        "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
         "xtreme-sports",
@@ -1851,6 +2092,7 @@
         "case-73251cc6b76d6c92",
         "case-77dad19aec9301d9",
         "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
         "case-abf003d1eb6c9f16",
         "case-adf93c114ce30a75",
         "case-b0b7494a88f9593f",
@@ -1859,7 +2101,8 @@
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
-        "case-eab2c8ffe4f1ebad"
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -1926,6 +2169,9 @@
         "11092365551|154061098688",
         "11092365551|154063807720",
         "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -1934,7 +2180,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
     },
@@ -2182,6 +2428,27 @@
           }
         }
       ]
+    },
+    {
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "case_keys": [
+        "case-b68d8962e43cd1cf"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     }
   ],
   "delivery_notices": [
@@ -2327,9 +2594,38 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-103e3705288f11b7",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154068344978",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068344978#154068344978",
+      "text": "@醒着做梦ლ v0.1.3普通8px的残留日文、战斗文字/图块错乱、卡片乱码和装备空白处闪烁已一起记录，后续排查。",
+      "text_sha256": "ff5d2c29fb65a288fb4c047db5e29b193354ebc8eb3a12d32bb79bb88fd8bf24",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:19:16.817046+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T00:33:58.920799+08:00",
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
@@ -2494,6 +2790,47 @@
       "source_feedback_keys": [
         "11092365551|154065777243",
         "11092365551|154065827377"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|koto-v013-untranslated-consumers",
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle v0.1.3普通8px：魔法、老者、野外遇敌与宝箱未译续证据",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154068153590"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|koto-v013-battle-buffer-and-empty-cursor",
+      "public_case_key": "case-b68d8962e43cd1cf",
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
       ],
       "state": "open",
       "actual_player_input_sha256": null,

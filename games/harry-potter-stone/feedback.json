@@ -243,8 +243,8 @@
         "harry-potter-stone"
       ],
       "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": "大字（具体字号未确认）",
@@ -261,7 +261,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261025-0421|metadata-closed|problem-4798e77b7649a204",
+          "game_ids": [
+            "harry-potter-stone"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "actual_closed_at": "2026-10-21T20:50:52Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_fixed_and_acceptance_fields_preserved": true
+        }
+      ]
     }
   ],
   "problems": [
@@ -295,7 +310,7 @@
         "harry-potter-stone"
       ],
       "summary": "玩家称大字在飞行课进入追逐马尔福剧情直接卡死，普通小字正常；读其存档后向右触发。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-9841b3ddd62e7308"
@@ -310,10 +325,12 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
 }

@@ -924,6 +924,185 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066475055",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066475055#154066475055",
+      "created_at": "2026-10-24T16:58:36+08:00",
+      "quote": "8px 0.1.4，此武器（图1）的说明文本请确认。““贝兽”职业时全能力加5”。全职业列表如图2所示。推测为“怪兽”职业时全能力加5。请统一职业名，或者确认此武器正确效果。个人推荐初始职业名（图2中）左上第一个职业名称为“贝兽”，而非“怪兽”。请进一步确认",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f3a534a88764a4c905c1bd5dfdee5e530e0cae8be68f043e29b1c4f61e2228ab",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42bc763e6709c93d2e15bcf0d93df8dcd0005479.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066475055-1-7da19df8f07b364ae41d.jpg",
+          "SHA256_of_archived_preview": "7da19df8f07b364ae41df910507212d4fd05a40ecc2fdfc6d16eadf9c19a22bf",
+          "archived_bytes": 163561,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5a63ae86c9177f3e3bd34e0a36cf3bc79e3d5679.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066475055-2-c46adb5a3e1db30dcc4e.jpg",
+          "SHA256_of_archived_preview": "c46adb5a3e1db30dcc4eb6727e6a12634bf27d7a5a2d86053f66cce5847f227a",
+          "archived_bytes": 166304,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2c2dc0177f3e670994e7f7f87dc79f3df9dc5579.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066475055-3-6c28a847df7e8989c769.jpg",
+          "SHA256_of_archived_preview": "6c28a847df7e8989c769a82f3534de76918b379bed7a6e57782ba4bf51228665",
+          "archived_bytes": 165998,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5d23dd3f8794a4c20cc4552c48f41bd5ac6e3979.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066475055-4-7ae99fb913745f6002a6.jpg",
+          "SHA256_of_archived_preview": "7ae99fb913745f6002a61618778de57075e9861885f903559a24e796fe8946d9",
+          "archived_bytes": 163318,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066502119",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066502119#154066502119",
+      "created_at": "2026-10-24T17:07:21+08:00",
+      "quote": "8px 0.1.4，这句文本超出边框，边框右边横线缺失",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "975e7609efa75004595678491a57b34ec6c6aa2d15f60fa091749b9d27689d63",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c469dc628535e5ddc01118d830c6a7efce1b6227.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066502119-1-3972dd23009a69e581cc.jpg",
+          "SHA256_of_archived_preview": "3972dd23009a69e581cce4b5eb2a84f2f7380bcb9516621404cef3c41406c252",
+          "archived_bytes": 213369,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066519512",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066519512#154066519512",
+      "created_at": "2026-10-24T17:12:59+08:00",
+      "quote": "8px 0.1.4，这句话文本超出边框，对话框右边横线缺失",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6663926e1327388a640ef20ef9f12e32c7807b59ab7c730970dd5b30f1b9ab45",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/18b8b97eca8065380bc51914d1dda144ad348231.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066519512-1-1a05d18feb6635f6d777.jpg",
+          "SHA256_of_archived_preview": "1a05d18feb6635f6d7779bbe20262c4d44e7e171586b0a0df42195956eae1f3c",
+          "archived_bytes": 182461,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066523183",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066523183#154066523183",
+      "created_at": "2026-10-24T17:14:15+08:00",
+      "quote": "8px 0.1.4，第二大关，这个门（图1）进去后跟这个npc（图2）对话的选项（图2左上角三个选项）日文残留，未翻译",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "bd953fa0cae8b6c47170db805f797d2dbb8c560700a7958fec968ba4294a035e",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/16bdf4faaf51f3de849c0463d2eef01f3a297932.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066523183-1-5c9dcb25829f2bd53998.jpg",
+          "SHA256_of_archived_preview": "5c9dcb25829f2bd53998e51ae636b3b32c0fae7fc16d38113840ba0f7c471890",
+          "archived_bytes": 184505,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4865cafdfc039245ba9b5c08c194a4c27d1e2532.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066523183-2-e8696b2f77baba4b7b2b.jpg",
+          "SHA256_of_archived_preview": "e8696b2f77baba4b7b2b106696adaa07fccd8d777137c307dcacc0c7f230730d",
+          "archived_bytes": 167472,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154066531004",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066531004#154066531004",
+      "created_at": "2026-10-24T17:16:57+08:00",
+      "quote": "8px 0.1.4，第二大关这个门（图1）进入后跟npc（图2）对话选择第一个选项后进入的界面（图3），界面中物品显示错误，比如第一个物品估计是回复药（图3上方第一个道具），但显示为“缩小饮”，估计是文本显示错位",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d90c7c1efd95287082c85ff30ae5fa96ae7098925047a2194abed15f31319de3",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/16bdf4faaf51f3de849c0463d2eef01f3a297932.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066531004-1-5c9dcb25829f2bd53998.jpg",
+          "SHA256_of_archived_preview": "5c9dcb25829f2bd53998e51ae636b3b32c0fae7fc16d38113840ba0f7c471890",
+          "archived_bytes": 184505,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4865cafdfc039245ba9b5c08c194a4c27d1e2532.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066531004-2-e8696b2f77baba4b7b2b.jpg",
+          "SHA256_of_archived_preview": "e8696b2f77baba4b7b2b106696adaa07fccd8d777137c307dcacc0c7f230730d",
+          "archived_bytes": 167472,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1bf99122720e0cf308ddf3fc4c46f21fbe09aa3f.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/20261025-0421/154066531004-3-67c9279cc82728801940.jpg",
+          "SHA256_of_archived_preview": "67c9279cc82728801940ecf38d0e2f1450a72bf51e737802b942d02fd8efc09e",
+          "archived_bytes": 157426,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -935,7 +1114,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "reported_version": "0.1版",
       "reported_font": "8px",
@@ -957,7 +1136,10 @@
         "11092365551|154063905648",
         "11092365551|154065524006",
         "11092365551|154065538172",
-        "11092365551|154065541954"
+        "11092365551|154065541954",
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1044,6 +1226,44 @@
           "reproduced": false,
           "fixed": false,
           "is_repair_completion": false
+        },
+        {
+          "public_update_key": "20261025-0421|poyon2-v014-terms-shop-untranslated",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2 v0.1.4普通8px：职业术语、NPC日文选项与商店物品名",
+          "feedback_summary": "补现有既有问题并分三消费者：1）武器说明“贝兽职业时，全能力+5”与职业列表“怪兽”不统一；玩家建议初始职业名用“贝兽”，实际效果/对应关系尚未核。2）第二大关门内NPC选项アイテム/オススメ/???日文残留。3）首选项进入商店后绿色药水等图标旁显示“缩小饮”“元气果”等，玩家认为错位；实际正确物品名和指针根因待核，不把猜测写成机制结论。文件名Poyon2_v0.1.4_8px_limited可在截图相册读到。两句越框另补排版总问题，不重复新建Issue。",
+          "source_feedback_keys": [
+            "11092365551|154066475055",
+            "11092365551|154066523183",
+            "11092365551|154066531004"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.4",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "poyon-dungeon-2",
+              "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.4",
+                  "output_SHA256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
         }
       ]
     },
@@ -1110,6 +1330,67 @@
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
       "fixed": false
+    },
+    {
+      "public_case_key": "case-ec0244e7436f6ab8",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154066502119",
+        "11092365551|154066519512"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-0421|poyon2-v014-two-overflow-consumers",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+          "feedback_summary": "按来源PID补历史对白排版排版总问题：万能球苗及斧头两句拾取提示的文本越右边框、右侧框线缺失，原图和原话分别保留。既有问题内术语/商店项目另记录；本条不新建排版Issue，不声明复现或修复。本次仅记录玩家反馈，尚未确认修复或交付。",
+          "source_feedback_keys": [
+            "11092365551|154066502119",
+            "11092365551|154066519512"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+          "reported_version": "v0.1.4",
+          "reported_font": "8px",
+          "historical_identity_context_not_current_ROM_proof": null,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "poyon-dungeon-2",
+              "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.4",
+                  "output_SHA256": "b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff"
+                }
+              ]
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -1120,7 +1401,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-63a908948eb64951",
@@ -1159,7 +1440,10 @@
         "11092365551|154063905648",
         "11092365551|154065524006",
         "11092365551|154065538172",
-        "11092365551|154065541954"
+        "11092365551|154065541954",
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1167,6 +1451,135 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "既有运行/显示BUG；本次只补同编号已登记范围，不新增问题。"
+    },
+    {
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-1826114663d9d86d",
+        "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
+        "case-4ab74c8d26e6d9c2",
+        "case-4fc1b958aac9569b",
+        "case-6bd0fcf592305cbc",
+        "case-73251cc6b76d6c92",
+        "case-77dad19aec9301d9",
+        "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
+        "case-abf003d1eb6c9f16",
+        "case-adf93c114ce30a75",
+        "case-b0b7494a88f9593f",
+        "case-b9d9e9d8adf6eb17",
+        "case-ccdd564562923146",
+        "case-d88c313408dc6744",
+        "case-e2f8617f838f1123",
+        "case-e793e333242f0619",
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021071566",
+        "11092365551|154021160574",
+        "11092365551|154021171336",
+        "11092365551|154021472012",
+        "11092365551|154021681933",
+        "11092365551|154024013324",
+        "11092365551|154024075587",
+        "11092365551|154024521026",
+        "11092365551|154024555323",
+        "11092365551|154024631668",
+        "11092365551|154024689562",
+        "11092365551|154024699737",
+        "11092365551|154024783360",
+        "11092365551|154024799989",
+        "11092365551|154024823325",
+        "11092365551|154024874470",
+        "11092365551|154024990734",
+        "11092365551|154025350013",
+        "11092365551|154025352717",
+        "11092365551|154025355330",
+        "11092365551|154025452758",
+        "11092365551|154025464081",
+        "11092365551|154025473016",
+        "11092365551|154025542722",
+        "11092365551|154025616792",
+        "11092365551|154025627678",
+        "11092365551|154025661500",
+        "11092365551|154025662129",
+        "11092365551|154025663106",
+        "11092365551|154025679995",
+        "11092365551|154025780591",
+        "11092365551|154025839729",
+        "11092365551|154025991313",
+        "11092365551|154026087167",
+        "11092365551|154027494472",
+        "11092365551|154027540020",
+        "11092365551|154027543521",
+        "11092365551|154027554977",
+        "11092365551|154027584097",
+        "11092365551|154027646329",
+        "11092365551|154027686364",
+        "11092365551|154027687196",
+        "11092365551|154029272038",
+        "11092365551|154029311607",
+        "11092365551|154029423609",
+        "11092365551|154029513304",
+        "11092365551|154029576536",
+        "11092365551|154031709170",
+        "11092365551|154038977448",
+        "11092365551|154042226090",
+        "11092365551|154044030798",
+        "11092365551|154044033293",
+        "11092365551|154044035881",
+        "11092365551|154045256942",
+        "11092365551|154045988200",
+        "11092365551|154046220938",
+        "11092365551|154046225079",
+        "11092365551|154047317375",
+        "11092365551|154048786590",
+        "11092365551|154054296408",
+        "11092365551|154054306070",
+        "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
+        "11097560613|154043716841",
+        "11097560613|154048988684",
+        "11097560613|154061939534"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -1259,9 +1672,41 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-df481822896514c8",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154066475055",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154068344415",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068344415#154068344415",
+      "text": "@球总好学 v0.1.4普通8px的职业用词、两句越框、NPC日文选项和商店物品名已一起记录，后续排查。",
+      "text_sha256": "5057b2ea91de370341cc193ca620b870984984804c75d413f17b54bb68d2f821",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-25T05:18:34.437694+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",
@@ -1301,6 +1746,49 @@
         "11092365551|154065524006",
         "11092365551|154065538172",
         "11092365551|154065541954"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|poyon2-v014-terms-shop-untranslated",
+      "public_case_key": "case-63a908948eb64951",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：职业术语、NPC日文选项与商店物品名",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|poyon2-v014-two-overflow-consumers",
+      "public_case_key": "case-ec0244e7436f6ab8",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066502119",
+        "11092365551|154066519512"
       ],
       "state": "open",
       "actual_player_input_sha256": null,

@@ -35,6 +35,21 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154067538520",
+      "parent_pid": "154040122000",
+      "floor": 110,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154067538520#154067538520",
+      "created_at": "2026-10-24T22:37:12+08:00",
+      "quote": "已测试标题和教程都正常了",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "dcb309fffef1eb8c5639abb0fd60e3a5127031f561d33d5162c20d8a7b889ac7",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -243,7 +258,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
+  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",
@@ -313,6 +328,19 @@
       "Source_executions": 0,
       "precise_nested_notification_claimed": false,
       "original_actual_notice_receipt_sha256": "6cceb7d3d198a535570c794bd481da405f95fa4ff4f5d8781a953fdb7a9d4e16"
+    }
+  ],
+  "player_reported_limited_retests": [
+    {
+      "public_update_key": "20261025-0421|golden-title-tutorial-player-retest",
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "source_feedback_key": "11092365551|154067538520",
+      "kind": "PLAYER_REPORTED_TITLE_AND_TUTORIAL_NOW_NORMAL",
+      "reported_positive_scope": "玩家称标题和教程正常",
+      "player_report_only": true,
+      "all_game_acceptance": false,
+      "maintainer_new_runtime": false,
+      "new_Issue_or_repair": false
     }
   ]
 }

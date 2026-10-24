@@ -7,3 +7,38 @@
 当前导出未取得可关联的正式问题单；这不表示已完成全面测试。
 
 问题单开放不等于正在修复；关闭不自动代表所有报告症状全部验收。玩家实际ROM SHA未知时仍保留未知，当前版本的参考SHA见[游戏页面](README.md)。
+
+## 20261025-0421 公开反馈补充
+
+112楼 · 可可洛图书馆 · [原回帖](https://tieba.baidu.com/p/11092365551?pid=154067485113#154067485113)
+
+> 全结局通关了，补充一份mGBA版的存档和问题截图说明：基本就是有些人物对话时头像会出现字符、数字和英文错行有时会不太好辨认，人物出现新文件提示时人物头像会撕裂之类的小问题。
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/414465c63e3b4908fdea.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/917e16ad9e663dbc3893.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/9bff011bffab1243490e.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/67b3deea0ee24a85db84.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/a073385c2d015b275607.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/7f3b5c91f80ccc392737.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/fb198838853d858fcd3f.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/d71999119681ea732688.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/441b8cd26c93beab1202.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/404a46274c9bb664405d.jpg)
+
+![玩家旧分享JPEG预览，非原PNG或本次执行ROM证明](../../feedback/images/490d98e26996b2ed6c1c.jpg)
+
+- [BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂：已记录，开放待核。
+- 第一次接触协议：数字与英文错行可读性反馈：已记录，开放待核。
+
+[实际公开登记答复](https://tieba.baidu.com/p/11092365551?pid=154068345520#154068345520)：@可可洛图书馆 旧分享里的11张截图预览已看到，头像字符/撕裂、文件末尾英文字符和数字英文错行已一起记录，后续排查。
+
+玩家完整ROM身份未知保留未知；静态图与玩家通关陈述不等于维护运行或全部场景验收。

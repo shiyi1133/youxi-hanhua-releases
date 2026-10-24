@@ -1,0 +1,553 @@
+{
+  "schema": "public13sources25JPEG8registrations_actual_ACK_feedback_increment_v1",
+  "run_id": "20261025-0421",
+  "bindings": {
+    "actual_private_evidence_bindings_sha256": "14c3a8d83821eb73b32244439a736551fb4cfdf82f69da2f282e36420f4df995",
+    "actual_registration_sha256": "cdb2cfca468a0f482d12308fb9aa4a05ad61515273efe1d835b26d61ad325af9",
+    "plan_sha256": "2ef37f68306139c2828cd7f71a48c1cad916d8ccd22c027315ae68874cbe545f",
+    "actual_ACK_projection_sha256": "a10f2594225019c2cdfe67f4674ba5e16afb12960ff9cf6f9d3d47a821c1f671",
+    "actual_private_Issue_states_sha256": "cdd5bb682a96f57168f3091788ab782fbaecb580f83ce0d313b6df15337488f7"
+  },
+  "generated_at": "2026-10-25T05:32:27.011550+08:00",
+  "source_PIDs": [
+    "154066454789",
+    "154066466539",
+    "154066475055",
+    "154066502119",
+    "154066519512",
+    "154066523183",
+    "154066531004",
+    "154066539078",
+    "154067485113",
+    "154067538520",
+    "154068011792",
+    "154068153590",
+    "154068154879"
+  ],
+  "public_source_quotes": 13,
+  "original_player_image_positions": 25,
+  "original_player_JPEGs": 25,
+  "distinct_original_JPEG_byte_SHA256s": 23,
+  "additional_public_share_JPEG_previews": 11,
+  "total_actual_JPEG_files": 36,
+  "supplemental_public_manifest": "feedback/evidence/20261025-0421-FCP-share-previews.json",
+  "supplemental_Root_review": "feedback/evidence/20261025-0421-FCP-share-preview-review.json",
+  "player_image_bindings": [
+    {
+      "source_pid": "154068011792",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154068011792-1-593061148c81cee74514.jpg",
+      "sha256": "593061148c81cee74514d90766b25ca83d14d9f94a6b6a8b98c1b431a4d1db75",
+      "bytes": 70289
+    },
+    {
+      "source_pid": "154066475055",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066475055-1-7da19df8f07b364ae41d.jpg",
+      "sha256": "7da19df8f07b364ae41df910507212d4fd05a40ecc2fdfc6d16eadf9c19a22bf",
+      "bytes": 163561
+    },
+    {
+      "source_pid": "154066475055",
+      "image_index": 2,
+      "path": "feedback/images/20261025-0421/154066475055-2-c46adb5a3e1db30dcc4e.jpg",
+      "sha256": "c46adb5a3e1db30dcc4eb6727e6a12634bf27d7a5a2d86053f66cce5847f227a",
+      "bytes": 166304
+    },
+    {
+      "source_pid": "154066475055",
+      "image_index": 3,
+      "path": "feedback/images/20261025-0421/154066475055-3-6c28a847df7e8989c769.jpg",
+      "sha256": "6c28a847df7e8989c769a82f3534de76918b379bed7a6e57782ba4bf51228665",
+      "bytes": 165998
+    },
+    {
+      "source_pid": "154066475055",
+      "image_index": 4,
+      "path": "feedback/images/20261025-0421/154066475055-4-7ae99fb913745f6002a6.jpg",
+      "sha256": "7ae99fb913745f6002a61618778de57075e9861885f903559a24e796fe8946d9",
+      "bytes": 163318
+    },
+    {
+      "source_pid": "154066502119",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066502119-1-3972dd23009a69e581cc.jpg",
+      "sha256": "3972dd23009a69e581cce4b5eb2a84f2f7380bcb9516621404cef3c41406c252",
+      "bytes": 213369
+    },
+    {
+      "source_pid": "154066519512",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066519512-1-1a05d18feb6635f6d777.jpg",
+      "sha256": "1a05d18feb6635f6d7779bbe20262c4d44e7e171586b0a0df42195956eae1f3c",
+      "bytes": 182461
+    },
+    {
+      "source_pid": "154066523183",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066523183-1-5c9dcb25829f2bd53998.jpg",
+      "sha256": "5c9dcb25829f2bd53998e51ae636b3b32c0fae7fc16d38113840ba0f7c471890",
+      "bytes": 184505
+    },
+    {
+      "source_pid": "154066523183",
+      "image_index": 2,
+      "path": "feedback/images/20261025-0421/154066523183-2-e8696b2f77baba4b7b2b.jpg",
+      "sha256": "e8696b2f77baba4b7b2b106696adaa07fccd8d777137c307dcacc0c7f230730d",
+      "bytes": 167472
+    },
+    {
+      "source_pid": "154066531004",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066531004-1-5c9dcb25829f2bd53998.jpg",
+      "sha256": "5c9dcb25829f2bd53998e51ae636b3b32c0fae7fc16d38113840ba0f7c471890",
+      "bytes": 184505
+    },
+    {
+      "source_pid": "154066531004",
+      "image_index": 2,
+      "path": "feedback/images/20261025-0421/154066531004-2-e8696b2f77baba4b7b2b.jpg",
+      "sha256": "e8696b2f77baba4b7b2b106696adaa07fccd8d777137c307dcacc0c7f230730d",
+      "bytes": 167472
+    },
+    {
+      "source_pid": "154066531004",
+      "image_index": 3,
+      "path": "feedback/images/20261025-0421/154066531004-3-67c9279cc82728801940.jpg",
+      "sha256": "67c9279cc82728801940ecf38d0e2f1450a72bf51e737802b942d02fd8efc09e",
+      "bytes": 157426
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154068153590-1-a47afab27eec85773b67.jpg",
+      "sha256": "a47afab27eec85773b674baa977fb6fe949697027c3941b5647260a3625839a5",
+      "bytes": 166709
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 2,
+      "path": "feedback/images/20261025-0421/154068153590-2-2b0a6cdc36ce7e32bc6f.jpg",
+      "sha256": "2b0a6cdc36ce7e32bc6fd28dc2106dc204b953ceaef1b27864c7e26150489bfa",
+      "bytes": 197953
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 3,
+      "path": "feedback/images/20261025-0421/154068153590-3-956808c375abdfb7e95d.jpg",
+      "sha256": "956808c375abdfb7e95df9f0e1c200c132d1f6a7da5c34224f5580208af7cfcb",
+      "bytes": 186564
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 4,
+      "path": "feedback/images/20261025-0421/154068153590-4-2f9dfbe8a56d5729f13e.jpg",
+      "sha256": "2f9dfbe8a56d5729f13e9db59d7b2182d7d3f37c560feff2ef159a6a8084f34c",
+      "bytes": 185660
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 5,
+      "path": "feedback/images/20261025-0421/154068153590-5-9b46b9c77448ebca6845.jpg",
+      "sha256": "9b46b9c77448ebca684507fa4cbd98a12acfa4edf6995e519510efbb914f9b17",
+      "bytes": 177273
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 6,
+      "path": "feedback/images/20261025-0421/154068153590-6-a6d9384728defb871e5c.jpg",
+      "sha256": "a6d9384728defb871e5c90c6818f3a82eab00cd52d1044b9fa160491aadd29d3",
+      "bytes": 174329
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 7,
+      "path": "feedback/images/20261025-0421/154068153590-7-f2b60f1325ebe3ea8cfe.jpg",
+      "sha256": "f2b60f1325ebe3ea8cfe224e5df5ebdcc0ea216374bad7d694ccafa02f63461f",
+      "bytes": 183617
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 8,
+      "path": "feedback/images/20261025-0421/154068153590-8-24cbfa43a277e89dcdb6.jpg",
+      "sha256": "24cbfa43a277e89dcdb66a6376ee31e4d8cd58bfb9787e7b913d7ed8d7aab3f1",
+      "bytes": 162700
+    },
+    {
+      "source_pid": "154068153590",
+      "image_index": 9,
+      "path": "feedback/images/20261025-0421/154068153590-9-d4c0da00c008ccf1a0d5.jpg",
+      "sha256": "d4c0da00c008ccf1a0d5e3f8b69d49ab8f14c419be26f3e143fe46324ef14381",
+      "bytes": 247333
+    },
+    {
+      "source_pid": "154068154879",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154068154879-1-9493f425413b5d158a57.jpg",
+      "sha256": "9493f425413b5d158a57940804e30f250933dbd07232ee01acc4f937eae15528",
+      "bytes": 174150
+    },
+    {
+      "source_pid": "154068154879",
+      "image_index": 2,
+      "path": "feedback/images/20261025-0421/154068154879-2-57c11ecf73ff1ceefff2.jpg",
+      "sha256": "57c11ecf73ff1ceefff2f17f97393a236fad2b76003c202e0521dcb2ecb94f81",
+      "bytes": 183703
+    },
+    {
+      "source_pid": "154068154879",
+      "image_index": 3,
+      "path": "feedback/images/20261025-0421/154068154879-3-abd33b8f763a354b9a57.jpg",
+      "sha256": "abd33b8f763a354b9a57ac099833dc41c411f173f21ccc0ef8028e30df97f5a5",
+      "bytes": 170837
+    },
+    {
+      "source_pid": "154066539078",
+      "image_index": 1,
+      "path": "feedback/images/20261025-0421/154066539078-1-eddc5f2d81cb01539074.jpg",
+      "sha256": "eddc5f2d81cb01539074a3c15f91ad3a96207634bacb6961154872be6dfb434b",
+      "bytes": 176430
+    }
+  ],
+  "public_share_preview_bindings": [
+    {
+      "archived_public_path": "feedback/images/414465c63e3b4908fdea.jpg",
+      "sha256": "414465c63e3b4908fdeab13322293e582dc8e46a1e9ae1877bd47d982b397611",
+      "bytes": 71631,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223449.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/917e16ad9e663dbc3893.jpg",
+      "sha256": "917e16ad9e663dbc3893cfaff1da99c517869f3371d2c1a5e3ce1c23ea9d18e4",
+      "bytes": 76419,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224200.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/9bff011bffab1243490e.jpg",
+      "sha256": "9bff011bffab1243490e9ad92ad63b208c50a2b304c5398c5fc56021117b3445",
+      "bytes": 78862,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224954.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/67b3deea0ee24a85db84.jpg",
+      "sha256": "67b3deea0ee24a85db8423acd2631225e152adde3913d0d135ef6872a1b7c7e7",
+      "bytes": 78823,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-225443.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/a073385c2d015b275607.jpg",
+      "sha256": "a073385c2d015b2756071e4b1e84aa73d491d5e9c128a207bb78305715d15936",
+      "bytes": 83429,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-223821.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/7f3b5c91f80ccc392737.jpg",
+      "sha256": "7f3b5c91f80ccc39273769505fdb453a2f1c4938263a0bbb9af32cf367b68e0d",
+      "bytes": 86027,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-224542.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/fb198838853d858fcd3f.jpg",
+      "sha256": "fb198838853d858fcd3f17bd02bee41680999e58a7a4f40f0a7dd60a7fcc1ee3",
+      "bytes": 55341,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-220152.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/d71999119681ea732688.jpg",
+      "sha256": "d71999119681ea732688a283514bbcff543e19ff0bc50bfdc844f41e35119bf4",
+      "bytes": 63570,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-233120.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/441b8cd26c93beab1202.jpg",
+      "sha256": "441b8cd26c93beab12024c2457c39239a9b3b8f9650e91dc9b7735b2a3e9de11",
+      "bytes": 83357,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-234300.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/404a46274c9bb664405d.jpg",
+      "sha256": "404a46274c9bb664405d06ee2e99e16a6569a8f36aca724cf22363b81679f42a",
+      "bytes": 75161,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-221927.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    },
+    {
+      "archived_public_path": "feedback/images/490d98e26996b2ed6c1c.jpg",
+      "sha256": "490d98e26996b2ed6c1c1be1786c0a853c13064e2f12276f5f81086878727c85",
+      "bytes": 74433,
+      "width": 640,
+      "height": 576,
+      "original_source_filename": "第一次接触协议_简体中文_v0.1.0_普通8px测试版-261021-222016.png",
+      "classification": "PUBLIC_SHARE_JPEG_PREVIEW_NOT_ORIGINAL_PNG_OR_CURRENT_ROM_RUNTIME_PROOF",
+      "original_preview_bytes_unmodified": true
+    }
+  ],
+  "actual_source_registration_events": 8,
+  "new_private_source_problems": 3,
+  "new_private_pure_bug_problems": 3,
+  "existing_private_source_problem_supplements": 5,
+  "metadata_only_historical_closed_alignments": 3,
+  "classification_only_missing_problem_metadata": 2,
+  "player_limited_positive_retests": 1,
+  "actual_public_ACKs": 5,
+  "actual_public_information_replies": 0,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 44,
+    "open_requests_or_other_count": 19,
+    "open_classification_unconfirmed_count": 40
+  },
+  "public_events": [
+    {
+      "public_event_key": "20261025-0421|saga3-two-freeze-scenes",
+      "public_case_key": "case-bb4985895854e375",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066454789",
+        "11092365551|154066466539",
+        "11092365551|154068011792"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|poyon2-v014-terms-shop-untranslated",
+      "public_case_key": "case-63a908948eb64951",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：职业术语、NPC日文选项与商店物品名",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066475055",
+        "11092365551|154066523183",
+        "11092365551|154066531004"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|poyon2-v014-two-overflow-consumers",
+      "public_case_key": "case-ec0244e7436f6ab8",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066502119",
+        "11092365551|154066519512"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|koto-v013-untranslated-consumers",
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle v0.1.3普通8px：魔法、老者、野外遇敌与宝箱未译续证据",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154068153590"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|koto-v013-battle-buffer-and-empty-cursor",
+      "public_case_key": "case-b68d8962e43cd1cf",
+      "public_problem_key": "problem-ea043806abc1ec60",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.3普通8px：战斗图块/名字错乱、卡片缓冲乱码及装备空白光标闪烁",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154068153590",
+        "11092365551|154068154879"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|first-contact-avatar-character-tearing",
+      "public_case_key": "case-56f0cf0403cae64c",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|first-contact-numeric-English-layout",
+      "public_case_key": "case-a10f735ac4e1950f",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：数字与英文错行可读性反馈",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154067485113"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261025-0421|last-bible-II-GB-v011-levelup-consumer",
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "最后的圣经Ⅱ黑白GB版 v0.1.1普通8px：升级加点界面乱码",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154066539078"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ],
+  "metadata_state_alignments": [
+    {
+      "public_update_key": "20261025-0421|metadata-closed|problem-4798e77b7649a204",
+      "game_ids": [
+        "harry-potter-stone"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "actual_closed_at": "2026-10-21T20:50:52Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_fixed_and_acceptance_fields_preserved": true
+    },
+    {
+      "public_update_key": "20261025-0421|metadata-closed|problem-173fda5b13ff78c3",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "actual_closed_at": "2026-10-21T22:11:48Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_fixed_and_acceptance_fields_preserved": true
+    },
+    {
+      "public_update_key": "20261025-0421|metadata-closed|problem-97fc3c832eefcfaf",
+      "game_ids": [
+        "fleet-commander-vs"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "actual_closed_at": "2026-10-21T22:12:22Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_fixed_and_acceptance_fields_preserved": true
+    }
+  ],
+  "private_API_bodies_copied": false,
+  "public_Issue_creations": 0,
+  "ROM_Source_Release_or_version_mutations": 0,
+  "monitor_counter_increment": 0,
+  "Source_executions": 0,
+  "ROM_runtime": 0
+}

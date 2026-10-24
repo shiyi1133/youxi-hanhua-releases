@@ -1,0 +1,120 @@
+{
+  "schema": "actual_three_bounded_public_problem_state_mirror_v1",
+  "parent": "083f4ebb2fe011ed528c084f4c916332b9b890fa",
+  "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+  "approved_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+  "public_problem_updates": [
+    {
+      "public_case_key": "case-1c81e259d36c5e96",
+      "public_problem_key": "problem-cf1dcde252ac2624",
+      "game_id": "shin-megami-tensei-card-summoner",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+        "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+        "covered": [
+          "取名页左下黑条：提供者精确旧v0.1.0基线复现及v0.1.1自然同输入对照；LZ短拷贝距离255/256边界修正。",
+          "原主要阶段残留已有同ROM自然检查点续行前后对照；主要/结束阶段共用四格字形清理，结束阶段属于共享修正与原生解码诊断，未另称自然结束阶段验收。"
+        ],
+        "remaining": [
+          "关闭范围限原单两项UI缺陷；玩家本体SHA未取得，不等于玩家已复测。",
+          "全流程、实机、联机、正常保存新进程冷读仍未验；覆盖反馈#135另行保持open。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然按键自测：标题冷启动、中文姓名重复/删除/重输/最多5字，VS教学卡组名，MAG、两场教学胜利及奖励卡；主要阶段图为同ROM自然检查点续跑。 提供者受控诊断：10份修改资源经原生解码器比对、314非空SP、6帮助字形、原52密码符号及5个中文命名字形；非自然完整SP/密码或全流程验收。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+        "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+        "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+        "public_problem_key": "problem-cf1dcde252ac2624",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-e1e312e2ff4d2255",
+      "public_problem_key": "problem-ab91415dc04b6622",
+      "game_id": "shin-megami-tensei-card-summoner",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+        "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+        "covered": [
+          "教学固定VS上下两行“实习开始！！”和“卡组”标签已有最终ROM自然画面。"
+        ],
+        "remaining": [
+          "原反馈为正式对战VS页，深层对手卡组名未全覆盖，继续open。",
+          "用户自定义卡组改名、商店和深层路线未验。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然按键自测：标题冷启动、中文姓名重复/删除/重输/最多5字，VS教学卡组名，MAG、两场教学胜利及奖励卡；主要阶段图为同ROM自然检查点续跑。 提供者受控诊断：10份修改资源经原生解码器比对、314非空SP、6帮助字形、原52密码符号及5个中文命名字形；非自然完整SP/密码或全流程验收。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+        "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+        "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+        "public_problem_key": "problem-ab91415dc04b6622",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_id": "last-bible-ii-gb",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+        "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+        "covered": [
+          "精确旧v0.1.0目标自测复现同类滚屏黑块，v0.1.1修正文字符号影子捕获及满缓存回收；最终ROM自然窗口与诊断时序证据已核。"
+        ],
+        "remaining": [
+          "玩家实际ROM文件名、版本、字号和完整SHA仍未知，不能将同类修复等同玩家原用例全部验收，继续open。",
+          "所测窗口IRQ次数恢复原版量级，仍有额外CPU与抖动；未做主观音频、全场景、实机或全通。"
+        ],
+        "evidence_boundary": "提供者报告：各自新游戏自然输入三个角色名杨咩咩（重复/删除重输、原假名页）、开场滚屏/连续对白/原生菜单、记录及新OS进程仅电池继续，战斗攻击/败北复归和自然逃跑。维护未运行ROM。 提供者定量分析：原版/旧v0.1.0/本v0.1.1分别冷启自然路线，同对白检查点每窗300帧，mGBA0.10.5 DMG指令时序及非零PCM；不是主观听音或实机音频验收。源码静态与旧历史场景不替代本版自然验证。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+        "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+        "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+        "public_problem_key": "problem-7c6eed6fdcb6f19c",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
+      }
+    }
+  ],
+  "actual_closed_problems": 1,
+  "partial_open_problems": 2,
+  "actual_closed_pure_BUG_problems": 1,
+  "open_pure_BUG_count": 47,
+  "open_requests_or_other_count": 18,
+  "public_Issue_creations": 0,
+  "private_API_body_or_URL_copies": 0,
+  "new_runtime_tests": 0,
+  "Source_executions": 0,
+  "monitor_counter_increment": 0,
+  "all_other_case_problem_ACK_quote_image_version_Source_claim_and_counter_fields_preserved": true,
+  "recorded_at": "2026-10-24T15:35:39.633387+08:00"
+}

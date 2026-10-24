@@ -218,7 +218,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -260,6 +260,64 @@
           "player_actual_version_and_font_unconfirmed": true,
           "current_release_only_a_reference_not_player_identity": true
         }
+      ],
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+        "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+        "covered": [
+          "精确旧v0.1.0目标自测复现同类滚屏黑块，v0.1.1修正文字符号影子捕获及满缓存回收；最终ROM自然窗口与诊断时序证据已核。"
+        ],
+        "remaining": [
+          "玩家实际ROM文件名、版本、字号和完整SHA仍未知，不能将同类修复等同玩家原用例全部验收，继续open。",
+          "所测窗口IRQ次数恢复原版量级，仍有额外CPU与抖动；未做主观音频、全场景、实机或全通。"
+        ],
+        "evidence_boundary": "提供者报告：各自新游戏自然输入三个角色名杨咩咩（重复/删除重输、原假名页）、开场滚屏/连续对白/原生菜单、记录及新OS进程仅电池继续，战斗攻击/败北复归和自然逃跑。维护未运行ROM。 提供者定量分析：原版/旧v0.1.0/本v0.1.1分别冷启自然路线，同对白检查点每窗300帧，mGBA0.10.5 DMG指令时序及非零PCM；不是主观听音或实机音频验收。源码静态与旧历史场景不替代本版自然验证。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+        "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+        "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+        "public_problem_key": "problem-7c6eed6fdcb6f19c",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+          "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+          "covered": [
+            "精确旧v0.1.0目标自测复现同类滚屏黑块，v0.1.1修正文字符号影子捕获及满缓存回收；最终ROM自然窗口与诊断时序证据已核。"
+          ],
+          "remaining": [
+            "玩家实际ROM文件名、版本、字号和完整SHA仍未知，不能将同类修复等同玩家原用例全部验收，继续open。",
+            "所测窗口IRQ次数恢复原版量级，仍有额外CPU与抖动；未做主观音频、全场景、实机或全通。"
+          ],
+          "evidence_boundary": "提供者报告：各自新游戏自然输入三个角色名杨咩咩（重复/删除重输、原假名页）、开场滚屏/连续对白/原生菜单、记录及新OS进程仅电池继续，战斗攻击/败北复归和自然逃跑。维护未运行ROM。 提供者定量分析：原版/旧v0.1.0/本v0.1.1分别冷启自然路线，同对白检查点每窗300帧，mGBA0.10.5 DMG指令时序及非零PCM；不是主观听音或实机音频验收。源码静态与旧历史场景不替代本版自然验证。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+          "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+          "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+          "public_problem_key": "problem-7c6eed6fdcb6f19c",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
+        }
       ]
     }
   ],
@@ -271,7 +329,7 @@
       ],
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f538ad1870af685"
@@ -282,10 +340,68 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+        "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+        "covered": [
+          "精确旧v0.1.0目标自测复现同类滚屏黑块，v0.1.1修正文字符号影子捕获及满缓存回收；最终ROM自然窗口与诊断时序证据已核。"
+        ],
+        "remaining": [
+          "玩家实际ROM文件名、版本、字号和完整SHA仍未知，不能将同类修复等同玩家原用例全部验收，继续open。",
+          "所测窗口IRQ次数恢复原版量级，仍有额外CPU与抖动；未做主观音频、全场景、实机或全通。"
+        ],
+        "evidence_boundary": "提供者报告：各自新游戏自然输入三个角色名杨咩咩（重复/删除重输、原假名页）、开场滚屏/连续对白/原生菜单、记录及新OS进程仅电池继续，战斗攻击/败北复归和自然逃跑。维护未运行ROM。 提供者定量分析：原版/旧v0.1.0/本v0.1.1分别冷启自然路线，同对白检查点每窗300帧，mGBA0.10.5 DMG指令时序及非零PCM；不是主观听音或实机音频验收。源码静态与旧历史场景不替代本版自然验证。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+        "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+        "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+        "public_problem_key": "problem-7c6eed6fdcb6f19c",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+          "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+          "covered": [
+            "精确旧v0.1.0目标自测复现同类滚屏黑块，v0.1.1修正文字符号影子捕获及满缓存回收；最终ROM自然窗口与诊断时序证据已核。"
+          ],
+          "remaining": [
+            "玩家实际ROM文件名、版本、字号和完整SHA仍未知，不能将同类修复等同玩家原用例全部验收，继续open。",
+            "所测窗口IRQ次数恢复原版量级，仍有额外CPU与抖动；未做主观音频、全场景、实机或全通。"
+          ],
+          "evidence_boundary": "提供者报告：各自新游戏自然输入三个角色名杨咩咩（重复/删除重输、原假名页）、开场滚屏/连续对白/原生菜单、记录及新OS进程仅电池继续，战斗攻击/败北复归和自然逃跑。维护未运行ROM。 提供者定量分析：原版/旧v0.1.0/本v0.1.1分别冷启自然路线，同对白检查点每窗300帧，mGBA0.10.5 DMG指令时序及非零PCM；不是主观听音或实机音频验收。源码静态与旧历史场景不替代本版自然验证。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "30ef0b6d64511431d38476b33884e3c1eb403be12af7d4ad75e42ab0b9c87ff2",
+          "approved_bounded_plan_sha256": "d7d5d625cb70ec4cdf270375bed0c86cdd27b1cb17cd441e229bcdf8933906b9",
+          "recorded_at": "2026-10-24T15:35:39.633387+08:00",
+          "public_problem_key": "problem-7c6eed6fdcb6f19c",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "last_incremental_update_at": "2026-10-24T15:35:39.633387+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",

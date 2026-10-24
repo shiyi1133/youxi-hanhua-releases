@@ -1,0 +1,32 @@
+{
+  "schema": "actual_manual_four_public_existing_game_upgrade_metadata_v1",
+  "parent": "f5cb09ca632a2be97b91e1159158a3bae86b5ba6",
+  "game_ids": [
+    "last-bible-ii-gb",
+    "shin-megami-tensei-card-summoner",
+    "tokimeki-memorial-pocket-culture",
+    "tokimeki-memorial-pocket-sport"
+  ],
+  "current_game_count": 169,
+  "actual_new_games": 0,
+  "actual_updated_games": 4,
+  "actual_current_targets": 4,
+  "added_Source_assets": 4,
+  "private_commit": "721ec9ca53fad3fc29956ab0626889678316573d",
+  "actual_private_receipt_sha256": "3242053e3b99e3b9dd8337e475401c543c3f4d04ceb6d6e953cf19d54e3c99fa",
+  "actual_public_receipt_sha256": "8bd2b656f0d28ac474af5a1c13d24301f9a422d2278b5a02b658b1f728c00cd8",
+  "normalized_sha256": "287ce5c109a720e76c2604ccccd370a47f3aa1227914ebc356ebd2846744b7f4",
+  "public_manifest_sha256": "84380c60c5b2526f43d8cb7353ed7201df74d460376618f705bca0cfaab2bdca",
+  "source_completeness": null,
+  "maintainer_source_rebuild": "NOT_RUN_THIS_INGESTION",
+  "Source_executions": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "ROM_download_links": 0,
+  "private_Source_uploads": 0,
+  "Issue_closures": 0,
+  "feedback_case_changes": 0,
+  "all_unrelated_rows_raw_exact": true,
+  "all_old_asset_and_Source_histories_preserved": true,
+  "recorded_at": "2026-10-24T15:26:07.180600+08:00"
+}

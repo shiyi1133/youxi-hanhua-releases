@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 242,
-  "unique_PNG_file_count": 234,
+  "screenshot_binding_count": 246,
+  "unique_PNG_file_count": 238,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -5353,6 +5353,66 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "last-bible-ii-gb",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+      "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+      "screenshot_sha256": "0c98d632cca32f9882bb4f3a5a221a1b4f414dd7f7ccca7119bd0866ede24ceb",
+      "screenshot_bytes": 26584,
+      "path": "games/last-bible-ii-gb/screenshots/last-bible-ii-gb-v0.1.1-8px-nine-grid.png",
+      "caption": "女神转生外传：最后的圣经Ⅱ（黑白GB版） v0.1.1 普通8px最终ROM真实DMG九宫格；自然/指令级定量分析按提供者实际边界记录，不代表GBC版、全通或实机。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "shin-megami-tensei-card-summoner",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+      "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+      "screenshot_sha256": "625fe65ef19defeefad933c25d079a1ab7f60ec49f6957ae0c2c61aff190cd05",
+      "screenshot_bytes": 42128,
+      "path": "games/shin-megami-tensei-card-summoner/screenshots/shin-megami-tensei-card-summoner-v0.1.1-8px-nine-grid.png",
+      "caption": "v0.1.1 普通8px最终ROM提供者真实九宫格；9格按原生160×144逐像素3倍核对；第6格为同ROM自然检查点续跑，非新维护运行或全流程验收。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "font": "native8px-12px",
+      "version": "v0.1.3",
+      "audio_variant": "unchanged",
+      "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "target_rom_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559",
+      "screenshot_sha256": "7e6a32e38a3554d8c9c32238af3f992764d3f27a5e750b0567ea5655c3a509de",
+      "screenshot_bytes": 43999,
+      "path": "games/tokimeki-memorial-pocket-culture/screenshots/tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-SGB-nine-grid.png",
+      "caption": "原生SGB；九格像素逐张等于所附最终目标原帧；部分同ROM状态续测与电池冷读按提供方记录区分，不等于维护者新运行。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "font": "native8px-12px",
+      "version": "v0.1.3",
+      "audio_variant": "unchanged",
+      "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "target_rom_sha256": "17fd2047f4a4c80b176e0c03c76425e6e07d4c20787a30a7c2787021ed9e1b0d",
+      "screenshot_sha256": "49ad75ed5d8746ea2ea6a711af30835d2feb9903c5c46385e327a2b7bcd7ab11",
+      "screenshot_bytes": 42544,
+      "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-nine-grid.png",
+      "caption": "原生CGB及一格SGB，带英文说明栏；九格像素逐张等于所附最终目标原帧；部分同ROM状态续测与电池冷读按提供方记录区分，不等于维护者新运行。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -5839,5 +5899,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T11:10:52.342724+08:00"
+  "last_incremental_update_at": "2026-10-24T15:26:07.180600+08:00"
 }

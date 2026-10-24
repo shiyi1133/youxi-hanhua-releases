@@ -12693,82 +12693,162 @@
       "current_targets": [
         {
           "font": "native8px-12px",
-          "version": "v0.1.1",
+          "version": "v0.1.3",
           "audio_variant": "unchanged",
-          "variant_id": null,
+          "variant_id": "native8px-12px:unchanged",
           "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
-          "output_sha256": "532cba16528c17a2c0ff698a2afe65e98a7f0804e7880e2284b220a86f180e6f",
+          "output_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559",
           "output_bytes": 8388608,
-          "font_scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
-          "scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+          "font_scope": "Fusion Pixel原生12px对白、8px姓名/密集栏；无独立大字版。",
+          "scope": "v0.1.3限定修订：采用用户系列Logo，真人语音设置及5条开关/确认文案；保留v0.1.2敬称/优美酱分支修订，不含拼音输入原型。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "仅标题增量，既有v0.1.0翻译覆盖、未译/未测场景及已打开问题保持；未全流程、全结局、实机、联机或独立人员QA。",
-            "本次维护未执行源码、构建或游戏，仅独立核补丁完整字节、差异范围及截图像素；提供方运行报告不写成维护会话新运行。",
-            "SGB保留原生彩色边框及灰阶游戏画面，DMG为原生灰阶；不能当CGB配色。",
-            "既有反馈 明确排除；姓名对白分隔符 #67 及文化篇浴场漏译 #87 均没有本次修复证明，不关闭。"
+            "普通原生12px对白、8px姓名/密集栏；没有独立大字版。",
+            "维护者未运行ROM或提供者Source、未重建；提供方报告仅作提供方证据。",
+            "未验证实际语音音质及全部角色播放；未全流程、全结局、真实联机、实机或任意旧即时状态兼容。",
+            "Issue67、87、101、111、112均无本批完整原用例修复验收，不关闭或宣称整单修复。",
+            "verification/test-receipt.json.title_resources内部保留历史中间目标3eea69fd…；最终ROM、BPS、README、Source manifest和主回执均为fcdec52d…，不把历史中间目标当当前发布。"
           ],
           "public_source_assets": [
             {
-              "name": "tokimeki-memorial-pocket-culture-current-source-4b14e7b02ce5-public-r01.zip",
-              "sha256": "24b408812e14ec5bf3033689e60c7e81db7e3e78eac7fe73b3a2068abb6de41d",
-              "bytes": 14818575,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02c/tokimeki-memorial-pocket-culture-current-source-4b14e7b02ce5-public-r01.zip",
-              "asset_id": 663487671,
+              "name": "tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-SOURCE-public.zip",
+              "bytes": 15767348,
+              "sha256": "69d9c9ffee75acb3e8b4c0ca81cd6df136181416688fe28476a657b98d91bba3",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-culture-v0.1.3/tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671581579,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02c",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.3",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02c",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "tokimeki-memorial-pocket-culture-current-patches.zip",
-            "sha256": "ac6a3c9e00cbb6d55e425f69cb8910e96e165946e5acbea841b4515a58df8d5e",
-            "bytes": 368090,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/tokimeki-memorial-pocket-culture-current-patches.zip",
-            "asset_id": 663499758,
+            "name": "tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-PATCH.zip",
+            "bytes": 350669,
+            "sha256": "5d2609944c8bbd93223986bf36b9fae21412d85f6b3da6da7f3a31963b059b6f",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-culture-v0.1.3/tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671584160,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.3"
           },
           "public_screenshots": [
             {
               "game_id": "tokimeki-memorial-pocket-culture",
               "font": "native8px-12px",
-              "version": "v0.1.1",
+              "version": "v0.1.3",
               "audio_variant": "unchanged",
               "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
-              "target_rom_sha256": "532cba16528c17a2c0ff698a2afe65e98a7f0804e7880e2284b220a86f180e6f",
-              "screenshot_sha256": "0799c43f997a814f26e3dfc950ab1a24caa122226f206d4e33b54ac1f22bdf26",
-              "screenshot_bytes": 40474,
-              "path": "games/tokimeki-memorial-pocket-culture/screenshots/0799c43f997a814f26e3.png",
-              "caption": "九格逐张原PNG、最终ROM完整SHA及未缩放像素完全一致；第7/8格为原生SGB 256×224边框。 文化篇第4/5格为同ROM状态续测，非独立冷启动；第6/8格为电池冷读。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 768,
-                "height": 672,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "fcdec52d6b8d1614a8b6ed908b659a6d090340c1c471f8ef44a6cad233c77559",
+              "screenshot_sha256": "7e6a32e38a3554d8c9c32238af3f992764d3f27a5e750b0567ea5655c3a509de",
+              "screenshot_bytes": 43999,
+              "path": "games/tokimeki-memorial-pocket-culture/screenshots/tokimeki-memorial-pocket-culture-v0.1.3-native8px-12px-SGB-nine-grid.png",
+              "caption": "原生SGB；九格像素逐张等于所附最终目标原帧；部分同ROM状态续测与电池冷读按提供方记录区分，不等于维护者新运行。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/tokimeki-memorial-pocket-culture/README.md",
-      "feedback": "games/tokimeki-memorial-pocket-culture/feedback.md"
+      "feedback": "games/tokimeki-memorial-pocket-culture/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "native8px-12px",
+              "version": "v0.1.1",
+              "audio_variant": "unchanged",
+              "variant_id": null,
+              "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+              "output_sha256": "532cba16528c17a2c0ff698a2afe65e98a7f0804e7880e2284b220a86f180e6f",
+              "output_bytes": 8388608,
+              "font_scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+              "scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "仅标题增量，既有v0.1.0翻译覆盖、未译/未测场景及已打开问题保持；未全流程、全结局、实机、联机或独立人员QA。",
+                "本次维护未执行源码、构建或游戏，仅独立核补丁完整字节、差异范围及截图像素；提供方运行报告不写成维护会话新运行。",
+                "SGB保留原生彩色边框及灰阶游戏画面，DMG为原生灰阶；不能当CGB配色。",
+                "既有反馈 明确排除；姓名对白分隔符 #67 及文化篇浴场漏译 #87 均没有本次修复证明，不关闭。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "tokimeki-memorial-pocket-culture-current-source-4b14e7b02ce5-public-r01.zip",
+                  "sha256": "24b408812e14ec5bf3033689e60c7e81db7e3e78eac7fe73b3a2068abb6de41d",
+                  "bytes": 14818575,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02c/tokimeki-memorial-pocket-culture-current-source-4b14e7b02ce5-public-r01.zip",
+                  "asset_id": 663487671,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02c",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02c",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "tokimeki-memorial-pocket-culture-current-patches.zip",
+                "sha256": "ac6a3c9e00cbb6d55e425f69cb8910e96e165946e5acbea841b4515a58df8d5e",
+                "bytes": 368090,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/tokimeki-memorial-pocket-culture-current-patches.zip",
+                "asset_id": 663499758,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "tokimeki-memorial-pocket-culture",
+                  "font": "native8px-12px",
+                  "version": "v0.1.1",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+                  "target_rom_sha256": "532cba16528c17a2c0ff698a2afe65e98a7f0804e7880e2284b220a86f180e6f",
+                  "screenshot_sha256": "0799c43f997a814f26e3dfc950ab1a24caa122226f206d4e33b54ac1f22bdf26",
+                  "screenshot_bytes": 40474,
+                  "path": "games/tokimeki-memorial-pocket-culture/screenshots/0799c43f997a814f26e3.png",
+                  "caption": "九格逐张原PNG、最终ROM完整SHA及未缩放像素完全一致；第7/8格为原生SGB 256×224边框。 文化篇第4/5格为同ROM状态续测，非独立冷启动；第6/8格为电池冷读。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 768,
+                    "height": 672,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T15:26:07.180600+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "12efa95de7647b47c09163f9335e22fa7408cbee192155b7277a7f591d1b255a"
+        }
+      ]
     },
     {
       "game_id": "tokimeki-memorial-pocket-sport",
@@ -12777,82 +12857,161 @@
       "current_targets": [
         {
           "font": "native8px-12px",
-          "version": "v0.1.1",
+          "version": "v0.1.3",
           "audio_variant": "unchanged",
-          "variant_id": null,
+          "variant_id": "native8px-12px:unchanged",
           "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
-          "output_sha256": "1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4",
+          "output_sha256": "17fd2047f4a4c80b176e0c03c76425e6e07d4c20787a30a7c2787021ed9e1b0d",
           "output_bytes": 8388608,
-          "font_scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
-          "scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+          "font_scope": "Fusion Pixel原生12px对白、8px姓名/密集栏；无独立大字版。",
+          "scope": "v0.1.3限定修订：采用用户系列Logo，真人语音设置及5条开关/确认文案；保留v0.1.2敬称/优美酱分支修订，不含拼音输入原型。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "仅标题增量，既有v0.1.0翻译覆盖、未译/未测场景及已打开问题保持；未全流程、全结局、实机、联机或独立人员QA。",
-            "本次维护未执行源码、构建或游戏，仅独立核补丁完整字节、差异范围及截图像素；提供方运行报告不写成维护会话新运行。",
-            "SGB保留原生彩色边框及灰阶游戏画面，DMG为原生灰阶；不能当CGB配色。",
-            "既有反馈 明确排除；姓名对白分隔符 #67 及文化篇浴场漏译 #87 均没有本次修复证明，不关闭。"
+            "普通原生12px对白、8px姓名/密集栏；没有独立大字版。",
+            "维护者未运行ROM或提供者Source、未重建；提供方报告仅作提供方证据。",
+            "未验证实际语音音质及全部角色播放；未全流程、全结局、真实联机、实机或任意旧即时状态兼容。",
+            "Issue67、87、101、111、112均无本批完整原用例修复验收，不关闭或宣称整单修复。"
           ],
           "public_source_assets": [
             {
-              "name": "tokimeki-memorial-pocket-sport-current-source-62a2fc69dfca-public-r01.zip",
-              "sha256": "48f8fbc2bdbc12ca9be98f3aaae4bc39420d6ef446d7d64ae53562ada76bf632",
-              "bytes": 14019878,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02c/tokimeki-memorial-pocket-sport-current-source-62a2fc69dfca-public-r01.zip",
-              "asset_id": 663488527,
+              "name": "tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-SOURCE-public.zip",
+              "bytes": 14947424,
+              "sha256": "b5e1d844c32ada6e31dbd039ba5f8e35447faa56154006a9d6e14499087be51f",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.3/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671578384,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02c",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.3",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02c",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "tokimeki-memorial-pocket-sport-current-patches.zip",
-            "sha256": "97fbb9c1e9afa6204b74a441a2d0b3c5ffa97592a482ce63468309e713cc8f3b",
-            "bytes": 314613,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/tokimeki-memorial-pocket-sport-current-patches.zip",
-            "asset_id": 663500338,
+            "name": "tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-PATCH.zip",
+            "bytes": 298531,
+            "sha256": "d012b321838382140d8259ca6e16c9d1fd616a5f7eee75471ad949bb45694f0e",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.3/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671580041,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.3"
           },
           "public_screenshots": [
             {
               "game_id": "tokimeki-memorial-pocket-sport",
               "font": "native8px-12px",
-              "version": "v0.1.1",
+              "version": "v0.1.3",
               "audio_variant": "unchanged",
               "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
-              "target_rom_sha256": "1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4",
-              "screenshot_sha256": "3117b3cb2395373792ec73279034c8af326d89f387c35f63917db7f4d74105cc",
-              "screenshot_bytes": 39016,
-              "path": "games/tokimeki-memorial-pocket-sport/screenshots/3117b3cb2395373792ec.png",
-              "caption": "九格逐张原PNG、最终ROM完整SHA及未缩放像素完全一致；第7/8格为原生SGB 256×224边框。 运动篇第4/5格含原生断点观测记录，不泛称无诊断自然路径；第6/8格为电池冷读，其余由提供方报告自然按键路径。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 768,
-                "height": 672,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "17fd2047f4a4c80b176e0c03c76425e6e07d4c20787a30a7c2787021ed9e1b0d",
+              "screenshot_sha256": "49ad75ed5d8746ea2ea6a711af30835d2feb9903c5c46385e327a2b7bcd7ab11",
+              "screenshot_bytes": 42544,
+              "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-nine-grid.png",
+              "caption": "原生CGB及一格SGB，带英文说明栏；九格像素逐张等于所附最终目标原帧；部分同ROM状态续测与电池冷读按提供方记录区分，不等于维护者新运行。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/tokimeki-memorial-pocket-sport/README.md",
-      "feedback": "games/tokimeki-memorial-pocket-sport/feedback.md"
+      "feedback": "games/tokimeki-memorial-pocket-sport/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "native8px-12px",
+              "version": "v0.1.1",
+              "audio_variant": "unchanged",
+              "variant_id": null,
+              "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+              "output_sha256": "1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4",
+              "output_bytes": 8388608,
+              "font_scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+              "scope": "Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "仅标题增量，既有v0.1.0翻译覆盖、未译/未测场景及已打开问题保持；未全流程、全结局、实机、联机或独立人员QA。",
+                "本次维护未执行源码、构建或游戏，仅独立核补丁完整字节、差异范围及截图像素；提供方运行报告不写成维护会话新运行。",
+                "SGB保留原生彩色边框及灰阶游戏画面，DMG为原生灰阶；不能当CGB配色。",
+                "既有反馈 明确排除；姓名对白分隔符 #67 及文化篇浴场漏译 #87 均没有本次修复证明，不关闭。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "tokimeki-memorial-pocket-sport-current-source-62a2fc69dfca-public-r01.zip",
+                  "sha256": "48f8fbc2bdbc12ca9be98f3aaae4bc39420d6ef446d7d64ae53562ada76bf632",
+                  "bytes": 14019878,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02c/tokimeki-memorial-pocket-sport-current-source-62a2fc69dfca-public-r01.zip",
+                  "asset_id": 663488527,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02c",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02c",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "tokimeki-memorial-pocket-sport-current-patches.zip",
+                "sha256": "97fbb9c1e9afa6204b74a441a2d0b3c5ffa97592a482ce63468309e713cc8f3b",
+                "bytes": 314613,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/tokimeki-memorial-pocket-sport-current-patches.zip",
+                "asset_id": 663500338,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "tokimeki-memorial-pocket-sport",
+                  "font": "native8px-12px",
+                  "version": "v0.1.1",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+                  "target_rom_sha256": "1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4",
+                  "screenshot_sha256": "3117b3cb2395373792ec73279034c8af326d89f387c35f63917db7f4d74105cc",
+                  "screenshot_bytes": 39016,
+                  "path": "games/tokimeki-memorial-pocket-sport/screenshots/3117b3cb2395373792ec.png",
+                  "caption": "九格逐张原PNG、最终ROM完整SHA及未缩放像素完全一致；第7/8格为原生SGB 256×224边框。 运动篇第4/5格含原生断点观测记录，不泛称无诊断自然路径；第6/8格为电池冷读，其余由提供方报告自然按键路径。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 768,
+                    "height": 672,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T15:26:07.180600+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "6e4f638d182ee0f8a95954f49aba463a03969a48e88ccb76b1f2a9a299b99e4e"
+        }
+      ]
     },
     {
       "game_id": "zoids-hakugin-no-raiger-zero",
@@ -17469,65 +17628,69 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "8px",
+          "variant_id": "8px:unchanged",
           "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
-          "output_sha256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac",
+          "output_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
           "output_bytes": 4194304,
-          "font_scope": "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
-          "scope": "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
+          "font_scope": "普通 Fusion Pixel 8px，CGB原生彩色；无另行10px大字版；非DMG或SGB验收。",
+          "scope": "普通8px限定修复测试版：取名页黑条、主要/结束阶段残留图块；教学VS固定卡组名及“卡组”标签补译。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
-            "正常有进度SAVE/新进程读档和存档兼容未测；牌组改名、商店交易、自然SP/完整口令、深层剧情Boss/全通、全部变量图像、联机/实机均未验。",
-            "标题日文Logo、英文Card Summoner/Press Start、版权、阵营/族别图像和WIN!!原图保留；卡片背景97/212明确保留日文。43代码/数据候选未证实可达，不能称全汉化或全部不可达。",
-            "仅实现者自测；本轮维护未构建源码或运行模拟器，不把净目录提供方重建称为独立人员QA。"
+            "维护只做静态及独立BPS字节校验，未运行提供者代码、未独立重建或新增ROM运行测试。",
+            "正常保存、新进程冷读、跨版存档兼容、卡组改名、商店、自然SP/完整密码、深层剧情/首领/全通、联机/实机未验。",
+            "原日文Logo、Card Summoner、PRESS START、原版权、WIN!!、阵营/种族图形、97/212条卡片故事及部分深层对手卡组名保留。",
+            "Issue135仅教学固定VS两行及卡组标签补译，深层卡组名覆盖未清零；不得关闭整项覆盖反馈。"
           ],
           "public_source_assets": [
             {
-              "name": "shin-megami-tensei-card-summoner-v0.1.0-8px-source-public.zip",
-              "sha256": "e4732f5dc5b62fcaa0db5366248b50f4bcd1820a9ce46393e03b3f681b43b288",
-              "bytes": 12741308,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/shin-megami-tensei-card-summoner-v0.1.0-8px-source-public.zip",
-              "asset_id": 665338293,
+              "name": "shin-megami-tensei-card-summoner-v0.1.1-8px-SOURCE-public.zip",
+              "bytes": 12758340,
+              "sha256": "e887287eff2bd17f57bb80c4a6409c557587371e621068af56fc8bdfe4dd2082",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/shin-megami-tensei-card-summoner-v0.1.1/shin-megami-tensei-card-summoner-v0.1.1-8px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671575425,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
-              "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
-              "bound_audio_variant": "unchanged",
-              "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "shin-megami-tensei-card-summoner-v0.1.0-patches-public.zip",
-            "sha256": "44f059742ae12834e17971228d872027c537b3be28fe7d2fee659df675b8e70e",
-            "bytes": 606669,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/shin-megami-tensei-card-summoner-v0.1.0-patches-public.zip",
-            "asset_id": 665339148,
+            "name": "shin-megami-tensei-card-summoner-v0.1.1-8px-PATCH-public.zip",
+            "bytes": 594384,
+            "sha256": "cfe937f80ec2509d12da4b4437541d43e9a36b4c6ea9b2991c43379add6ceb3c",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/shin-megami-tensei-card-summoner-v0.1.1/shin-megami-tensei-card-summoner-v0.1.1-8px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671576930,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "shin-megami-tensei-card-summoner",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
-              "target_rom_sha256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac",
-              "screenshot_sha256": "d5cc220c67b59032b7fa49c9fbb79af4b2939861946dab41149a9d377c107b9a",
-              "screenshot_bytes": 90656,
-              "path": "games/shin-megami-tensei-card-summoner/screenshots/d5cc220c67b59032b7fa.png",
-              "caption": "v0.1.0 普通8px；提供方同最终SHA自然按键CGB九宫格；原生9单帧与3倍最近邻拼图逐像素相等，标题原图保留；正常SAVE/冷读明确未测，维护未新增运行。",
+              "target_rom_sha256": "239115c6312cb4da9cd5617d66d64ec0deebc00b1ebdbcc2013aaa5ec82436e1",
+              "screenshot_sha256": "625fe65ef19defeefad933c25d079a1ab7f60ec49f6957ae0c2c61aff190cd05",
+              "screenshot_bytes": 42128,
+              "path": "games/shin-megami-tensei-card-summoner/screenshots/shin-megami-tensei-card-summoner-v0.1.1-8px-nine-grid.png",
+              "caption": "v0.1.1 普通8px最终ROM提供者真实九宫格；9格按原生160×144逐像素3倍核对；第6格为同ROM自然检查点续跑，非新维护运行或全流程验收。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "original_PNG_verified_from_private_final_release": true,
-              "Root_actual_nine_native_frame_pixel_review_sha256": "f1b75e6081efed01924b44bb3861719d22f91312ba2e2e0e6268062f08155f55",
-              "public_PNG_bytes_expected_to_equal_verified_original": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
             }
@@ -17535,7 +17698,82 @@
         }
       ],
       "page": "games/shin-megami-tensei-card-summoner/README.md",
-      "feedback": "games/shin-megami-tensei-card-summoner/feedback.md"
+      "feedback": "games/shin-megami-tensei-card-summoner/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px",
+              "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+              "output_sha256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac",
+              "output_bytes": 4194304,
+              "font_scope": "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
+              "scope": "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "普通Fusion Pixel 8px限定测试版，2MiB原输入扩容至4MiB，CGB，无大字版；帮助沿原9×9容器，部分原16px容器仍用8px字形。16005按地址译文记录及已定位名称、帮助、卡片背景、标签和SP/战斗命令有提供方静态覆盖，不等于16005场实测或全作完成。",
+                "正常有进度SAVE/新进程读档和存档兼容未测；牌组改名、商店交易、自然SP/完整口令、深层剧情Boss/全通、全部变量图像、联机/实机均未验。",
+                "标题日文Logo、英文Card Summoner/Press Start、版权、阵营/族别图像和WIN!!原图保留；卡片背景97/212明确保留日文。43代码/数据候选未证实可达，不能称全汉化或全部不可达。",
+                "仅实现者自测；本轮维护未构建源码或运行模拟器，不把净目录提供方重建称为独立人员QA。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "shin-megami-tensei-card-summoner-v0.1.0-8px-source-public.zip",
+                  "sha256": "e4732f5dc5b62fcaa0db5366248b50f4bcd1820a9ce46393e03b3f681b43b288",
+                  "bytes": 12741308,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/shin-megami-tensei-card-summoner-v0.1.0-8px-source-public.zip",
+                  "asset_id": 665338293,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261022_SIX_INCREMENTAL",
+                  "bound_audio_variant": "unchanged",
+                  "audio_binding_basis": "PASSIVE_SOURCE_OWN_ENTRY_AND_EXACT_INPUT_FONT_VERSION_OUTPUT_SCOPE"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "shin-megami-tensei-card-summoner-v0.1.0-patches-public.zip",
+                "sha256": "44f059742ae12834e17971228d872027c537b3be28fe7d2fee659df675b8e70e",
+                "bytes": 606669,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/localization-update-20261022-six-games/shin-megami-tensei-card-summoner-v0.1.0-patches-public.zip",
+                "asset_id": 665339148,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/localization-update-20261022-six-games"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "shin-megami-tensei-card-summoner",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "74ba8452990b96d8a3bdfe4af7b0de9d40ed8d1a9b352396ad620c74b5e076b6",
+                  "target_rom_sha256": "21edcd4cc374c89dec2076d26d500e2e7f85f911d40172f0d207663a395c43ac",
+                  "screenshot_sha256": "d5cc220c67b59032b7fa49c9fbb79af4b2939861946dab41149a9d377c107b9a",
+                  "screenshot_bytes": 90656,
+                  "path": "games/shin-megami-tensei-card-summoner/screenshots/d5cc220c67b59032b7fa.png",
+                  "caption": "v0.1.0 普通8px；提供方同最终SHA自然按键CGB九宫格；原生9单帧与3倍最近邻拼图逐像素相等，标题原图保留；正常SAVE/冷读明确未测，维护未新增运行。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "original_PNG_verified_from_private_final_release": true,
+                  "Root_actual_nine_native_frame_pixel_review_sha256": "f1b75e6081efed01924b44bb3861719d22f91312ba2e2e0e6268062f08155f55",
+                  "public_PNG_bytes_expected_to_equal_verified_original": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T15:26:07.180600+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "1d6e54d81e0f8ffe6d738af092446b580e63d40d375316bf10cf150b58a352b2"
+        }
+      ]
     },
     {
       "game_id": "jikkyou-world-soccer-pocket-2",
@@ -18378,68 +18616,68 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
           "variant_id": "8px:unchanged",
           "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
-          "output_sha256": "341263f49d7637c4442a69b9d7dc09589c0550af57622403d42389646903ed40",
+          "output_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
           "output_bytes": 524288,
-          "font_scope": "黑白GB二代8px，无10px/原生SGB彩色；独立于GBC版last-bible-ii",
-          "scope": "1307主记录（1290中文、8原署名、3标点、6控制）与582固定块、1470字形；已识别全量实装，非自然全通",
+          "font_scope": "黑白GB普通8px；无10px/原生SGB彩色；独立于GBC last-bible-ii，不能共用版本或存档。",
+          "scope": "黑白GB日本版普通8px限定修复：修正原生捕获入口未同步文字语义影子导致的滚屏黑块，并优化满缓存活跃标记与回收，改善所测对白/菜单窗口的严重帧及音乐IRQ迟滞；不是GBC版。",
           "status": "CURRENT_LIMITED_TEST",
           "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "自然胜利升级",
-            "银行存取/仲魔合成",
-            "全部剧情结局/最长变量实际组合/全支线",
-            "实机/通信/全部旧档"
+            "Issue138玩家具体文件名/版本/字号及完整SHA仍未知；同类缺陷已在精确旧目标自测复现，不断言玩家全部原因相同。",
+            "所测对白/菜单VBlank与Timer IRQ次数恢复原版水平，仍有额外CPU工作与IRQ抖动；未做主观音频、实机或全场景测试。",
+            "商店购买、银行、深层谈判/融合、最长剧情变量、全流程/结局、联机/实机本版未复验；旧说明仅为历史范围。",
+            "本版新档冷读已由提供者自测；旧版已有进度电池存档迁移未实测，不跨SHA即时状态，不混用GBC存档。"
           ],
           "public_source_assets": [
             {
-              "name": "last-bible-ii-gb-v0.1.0-source-public-r02.zip",
-              "bytes": 12294500,
-              "sha256": "e3c0586c2f1bcd39566af67ae36c8d12bb3da8ed3d546f1454ca28574a36790c",
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.0/last-bible-ii-gb-v0.1.0-source-public-r02.zip",
+              "name": "last-bible-ii-gb-v0.1.1-8px-SOURCE-public.zip",
+              "bytes": 11969165,
+              "sha256": "bf31d93f5a0f339b3afe662d6cbcc9faf709cc63b0bf10cf71ffb619f2f1fe81",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.1/last-bible-ii-gb-v0.1.1-8px-SOURCE-public.zip",
               "remote_sha256_verified": true,
               "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
               "actual_new_file_created": true,
               "cached_readback_used": false,
-              "asset_id": 669750738,
+              "asset_id": 671572161,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.0",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "last-bible-ii-gb-v0.1.0-patch.zip",
-            "bytes": 48607,
-            "sha256": "35c7546906dc710befff77759714b641768256371f5a70f0294cbb4f1d9cab9d",
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.0/last-bible-ii-gb-v0.1.0-patch.zip",
+            "name": "last-bible-ii-gb-v0.1.1-8px-PATCH-public.zip",
+            "bytes": 49080,
+            "sha256": "2f6beea185560f2dbec74d1114fe000ff5760bda22483af2f59493c4b51e420b",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.1/last-bible-ii-gb-v0.1.1-8px-PATCH-public.zip",
             "remote_sha256_verified": true,
             "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
             "actual_new_file_created": true,
             "cached_readback_used": false,
-            "asset_id": 669751117,
+            "asset_id": 671574304,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.0"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "last-bible-ii-gb",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
-              "target_rom_sha256": "341263f49d7637c4442a69b9d7dc09589c0550af57622403d42389646903ed40",
-              "screenshot_sha256": "6d76f5bd7c3bf0b776d87eafa00469d757ab69df03f76e26ceb93eca3b35017d",
-              "screenshot_bytes": 29996,
-              "path": "games/last-bible-ii-gb/screenshots/last-bible-ii-gb-v0.1.0-8px-ninegrid.png",
-              "caption": "女神转生外传：最后的圣经Ⅱ（黑白GB版） v0.1.0 8px限定测试版；黑白GB二代8px，无10px/原生SGB彩色；独立于GBC版last-bible-ii 自然路径与诊断范围见测试说明，不代表全流程。",
+              "target_rom_sha256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4",
+              "screenshot_sha256": "0c98d632cca32f9882bb4f3a5a221a1b4f414dd7f7ccca7119bd0866ede24ceb",
+              "screenshot_bytes": 26584,
+              "path": "games/last-bible-ii-gb/screenshots/last-bible-ii-gb-v0.1.1-8px-nine-grid.png",
+              "caption": "女神转生外传：最后的圣经Ⅱ（黑白GB版） v0.1.1 普通8px最终ROM真实DMG九宫格；自然/指令级定量分析按提供者实际边界记录，不代表GBC版、全通或实机。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -18448,7 +18686,86 @@
         }
       ],
       "page": "games/last-bible-ii-gb/README.md",
-      "feedback": "games/last-bible-ii-gb/feedback.md"
+      "feedback": "games/last-bible-ii-gb/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px:unchanged",
+              "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+              "output_sha256": "341263f49d7637c4442a69b9d7dc09589c0550af57622403d42389646903ed40",
+              "output_bytes": 524288,
+              "font_scope": "黑白GB二代8px，无10px/原生SGB彩色；独立于GBC版last-bible-ii",
+              "scope": "1307主记录（1290中文、8原署名、3标点、6控制）与582固定块、1470字形；已识别全量实装，非自然全通",
+              "status": "CURRENT_LIMITED_TEST",
+              "prerelease": true,
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "自然胜利升级",
+                "银行存取/仲魔合成",
+                "全部剧情结局/最长变量实际组合/全支线",
+                "实机/通信/全部旧档"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "last-bible-ii-gb-v0.1.0-source-public-r02.zip",
+                  "bytes": 12294500,
+                  "sha256": "e3c0586c2f1bcd39566af67ae36c8d12bb3da8ed3d546f1454ca28574a36790c",
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.0/last-bible-ii-gb-v0.1.0-source-public-r02.zip",
+                  "remote_sha256_verified": true,
+                  "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                  "actual_new_file_created": true,
+                  "cached_readback_used": false,
+                  "asset_id": 669750738,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.0",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false
+                }
+              ],
+              "public_patch_asset": {
+                "name": "last-bible-ii-gb-v0.1.0-patch.zip",
+                "bytes": 48607,
+                "sha256": "35c7546906dc710befff77759714b641768256371f5a70f0294cbb4f1d9cab9d",
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/last-bible-ii-gb-v0.1.0/last-bible-ii-gb-v0.1.0-patch.zip",
+                "remote_sha256_verified": true,
+                "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                "actual_new_file_created": true,
+                "cached_readback_used": false,
+                "asset_id": 669751117,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.0"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "last-bible-ii-gb",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+                  "target_rom_sha256": "341263f49d7637c4442a69b9d7dc09589c0550af57622403d42389646903ed40",
+                  "screenshot_sha256": "6d76f5bd7c3bf0b776d87eafa00469d757ab69df03f76e26ceb93eca3b35017d",
+                  "screenshot_bytes": 29996,
+                  "path": "games/last-bible-ii-gb/screenshots/last-bible-ii-gb-v0.1.0-8px-ninegrid.png",
+                  "caption": "女神转生外传：最后的圣经Ⅱ（黑白GB版） v0.1.0 8px限定测试版；黑白GB二代8px，无10px/原生SGB彩色；独立于GBC版last-bible-ii 自然路径与诊断范围见测试说明，不代表全流程。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T15:26:07.180600+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "ca4cb65e3756e95ccf21b4480718293dae7fc5d523f3a9b7800108885d62f450"
+        }
+      ]
     },
     {
       "game_id": "sword-of-the-apocalypse",
@@ -20426,5 +20743,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-24T11:10:52.342724+08:00"
+  "last_incremental_update_at": "2026-10-24T15:26:07.180600+08:00"
 }

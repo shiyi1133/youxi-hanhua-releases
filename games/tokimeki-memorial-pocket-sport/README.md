@@ -1,38 +1,40 @@
-# 心跳回忆Pocket：运动篇
+# 心跳回忆Pocket：运动篇 v0.1.3（限定测试版）
 
-原输入：Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph (Japan) (SGB Enhanced) (GB Compatible); requester original archive/header identity
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.3) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph (Japan) (SGB Enhanced) (GB Compatible); requester original archive/header identity
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| native8px-12px | v0.1.1 | unchanged | `1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4` |
+原输入完整SHA-256：`99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253`（4194304字节）。
 
-## 源码与补丁
+范围：v0.1.3限定修订：采用用户系列Logo，真人语音设置及5条开关/确认文案；保留v0.1.2敬称/优美酱分支修订，不含拼音输入原型。
 
-- native8px-12px／v0.1.1／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02c/tokimeki-memorial-pocket-sport-current-source-62a2fc69dfca-public-r01.zip)（ZIP SHA256 `48f8fbc2bdbc12ca9be98f3aaae4bc39420d6ef446d7d64ae53562ada76bf632`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/tokimeki-memorial-pocket-sport-current-patches.zip)（ZIP SHA256 `97fbb9c1e9afa6204b74a441a2d0b3c5ffa97592a482ce63468309e713cc8f3b`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## native8px-12px v0.1.3
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：Fusion Pixel原生12px对白、8px姓名/密集栏；无独立大字版。
 
-## 范围与验证边界
+目标完整SHA-256：`17fd2047f4a4c80b176e0c03c76425e6e07d4c20787a30a7c2787021ed9e1b0d`（8388608字节）。
 
-- native8px-12px／v0.1.1：Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。。
-  Fusion Pixel 原生12px对白、8px姓名/密集栏，未新增独立大字版；v0.1.1仅替换开场标题图、菜单闪烁图块及标题署名版本。
-  仅标题增量，既有v0.1.0翻译覆盖、未译/未测场景及已打开问题保持；未全流程、全结局、实机、联机或独立人员QA。
-  本次维护未执行源码、构建或游戏，仅独立核补丁完整字节、差异范围及截图像素；提供方运行报告不写成维护会话新运行。
-  SGB保留原生彩色边框及灰阶游戏画面，DMG为原生灰阶；不能当CGB配色。
-  既有反馈 明确排除；姓名对白分隔符 #67 及文化篇浴场漏译 #87 均没有本次修复证明，不关闭。
+补丁：`tokimeki-sport-v0.1.3.bps`，SHA-256 `ba198438d7c406c1aae817f293a8a11422ef1905ca354635ced001552952d14b`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.3/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-SOURCE-public.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.3/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-PATCH.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际九宫格](screenshots/tokimeki-memorial-pocket-sport-v0.1.3-native8px-12px-nine-grid.png)
 
-## 对应版本截图
+原生CGB及一格SGB，带英文说明栏；九格像素逐张等于所附最终目标原帧；部分同ROM状态续测与电池冷读按提供方记录区分，不等于维护者新运行。
 
-![版本 v0.1.1／native8px-12px／unchanged](screenshots/3117b3cb2395373792ec.png)
+## 测试及限制
 
-九格逐张原PNG、最终ROM完整SHA及未缩放像素完全一致；第7/8格为原生SGB 256×224边框。 运动篇第4/5格含原生断点观测记录，不泛称无诊断自然路径；第6/8格为电池冷读，其余由提供方报告自然按键路径。
+提供者自然路径：提供方CGB/SGB标题和原生菜单按键；有限中文姓名、正常保存、新进程电池冷读及语音0/1持久化。部分菜单帧使用同最终ROM状态续测，未冒称每帧独立冷启动。
 
-图像SHA256：`3117b3cb2395373792ec73279034c8af326d89f387c35f63917db7f4d74105cc`；绑定ROM SHA256：`1d6657e3ecdfa00f250e8f377ca2ddafd8ff433bbbe35e5c1aabf529320c7cc4`。
+提供者诊断路径：敬称/称呼分支采用原生解释器重定向诊断，不是自然见到相应人物或深层路线；旧版诊断不自动算本版全部重测。
+
+保存边界：提供方原生正常保存/覆盖与新进程仅电池存档冷读；本维护未新增运行。
+
+同一实现者自测，不是独立人员QA；维护未新增ROM运行或源码重建，未宣称实机或完整通关。
+
+- 未验证：普通原生12px对白、8px姓名/密集栏；没有独立大字版。
+- 未验证：维护者未运行ROM或提供者Source、未重建；提供方报告仅作提供方证据。
+- 未验证：未验证实际语音音质及全部角色播放；未全流程、全结局、真实联机、实机或任意旧即时状态兼容。
+- 未验证：Issue67、87、101、111、112均无本批完整原用例修复验收，不关闭或宣称整单修复。
+- 核对补丁还原、资产完整SHA和截图字节不等于全部游戏功能验收。
 

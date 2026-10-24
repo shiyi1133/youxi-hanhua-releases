@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 246,
-  "unique_PNG_file_count": 238,
+  "screenshot_binding_count": 251,
+  "unique_PNG_file_count": 243,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -5413,6 +5413,81 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "kotobattle",
+      "font": "8px",
+      "version": "v0.1.3",
+      "audio_variant": "unchanged",
+      "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+      "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083",
+      "screenshot_bytes": 44089,
+      "path": "games/kotobattle/screenshots/kotobattle-v0.1.3-8px-nine-grid.png",
+      "caption": "v0.1.3普通8px最终ROM提供者真实九宫格；九格原生160×144完整像素经2倍整数放大逐格核对。第5/6/7格分别为备忘入口、备忘冷读及掉落受控诊断，其余格按提供者自然路径记录；非新增维护运行或全流程验收。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "oni-iii",
+      "font": "8px",
+      "version": "v0.1.2",
+      "audio_variant": "unchanged",
+      "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+      "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+      "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c",
+      "screenshot_bytes": 101236,
+      "path": "games/oni-iii/screenshots/oni-iii-v0.1.2-8px-nine-grid.png",
+      "caption": "ONIⅢ黑之破坏神 v0.1.2 普通8px最终ROM提供者真实九宫格；自然与受控场景逐格标明，原生像素精确核对；不代表维护重跑、实机或全通。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "oni-v",
+      "font": "8px",
+      "version": "v0.1.3",
+      "audio_variant": "unchanged",
+      "input_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+      "target_rom_sha256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b",
+      "screenshot_sha256": "b99bc0f30ea3986774739ceab441646b089376dc70af0b24a7b7eee84cd2fee2",
+      "screenshot_bytes": 63673,
+      "path": "games/oni-v/screenshots/oni-v-v0.1.3-8px-nine-grid.png",
+      "caption": "ONIⅤ隐忍继承者 v0.1.3 普通8px最终ROM提供者真实九宫格；自然与受控场景逐格标明，原生像素精确核对；不代表维护重跑、实机或全通。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "font": "native8px-12px",
+      "version": "v0.1.5",
+      "audio_variant": "unchanged",
+      "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+      "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5",
+      "screenshot_bytes": 39130,
+      "path": "games/tokimeki-memorial-pocket-culture/screenshots/tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+      "caption": "普通原生8/12px CGB原生160×144帧；最终ROM九格逐格与对应原帧精确相符。保存、同ROM续测、自然和诊断边界按回执区分，未全通或实机。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "font": "native8px-12px",
+      "version": "v0.1.5",
+      "audio_variant": "unchanged",
+      "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+      "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797",
+      "screenshot_bytes": 41615,
+      "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+      "caption": "普通原生8/12px CGB原帧仅整数最近邻2倍展示，非大字版；最终ROM九格逐格与对应原帧精确相符。保存、同ROM续测、自然和诊断边界按回执区分，未全通或实机。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -5899,5 +5974,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T15:26:07.180600+08:00"
+  "last_incremental_update_at": "2026-10-24T23:02:36.768952+08:00"
 }

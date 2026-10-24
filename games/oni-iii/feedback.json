@@ -342,7 +342,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -380,6 +380,108 @@
           "reproduced": false,
           "fixed": false,
           "is_repair_completion": false
+        }
+      ],
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+        "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+        "affected_game_ids": [
+          "oni-iii"
+        ],
+        "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+        "verified_current_targets": [
+          {
+            "game_id": "oni-iii",
+            "localized_game_name": "ONIⅢ黑之破坏神",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+            "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+            "target_bytes": 524288,
+            "release_tag": "oni-iii-v0.1.2",
+            "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+          }
+        ],
+        "covered": [
+          "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+          "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+        ],
+        "remaining": [
+          "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+          "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-0a437822e7d9deed",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+        "public_releases": {
+          "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+          "affected_game_ids": [
+            "oni-iii"
+          ],
+          "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+          "verified_current_targets": [
+            {
+              "game_id": "oni-iii",
+              "localized_game_name": "ONIⅢ黑之破坏神",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+              "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+              "target_bytes": 524288,
+              "release_tag": "oni-iii-v0.1.2",
+              "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+            }
+          ],
+          "covered": [
+            "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+            "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+          ],
+          "remaining": [
+            "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+            "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-0a437822e7d9deed",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+          "public_releases": {
+            "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+          }
         }
       ]
     }
@@ -473,7 +575,109 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+        "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+        "affected_game_ids": [
+          "oni-iii"
+        ],
+        "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+        "verified_current_targets": [
+          {
+            "game_id": "oni-iii",
+            "localized_game_name": "ONIⅢ黑之破坏神",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+            "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+            "target_bytes": 524288,
+            "release_tag": "oni-iii-v0.1.2",
+            "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+          }
+        ],
+        "covered": [
+          "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+          "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+        ],
+        "remaining": [
+          "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+          "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-0a437822e7d9deed",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+        "public_releases": {
+          "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+          "affected_game_ids": [
+            "oni-iii"
+          ],
+          "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+          "verified_current_targets": [
+            {
+              "game_id": "oni-iii",
+              "localized_game_name": "ONIⅢ黑之破坏神",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+              "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+              "target_bytes": 524288,
+              "release_tag": "oni-iii-v0.1.2",
+              "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+            }
+          ],
+          "covered": [
+            "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+            "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+          ],
+          "remaining": [
+            "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+            "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-0a437822e7d9deed",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+          "public_releases": {
+            "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+          }
+        }
+      ]
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -509,7 +713,7 @@
       "is_information_reply": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "last_incremental_update_at": "2026-10-25T00:33:58.920799+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-1615|oni3-four-untranslated-UI-consumers",

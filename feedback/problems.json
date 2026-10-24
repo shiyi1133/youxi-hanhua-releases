@@ -2,7 +2,7 @@
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
   "problem_count": 136,
-  "open_pure_BUG_count": 50,
+  "open_pure_BUG_count": 48,
   "open_requests_or_other_count": 19,
   "open_classification_unconfirmed_count": 39,
   "problems": [
@@ -2905,7 +2905,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
@@ -2927,27 +2927,50 @@
         "disposition": "PARTIAL_KEEP_OPEN",
         "actual_issue_state": "open",
         "state_API_readback_verified": true,
-        "version": "v0.1.1",
+        "version": "v0.1.3",
         "font": "8px",
         "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
-        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+        "affected_game_ids": [
+          "kotobattle"
+        ],
+        "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+        "verified_current_targets": [
+          {
+            "game_id": "kotobattle",
+            "localized_game_name": "Koto Battle 天外之守人",
+            "version": "v0.1.3",
+            "font": "8px",
+            "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+            "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+            "target_bytes": 4194304,
+            "release_tag": "kotobattle-v0.1.3",
+            "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+            "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+          }
+        ],
         "covered": [
-          "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+          "最终v0.1.3装备说明45页和备忘录54页共99页处理；843条VM命令与1866原字节控制语义保留为静态核对。",
+          "71个装备教学按键为自然路线；备忘录61键是诊断进入后操作，99页原生消费者诊断含未引用19FAA记录；40道具40结果/掉落等共104例为诊断。"
         ],
         "remaining": [
-          "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+          "旧v0.1.2三个共享脚本修复只保留其诊断边界；银行08教程/结果旧消费者未自然触发，全作覆盖未清零。",
+          "深层路线、所有最长变量、自然收齐及完整玩家旧档兼容未验，继续open。"
         ],
-        "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
         "reported_case_only": true,
         "whole_game_acceptance": false,
         "hardware_tested": false,
         "new_maintainer_ROM_runtime": false,
         "Source_executions": 0,
-        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
-        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
-        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
         "public_problem_key": "problem-ee7a1b312549370e",
-        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+        "public_releases": {
+          "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+        }
       },
       "bounded_repair_history": [
         {
@@ -2975,6 +2998,55 @@
           "recorded_at": "2026-10-24T11:25:00.326512+08:00",
           "public_problem_key": "problem-ee7a1b312549370e",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        },
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.3",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+          "affected_game_ids": [
+            "kotobattle"
+          ],
+          "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+          "verified_current_targets": [
+            {
+              "game_id": "kotobattle",
+              "localized_game_name": "Koto Battle 天外之守人",
+              "version": "v0.1.3",
+              "font": "8px",
+              "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+              "target_bytes": 4194304,
+              "release_tag": "kotobattle-v0.1.3",
+              "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+              "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+            }
+          ],
+          "covered": [
+            "最终v0.1.3装备说明45页和备忘录54页共99页处理；843条VM命令与1866原字节控制语义保留为静态核对。",
+            "71个装备教学按键为自然路线；备忘录61键是诊断进入后操作，99页原生消费者诊断含未引用19FAA记录；40道具40结果/掉落等共104例为诊断。"
+          ],
+          "remaining": [
+            "旧v0.1.2三个共享脚本修复只保留其诊断边界；银行08教程/结果旧消费者未自然触发，全作覆盖未清零。",
+            "深层路线、所有最长变量、自然收齐及完整玩家旧档兼容未验，继续open。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-ee7a1b312549370e",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+          "public_releases": {
+            "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+          }
         }
       ]
     },
@@ -3686,8 +3758,8 @@
         "kotobattle"
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：PUSH START左侧残留署名字形",
-      "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6dce938cce2d0e78"
@@ -3698,7 +3770,107 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.3",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+        "affected_game_ids": [
+          "kotobattle"
+        ],
+        "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+        "verified_current_targets": [
+          {
+            "game_id": "kotobattle",
+            "localized_game_name": "Koto Battle 天外之守人",
+            "version": "v0.1.3",
+            "font": "8px",
+            "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+            "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+            "target_bytes": 4194304,
+            "release_tag": "kotobattle-v0.1.3",
+            "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+            "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+          }
+        ],
+        "covered": [
+          "最终v0.1.3标题300帧、六个原生标题状态的底行留白及署名字模136至142行、无PUSH START重叠检查，沿用并核对标题左侧残留修正。"
+        ],
+        "remaining": [
+          "玩家报旧v0.1.0但完整ROM SHA未知；提供者旧对照为精确v0.1.1，不声称玩家原字节已复现。",
+          "关闭仅限标题左侧残留/署名遮挡这一用例，不代表所有标题或显示问题通过。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-7c55eeb945e612a0",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+        "public_releases": {
+          "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.3",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+          "affected_game_ids": [
+            "kotobattle"
+          ],
+          "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+          "verified_current_targets": [
+            {
+              "game_id": "kotobattle",
+              "localized_game_name": "Koto Battle 天外之守人",
+              "version": "v0.1.3",
+              "font": "8px",
+              "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+              "target_bytes": 4194304,
+              "release_tag": "kotobattle-v0.1.3",
+              "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+              "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+            }
+          ],
+          "covered": [
+            "最终v0.1.3标题300帧、六个原生标题状态的底行留白及署名字模136至142行、无PUSH START重叠检查，沿用并核对标题左侧残留修正。"
+          ],
+          "remaining": [
+            "玩家报旧v0.1.0但完整ROM SHA未知；提供者旧对照为精确v0.1.1，不声称玩家原字节已复现。",
+            "关闭仅限标题左侧残留/署名遮挡这一用例，不代表所有标题或显示问题通过。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-7c55eeb945e612a0",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+          "public_releases": {
+            "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-7c6eed6fdcb6f19c",
@@ -3965,7 +4137,7 @@
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：状态图标/词条及保存界面闪烁",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-0519710788cd54cd"
@@ -3978,7 +4150,107 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.3",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+        "affected_game_ids": [
+          "kotobattle"
+        ],
+        "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+        "verified_current_targets": [
+          {
+            "game_id": "kotobattle",
+            "localized_game_name": "Koto Battle 天外之守人",
+            "version": "v0.1.3",
+            "font": "8px",
+            "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+            "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+            "target_bytes": 4194304,
+            "release_tag": "kotobattle-v0.1.3",
+            "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+            "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+          }
+        ],
+        "covered": [
+          "六菜单/保存重开等180帧、三种进程方式的标题文字稳定检查，原生两种光标状态保留；记录已核菜单标题子项。"
+        ],
+        "remaining": [
+          "玩家报告的存档后四图标箭头异常未独立复现或覆盖到同一触发，不认为整单解决，继续open。",
+          "玩家报旧v0.1.0，提供者基线为精确v0.1.1，不冒称玩家原ROM全文已取得。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-d471fedd2626e9fd",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+        "public_releases": {
+          "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.3",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+          "affected_game_ids": [
+            "kotobattle"
+          ],
+          "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+          "verified_current_targets": [
+            {
+              "game_id": "kotobattle",
+              "localized_game_name": "Koto Battle 天外之守人",
+              "version": "v0.1.3",
+              "font": "8px",
+              "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+              "target_bytes": 4194304,
+              "release_tag": "kotobattle-v0.1.3",
+              "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+              "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+            }
+          ],
+          "covered": [
+            "六菜单/保存重开等180帧、三种进程方式的标题文字稳定检查，原生两种光标状态保留；记录已核菜单标题子项。"
+          ],
+          "remaining": [
+            "玩家报告的存档后四图标箭头异常未独立复现或覆盖到同一触发，不认为整单解决，继续open。",
+            "玩家报旧v0.1.0，提供者基线为精确v0.1.1，不冒称玩家原ROM全文已取得。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-d471fedd2626e9fd",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+          "public_releases": {
+            "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-e31f04675966623e",
@@ -4018,7 +4290,109 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+        "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+        "affected_game_ids": [
+          "oni-iii"
+        ],
+        "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+        "verified_current_targets": [
+          {
+            "game_id": "oni-iii",
+            "localized_game_name": "ONIⅢ黑之破坏神",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+            "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+            "target_bytes": 524288,
+            "release_tag": "oni-iii-v0.1.2",
+            "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+          }
+        ],
+        "covered": [
+          "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+          "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+        ],
+        "remaining": [
+          "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+          "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-0a437822e7d9deed",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+        "public_releases": {
+          "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+          "affected_game_ids": [
+            "oni-iii"
+          ],
+          "target_scope_sha256": "3b144186a5f0bc9e43b2a3b6952b9df8491bf0cf126ce1a0ab297fe84b9c0d62",
+          "verified_current_targets": [
+            {
+              "game_id": "oni-iii",
+              "localized_game_name": "ONIⅢ黑之破坏神",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+              "target_rom_sha256": "6001900aee1b73c3abca0baf3e3dffa1fefc96d23b565c68ea33939b9d6b1933",
+              "target_bytes": 524288,
+              "release_tag": "oni-iii-v0.1.2",
+              "screenshot_asset_name": "oni-iii-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "e7ab0f63e216d7363c3d99dcebadcd4fcd55dca30969c77f2fbdc7470ea7545c"
+            }
+          ],
+          "covered": [
+            "字速提示、道具/武器店和寺院买卖/寄存选项、远夜村路牌与城下町/町/村/空后缀、远夜目的地显示修正。",
+            "字速三档确认/取消/重入属于提供者自然按键；商店/寺院三项及B取消、路牌/传送为受控原生入口，不称自然到店/重访原地点。"
+          ],
+          "remaining": [
+            "原单称所有村镇地名牌；其它城镇名称本体未全部处理，字速“普通”字距建议也未改，因此#140保持open。",
+            "自然到达报告店铺/寺院/远夜村、完整交易/存取流程及全通/实机未验；#34闭合和#8/#72范围不变。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：字速三档预览/确认/取消/重入；两次杨咩咩命名、重复/删除重输；序章至第一章、战斗/升级、正常保存及新OS进程冷读，默认常叶丸首段和有/无存档标题。；提供者受控原生入口：道具店、武器店、寺院三项选择及B取消；远夜村路牌、城下町/町/村/空后缀和远夜目的地返回地图37；八默认姓名模板。不是自然到店或重访报告地点。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-0a437822e7d9deed",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2",
+          "public_releases": {
+            "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-50b68d3495a8eeeb",
@@ -4058,8 +4432,110 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+      "state": "closed",
+      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.3",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+        "affected_game_ids": [
+          "kotobattle"
+        ],
+        "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+        "verified_current_targets": [
+          {
+            "game_id": "kotobattle",
+            "localized_game_name": "Koto Battle 天外之守人",
+            "version": "v0.1.3",
+            "font": "8px",
+            "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+            "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+            "target_bytes": 4194304,
+            "release_tag": "kotobattle-v0.1.3",
+            "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+            "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+          }
+        ],
+        "covered": [
+          "召唤卡片中央图块异常修复：提供者原件/旧v0.1.1/v0.1.2为同一Riki卡对照；最终v0.1.3另有同Riki召唤的精确目标回归。",
+          "371张卡片中央原生消费者LCD关闭诊断验证为受控测试，不是自然收齐并逐张召唤。"
+        ],
+        "remaining": [
+          "玩家原先两日/两中图不是相同卡片配对；不据原照片声称玩家完整ROM身份或同卡前后对照已取得。",
+          "自然完整收卡、全部后期战斗/联机/实机未验；#116其余覆盖范围另行保持开放。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+        "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+        "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+        "public_problem_key": "problem-7d7cc4ceff8a2112",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+        "public_releases": {
+          "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.3",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+          "affected_game_ids": [
+            "kotobattle"
+          ],
+          "target_scope_sha256": "026f0b9ab455bbd987183319c57a5c8eb960b827f5b4b2f6b05e6e9146237add",
+          "verified_current_targets": [
+            {
+              "game_id": "kotobattle",
+              "localized_game_name": "Koto Battle 天外之守人",
+              "version": "v0.1.3",
+              "font": "8px",
+              "original_rom_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "target_rom_sha256": "73886fbf7c0d9e9c9c659b8b6f38c70efb32147db64bdcd71608707ae0ece387",
+              "target_bytes": 4194304,
+              "release_tag": "kotobattle-v0.1.3",
+              "screenshot_asset_name": "kotobattle-v0.1.3-8px-nine-grid.png",
+              "screenshot_sha256": "befc86b7f2e3a288cf4496844eb3ba2f8b2418fd70a0c642712827bf9cabc083"
+            }
+          ],
+          "covered": [
+            "召唤卡片中央图块异常修复：提供者原件/旧v0.1.1/v0.1.2为同一Riki卡对照；最终v0.1.3另有同Riki召唤的精确目标回归。",
+            "371张卡片中央原生消费者LCD关闭诊断验证为受控测试，不是自然收齐并逐张召唤。"
+          ],
+          "remaining": [
+            "玩家原先两日/两中图不是相同卡片配对；不据原照片声称玩家完整ROM身份或同卡前后对照已取得。",
+            "自然完整收卡、全部后期战斗/联机/实机未验；#116其余覆盖范围另行保持开放。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者实施团队自测：最终ROM全新开机149036帧，经引导战、普通试炼获胜及北门自然装备教学；71次真实按键完成课程。普通保存、新进程电池冷读和一份作者v0.1.2电池转v0.1.3具体路线分别保留边界。；提供者受控诊断：99页装备/备忘教学原生消费者、备忘61键入口、60言灵/40道具及数量边界、371卡名/图标消费者；共享旧教学结算例程未自然触发。备忘及掉落诊断不当自然剧情或自然全收集。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "8c0b7cc7650cfc8067623f62b498065b1cb5de897999e6ad6bf4cccef4cc3d18",
+          "approved_bounded_plan_sha256": "b5449aa3ec2dd296be9f3550f5bd7b0c5fbb34cd2a476d899b4974dcd55de018",
+          "recorded_at": "2026-10-25T00:33:58.920799+08:00",
+          "public_problem_key": "problem-7d7cc4ceff8a2112",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3",
+          "public_releases": {
+            "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-befe5d8fbf657a65",
@@ -4086,7 +4562,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "last_incremental_update_at": "2026-10-25T00:33:58.920799+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

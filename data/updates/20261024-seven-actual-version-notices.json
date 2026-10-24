@@ -1,0 +1,92 @@
+{
+  "schema": "public_seven_actual_version_update_notice_sync_v1",
+  "parent": "713cd1a0e12ebda2ea7ee443c851d7609e16a4d4",
+  "recorded_at": "2026-10-24T13:05:57.975990+08:00",
+  "game_ids": [
+    "bokujou-monogatari-gb3",
+    "castlevania-order-of-shadows-golden-belmont",
+    "crayon-shin-chan-cinema-land-gba",
+    "jikkyou-world-soccer-pocket",
+    "jikkyou-world-soccer-pocket-2",
+    "kotobattle",
+    "pokemon-prism"
+  ],
+  "actual_notice_count": 7,
+  "actual_image_count": 7,
+  "unchanged_standard_image_notices": 5,
+  "exact_PID_supplemental_visual_notices": 2,
+  "original_failed_raws_and_checks_preserved": true,
+  "actual_private_registry_proof_sha256": "1a3bee3e2e3eada529d0a55bce88c14aa1ca4d90406182a89896140c6f24c1ec",
+  "actual_public16_Issue_mirror_proof_sha256": "b2748250dc081f0b261a1c28b39b3a8e37b8eb4c5a0ba732b41ff15da49025ea",
+  "reply_bindings": [
+    {
+      "game_id": "bokujou-monogatari-gb3",
+      "pid": "154065711848",
+      "text_sha256": "8f6953f8d9e09e649ab3b5cd59c89c24a8db1c4acf273439848718097865da04",
+      "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+      "target_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5"
+    },
+    {
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "pid": "154065756125",
+      "text_sha256": "fb654a48b57c5bf727d501b2472ef08456f3d39201f4461423c2de1c699cd603",
+      "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+      "target_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494"
+    },
+    {
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "pid": "154065719285",
+      "text_sha256": "7994d043cc1e5219c1c5ee4c5451715c08865a654defef3ee4e30141750ddb0d",
+      "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+      "target_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b"
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket",
+      "pid": "154065741232",
+      "text_sha256": "e7d5c53dd6c26b0926ae16c2c811b1217cf9be34b7c920381a6f62119eefee59",
+      "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+      "target_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7"
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "pid": "154065753968",
+      "text_sha256": "854aa3e33993fa4467df7b4ac8ea5fe4ec6a8b580f4b695c904571732f1375ae",
+      "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+      "target_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a"
+    },
+    {
+      "game_id": "kotobattle",
+      "pid": "154065728239",
+      "text_sha256": "ccb46c007987112f6c59512dfcf8ff20ae3563fa9b5a196dde8378486a0ee732",
+      "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "target_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e"
+    },
+    {
+      "game_id": "pokemon-prism",
+      "pid": "154065715192",
+      "text_sha256": "704bf0b9b880f024bee2ceaa25c793de5028d1d0b8d7ccb77fa5a16f746002f1",
+      "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+      "target_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358"
+    }
+  ],
+  "is_version_update_delivery": true,
+  "is_new_ROM_delivery": false,
+  "ACKs_added": 0,
+  "Issue_states_changed": 0,
+  "old_quotes_ACKs_Source_versions_original_hashes_and_other_feedback_preserved": true,
+  "monitor_counter_increment": 0,
+  "Source_executions": 0,
+  "forum_sends": 0,
+  "cloud_mutations": 0,
+  "ROM_uploads": 0,
+  "protected_current_SHA256s": {
+    "README.md": "cfc7642beb3978fff026b7196e85de9b270a0ff60580677d50bccdb4f5dcf271",
+    "data/original-input-hashes.csv": "1805af3e2c62ffc6e75f3669e86fe4f0681126f62f796286b97ce0fd4af93a9b",
+    "data/original-input-hashes.json": "8b9d0960319ba7457ee9a9c757371bcaa0a6c6df98075b374129b6a7c97fa3ab",
+    "data/public-asset-sync.json": "c212e9cf1043d0737000c2f128d315a4edb77c36afc35968409d50b8bfe07ed1",
+    "data/screenshot-provenance.json": "3a4d91e700d2b9952c41e1e9767a022dd0f5cafb1741fde8cd99b2cd3b418fc3",
+    "data/versions.json": "9efcced32f1f53883594c414d255ba272aa2ca1b3b3286f3a680bc5a239156e1",
+    "feedback/cases.json": "3846d9ebdd5e16f9473ed4aa2f9a256dbccf762ee62477de82ec447724ce330d",
+    "feedback/problems.json": "6a0a1a3dbfd0da2001358135d8a6aad7d599942f966908eeee28527938d8a7b9"
+  }
+}

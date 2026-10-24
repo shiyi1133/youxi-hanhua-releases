@@ -139,5 +139,53 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-f1ca521463b9d176c895",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "bokujou-monogatari-gb3",
+      "game_name": "牧场物语GB3：男孩遇见女孩",
+      "version": "v0.1.1",
+      "font": "8px",
+      "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+      "target_rom_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5",
+      "target_bytes": 4194304,
+      "tid": "11092365551",
+      "parent_pid": "154034255687",
+      "source_pid": "154034255687",
+      "floor": 85,
+      "pid": "154065711848",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065711848#p154065711848",
+      "text": "@命運的召喚 《牧场物语GB3：男孩遇见女孩》v0.1.1普通8px修复版已更新：港口路牌、种子介绍、星期及上午下午显示。附本版真实九宫格，欢迎继续测试。",
+      "text_sha256": "8f6953f8d9e09e649ab3b5cd59c89c24a8db1c4acf273439848718097865da04",
+      "images": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "target_rom_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5",
+          "expected_screenshot_sha256": "149dd0bbe6f221f27e5b2346e738434985ff7b3445d002de864123b4666d298d",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e97bfe03918fa0ecda6ad50a609759ee3c6ddbb0.jpg?tbpicau=2026-11-04-05_6a56a743b03d08aeca43b2bee9a74e83",
+          "actual_public_image_sha256": "bea5c7145a8e809caadf38617b4efe2f923c5898c5ba44d3ca2638a2c3d9364a",
+          "actual_public_image_bytes": 61121,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/bokujou-monogatari-gb3-v0.1.1",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T12:29:56.136824+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "1355bd79a61c58da5f25aefbd1a9d64819301c2069a7b32a521779c0e1675762"
+    }
+  ]
 }

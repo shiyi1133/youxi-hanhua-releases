@@ -684,5 +684,53 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00"
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-a6485b4b965bd8c46eb6",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "pokemon-prism",
+      "game_name": "宝可梦棱镜",
+      "version": "v0.1.1",
+      "font": "8px",
+      "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+      "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+      "target_bytes": 2097152,
+      "tid": "11092365551",
+      "parent_pid": "154041909322",
+      "source_pid": "154041910588",
+      "floor": 131,
+      "pid": "154065715192",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065715192#p154065715192",
+      "text": "@醒着做梦ლ 《宝可梦棱镜》v0.1.1普通8px修复版已更新：69号道路路牌崩溃、菜单与洞窟显示，以及已定位的PC、能力和忘招文字。沙龙黑块和未定位漏译仍未确认修复。附本版真实九宫格，欢迎继续测试。",
+      "text_sha256": "704bf0b9b880f024bee2ceaa25c793de5028d1d0b8d7ccb77fa5a16f746002f1",
+      "images": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "expected_screenshot_sha256": "359fbfcbf1add96f4484d5e34a4859b0d0de98337ae77e57a5bf065dcb865608",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/9a74a0ec8a136327ac447334d78fa0ec09fac7bc.jpg?tbpicau=2026-11-04-05_7cab11db768d44721278c3f33f2a3b28",
+          "actual_public_image_sha256": "296935d720ce9017d8b41f8095e067028265682e43dc474d748116880a9f1ba1",
+          "actual_public_image_bytes": 198635,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T12:31:07.121199+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "00fff817c785663fa04f7ae7354baae56be823968170c9fc56258db89df24611"
+    }
+  ]
 }

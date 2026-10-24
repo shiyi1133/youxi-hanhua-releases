@@ -843,5 +843,53 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
+  ],
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-ff17c1d23c2ecb9657c8",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "game_name": "蜡笔小新 电影乐园大冒险",
+      "version": "v0.1.2",
+      "font": "12px",
+      "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+      "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+      "target_bytes": 33554432,
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "source_pid": "154040646700",
+      "floor": 17,
+      "pid": "154065719285",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154065719285#p154065719285",
+      "text": "@une21 《蜡笔小新 电影乐园大冒险》v0.1.2普通12px修复版已更新：收藏室与过场图形、部分界面文字，并加入骑象相关过场修正。家人菜单及底部提示仍有待处理部分。附本版真实九宫格，请再测试骑象场景。",
+      "text_sha256": "7994d043cc1e5219c1c5ee4c5451715c08865a654defef3ee4e30141750ddb0d",
+      "images": [
+        {
+          "font": "12px",
+          "version": "v0.1.2",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "expected_screenshot_sha256": "88d90dc3f46cfb51ff3fb4def865b7632afaf23376a28933960495a5630cefba",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/dbf0912397dda14461acddb5f4b7d0a20cf4863c.jpg?tbpicau=2026-11-04-05_cd626ba80a5d9680b1f1aaa7c776fabb",
+          "actual_public_image_sha256": "9e28f24ff43a13904be044082f5f69884ceb6507b19428d04cb4f359d0bd4148",
+          "actual_public_image_bytes": 113039,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T12:32:30.872819+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "c7185fb877dd75a1480f4945b5fc42e5a409eb6a373b6c81fc58f44b7db5782d"
+    }
   ]
 }

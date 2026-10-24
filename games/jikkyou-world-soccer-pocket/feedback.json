@@ -885,5 +885,53 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
+  ],
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-ec213948d96aa940adfc",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "jikkyou-world-soccer-pocket",
+      "game_name": "实况世界足球Pocket",
+      "version": "v0.1.1",
+      "font": "native-8-12px",
+      "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+      "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+      "target_bytes": 8787784,
+      "tid": "11097560613",
+      "parent_pid": "154040646700",
+      "source_pid": "154040646700",
+      "floor": 17,
+      "pid": "154065741232",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154065741232#p154065741232",
+      "text": "@une21 《实况世界足球Pocket》v0.1.1原生普通字号修复版已更新：球员姓名显示、地区与暂停等已定位文字，同时保留标题红球及拖尾。附本版真实九宫格，欢迎继续测试。",
+      "text_sha256": "e7d5c53dd6c26b0926ae16c2c811b1217cf9be34b7c920381a6f62119eefee59",
+      "images": [
+        {
+          "font": "native-8-12px",
+          "version": "v0.1.1",
+          "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+          "expected_screenshot_sha256": "097ec375cc1c68051c1b68a20281e4713f6963f3b554bcc561de27bd63e76ec0",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a384134970a304e33af11fd97c8a786c8175ccb.jpg?tbpicau=2026-11-04-05_8b27ce6a63f57bcbb6aff17278121f06",
+          "actual_public_image_sha256": "71f147f7c9f54335da799cbbe2feae8ceb2cb3e9428e37c6ff867f5e6e8de9b8",
+          "actual_public_image_bytes": 104323,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T12:40:08.087953+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "af84f9a2634760679df9d56084f5e1a1ec8cd17c5c3a65d2e01001075a55daf1"
+    }
   ]
 }

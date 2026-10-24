@@ -266,5 +266,53 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
+  ],
+  "version_update_notices": [
+    {
+      "public_version_reply_key": "version-reply-62cc52695d0804c87fae",
+      "kind": "EXISTING_GAME_VERSION_UPDATE_NOTICE",
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "game_name": "恶魔城：暗影诅咒 黄金贝尔蒙特",
+      "version": "v0.1.1",
+      "font": "8px",
+      "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+      "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+      "target_bytes": 2097152,
+      "tid": "11092365551",
+      "parent_pid": "154040122000",
+      "source_pid": "154040122000",
+      "floor": 110,
+      "pid": "154065756125",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065756125#p154065756125",
+      "text": "@可可洛图书馆 《恶魔城：暗影诅咒 黄金贝尔蒙特》v0.1.1普通8px修复版已更新：START前残留S、教程↓/A图标，并调整中文标题位置、恢复城堡画面。附本版真实九宫格，欢迎继续测试。",
+      "text_sha256": "fb654a48b57c5bf727d501b2472ef08456f3d39201f4461423c2de1c699cd603",
+      "images": [
+        {
+          "font": "8px",
+          "version": "v0.1.1",
+          "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+          "expected_screenshot_sha256": "a820ac3576915f70c48c0abf90d9bbee882b85207a5c28a77146b7a914231a72",
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e97bfe03918fa0ecda3bd50a609759ee3c6ddb61.jpg?tbpicau=2026-11-04-05_ca1fccd1c11df5e35c0df15f3fe2e1d2",
+          "actual_public_image_sha256": "708a741e641ba9d39c35faebe575eca4e83c52da1907898070f90c131f9a40f0",
+          "actual_public_image_bytes": 60318,
+          "same_dimensions": true,
+          "content_verified": true
+        }
+      ],
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1",
+      "actual_public_full_text_self_and_all_images_verified": true,
+      "verified_at": "2026-10-24T12:45:40.379236+08:00",
+      "is_version_update_delivery": true,
+      "is_new_ROM_delivery": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": false,
+      "whole_Issue_fixed": false,
+      "whole_game_acceptance": false,
+      "hardware_tested": false,
+      "new_runtime_tests": false,
+      "Source_executions": 0,
+      "precise_nested_notification_claimed": false,
+      "original_actual_notice_receipt_sha256": "6cceb7d3d198a535570c794bd481da405f95fa4ff4f5d8781a953fdb7a9d4e16"
+    }
   ]
 }

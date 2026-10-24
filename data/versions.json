@@ -9457,79 +9457,157 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": null,
+          "variant_id": "8px:unchanged",
           "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
-          "output_sha256": "3eb0202d1a90c5617b22f78e8f6e2e42ed2eff908ff0305b319e633c329ea012",
+          "output_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5",
           "output_bytes": 4194304,
-          "font_scope": "原生Fusion Pixel 8px；10px尚未实现，不交付大字。",
-          "scope": "原生Fusion Pixel普通8px限定测试版：提供方1705条已识别索引译文、12条片尾职务、18条动物状态/种类及37个人物标签；计数不是全剧情可达证明。主角、伙伴、宠物三设置字段有杨咩咩/陈胖胖、重复、删除重输、四字容量和电池新进程冷读的提供方记录。九宫格5格自然控制路线、1格电池冷读、3格同ROM状态恢复续行；维护只静态核验、BPS还原与原帧像素对照，未运行游戏或源码。",
+          "font_scope": "原生普通8px；无另行大字版；CGB原生彩色，非SGB验收。",
+          "scope": "修复港口路牌共享指针别名、种子介绍内嵌名称、星期/上午下午消费者；原生普通8px限定修复测试版。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "只有原生8px，真10px安全tile/显存分配尚未实现，未交付大字；CGB专用，无原生SGB，DMG仅警告不可玩。\n86条未证实可达调试/编辑记录、9条疑似非文本表尾保留；29条原作者/公司署名保留，不能称全ROM穷尽汉化。\n两套姓名profile沿同一初始按键路线，不作为男女主角各一套通过；另一性别完整自然路线/保存冷读没有独立证据。\n动物购买/出生、两个子女字段的自然输入/保存冷读、全部最长变量、所有深层剧情/婚姻/自然结局片尾、联机/实机未验。\n18种状态/动物文字、注入动物姓名和12个片尾职务是CPU/VRAM诊断，不是自然购买、动物取名或自然通关证据。\n九宫格第5/8/9格实际同ROM状态恢复、第6格电池冷读；第7格是写日记完成提示。提供方自然/电池/状态来源分层，不称全九格自然开局。\n旧原版/其它汉化电池姓名显示兼容未保证，先备份原存档；跨版本不要使用即时状态。\n既有反馈地图切换BGM连续播放需求仍待调查，本版没有该问题已修或已复现的验收证明。\n提供方自测不等同独立人员QA；维护未运行源码、ROM或模拟器，未独立重建，未上传Source/存档/状态/混包。"
+            "无玩家实际ROM完整SHA或掌机整屏花屏全部触发条件；照片动物/鸡具体疑点未建立复现。",
+            "标题仍Push Start英文；无10px；动物/子女自然命名、全部最长变量、全剧情/结局、实机/联机未测。",
+            "Issue33音乐连续、80第三方鱼名、82玩法建议不在本次修复范围。"
           ],
           "public_source_assets": [
             {
-              "name": "bokujou-monogatari-gb3-current-source-9bd7130ca7b1-public-r02.zip",
-              "sha256": "aa7950c58544daaee74cbb393fb04e78ba69d8aa4493478b00d2f33b06d7eed9",
-              "bytes": 1063706,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022/bokujou-monogatari-gb3-current-source-9bd7130ca7b1-public-r02.zip",
-              "asset_id": 663438488,
+              "name": "bokujou-monogatari-gb3-v0.1.1-8px-SOURCE-public-r02.zip",
+              "bytes": 972241,
+              "sha256": "502dcdc671f73937044a4ffa5d4d3fc064a8e885031ffbbf771729403e1e6b7a",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/bokujou-monogatari-gb3-v0.1.1/bokujou-monogatari-gb3-v0.1.1-8px-SOURCE-public-r02.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671103397,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022",
-              "complete_all_modification_source": true,
-              "completeness_status": "CONFIRMED_COMPLETE_MODIFICATION_SOURCE",
-              "scope": "CURRENT_EXACT_SOURCE_PACKAGE_INTEGRITY_VERIFIED_NOT_REBUILT_THIS_RUN",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source64",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": "unchanged",
-              "audio_binding_basis": "EXPLICIT_SOURCE_AUDIO_AND_EXACT_CURRENT_TARGET"
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/bokujou-monogatari-gb3-v0.1.1",
+              "complete_all_modification_source": null,
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "bokujou-monogatari-gb3-current-patches.zip",
-            "sha256": "f0a5606fb609b61ffdb1287469ac7fbedad581856dd2c09e02d7297ad1144336",
-            "bytes": 96550,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/bokujou-monogatari-gb3-current-patches.zip",
-            "asset_id": 663519600,
+            "name": "bokujou-monogatari-gb3-v0.1.1-8px-PATCH-public.zip",
+            "bytes": 81548,
+            "sha256": "2cbebbea59c72a6c09b03980bc78f5134e08a8c54296e4c7a5a019c082998f13",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/bokujou-monogatari-gb3-v0.1.1/bokujou-monogatari-gb3-v0.1.1-8px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671103641,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/bokujou-monogatari-gb3-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "bokujou-monogatari-gb3",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
-              "target_rom_sha256": "3eb0202d1a90c5617b22f78e8f6e2e42ed2eff908ff0305b319e633c329ea012",
-              "screenshot_sha256": "513f0fb24c316a95b9517a7d972019c852dfc4ecb98d9613cf5a7f2a21b6bded",
-              "screenshot_bytes": 28389,
-              "path": "games/bokujou-monogatari-gb3/screenshots/513f0fb24c316a95b951.png",
-              "caption": "牧场物语GB3 v0.1.0 普通8px最终ROM九宫格：5格提供方自然控制、1格原生电池冷读、3格同ROM状态恢复；维护只看图/静态核验，非全流程。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 480,
-                "height": 432,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5",
+              "screenshot_sha256": "149dd0bbe6f221f27e5b2346e738434985ff7b3445d002de864123b4666d298d",
+              "screenshot_bytes": 23716,
+              "path": "games/bokujou-monogatari-gb3/screenshots/bokujou-monogatari-gb3-v0.1.1-8px-nine-grid.png",
+              "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/bokujou-monogatari-gb3/README.md",
-      "feedback": "games/bokujou-monogatari-gb3/feedback.md"
+      "feedback": "games/bokujou-monogatari-gb3/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": null,
+              "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+              "output_sha256": "3eb0202d1a90c5617b22f78e8f6e2e42ed2eff908ff0305b319e633c329ea012",
+              "output_bytes": 4194304,
+              "font_scope": "原生Fusion Pixel 8px；10px尚未实现，不交付大字。",
+              "scope": "原生Fusion Pixel普通8px限定测试版：提供方1705条已识别索引译文、12条片尾职务、18条动物状态/种类及37个人物标签；计数不是全剧情可达证明。主角、伙伴、宠物三设置字段有杨咩咩/陈胖胖、重复、删除重输、四字容量和电池新进程冷读的提供方记录。九宫格5格自然控制路线、1格电池冷读、3格同ROM状态恢复续行；维护只静态核验、BPS还原与原帧像素对照，未运行游戏或源码。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "只有原生8px，真10px安全tile/显存分配尚未实现，未交付大字；CGB专用，无原生SGB，DMG仅警告不可玩。\n86条未证实可达调试/编辑记录、9条疑似非文本表尾保留；29条原作者/公司署名保留，不能称全ROM穷尽汉化。\n两套姓名profile沿同一初始按键路线，不作为男女主角各一套通过；另一性别完整自然路线/保存冷读没有独立证据。\n动物购买/出生、两个子女字段的自然输入/保存冷读、全部最长变量、所有深层剧情/婚姻/自然结局片尾、联机/实机未验。\n18种状态/动物文字、注入动物姓名和12个片尾职务是CPU/VRAM诊断，不是自然购买、动物取名或自然通关证据。\n九宫格第5/8/9格实际同ROM状态恢复、第6格电池冷读；第7格是写日记完成提示。提供方自然/电池/状态来源分层，不称全九格自然开局。\n旧原版/其它汉化电池姓名显示兼容未保证，先备份原存档；跨版本不要使用即时状态。\n既有反馈地图切换BGM连续播放需求仍待调查，本版没有该问题已修或已复现的验收证明。\n提供方自测不等同独立人员QA；维护未运行源码、ROM或模拟器，未独立重建，未上传Source/存档/状态/混包。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "bokujou-monogatari-gb3-current-source-9bd7130ca7b1-public-r02.zip",
+                  "sha256": "aa7950c58544daaee74cbb393fb04e78ba69d8aa4493478b00d2f33b06d7eed9",
+                  "bytes": 1063706,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022/bokujou-monogatari-gb3-current-source-9bd7130ca7b1-public-r02.zip",
+                  "asset_id": 663438488,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022",
+                  "complete_all_modification_source": true,
+                  "completeness_status": "CONFIRMED_COMPLETE_MODIFICATION_SOURCE",
+                  "scope": "CURRENT_EXACT_SOURCE_PACKAGE_INTEGRITY_VERIFIED_NOT_REBUILT_THIS_RUN",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source64",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": "unchanged",
+                  "audio_binding_basis": "EXPLICIT_SOURCE_AUDIO_AND_EXACT_CURRENT_TARGET"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "bokujou-monogatari-gb3-current-patches.zip",
+                "sha256": "f0a5606fb609b61ffdb1287469ac7fbedad581856dd2c09e02d7297ad1144336",
+                "bytes": 96550,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/bokujou-monogatari-gb3-current-patches.zip",
+                "asset_id": 663519600,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "bokujou-monogatari-gb3",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+                  "target_rom_sha256": "3eb0202d1a90c5617b22f78e8f6e2e42ed2eff908ff0305b319e633c329ea012",
+                  "screenshot_sha256": "513f0fb24c316a95b9517a7d972019c852dfc4ecb98d9613cf5a7f2a21b6bded",
+                  "screenshot_bytes": 28389,
+                  "path": "games/bokujou-monogatari-gb3/screenshots/513f0fb24c316a95b951.png",
+                  "caption": "牧场物语GB3 v0.1.0 普通8px最终ROM九宫格：5格提供方自然控制、1格原生电池冷读、3格同ROM状态恢复；维护只看图/静态核验，非全流程。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 480,
+                    "height": 432,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "e4db2ba915e0eaaf9ed53ca6de7a1bc5c162f16ffbfe0e6bd7801d90da0cbcae"
+        }
+      ]
     },
     {
       "game_id": "wizardry-gaiden-1",
@@ -15202,79 +15280,157 @@
       "current_targets": [
         {
           "font": "12px",
-          "version": "v0.1.0",
+          "version": "v0.1.2",
           "audio_variant": "unchanged",
-          "variant_id": null,
+          "variant_id": "12px:unchanged",
           "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
-          "output_sha256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e",
+          "output_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
           "output_bytes": 33554432,
-          "font_scope": "普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。",
-          "scope": "普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。",
+          "font_scope": "原生普通12px；无另行大字版；GBA原生彩色。",
+          "scope": "原生普通12px限定修复测试版；保留v011 VRAM LZ77和共享标签修正，v012纠正结构误当文本指针的引用并验event36。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "自然游戏存读未达到；EEPROM仅协议诊断；少量无法识别图中微字仍保留；未全通、未验证全部后期场景或实机。"
+            "Issue107仅event36原生引擎诊断完成与原件对照，未证明玩家未知版本/原自然路线全部触发已解决。",
+            "Issue126家人菜单及底部提示自然摆放未验收；仍有open_inventory细字/附属标签未完成。",
+            "未自然达到进度保存/读档、全通或实机。"
           ],
           "public_source_assets": [
             {
-              "name": "crayon-shin-chan-cinema-land-gba-current-scope-source-public-r01.zip",
-              "sha256": "494ad7b025cf1f1fdc6263b6c4035571e142c75538c85651e9ab62d4b8cd811c",
-              "bytes": 11170769,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/crayon-shin-chan-cinema-land-gba-current-scope-source-public-r01.zip",
-              "asset_id": 663526026,
+              "name": "crayon-shin-chan-cinema-land-gba-v0.1.2-12px-SOURCE-public-r02.zip",
+              "bytes": 11411369,
+              "sha256": "6f5c7ed651fc701fda8945957212ddd5e02887de4f70b09104aad269425f08e0",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/crayon-shin-chan-cinema-land-gba-v0.1.2/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-SOURCE-public-r02.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671106408,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-04",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "Native 12px body. Own rebuild README labels exact 16MiB input and current 32MiB output; actual build reads that input and writes the declared ordinary target.",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source4",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "SOURCE_NULL_AUDIO_CATALOG_UNSPECIFIED_UNIQUE_FULL_SHA_TARGET"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "crayon-shin-chan-cinema-land-gba-current-patches.zip",
-            "sha256": "27e0070c7148f5fa16843b56e8dbca03dd1cbecc765c2fc173a89a23143b2f5d",
-            "bytes": 473399,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/crayon-shin-chan-cinema-land-gba-current-patches.zip",
-            "asset_id": 663504862,
+            "name": "crayon-shin-chan-cinema-land-gba-v0.1.2-12px-PATCH-public.zip",
+            "bytes": 465376,
+            "sha256": "d08dbd392474c31c4899088bd5f381521145291925163119f43971e7c0c2b271",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/crayon-shin-chan-cinema-land-gba-v0.1.2/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671106661,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
           },
           "public_screenshots": [
             {
               "game_id": "crayon-shin-chan-cinema-land-gba",
               "font": "12px",
-              "version": "v0.1.0",
+              "version": "v0.1.2",
               "audio_variant": "unchanged",
               "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
-              "target_rom_sha256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e",
-              "screenshot_sha256": "39b32375393c5e549e73453684325079c2caeee7c955083a6a862a9d4229b367",
-              "screenshot_bytes": 150015,
-              "path": "games/crayon-shin-chan-cinema-land-gba/screenshots/39b32375393c5e549e73.png",
-              "caption": "9格均为提供方报告的自然冷启动按键路线；独立原生单帧PNG未随附件提供。；对应 v0.1.0 12px 最终ROM。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 720,
-                "height": 480,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+              "screenshot_sha256": "88d90dc3f46cfb51ff3fb4def865b7632afaf23376a28933960495a5630cefba",
+              "screenshot_bytes": 146480,
+              "path": "games/crayon-shin-chan-cinema-land-gba/screenshots/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-nine-grid.png",
+              "caption": "v0.1.2 原生普通12px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/crayon-shin-chan-cinema-land-gba/README.md",
-      "feedback": "games/crayon-shin-chan-cinema-land-gba/feedback.md"
+      "feedback": "games/crayon-shin-chan-cinema-land-gba/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "12px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": null,
+              "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+              "output_sha256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e",
+              "output_bytes": 33554432,
+              "font_scope": "普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。",
+              "scope": "普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "自然游戏存读未达到；EEPROM仅协议诊断；少量无法识别图中微字仍保留；未全通、未验证全部后期场景或实机。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "crayon-shin-chan-cinema-land-gba-current-scope-source-public-r01.zip",
+                  "sha256": "494ad7b025cf1f1fdc6263b6c4035571e142c75538c85651e9ab62d4b8cd811c",
+                  "bytes": 11170769,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/crayon-shin-chan-cinema-land-gba-current-scope-source-public-r01.zip",
+                  "asset_id": 663526026,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-04",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "Native 12px body. Own rebuild README labels exact 16MiB input and current 32MiB output; actual build reads that input and writes the declared ordinary target.",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source4",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "SOURCE_NULL_AUDIO_CATALOG_UNSPECIFIED_UNIQUE_FULL_SHA_TARGET"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "crayon-shin-chan-cinema-land-gba-current-patches.zip",
+                "sha256": "27e0070c7148f5fa16843b56e8dbca03dd1cbecc765c2fc173a89a23143b2f5d",
+                "bytes": 473399,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/crayon-shin-chan-cinema-land-gba-current-patches.zip",
+                "asset_id": 663504862,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "crayon-shin-chan-cinema-land-gba",
+                  "font": "12px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+                  "target_rom_sha256": "14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e",
+                  "screenshot_sha256": "39b32375393c5e549e73453684325079c2caeee7c955083a6a862a9d4229b367",
+                  "screenshot_bytes": 150015,
+                  "path": "games/crayon-shin-chan-cinema-land-gba/screenshots/39b32375393c5e549e73.png",
+                  "caption": "9格均为提供方报告的自然冷启动按键路线；独立原生单帧PNG未随附件提供。；对应 v0.1.0 12px 最终ROM。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 720,
+                    "height": 480,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "7785f5257b878f97ecb03955670638790163084af42a30047dc7e76034c47a77"
+        }
+      ]
     },
     {
       "game_id": "zephyrs-pass",
@@ -16180,80 +16336,158 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "8px",
+          "variant_id": "8px:unchanged",
           "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
-          "output_sha256": "5b5e9a96e6d1ff65b7e69729e21bd7d3efa6f31a524623f60f0f8de4f01d7818",
+          "output_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
           "output_bytes": 2097152,
           "font_scope": "普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。",
-          "scope": "普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。",
+          "scope": "v0.1.1普通8px限定测试：移除START前单个残留S；恢复5处教程↓/A图标；中文标题移到上方黑带并恢复城堡，原logo/版本/版权保留。基于用户提供同人Golden Belmont build1.0.5，非零售原版。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "未自然到达保存点；诊断原生保存冷读不是自然解锁证明。",
-            "全流程/支线/第二角色长线、全部动态变量/敌人、实机/打印机未验；原作者未提供GB Studio工程不冒称包含。"
+            "未自然到达保存点；全剧情/支线/全地图、全部变量、实机、GB打印机未验。",
+            "原作者完整GB Studio项目不在包内；本包是对应中文改版的重建工程，不冒称上游完整原作工程。",
+            "中文槽替代原英语；其它三语言正文保留。玩家所用ROM的完整SHA未知。"
           ],
           "public_source_assets": [
             {
-              "name": "castlevania-order-of-shadows-golden-belmont-current-source-154e22378317-public-r01.zip",
-              "sha256": "f7c36c32101c5427a156eab897f348ff51edeecaeec624cf8546a24f7285a56e",
-              "bytes": 10710891,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/castlevania-order-of-shadows-golden-belmont-current-source-154e22378317-public-r01.zip",
-              "asset_id": 663483856,
+              "name": "castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-SOURCE-public.zip",
+              "bytes": 10804667,
+              "sha256": "f8b778664611dfa00465003cf332c223facdb4d41805403f3b6649ad63f154b5",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/castlevania-order-of-shadows-golden-belmont-v0.1.1/castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671113873,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02a",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "castlevania-order-of-shadows-golden-belmont-current-patches.zip",
-            "sha256": "35359b486a728a618a95d0d329611cf756272ddb2d04fafe0183a7544562cba9",
-            "bytes": 489659,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/castlevania-order-of-shadows-golden-belmont-current-patches.zip",
-            "asset_id": 663510381,
+            "name": "castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-PATCH.zip",
+            "bytes": 477302,
+            "sha256": "f16c165e5b06af1a4f87054792afc6fa40483d09499442b82ed6b9287845ddd7",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/castlevania-order-of-shadows-golden-belmont-v0.1.1/castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671114209,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "castlevania-order-of-shadows-golden-belmont",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
-              "target_rom_sha256": "5b5e9a96e6d1ff65b7e69729e21bd7d3efa6f31a524623f60f0f8de4f01d7818",
-              "screenshot_sha256": "a77214257d6b6e6be782433f4f04bfc6ac6e5f105624da23525d3221d63e202b",
-              "screenshot_bytes": 31077,
-              "path": "games/castlevania-order-of-shadows-golden-belmont/screenshots/a77214257d6b6e6be782.png",
-              "caption": "v0.1.0 普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。 音频：unchanged；九宫格含自然与场景切换诊断；原生帧与保存诊断按提供方记录标明。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 480,
-                "height": 480,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+              "screenshot_sha256": "a820ac3576915f70c48c0abf90d9bbee882b85207a5c28a77146b7a914231a72",
+              "screenshot_bytes": 35991,
+              "path": "games/castlevania-order-of-shadows-golden-belmont/screenshots/castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-nine-grid.png",
+              "caption": "提供方：自然标题、前期移动攻击受伤死亡、对话及菜单；不包含自然到达保存点的证明。 提供方19项有界自测、672入口/402120像素诊断；房间/坐标设置后的教程、装备、商店、地图、保存与冷读为诊断场景。 九宫格逐格与提供方最终ROM原生帧像素一致。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/castlevania-order-of-shadows-golden-belmont/README.md",
-      "feedback": "games/castlevania-order-of-shadows-golden-belmont/feedback.md"
+      "feedback": "games/castlevania-order-of-shadows-golden-belmont/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px",
+              "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+              "output_sha256": "5b5e9a96e6d1ff65b7e69729e21bd7d3efa6f31a524623f60f0f8de4f01d7818",
+              "output_bytes": 2097152,
+              "font_scope": "普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。",
+              "scope": "普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "未自然到达保存点；诊断原生保存冷读不是自然解锁证明。",
+                "全流程/支线/第二角色长线、全部动态变量/敌人、实机/打印机未验；原作者未提供GB Studio工程不冒称包含。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "castlevania-order-of-shadows-golden-belmont-current-source-154e22378317-public-r01.zip",
+                  "sha256": "f7c36c32101c5427a156eab897f348ff51edeecaeec624cf8546a24f7285a56e",
+                  "bytes": 10710891,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/castlevania-order-of-shadows-golden-belmont-current-source-154e22378317-public-r01.zip",
+                  "asset_id": 663483856,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02a",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "castlevania-order-of-shadows-golden-belmont-current-patches.zip",
+                "sha256": "35359b486a728a618a95d0d329611cf756272ddb2d04fafe0183a7544562cba9",
+                "bytes": 489659,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/castlevania-order-of-shadows-golden-belmont-current-patches.zip",
+                "asset_id": 663510381,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "castlevania-order-of-shadows-golden-belmont",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+                  "target_rom_sha256": "5b5e9a96e6d1ff65b7e69729e21bd7d3efa6f31a524623f60f0f8de4f01d7818",
+                  "screenshot_sha256": "a77214257d6b6e6be782433f4f04bfc6ac6e5f105624da23525d3221d63e202b",
+                  "screenshot_bytes": 31077,
+                  "path": "games/castlevania-order-of-shadows-golden-belmont/screenshots/a77214257d6b6e6be782.png",
+                  "caption": "v0.1.0 普通8px；用户提供GBC同人/自制Golden Belmont基底，中文槽和已定位共享图像；无独立大字或SGB。 音频：unchanged；九宫格含自然与场景切换诊断；原生帧与保存诊断按提供方记录标明。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 480,
+                    "height": 480,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "4e8746832885a33300091313bd503b66dab3fd9c2f9874d885f6b0160e6ec3b6"
+        }
+      ]
     },
     {
       "game_id": "dracula-dark-reign",
@@ -16431,82 +16665,160 @@
       "current_targets": [
         {
           "font": "native-8-12px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "native-8-12px",
+          "variant_id": "native-8-12px:unchanged",
           "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
-          "output_sha256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad",
-          "output_bytes": 8754252,
+          "output_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+          "output_bytes": 8787784,
           "font_scope": "普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。",
-          "scope": "普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。",
+          "scope": "v0.1.1限定测试：保留标题红色球及拖尾、原版权；姓名字库改走安全动态HUD区，补地区/暂停/规则/天气/联机等待等已定位文字。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "完整比赛结束、杯赛通关和带比赛进度的自然存档未验。",
-            "5支全明星队未自然解锁，非空射手榜/最强对手记录、深层地区杯赛及全部存档失败/损坏/满槽提示未验。",
-            "保留日语解说、部分英文事件图像及PLAYER/FORMATION和能力缩写；深层/异常界面可能仍有日文。",
-            "未发现原生命名入口，未新增命名功能；实机、联机及全部历史存档兼容未验。"
+            "未穷尽全赛事/全明星/隐藏队伍；实机及真实联机未验。",
+            "日语语音、部分深层英文保留；未找到独立原生命名入口，不承诺任意中文输入。",
+            "Issue120/124只按本版本已提供用例和范围判断，不据覆盖数自动关闭全部问题。"
           ],
           "public_source_assets": [
             {
-              "name": "jikkyou-world-soccer-pocket-current-source-b429c380dc8d-public-r01.zip",
-              "sha256": "7c1e573d03aa654da0b8ef453e6a399f75cf91c21711fa230b8f6a7df9501aa8",
-              "bytes": 11330766,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/jikkyou-world-soccer-pocket-current-source-b429c380dc8d-public-r01.zip",
-              "asset_id": 663490984,
+              "name": "jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-SOURCE-public.zip",
+              "bytes": 11427135,
+              "sha256": "7fbfc377e7db894ffbbccb8d283efe8d268cca4d40c106315086fe6c1407b5f8",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-v0.1.1/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671110680,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02a",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "jikkyou-world-soccer-pocket-current-patches.zip",
-            "sha256": "49fe8a299771cb757bd2f625ee44cdbc6d0769a9dd908ebabf367e2111c13e44",
-            "bytes": 87711,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/jikkyou-world-soccer-pocket-current-patches.zip",
-            "asset_id": 663526225,
+            "name": "jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-PATCH.zip",
+            "bytes": 69190,
+            "sha256": "948909e6935eac425ba2248ee6278dd7f90517dab4856c8548e2fb671aad9276",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-v0.1.1/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671110967,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "jikkyou-world-soccer-pocket",
               "font": "native-8-12px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
-              "target_rom_sha256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad",
-              "screenshot_sha256": "5ee2a3f1fd92f65a99fa62278058b6a58b3858406d455779acbe72ed46fd97c9",
-              "screenshot_bytes": 97360,
-              "path": "games/jikkyou-world-soccer-pocket/screenshots/5ee2a3f1fd92f65a99fa.png",
-              "caption": "v0.1.0 普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。 九宫格包含同一最终ROM的自然按键画面、同ROM检查点分支和初始0场杯赛新进程冷读；不代表完整比赛、带进度存档或通关。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 720,
-                "height": 480,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+              "screenshot_sha256": "097ec375cc1c68051c1b68a20281e4713f6963f3b554bcc561de27bd63e76ec0",
+              "screenshot_bytes": 124822,
+              "path": "games/jikkyou-world-soccer-pocket/screenshots/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-nine-grid.png",
+              "caption": "提供方：40支球队名单、10地区初赛、菜单天气、比赛/暂停；首场国际杯日本0:5韩国完成并进入下场。 提供方：881姓名×2槽ABI与45×22静态覆盖；不是全部球队解锁/自然全流程。 九宫格逐格与提供方最终ROM原生帧像素一致。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/jikkyou-world-soccer-pocket/README.md",
-      "feedback": "games/jikkyou-world-soccer-pocket/feedback.md"
+      "feedback": "games/jikkyou-world-soccer-pocket/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "native-8-12px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "native-8-12px",
+              "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+              "output_sha256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad",
+              "output_bytes": 8754252,
+              "font_scope": "普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。",
+              "scope": "普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "完整比赛结束、杯赛通关和带比赛进度的自然存档未验。",
+                "5支全明星队未自然解锁，非空射手榜/最强对手记录、深层地区杯赛及全部存档失败/损坏/满槽提示未验。",
+                "保留日语解说、部分英文事件图像及PLAYER/FORMATION和能力缩写；深层/异常界面可能仍有日文。",
+                "未发现原生命名入口，未新增命名功能；实机、联机及全部历史存档兼容未验。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "jikkyou-world-soccer-pocket-current-source-b429c380dc8d-public-r01.zip",
+                  "sha256": "7c1e573d03aa654da0b8ef453e6a399f75cf91c21711fa230b8f6a7df9501aa8",
+                  "bytes": 11330766,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/jikkyou-world-soccer-pocket-current-source-b429c380dc8d-public-r01.zip",
+                  "asset_id": 663490984,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02a",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02a",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "jikkyou-world-soccer-pocket-current-patches.zip",
+                "sha256": "49fe8a299771cb757bd2f625ee44cdbc6d0769a9dd908ebabf367e2111c13e44",
+                "bytes": 87711,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/jikkyou-world-soccer-pocket-current-patches.zip",
+                "asset_id": 663526225,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "jikkyou-world-soccer-pocket",
+                  "font": "native-8-12px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+                  "target_rom_sha256": "567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad",
+                  "screenshot_sha256": "5ee2a3f1fd92f65a99fa62278058b6a58b3858406d455779acbe72ed46fd97c9",
+                  "screenshot_bytes": 97360,
+                  "path": "games/jikkyou-world-soccer-pocket/screenshots/5ee2a3f1fd92f65a99fa.png",
+                  "caption": "v0.1.0 普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。 九宫格包含同一最终ROM的自然按键画面、同ROM检查点分支和初始0场杯赛新进程冷读；不代表完整比赛、带进度存档或通关。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 720,
+                    "height": 480,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "c4d27173528277393f2323caf4dd02943737059f82837f4424221de7c90feb65"
+        }
+      ]
     },
     {
       "game_id": "medarot-parts-collection-2",
@@ -16842,79 +17154,157 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "8px",
+          "variant_id": "8px:unchanged",
           "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
-          "output_sha256": "ac912524bfe6a2eb1c109d5faf946e30456938ffe8f5af1b1470f391207e3562",
+          "output_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
           "output_bytes": 2097152,
-          "font_scope": "普通8px；本次无大字版本；原生CGB彩色。",
-          "scope": "广泛文本翻译、限定验证的可玩初版。自然新游戏、中文命名重复删输、首战、菜单、商店购买及正常保存后的新进程读档有提供者实测；名称、说明、图鉴及边界有原生消费者诊断。保留 RainbowDevs、原作版权、商标及必要缩写；不冒称零售原版或从零原创游戏。",
+          "font_scope": "原生普通8px；无另行大字版；CGB原生彩色，非SGB验收。",
+          "scope": "普通8px限定修复测试版：七处显式页眉路牌入口、菜单/洞窟清页消费者，PC九标签、八能力名称与忘招续段。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "未自然全通所有地图、深层任务、结局、小游戏、对战塔；未实机、真实交换、移动通信或多人联机。诊断注入不等于自然获得全部物品/抓全精灵。中文名称/缓存已改，先备份原生存档；不保证与其它ROM/Prism版本兼容，旧档已有箱名不主动迁移。部分调试/未证实可达遗留及刻意乱码谜题保留。"
+            "Issue109沙龙黑块受控测试未复现，不能称已修；自然完整行走状态未覆盖。",
+            "Issue110未知地点漏译仍待定位；POCKET/ITEMS图形标签保留，PC物品交易/自然升级忘招未完整验收。",
+            "全流程、实机、联机及所有外部旧档未测。"
           ],
           "public_source_assets": [
             {
-              "name": "pokemon-prism-current-source-7ed882da6799-public-r01.zip",
-              "sha256": "09d1c7c2dd79cd9b3de4440d7d811ee45eded7ce0f6901b2d3830be8c0008deb",
-              "bytes": 5737664,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/pokemon-prism-current-source-7ed882da6799-public-r01.zip",
-              "asset_id": 663487762,
+              "name": "pokemon-prism-v0.1.1-8px-SOURCE-public-r02.zip",
+              "bytes": 16056337,
+              "sha256": "c1bbf81fe37568c453ededd98f388ea83be8eb12d213f4fea125573e5fffcb33",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.1/pokemon-prism-v0.1.1-8px-SOURCE-public-r02.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671104811,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02b",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02b",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "pokemon-prism-current-patches.zip",
-            "sha256": "561d650c8b39cd43f916b9a742daf0d528886cd037963fdeed58c9de1f32cfb0",
-            "bytes": 229224,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/pokemon-prism-current-patches.zip",
-            "asset_id": 663513280,
+            "name": "pokemon-prism-v0.1.1-8px-PATCH-public.zip",
+            "bytes": 216703,
+            "sha256": "7aee379201a86208848e7119ec9bcd58580f3f5a1a1f9c04c76db3e3c68aa64f",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.1/pokemon-prism-v0.1.1-8px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671105105,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "pokemon-prism",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
-              "target_rom_sha256": "ac912524bfe6a2eb1c109d5faf946e30456938ffe8f5af1b1470f391207e3562",
-              "screenshot_sha256": "e7e401d92cc8c0e51315b38327822c92d840c75cb8e8a812eb1dece2e45a60d7",
-              "screenshot_bytes": 42647,
-              "path": "games/pokemon-prism/screenshots/e7e401d92cc8c0e51315.png",
-              "caption": "普通8px v0.1.0最终ROM原生CGB九宫格；提供者记录为自然场景，外侧标题/2倍最近邻排布，非全流程通关证明。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 1008,
-                "height": 948,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+              "screenshot_sha256": "359fbfcbf1add96f4484d5e34a4859b0d0de98337ae77e57a5bf065dcb865608",
+              "screenshot_bytes": 50314,
+              "path": "games/pokemon-prism/screenshots/pokemon-prism-v0.1.1-8px-nine-grid.png",
+              "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/pokemon-prism/README.md",
-      "feedback": "games/pokemon-prism/feedback.md"
+      "feedback": "games/pokemon-prism/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px",
+              "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+              "output_sha256": "ac912524bfe6a2eb1c109d5faf946e30456938ffe8f5af1b1470f391207e3562",
+              "output_bytes": 2097152,
+              "font_scope": "普通8px；本次无大字版本；原生CGB彩色。",
+              "scope": "广泛文本翻译、限定验证的可玩初版。自然新游戏、中文命名重复删输、首战、菜单、商店购买及正常保存后的新进程读档有提供者实测；名称、说明、图鉴及边界有原生消费者诊断。保留 RainbowDevs、原作版权、商标及必要缩写；不冒称零售原版或从零原创游戏。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "未自然全通所有地图、深层任务、结局、小游戏、对战塔；未实机、真实交换、移动通信或多人联机。诊断注入不等于自然获得全部物品/抓全精灵。中文名称/缓存已改，先备份原生存档；不保证与其它ROM/Prism版本兼容，旧档已有箱名不主动迁移。部分调试/未证实可达遗留及刻意乱码谜题保留。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "pokemon-prism-current-source-7ed882da6799-public-r01.zip",
+                  "sha256": "09d1c7c2dd79cd9b3de4440d7d811ee45eded7ce0f6901b2d3830be8c0008deb",
+                  "bytes": 5737664,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/pokemon-prism-current-source-7ed882da6799-public-r01.zip",
+                  "asset_id": 663487762,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02b",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02b",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "pokemon-prism-current-patches.zip",
+                "sha256": "561d650c8b39cd43f916b9a742daf0d528886cd037963fdeed58c9de1f32cfb0",
+                "bytes": 229224,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/pokemon-prism-current-patches.zip",
+                "asset_id": 663513280,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "pokemon-prism",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+                  "target_rom_sha256": "ac912524bfe6a2eb1c109d5faf946e30456938ffe8f5af1b1470f391207e3562",
+                  "screenshot_sha256": "e7e401d92cc8c0e51315b38327822c92d840c75cb8e8a812eb1dece2e45a60d7",
+                  "screenshot_bytes": 42647,
+                  "path": "games/pokemon-prism/screenshots/e7e401d92cc8c0e51315.png",
+                  "caption": "普通8px v0.1.0最终ROM原生CGB九宫格；提供者记录为自然场景，外侧标题/2倍最近邻排布，非全流程通关证明。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 1008,
+                    "height": 948,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "d9f51f46866b5c95ab954a8eb0d00a677fe6d7fde334fd2c8093ffa19912d849"
+        }
+      ]
     },
     {
       "game_id": "zelda-moonrise-regalia",
@@ -17154,78 +17544,156 @@
       "current_targets": [
         {
           "font": "native8-12px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "native8-12px",
+          "variant_id": "native8-12px:unchanged",
           "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
-          "output_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
-          "output_bytes": 9720404,
+          "output_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+          "output_bytes": 9749076,
           "font_scope": "原生8px/12px按原窗口混排；原大幅公告图形按原空间整数放大；单一普通版本，无独立大字/SGB",
-          "scope": "GBA日版Rev0 v0.1.0限定测试版；按原窗口保留原生8px/12px混排普通字号，单一ROM，无独立大字版及SGB。提供方记录自然友谊赛上下半场、国家/球员名称及最终ROM电池冷读，诊断范围另记。",
+          "scope": "v0.1.1限定测试：存档/继续对话底板及保存标题、战术图块冲突、杯赛高亮分配等修正；新增等待与5球员/3阵型/3战术提示，玩家2与电脑标签左对齐。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "提供者自测属于同一实现者证据，不等于独立QA；本轮维护未执行附件源码、未新增模拟器或真机运行测试。",
-            "自然友谊赛上下半场0比3、进球履历和菜单；58国家自然查看、1334国家队球员名称及1276赛前名称匹配按提供方记录保留。",
-            "SS招募/排行50项、换人字形与映射6行、公告21项为诊断验证；不代表自然招募成功、自然换人或全部边界通过。",
-            "杯赛存档源于较早自然首场0比7进度，由最终ROM重新保存并在独立冷进程保留1负7失球；不是最终ROM重新全程打完杯赛。",
-            "实机、联机、杯赛/SS全通、隐藏队伍解锁、自然获胜招募、自然换人及原生命名/重输/存读未验收；完整修改源码来源及本轮独立重建状态未知。"
+            "原生8px/12px混排，仅一个普通字号版本；无独立大字/SGB。",
+            "深层未译文字仍可能存在；全赛事、隐藏队伍、全部命名、实机与真实联机未验。",
+            "Issue121并非全部标题美术重制；Issue125只覆盖已明确提示，不自动关闭整单。"
           ],
           "public_source_assets": [
             {
-              "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
-              "sha256": "218dc8082e4998a29a4362dc2cb8cb931d8a816427559dca290c8cba318177ff",
-              "bytes": 11003592,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
-              "asset_id": 666511366,
+              "name": "jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-SOURCE-public.zip",
+              "bytes": 16145300,
+              "sha256": "f12fafaf0a20270b42d7c3612ea1110348e24caa54e9a43ac190804e631efdcf",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.1/jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671112120,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
-              "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
-              "bound_audio_variant": "unchanged",
-              "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
-              "known_source_gaps_not_assumed_resolved": true
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
-            "sha256": "a8eb974c1f6c821d1aa5f624113f72708eef4e220102ef915a1a910d64063273",
-            "bytes": 158282,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
-            "asset_id": 666512068,
+            "name": "jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-PATCH.zip",
+            "bytes": 142851,
+            "sha256": "34054560cb62ebe018e3e8a0e3a8eb7c3a2f36405c359d354ae4b47d9635bcc5",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.1/jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-PATCH.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671112500,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "jikkyou-world-soccer-pocket-2",
               "font": "native8-12px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
-              "target_rom_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
-              "screenshot_sha256": "6017f5c93609079901218e015fab8ac3b9da0946afb584e0db949674d6a8eec4",
-              "screenshot_bytes": 197656,
-              "path": "games/jikkyou-world-soccer-pocket-2/screenshots/6017f5c9360907990121.png",
-              "caption": "v0.1.0 原生8px/12px混排普通字号最终ROM真实九宫格；9幅原生240×160画面像素一致。自然比赛/菜单/国家球员与诊断内容按提供方证据区分；不是独立大字版或全通验收。",
-              "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_GBA_CAPTURE_GRID_WITH_NATURAL_DIAGNOSTIC_UNTESTED_BOUNDARIES",
+              "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+              "screenshot_sha256": "faf8ff1124ce60ade4c9586d37d1264ef08b561ff8a1d27abd0352ef9e3542dd",
+              "screenshot_bytes": 188373,
+              "path": "games/jikkyou-world-soccer-pocket-2/screenshots/jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-nine-grid.png",
+              "caption": "提供方：自然菜单、保存及有限比赛路径；图像/提示对应实际最终ROM。 提供方ABI入口与场景切换诊断按原证据保留；不等于所有杯赛或完整流程。 九宫格逐格与提供方最终ROM原生帧像素一致。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "public_release_asset_id": 666512884,
-              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-nine-grid.png",
               "new_runtime_test_by_this_export": false,
-              "PNG_pixels_modified": false,
-              "role": "MAIN_FINAL_ROM_NINE_GRID",
-              "Root_actual_view_image_completed": true,
-              "native_nine_frame_pixel_comparison_passed": true
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/jikkyou-world-soccer-pocket-2/README.md",
-      "feedback": "games/jikkyou-world-soccer-pocket-2/feedback.md"
+      "feedback": "games/jikkyou-world-soccer-pocket-2/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "native8-12px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "native8-12px",
+              "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+              "output_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+              "output_bytes": 9720404,
+              "font_scope": "原生8px/12px按原窗口混排；原大幅公告图形按原空间整数放大；单一普通版本，无独立大字/SGB",
+              "scope": "GBA日版Rev0 v0.1.0限定测试版；按原窗口保留原生8px/12px混排普通字号，单一ROM，无独立大字版及SGB。提供方记录自然友谊赛上下半场、国家/球员名称及最终ROM电池冷读，诊断范围另记。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "提供者自测属于同一实现者证据，不等于独立QA；本轮维护未执行附件源码、未新增模拟器或真机运行测试。",
+                "自然友谊赛上下半场0比3、进球履历和菜单；58国家自然查看、1334国家队球员名称及1276赛前名称匹配按提供方记录保留。",
+                "SS招募/排行50项、换人字形与映射6行、公告21项为诊断验证；不代表自然招募成功、自然换人或全部边界通过。",
+                "杯赛存档源于较早自然首场0比7进度，由最终ROM重新保存并在独立冷进程保留1负7失球；不是最终ROM重新全程打完杯赛。",
+                "实机、联机、杯赛/SS全通、隐藏队伍解锁、自然获胜招募、自然换人及原生命名/重输/存读未验收；完整修改源码来源及本轮独立重建状态未知。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
+                  "sha256": "218dc8082e4998a29a4362dc2cb8cb931d8a816427559dca290c8cba318177ff",
+                  "bytes": 11003592,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-source-public.zip",
+                  "asset_id": 666511366,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
+                  "bound_audio_variant": "unchanged",
+                  "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
+                  "known_source_gaps_not_assumed_resolved": true
+                }
+              ],
+              "public_patch_asset": {
+                "name": "jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
+                "sha256": "a8eb974c1f6c821d1aa5f624113f72708eef4e220102ef915a1a910d64063273",
+                "bytes": 158282,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-patches-public.zip",
+                "asset_id": 666512068,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.0"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "jikkyou-world-soccer-pocket-2",
+                  "font": "native8-12px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+                  "target_rom_sha256": "f3ab9cda05b0dccbc241c792c28e4f506847aa5ea7b8b97db16f5badaf43fcc0",
+                  "screenshot_sha256": "6017f5c93609079901218e015fab8ac3b9da0946afb584e0db949674d6a8eec4",
+                  "screenshot_bytes": 197656,
+                  "path": "games/jikkyou-world-soccer-pocket-2/screenshots/6017f5c9360907990121.png",
+                  "caption": "v0.1.0 原生8px/12px混排普通字号最终ROM真实九宫格；9幅原生240×160画面像素一致。自然比赛/菜单/国家球员与诊断内容按提供方证据区分；不是独立大字版或全通验收。",
+                  "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_GBA_CAPTURE_GRID_WITH_NATURAL_DIAGNOSTIC_UNTESTED_BOUNDARIES",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "public_release_asset_id": 666512884,
+                  "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-2-v0.1.0/jikkyou-world-soccer-pocket-2-v0.1.0-native8-12px-nine-grid.png",
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false,
+                  "role": "MAIN_FINAL_ROM_NINE_GRID",
+                  "Root_actual_view_image_completed": true,
+                  "native_nine_frame_pixel_comparison_passed": true
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "36ca9d2eb03764d8375099661b694069ddb520e00d80e5e05a50ce48eefba01c"
+        }
+      ]
     },
     {
       "game_id": "kotobattle",
@@ -17234,74 +17702,152 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.0",
+          "version": "v0.1.1",
           "audio_variant": "unchanged",
-          "variant_id": "8px",
+          "variant_id": "8px:unchanged",
           "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
-          "output_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+          "output_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
           "output_bytes": 4194304,
-          "font_scope": "普通原生8px中文点阵；Fusion Pixel；艺术Logo/技术ASCII及原生假名等按交付实际范围保留。",
-          "scope": "普通8px中文测试版；提供者自然开场、原生命名、普通战斗及电池冷读记录，另含诊断菜单/地图/人物资料。",
+          "font_scope": "原生普通8px；无另行大字版；CGB原生彩色，非SGB验收。",
+          "scope": "原生普通8px限定修订：17字对白安全预算与右框属性，设置/BGM、石碑回血共享文本、教学独立卡名属性/读音/怪物名及战斗图形标签。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "九宫格1–5为自然路径、6–9为诊断入口，不能代表自然解锁或全收集；原厂日文艺术Logo及原生命名假名/字母保留；未全通、未实机、未成功联机；本维护未执行源码或新增运行测试。"
+            "原反馈玩家实际SHA未核；原石碑/回血/杂志交互自然到达未建立；不声称自然全流程。",
+            "新Issue136闪烁/保存短花屏与137标题残字未有连续帧专项验收，保持未确认。",
+            "全通/全部敌人/最长变量、实机、联机和全部外部历史SAV未测。"
           ],
           "public_source_assets": [
             {
-              "name": "kotobattle-v0.1.0-8px-source-public.zip",
-              "sha256": "7d4dd88263ac38c7db1cb4f5718055dc3d3ad42ef0a0f34e5839d89be71c7991",
-              "bytes": 995077,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-source-public.zip",
-              "asset_id": 666488558,
+              "name": "kotobattle-v0.1.1-8px-SOURCE-public-r02.zip",
+              "bytes": 12413243,
+              "sha256": "c8de50e4249a81f904392c3767994bc4605be7f42bbc99b9707f1096170264a2",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.1/kotobattle-v0.1.1-8px-SOURCE-public-r02.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 671108731,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
-              "source_rebuilt_this_export": false,
-              "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
-              "bound_audio_variant": "unchanged",
-              "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
-              "known_source_gaps_not_assumed_resolved": true
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "kotobattle-v0.1.0-8px-patches-public.zip",
-            "sha256": "de8aeba35eb254410f6ac093ef2b3c01b3c6a48270b819ca12367a39e2a57799",
-            "bytes": 110000,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-patches-public.zip",
-            "asset_id": 666503021,
+            "name": "kotobattle-v0.1.1-8px-PATCH-public.zip",
+            "bytes": 99187,
+            "sha256": "86452e8aca6bdc019c6fd4b71e9e285faf166ec3e26377422bc971900e7ed186",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.1/kotobattle-v0.1.1-8px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 671109158,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
           },
           "public_screenshots": [
             {
               "game_id": "kotobattle",
               "font": "8px",
-              "version": "v0.1.0",
+              "version": "v0.1.1",
               "audio_variant": "unchanged",
               "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
-              "target_rom_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
-              "screenshot_sha256": "1aa329d764669cc55f3faa3ae63c068062badabccfcd9ec670ee35793144bd11",
-              "screenshot_bytes": 90512,
-              "path": "games/kotobattle/screenshots/1aa329d764669cc55f3f.png",
-              "caption": "v0.1.0 普通8px最终ROM真实九宫格；1–5自然路径、6–9诊断入口，非全通/全收集；原生160×144像素。",
-              "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_CAPTURE_GRID_WITH_EXPLICIT_TEST_BOUNDARIES",
+              "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+              "screenshot_sha256": "bdd06fae97c921394e8dff5a798e1b6adb6cd253cb11d881bd50d1452aed8227",
+              "screenshot_bytes": 40353,
+              "path": "games/kotobattle/screenshots/kotobattle-v0.1.1-8px-nine-grid.png",
+              "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "public_release_asset_id": 666503564,
-              "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-nine-grid.png",
               "new_runtime_test_by_this_export": false,
-              "PNG_pixels_modified": false,
-              "role": "MAIN_FINAL_ROM_NINE_GRID",
-              "Root_actual_view_image_completed": true,
-              "native_nine_frame_pixel_comparison_passed": true
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/kotobattle/README.md",
-      "feedback": "games/kotobattle/feedback.md"
+      "feedback": "games/kotobattle/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.0",
+              "audio_variant": "unchanged",
+              "variant_id": "8px",
+              "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "output_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+              "output_bytes": 4194304,
+              "font_scope": "普通原生8px中文点阵；Fusion Pixel；艺术Logo/技术ASCII及原生假名等按交付实际范围保留。",
+              "scope": "普通8px中文测试版；提供者自然开场、原生命名、普通战斗及电池冷读记录，另含诊断菜单/地图/人物资料。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "九宫格1–5为自然路径、6–9为诊断入口，不能代表自然解锁或全收集；原厂日文艺术Logo及原生命名假名/字母保留；未全通、未实机、未成功联机；本维护未执行源码或新增运行测试。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "kotobattle-v0.1.0-8px-source-public.zip",
+                  "sha256": "7d4dd88263ac38c7db1cb4f5718055dc3d3ad42ef0a0f34e5839d89be71c7991",
+                  "bytes": 995077,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-source-public.zip",
+                  "asset_id": 666488558,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "MANUAL20261023_THREE_NEW_GAMES",
+                  "bound_audio_variant": "unchanged",
+                  "audio_binding_basis": "EXACT_ORIGINAL_INPUT_FONT_VERSION_OUTPUT_AND_PUBLIC_SOURCE_PACKAGE",
+                  "known_source_gaps_not_assumed_resolved": true
+                }
+              ],
+              "public_patch_asset": {
+                "name": "kotobattle-v0.1.0-8px-patches-public.zip",
+                "sha256": "de8aeba35eb254410f6ac093ef2b3c01b3c6a48270b819ca12367a39e2a57799",
+                "bytes": 110000,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-patches-public.zip",
+                "asset_id": 666503021,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.0"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "kotobattle",
+                  "font": "8px",
+                  "version": "v0.1.0",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+                  "target_rom_sha256": "fed6a5d68c22e7e69ec12908b0a168b359a2fcc987d2ecc741c179b07b0f0988",
+                  "screenshot_sha256": "1aa329d764669cc55f3faa3ae63c068062badabccfcd9ec670ee35793144bd11",
+                  "screenshot_bytes": 90512,
+                  "path": "games/kotobattle/screenshots/1aa329d764669cc55f3f.png",
+                  "caption": "v0.1.0 普通8px最终ROM真实九宫格；1–5自然路径、6–9诊断入口，非全通/全收集；原生160×144像素。",
+                  "evidence_classification": "PROVIDER_EXACT_FINAL_ROM_NATIVE_CAPTURE_GRID_WITH_EXPLICIT_TEST_BOUNDARIES",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "public_release_asset_id": 666503564,
+                  "public_release_asset_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.0/kotobattle-v0.1.0-8px-nine-grid.png",
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false,
+                  "role": "MAIN_FINAL_ROM_NINE_GRID",
+                  "Root_actual_view_image_completed": true,
+                  "native_nine_frame_pixel_comparison_passed": true
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T11:10:52.342724+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "432103e0dac6381d0b9165ab486b12b94e4d1095d01b828348e8046f6aa4b61c"
+        }
+      ]
     },
     {
       "game_id": "pocket-king",
@@ -19880,5 +20426,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
+  "last_incremental_update_at": "2026-10-24T11:10:52.342724+08:00"
 }

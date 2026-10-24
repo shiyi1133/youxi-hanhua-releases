@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 235,
-  "unique_PNG_file_count": 227,
+  "screenshot_binding_count": 242,
+  "unique_PNG_file_count": 234,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -5248,6 +5248,111 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "bokujou-monogatari-gb3",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "6f7453df659f9d11ac773d9d14cb9f4a5d7ef6333d2bfb5da873673fc1d4aa62",
+      "target_rom_sha256": "753a95c7c02e486da33612e6a5fb12b8ee8388d8099002b4d2aaaba2a7fc4df5",
+      "screenshot_sha256": "149dd0bbe6f221f27e5b2346e738434985ff7b3445d002de864123b4666d298d",
+      "screenshot_bytes": 23716,
+      "path": "games/bokujou-monogatari-gb3/screenshots/bokujou-monogatari-gb3-v0.1.1-8px-nine-grid.png",
+      "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "pokemon-prism",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+      "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+      "screenshot_sha256": "359fbfcbf1add96f4484d5e34a4859b0d0de98337ae77e57a5bf065dcb865608",
+      "screenshot_bytes": 50314,
+      "path": "games/pokemon-prism/screenshots/pokemon-prism-v0.1.1-8px-nine-grid.png",
+      "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "font": "12px",
+      "version": "v0.1.2",
+      "audio_variant": "unchanged",
+      "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+      "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+      "screenshot_sha256": "88d90dc3f46cfb51ff3fb4def865b7632afaf23376a28933960495a5630cefba",
+      "screenshot_bytes": 146480,
+      "path": "games/crayon-shin-chan-cinema-land-gba/screenshots/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-nine-grid.png",
+      "caption": "v0.1.2 原生普通12px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "kotobattle",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+      "screenshot_sha256": "bdd06fae97c921394e8dff5a798e1b6adb6cd253cb11d881bd50d1452aed8227",
+      "screenshot_bytes": 40353,
+      "path": "games/kotobattle/screenshots/kotobattle-v0.1.1-8px-nine-grid.png",
+      "caption": "v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket",
+      "font": "native-8-12px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+      "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+      "screenshot_sha256": "097ec375cc1c68051c1b68a20281e4713f6963f3b554bcc561de27bd63e76ec0",
+      "screenshot_bytes": 124822,
+      "path": "games/jikkyou-world-soccer-pocket/screenshots/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-nine-grid.png",
+      "caption": "提供方：40支球队名单、10地区初赛、菜单天气、比赛/暂停；首场国际杯日本0:5韩国完成并进入下场。 提供方：881姓名×2槽ABI与45×22静态覆盖；不是全部球队解锁/自然全流程。 九宫格逐格与提供方最终ROM原生帧像素一致。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "font": "native8-12px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+      "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+      "screenshot_sha256": "faf8ff1124ce60ade4c9586d37d1264ef08b561ff8a1d27abd0352ef9e3542dd",
+      "screenshot_bytes": 188373,
+      "path": "games/jikkyou-world-soccer-pocket-2/screenshots/jikkyou-world-soccer-pocket-2-v0.1.1-native8-12px-nine-grid.png",
+      "caption": "提供方：自然菜单、保存及有限比赛路径；图像/提示对应实际最终ROM。 提供方ABI入口与场景切换诊断按原证据保留；不等于所有杯赛或完整流程。 九宫格逐格与提供方最终ROM原生帧像素一致。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "font": "8px",
+      "version": "v0.1.1",
+      "audio_variant": "unchanged",
+      "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+      "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+      "screenshot_sha256": "a820ac3576915f70c48c0abf90d9bbee882b85207a5c28a77146b7a914231a72",
+      "screenshot_bytes": 35991,
+      "path": "games/castlevania-order-of-shadows-golden-belmont/screenshots/castlevania-order-of-shadows-golden-belmont-v0.1.1-8px-nine-grid.png",
+      "caption": "提供方：自然标题、前期移动攻击受伤死亡、对话及菜单；不包含自然到达保存点的证明。 提供方19项有界自测、672入口/402120像素诊断；房间/坐标设置后的教程、装备、商店、地图、保存与冷读为诊断场景。 九宫格逐格与提供方最终ROM原生帧像素一致。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -5734,5 +5839,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T02:22:41.038280+08:00"
+  "last_incremental_update_at": "2026-10-24T11:10:52.342724+08:00"
 }

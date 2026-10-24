@@ -1,38 +1,39 @@
-# 实况世界足球Pocket
+# 实况世界足球Pocket v0.1.1（限定测试版）
 
-原输入：Jikkyou World Soccer Pocket
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Jikkyou World Soccer Pocket
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| native-8-12px | v0.1.0 | unchanged | `567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad` |
+原输入完整SHA-256：`834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e`（8388608字节）。
 
-## 源码与补丁
+范围：v0.1.1限定测试：保留标题红色球及拖尾、原版权；姓名字库改走安全动态HUD区，补地区/暂停/规则/天气/联机等待等已定位文字。
 
-- native-8-12px／v0.1.0／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/jikkyou-world-soccer-pocket-current-source-b429c380dc8d-public-r01.zip)（ZIP SHA256 `7c1e573d03aa654da0b8ef453e6a399f75cf91c21711fa230b8f6a7df9501aa8`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/jikkyou-world-soccer-pocket-current-patches.zip)（ZIP SHA256 `49fe8a299771cb757bd2f625ee44cdbc6d0769a9dd908ebabf367e2111c13e44`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## native-8-12px v0.1.1
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。
 
-## 范围与验证边界
+目标完整SHA-256：`2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7`（8787784字节）。
 
-- native-8-12px／v0.1.0：普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。。
-  普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。
-  完整比赛结束、杯赛通关和带比赛进度的自然存档未验。
-  5支全明星队未自然解锁，非空射手榜/最强对手记录、深层地区杯赛及全部存档失败/损坏/满槽提示未验。
-  保留日语解说、部分英文事件图像及PLAYER/FORMATION和能力缩写；深层/异常界面可能仍有日文。
-  未发现原生命名入口，未新增命名功能；实机、联机及全部历史存档兼容未验。
+补丁：`soccer-pocket.zh-Hans.v0.1.1.native.bps`，SHA-256 `8e98bf67cdccd8ffbffbf960b5b8c291daf81460633abe84af323b36e1fb2c48`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-v0.1.1/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-SOURCE-public.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/jikkyou-world-soccer-pocket-v0.1.1/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-PATCH.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际九宫格](screenshots/jikkyou-world-soccer-pocket-v0.1.1-native-8-12px-nine-grid.png)
 
-## 对应版本截图
+提供方：40支球队名单、10地区初赛、菜单天气、比赛/暂停；首场国际杯日本0:5韩国完成并进入下场。 提供方：881姓名×2槽ABI与45×22静态覆盖；不是全部球队解锁/自然全流程。 九宫格逐格与提供方最终ROM原生帧像素一致。
 
-![版本 v0.1.0／native-8-12px／unchanged](screenshots/5ee2a3f1fd92f65a99fa.png)
+## 测试及限制
 
-v0.1.0 普通原生字号：主要菜单12px、密集界面及姓名8px；无独立大字版。 九宫格包含同一最终ROM的自然按键画面、同ROM检查点分支和初始0场杯赛新进程冷读；不代表完整比赛、带进度存档或通关。
+提供者自然路径：提供方：40支球队名单、10地区初赛、菜单天气、比赛/暂停；首场国际杯日本0:5韩国完成并进入下场。
 
-图像SHA256：`5ee2a3f1fd92f65a99fa62278058b6a58b3858406d455779acbe72ed46fd97c9`；绑定ROM SHA256：`567a80c8fbc1b56c0b003cec0f61a416dc5f0ecb60551dc6b86feced708552ad`。
+提供者诊断路径：提供方：881姓名×2槽ABI与45×22静态覆盖；不是全部球队解锁/自然全流程。
+
+保存边界：提供方：进度保存、覆盖取消及新进程电池存档冷读；本维护未新增运行。
+
+同一实现者自测，不是独立人员QA；维护未新增ROM运行或源码重建，未宣称实机或完整通关。
+
+- 未验证：未穷尽全赛事/全明星/隐藏队伍；实机及真实联机未验。
+- 未验证：日语语音、部分深层英文保留；未找到独立原生命名入口，不承诺任意中文输入。
+- 未验证：Issue120/124只按本版本已提供用例和范围判断，不据覆盖数自动关闭全部问题。
+- 核对补丁还原、资产完整SHA和截图字节不等于全部游戏功能验收。
 

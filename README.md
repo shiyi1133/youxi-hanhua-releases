@@ -11,8 +11,8 @@
 
 | 名称 | 当前版本 | 源码 | 补丁 |
 | --- | --- | --- | --- |
-| [实况世界足球Pocket 2](games/jikkyou-world-soccer-pocket-2/README.md) | native8-12px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
-| [Koto Battle 天外之守人](games/kotobattle/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [实况世界足球Pocket 2](games/jikkyou-world-soccer-pocket-2/README.md) | native8-12px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [Koto Battle 天外之守人](games/kotobattle/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [口袋国王](games/pocket-king/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [魔物之塔](games/azure-dreams/README.md) | 8px v1.0.9；10px v1.0.11 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [炸弹人GB3](games/bomberman-gb3/README.md) | 8px v1.0.2 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
@@ -89,7 +89,7 @@
 | [美少女战士](games/bishoujo-senshi-sailor-moon/README.md) | 8px v0.1.0限定验证测试版 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [牧场物语GB2](games/bokujou-monogatari-gb2/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [双截龙2（美国版）](games/double-dragon-2/README.md) | 8px v1.0.0测试版 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
-| [牧场物语GB3：男孩遇见女孩](games/bokujou-monogatari-gb3/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
+| [牧场物语GB3：男孩遇见女孩](games/bokujou-monogatari-gb3/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [巫术外传1：女王的受难](games/wizardry-gaiden-1/README.md) | 8px v0.1.1限定修复测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [四驱兄弟GB初代](games/mini-yonku-gb/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [格兰蒂亚：平行旅途](games/grandia-parallel-trippers/README.md) | 8px v0.1.3 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
@@ -127,7 +127,7 @@
 | [Space-Net 宇宙红版（暂译）](games/space-net-cosmo-red/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [玛丽的炼金工坊GB](games/marie-no-atelier-gb/README.md) | native12px-names8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [迷你高尔夫 Mobile Golf](games/mobile-golf/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
-| [蜡笔小新 电影乐园大冒险](games/crayon-shin-chan-cinema-land-gba/README.md) | 12px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [蜡笔小新 电影乐园大冒险](games/crayon-shin-chan-cinema-land-gba/README.md) | 12px v0.1.2限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [西风之口](games/zephyrs-pass/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [第一次接触协议](games/first-contact-protocol/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [旅馆S](games/hotel-s/README.md) | 8px v1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
@@ -139,14 +139,14 @@
 | [口袋黄：三主角改版](games/pokemon-yellow-three-protagonists/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [通灵王 超占事略决2](games/shaman-king-card-game-chou-senjiryakketsu-2/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [通灵王 超占事略决3](games/shaman-king-card-game-chou-senjiryakketsu-3/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
-| [恶魔城：暗影诅咒 黄金贝尔蒙特](games/castlevania-order-of-shadows-golden-belmont/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [恶魔城：暗影诅咒 黄金贝尔蒙特](games/castlevania-order-of-shadows-golden-belmont/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [德古拉黑暗统治](games/dracula-dark-reign/README.md) | 8px v0.1.1 unchanged | 有源码 1/1目标；完整性待核 | 1/1目标 |
-| [实况世界足球Pocket](games/jikkyou-world-soccer-pocket/README.md) | native-8-12px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [实况世界足球Pocket](games/jikkyou-world-soccer-pocket/README.md) | native-8-12px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [徽章战士 零件合集2](games/medarot-parts-collection-2/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [世界之诞生 复刻版](games/god-medicine-fukkokuban/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [徽章战士3 锹形虫版](games/medarot-3-kuwagata/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [徽章战士 零件合集1](games/medarot-parts-collection-1/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
-| [宝可梦棱镜](games/pokemon-prism/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [宝可梦棱镜](games/pokemon-prism/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [塞尔达月升之歌](games/zelda-moonrise-regalia/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [徽章战士4 锹形虫版](games/medarot-4-kuwagata/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [真女神转生 卡牌召唤师](games/shin-megami-tensei-card-summoner/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |

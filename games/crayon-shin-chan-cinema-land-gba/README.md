@@ -1,35 +1,39 @@
-# 蜡笔小新 电影乐园大冒险
+# 蜡笔小新 电影乐园大冒险 v0.1.2（限定测试版）
 
-原输入：KURESHIN2004（提供原件头部标题）
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：KURESHIN2004（提供原件头部标题）
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 12px | v0.1.0 | unchanged | `14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e` |
+原输入完整SHA-256：`68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a`（16777216字节）。
 
-## 源码与补丁
+范围：原生普通12px限定修复测试版；保留v011 VRAM LZ77和共享标签修正，v012纠正结构误当文本指针的引用并验event36。
 
-- 12px／v0.1.0／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/crayon-shin-chan-cinema-land-gba-current-scope-source-public-r01.zip)（ZIP SHA256 `494ad7b025cf1f1fdc6263b6c4035571e142c75538c85651e9ab62d4b8cd811c`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/crayon-shin-chan-cinema-land-gba-current-patches.zip)（ZIP SHA256 `27e0070c7148f5fa16843b56e8dbca03dd1cbecc765c2fc173a89a23143b2f5d`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 12px v0.1.2
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：原生普通12px；无另行大字版；GBA原生彩色。
 
-## 范围与验证边界
+目标完整SHA-256：`d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b`（33554432字节）。
 
-- 12px／v0.1.0：普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。。
-  普通原尺寸12px正文，汉字12px步进；原8×16列存储，无另制大字版。
-  自然游戏存读未达到；EEPROM仅协议诊断；少量无法识别图中微字仍保留；未全通、未验证全部后期场景或实机。
+补丁：`CrayonCinema_zhCN_v0.1.2.bps`，SHA-256 `99cb77c40590f7006d9213014cedf1a6680c9f7f94c9dfe64920123721fd53a2`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/crayon-shin-chan-cinema-land-gba-v0.1.2/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-SOURCE-public-r02.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/crayon-shin-chan-cinema-land-gba-v0.1.2/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-PATCH-public.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际九宫格](screenshots/crayon-shin-chan-cinema-land-gba-v0.1.2-12px-nine-grid.png)
 
-## 对应版本截图
+v0.1.2 原生普通12px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。
 
-![版本 v0.1.0／12px／unchanged](screenshots/39b32375393c5e549e73.png)
+## 测试及限制
 
-9格均为提供方报告的自然冷启动按键路线；独立原生单帧PNG未随附件提供。；对应 v0.1.0 12px 最终ROM。
+提供者自然路径：提供者自然冷启动按键：健康提示、标题、主菜单、难度、开局入口、剧情、街道、道具与衣装菜单。
 
-图像SHA256：`39b32375393c5e549e73453684325079c2caeee7c955083a6a862a9d4229b367`；绑定ROM SHA256：`14d99ee5a66abf33ec85939560fe48f86e8bf0588ec73a431a3e7b78b5f61f9e`。
+提供者诊断路径：收藏数量/拥有位、46资源VRAM解压和event36原生过场选择为明确诊断；EEPROM协议测试不等于自然进度存读。
+
+保存边界：提供者自测与诊断按上述边界区分；维护未运行ROM/源码，建议先备份存档、跨版本不用即时状态。
+
+同一实现者自测，不是独立人员QA；维护未新增ROM运行或源码重建，未宣称实机或完整通关。
+
+- 未验证：Issue107仅event36原生引擎诊断完成与原件对照，未证明玩家未知版本/原自然路线全部触发已解决。
+- 未验证：Issue126家人菜单及底部提示自然摆放未验收；仍有open_inventory细字/附属标签未完成。
+- 未验证：未自然达到进度保存/读档、全通或实机。
+- 核对补丁还原、资产完整SHA和截图字节不等于全部游戏功能验收。
 

@@ -367,8 +367,8 @@
         "mini-yonku-gb"
       ],
       "summary": "购初始车辆后两张全身图上方名称一辆仅显示“蛇”、另一辆空白。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1",
       "reported_font": "8px",
@@ -381,7 +381,117 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+          "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+        ],
+        "remaining": [
+          "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-6969c5ef348cf4d0",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+            "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+          ],
+          "remaining": [
+            "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-6969c5ef348cf4d0",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     },
     {
       "public_case_key": "case-d89d628b639f1435",
@@ -390,8 +500,8 @@
         "mini-yonku-gb"
       ],
       "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -443,7 +553,121 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+          "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+          "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+        ],
+        "remaining": [
+          "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+          "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-ef215518e85b0e53",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+            "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+            "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+          ],
+          "remaining": [
+            "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+            "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-ef215518e85b0e53",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     }
   ],
   "problems": [
@@ -503,7 +727,7 @@
         "mini-yonku-gb"
       ],
       "summary": "购初始车辆后两张全身图上方名称一辆仅显示“蛇”、另一辆空白。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-65192b03d46ef48b"
@@ -514,7 +738,118 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+          "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+        ],
+        "remaining": [
+          "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-6969c5ef348cf4d0",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+            "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+          ],
+          "remaining": [
+            "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-6969c5ef348cf4d0",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-ef215518e85b0e53",
@@ -522,8 +857,8 @@
         "mini-yonku-gb"
       ],
       "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
-      "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-d89d628b639f1435"
@@ -534,7 +869,121 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+          "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+          "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+        ],
+        "remaining": [
+          "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+          "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-ef215518e85b0e53",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+            "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+            "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+          ],
+          "remaining": [
+            "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+            "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-ef215518e85b0e53",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -569,7 +1018,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",

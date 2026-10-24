@@ -2,8 +2,8 @@
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
   "problem_count": 136,
-  "open_pure_BUG_count": 48,
-  "open_requests_or_other_count": 19,
+  "open_pure_BUG_count": 44,
+  "open_requests_or_other_count": 18,
   "open_classification_unconfirmed_count": 39,
   "problems": [
     {
@@ -1662,7 +1662,7 @@
         "tokimeki-memorial-pocket-culture"
       ],
       "summary": "多位玩家称非主角姓名后原有引号或间隔符号框被去掉。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-f1fff43df66ca1c8"
@@ -1678,7 +1678,118 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.5",
+        "font": "native8px-12px",
+        "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+        "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+        "affected_game_ids": [
+          "tokimeki-memorial-pocket-culture"
+        ],
+        "target_scope_sha256": "10bc890f05b7bcebc7dfd9e1411ef2d5a1af8c1ba7f076eb245b58d8269c4c3b",
+        "verified_current_targets": [
+          {
+            "game_id": "tokimeki-memorial-pocket-culture",
+            "localized_game_name": "心跳回忆Pocket：文化篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+            "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+          }
+        ],
+        "covered": [
+          "文化篇16122条主文本的原生首部2F标志逐条对原件核对，额外/缺失均为0；恢复NPC姓名后的原生开引号，保留主角显式引号、内心/系统/选项及原控制语义。",
+          "最终ROM文化篇NPC对白为同ROM自然检查点继续及只读断点观察；不是写入RAM替换文字。"
+        ],
+        "remaining": [
+          "仅关闭NPC说话人开引号缺失这一定位范围；不含#87偷看洗澡事件或#101成绩名单姓名漏译，不代表全部姓名/对白或全路线验收。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-6c4e274e6733b343",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5",
+        "public_releases": {
+          "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.5",
+          "font": "native8px-12px",
+          "input_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+          "affected_game_ids": [
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "target_scope_sha256": "10bc890f05b7bcebc7dfd9e1411ef2d5a1af8c1ba7f076eb245b58d8269c4c3b",
+          "verified_current_targets": [
+            {
+              "game_id": "tokimeki-memorial-pocket-culture",
+              "localized_game_name": "心跳回忆Pocket：文化篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+              "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+            }
+          ],
+          "covered": [
+            "文化篇16122条主文本的原生首部2F标志逐条对原件核对，额外/缺失均为0；恢复NPC姓名后的原生开引号，保留主角显式引号、内心/系统/选项及原控制语义。",
+            "最终ROM文化篇NPC对白为同ROM自然检查点继续及只读断点观察；不是写入RAM替换文字。"
+          ],
+          "remaining": [
+            "仅关闭NPC说话人开引号缺失这一定位范围；不含#87偷看洗澡事件或#101成绩名单姓名漏译，不代表全部姓名/对白或全路线验收。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-6c4e274e6733b343",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5",
+          "public_releases": {
+            "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-64c46af8adc62f1d",
@@ -1884,7 +1995,7 @@
         "mini-yonku-gb"
       ],
       "summary": "购初始车辆后两张全身图上方名称一辆仅显示“蛇”、另一辆空白。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-65192b03d46ef48b"
@@ -1895,7 +2006,118 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+          "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+        ],
+        "remaining": [
+          "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-6969c5ef348cf4d0",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "12个车型名称按原生裁切矩形定位，修复全身图上方只剩蛇、600或缺字。",
+            "维护独立逐像素核对12张原生消费者截图与最终ROM字体；五种初期车辆为提供方自然按键路线，其余为明确诊断入口。"
+          ],
+          "remaining": [
+            "未声称全部车辆自然解锁、全流程或实机通过；玩家实际ROM完整哈希仍未知。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-6969c5ef348cf4d0",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-57793ff8d482c097",
@@ -2531,8 +2753,8 @@
         "tokimeki-memorial-pocket-sport"
       ],
       "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
-      "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d233260d5c6055f4"
@@ -2543,7 +2765,147 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.5",
+        "font": "native8px-12px",
+        "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+        "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+        "affected_game_ids": [
+          "tokimeki-memorial-pocket-sport",
+          "tokimeki-memorial-pocket-culture"
+        ],
+        "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+        "verified_current_targets": [
+          {
+            "game_id": "tokimeki-memorial-pocket-sport",
+            "localized_game_name": "心跳回忆Pocket：运动篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+            "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+          },
+          {
+            "game_id": "tokimeki-memorial-pocket-culture",
+            "localized_game_name": "心跳回忆Pocket：文化篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+            "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+          }
+        ],
+        "covered": [
+          "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+          "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+        ],
+        "remaining": [
+          "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+          "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-93293400b9815d8a",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+        "public_releases": {
+          "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.5",
+          "font": "native8px-12px",
+          "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+          "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+          "affected_game_ids": [
+            "tokimeki-memorial-pocket-sport",
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+          "verified_current_targets": [
+            {
+              "game_id": "tokimeki-memorial-pocket-sport",
+              "localized_game_name": "心跳回忆Pocket：运动篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+              "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+            },
+            {
+              "game_id": "tokimeki-memorial-pocket-culture",
+              "localized_game_name": "心跳回忆Pocket：文化篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+              "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+            }
+          ],
+          "covered": [
+            "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+            "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+          ],
+          "remaining": [
+            "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+            "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-93293400b9815d8a",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "public_releases": {
+            "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+            "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-a8ffd7bc25258b4f",
@@ -3582,8 +3944,8 @@
         "mini-yonku-gb"
       ],
       "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
-      "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-d89d628b639f1435"
@@ -3594,7 +3956,121 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "8px",
+        "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+        "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+        "affected_game_ids": [
+          "mini-yonku-gb"
+        ],
+        "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+        "verified_current_targets": [
+          {
+            "game_id": "mini-yonku-gb",
+            "localized_game_name": "四驱兄弟GB初代",
+            "version": "v0.1.2",
+            "font": "8px",
+            "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+            "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+            "target_bytes": 524288,
+            "release_tag": "mini-yonku-gb-v0.1.2",
+            "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+            "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+          }
+        ],
+        "covered": [
+          "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+          "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+          "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+        ],
+        "remaining": [
+          "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+          "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+        ],
+        "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-ef215518e85b0e53",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+        "public_releases": {
+          "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "8px",
+          "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+          "affected_game_ids": [
+            "mini-yonku-gb"
+          ],
+          "target_scope_sha256": "6cbba53b960c4c059f03ed9dedae0ec96c29df3697371103eb859919e45fe0fa",
+          "verified_current_targets": [
+            {
+              "game_id": "mini-yonku-gb",
+              "localized_game_name": "四驱兄弟GB初代",
+              "version": "v0.1.2",
+              "font": "8px",
+              "original_rom_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "target_bytes": 524288,
+              "release_tag": "mini-yonku-gb-v0.1.2",
+              "screenshot_asset_name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0"
+            }
+          ],
+          "covered": [
+            "配件预览补齐20格行并保留队列终止符；旧v0.1.1 ID35实际trace出现315次错误MBC写入，最终v0.1.2为零且有10个真实packet。",
+            "撤销覆盖原生精灵目录的误补丁，168项指针与原件逐字节一致；白银前杠分支及18个空槽类别标签修正。",
+            "空前杠槽与29种前杠受控ID后正常选择、取消、重入；30份trace均非空完成，最终截图展示完整车辆与列表。"
+          ],
+          "remaining": [
+            "报告ROM文件名、版本和字号未提供，玩家实际输入输出完整SHA未知。",
+            "原反馈静图不能证明持续卡死；本次仅关闭已复现配件预览/列表用例，不声称所有hang根因、同一玩家设备、自然高级配件购买或实机验收。"
+          ],
+          "evidence_boundary": "提供方同一实施者的最终SGB/DMG运行记录；维护独立核BPS、ROM资产、截图字形和trace字节，并实际查看旧/新图；维护未新增运行或重建。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-ef215518e85b0e53",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+          "public_releases": {
+            "mini-yonku-gb": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-f667e766b4693537",
@@ -4554,15 +5030,127 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+      "state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.3",
+        "font": "8px",
+        "input_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+        "target_rom_sha256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b",
+        "affected_game_ids": [
+          "oni-v"
+        ],
+        "target_scope_sha256": "71c28d522f0f1b6c4ccd7cc8d21519483cd23dd1c90caae79e661d1f2ced0804",
+        "verified_current_targets": [
+          {
+            "game_id": "oni-v",
+            "localized_game_name": "ONIⅤ隐忍继承者",
+            "version": "v0.1.3",
+            "font": "8px",
+            "original_rom_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+            "target_rom_sha256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b",
+            "target_bytes": 524288,
+            "release_tag": "oni-v-v0.1.3",
+            "screenshot_asset_name": "oni-v-v0.1.3-8px-nine-grid.png",
+            "screenshot_sha256": "b99bc0f30ea3986774739ceab441646b089376dc70af0b24a7b7eee84cd2fee2"
+          }
+        ],
+        "covered": [
+          "角色状态总览短中文姓名旁地图图块残留：精确原版/旧v0.1.2/新v0.1.3使用同类原生初始化器受控队伍对照，旧版四人残留可复现，原版同夹具及新版已核状态窗口无残留。",
+          "最终版SGB二/三/四人及DMG二人的状态、法术、特技共用角色列表空白区、成员选择、详情、关闭还原及重入由提供者受控诊断核对。"
+        ],
+        "remaining": [
+          "队员由原生初始化器构造后放入正常电池冷读会话，不是自然取得后期队员；第四物品/技能目标消费者仅静态关联，未穷尽触发。",
+          "#36普遍拖慢和#88其它界面问题不随本次关闭；交付通知依用户要求继续保持hold，不主动回帖。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：默认黄金丸、杨咩咩重复/删除重输、80格键盘、原生第六字与取消重进；首战、正常保存及新进程仅电池冷读；只读字体/缓存观察器零失败。；提供者使用原生初始化器构造额外队员后置入正常电池冷读会话；精确v0.1.2受控四人状态残留可复现、原版同夹具无残留，v0.1.3 SGB二/三/四人与DMG二人的状态/法术/特技列表空白、选择、关闭还原及重入通过。商店与职员表/结尾均原生处理器诊断入口，不是自然到店或通关。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-befe5d8fbf657a65",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-v-v0.1.3",
+        "public_releases": {
+          "oni-v": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-v-v0.1.3"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.3",
+          "font": "8px",
+          "input_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "target_rom_sha256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b",
+          "affected_game_ids": [
+            "oni-v"
+          ],
+          "target_scope_sha256": "71c28d522f0f1b6c4ccd7cc8d21519483cd23dd1c90caae79e661d1f2ced0804",
+          "verified_current_targets": [
+            {
+              "game_id": "oni-v",
+              "localized_game_name": "ONIⅤ隐忍继承者",
+              "version": "v0.1.3",
+              "font": "8px",
+              "original_rom_sha256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+              "target_rom_sha256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b",
+              "target_bytes": 524288,
+              "release_tag": "oni-v-v0.1.3",
+              "screenshot_asset_name": "oni-v-v0.1.3-8px-nine-grid.png",
+              "screenshot_sha256": "b99bc0f30ea3986774739ceab441646b089376dc70af0b24a7b7eee84cd2fee2"
+            }
+          ],
+          "covered": [
+            "角色状态总览短中文姓名旁地图图块残留：精确原版/旧v0.1.2/新v0.1.3使用同类原生初始化器受控队伍对照，旧版四人残留可复现，原版同夹具及新版已核状态窗口无残留。",
+            "最终版SGB二/三/四人及DMG二人的状态、法术、特技共用角色列表空白区、成员选择、详情、关闭还原及重入由提供者受控诊断核对。"
+          ],
+          "remaining": [
+            "队员由原生初始化器构造后放入正常电池冷读会话，不是自然取得后期队员；第四物品/技能目标消费者仅静态关联，未穷尽触发。",
+            "#36普遍拖慢和#88其它界面问题不随本次关闭；交付通知依用户要求继续保持hold，不主动回帖。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者自然按键自测：默认黄金丸、杨咩咩重复/删除重输、80格键盘、原生第六字与取消重进；首战、正常保存及新进程仅电池冷读；只读字体/缓存观察器零失败。；提供者使用原生初始化器构造额外队员后置入正常电池冷读会话；精确v0.1.2受控四人状态残留可复现、原版同夹具无残留，v0.1.3 SGB二/三/四人与DMG二人的状态/法术/特技列表空白、选择、关闭还原及重入通过。商店与职员表/结尾均原生处理器诊断入口，不是自然到店或通关。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-befe5d8fbf657a65",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-v-v0.1.3",
+          "public_releases": {
+            "oni-v": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-v-v0.1.3"
+          }
+        }
+      ]
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-25T00:33:58.920799+08:00",
+  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

@@ -66,8 +66,8 @@
         "tokimeki-memorial-pocket-sport"
       ],
       "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.1（同源图1两作标题）",
       "reported_font": "原生字号；未独立提供字体文件身份",
@@ -83,7 +83,146 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.5",
+        "font": "native8px-12px",
+        "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+        "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+        "affected_game_ids": [
+          "tokimeki-memorial-pocket-sport",
+          "tokimeki-memorial-pocket-culture"
+        ],
+        "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+        "verified_current_targets": [
+          {
+            "game_id": "tokimeki-memorial-pocket-sport",
+            "localized_game_name": "心跳回忆Pocket：运动篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+            "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+          },
+          {
+            "game_id": "tokimeki-memorial-pocket-culture",
+            "localized_game_name": "心跳回忆Pocket：文化篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+            "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+          }
+        ],
+        "covered": [
+          "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+          "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+        ],
+        "remaining": [
+          "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+          "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-93293400b9815d8a",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+        "public_releases": {
+          "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.5",
+          "font": "native8px-12px",
+          "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+          "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+          "affected_game_ids": [
+            "tokimeki-memorial-pocket-sport",
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+          "verified_current_targets": [
+            {
+              "game_id": "tokimeki-memorial-pocket-sport",
+              "localized_game_name": "心跳回忆Pocket：运动篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+              "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+            },
+            {
+              "game_id": "tokimeki-memorial-pocket-culture",
+              "localized_game_name": "心跳回忆Pocket：文化篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+              "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+            }
+          ],
+          "covered": [
+            "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+            "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+          ],
+          "remaining": [
+            "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+            "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-93293400b9815d8a",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "public_releases": {
+            "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+            "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+          }
+        }
+      ]
     }
   ],
   "problems": [
@@ -94,8 +233,8 @@
         "tokimeki-memorial-pocket-sport"
       ],
       "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
-      "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d233260d5c6055f4"
@@ -106,7 +245,147 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.5",
+        "font": "native8px-12px",
+        "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+        "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+        "affected_game_ids": [
+          "tokimeki-memorial-pocket-sport",
+          "tokimeki-memorial-pocket-culture"
+        ],
+        "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+        "verified_current_targets": [
+          {
+            "game_id": "tokimeki-memorial-pocket-sport",
+            "localized_game_name": "心跳回忆Pocket：运动篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+            "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+          },
+          {
+            "game_id": "tokimeki-memorial-pocket-culture",
+            "localized_game_name": "心跳回忆Pocket：文化篇",
+            "version": "v0.1.5",
+            "font": "native8px-12px",
+            "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+            "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+            "target_bytes": 8388608,
+            "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+            "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+            "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+          }
+        ],
+        "covered": [
+          "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+          "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+        ],
+        "remaining": [
+          "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+          "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+        ],
+        "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+        "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+        "Git_repair_release_full_SHA_verified": true,
+        "netdisk_pending": true,
+        "cloud_success_claimed": false,
+        "forum_delivery_notification_sent": false,
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+        "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+        "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+        "public_problem_key": "problem-93293400b9815d8a",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+        "public_releases": {
+          "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+        }
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.5",
+          "font": "native8px-12px",
+          "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+          "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+          "affected_game_ids": [
+            "tokimeki-memorial-pocket-sport",
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "target_scope_sha256": "c3bbe055de79c8bf1009861688e603bb0eccf053782d773972bda600c496a881",
+          "verified_current_targets": [
+            {
+              "game_id": "tokimeki-memorial-pocket-sport",
+              "localized_game_name": "心跳回忆Pocket：运动篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+              "target_rom_sha256": "31a5c2a8e6c17e419ad51d8e3de75ee327fa2551423427de11fdea17278aaa18",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-sport-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-sport-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "758902b41850319cf5842df21feb23f20b40378425e0a0e1b198b5805b79b797"
+            },
+            {
+              "game_id": "tokimeki-memorial-pocket-culture",
+              "localized_game_name": "心跳回忆Pocket：文化篇",
+              "version": "v0.1.5",
+              "font": "native8px-12px",
+              "original_rom_sha256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+              "target_rom_sha256": "c4ce17b9d475519e941b4ca8cf11f707f89427802c22da6df22804a3ed7b3660",
+              "target_bytes": 8388608,
+              "release_tag": "tokimeki-memorial-pocket-culture-v0.1.5",
+              "screenshot_asset_name": "tokimeki-memorial-pocket-culture-v0.1.5-native8px-12px-nine-grid.png",
+              "screenshot_sha256": "6abf466ecd7ec1591222bafabc1b9247c129fba3c39cc3ee8dfe2207df6cc3c5"
+            }
+          ],
+          "covered": [
+            "体育篇、文化篇各16张屏保人物话语资源均已处理；最终v0.1.5在CGB/SGB分别用原生消费者选择角色/背景诊断呈现，VRAM图块SHA与编译资源一致，实际逐图原帧已核。",
+            "自然等待约五分钟进入默认无文字小熊屏保并按键退出另有证据，不把它混称16角色话语自然解锁。"
+          ],
+          "remaining": [
+            "16人物页为原生消费者诊断，不是所有角色自然解锁；本版未自然重跑Select主动激活全部入口。",
+            "仅按原单日文人物话语资源覆盖范围关闭，不称所有屏保触发路线、全作、全通或实机验收。"
+          ],
+          "evidence_boundary": "提供者同一实施者自然/受控自测与净重建回执；维护仅独立静态、BPS全字节还原、原帧/网格像素核验，未执行附件源码、未重建或新增ROM运行。提供者CGB及原生SGB标题左右选择/Start转场、标题原生开发菜单未选项目进退、中文命名重复/删除重输、正常保存和新进程仅电池冷读；正常指令菜单约五分钟待机进入早期无字小熊，再正常按键退出。；16角色气泡逐项为同一最终ROM的原生屏保消费者诊断：测试进程指定角色/背景，核VRAM字图及截图；不是自然解锁16人物。部分对白、语音及保存上下文沿同ROM状态续测；敬称/优美分支为原生解释器重定向诊断。",
+          "delivery_boundary": "GIT_ONLY_REPAIR_PUBLISHED_NETDISK_PENDING",
+          "Git_repair_release_full_SHA_verified": true,
+          "netdisk_pending": true,
+          "cloud_success_claimed": false,
+          "forum_delivery_notification_sent": false,
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "af8d91920f2e59fc0f7ec432f824e53cbca666e51ff15ae20413fc9c077898e3",
+          "approved_bounded_plan_sha256": "b76badcc28c8f6abc369d6041b0656c83b65cb61f5d2b80d3f83d291c779a338",
+          "recorded_at": "2026-10-25T01:23:29.458310+08:00",
+          "public_problem_key": "problem-93293400b9815d8a",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+          "public_releases": {
+            "tokimeki-memorial-pocket-sport": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.5",
+            "tokimeki-memorial-pocket-culture": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-culture-v0.1.5"
+          }
+        }
+      ]
     },
     {
       "public_problem_key": "problem-a8ffd7bc25258b4f",
@@ -158,7 +437,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T17:41:09.301120+08:00",
+  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
   "version_update_notices": [
     {
       "public_version_reply_key": "version-reply-7d7fb3bcbc46d5322cd9",

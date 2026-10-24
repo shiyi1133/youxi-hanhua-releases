@@ -1,9 +1,9 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "problem_count": 132,
-  "open_pure_BUG_count": 47,
-  "open_requests_or_other_count": 18,
+  "problem_count": 136,
+  "open_pure_BUG_count": 50,
+  "open_requests_or_other_count": 19,
   "open_classification_unconfirmed_count": 39,
   "problems": [
     {
@@ -674,7 +674,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-63a908948eb64951",
@@ -710,7 +710,10 @@
         "11092365551|154062915836",
         "11092365551|154062922078",
         "11092365551|154062937675",
-        "11092365551|154063905648"
+        "11092365551|154063905648",
+        "11092365551|154065524006",
+        "11092365551|154065538172",
+        "11092365551|154065541954"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -840,7 +843,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-24T16:50:34.737550+08:00"
     },
     {
       "public_problem_key": "problem-ffdad8416300591b",
@@ -1147,7 +1151,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-24T16:50:35.511464+08:00"
     },
     {
       "public_problem_key": "problem-cafda2d8b2adc429",
@@ -2900,7 +2905,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
@@ -2908,7 +2913,9 @@
       "public_feedback_keys": [
         "11092365551|154060891225",
         "11092365551|154060968332",
-        "11092365551|154063811817"
+        "11092365551|154063811817",
+        "11092365551|154065777243",
+        "11092365551|154065827377"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -3700,13 +3707,14 @@
       ],
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "state": "open",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f538ad1870af685"
       ],
       "public_feedback_keys": [
-        "11092365551|154064717870"
+        "11092365551|154064717870",
+        "11092365551|154064883516"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -3991,13 +3999,94 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "[覆盖反馈] ONIⅢ v0.1.1普通8px：商店、寺庙、地名牌及字速范例残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-42c0e1b0364ecfcf"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154065566924"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+    },
+    {
+      "public_problem_key": "problem-50b68d3495a8eeeb",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[BUG待复现] 沙加1 v1.0.1：开头选人界面按B键死机",
+      "classification": "BUG",
+      "case_keys": [
+        "case-b3a9661ac8ee91ef"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154065039552"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+    },
+    {
+      "public_problem_key": "problem-7d7cc4ceff8a2112",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.1普通8px：召唤卡片中央显示乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-bc19149acfc05aff"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154065823943",
+        "11092365551|154065825247"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+    },
+    {
+      "public_problem_key": "problem-befe5d8fbf657a65",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+      "classification": "BUG",
+      "case_keys": [
+        "case-3905cfde82fe4a9c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154065523182"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-24T15:35:39.633387+08:00",
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

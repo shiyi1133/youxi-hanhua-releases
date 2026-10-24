@@ -4,7 +4,7 @@
 
 [问题索引](problems.json) · [反馈范围](cases.json) · [公开原话](public-quotes.json) · [已公开答复](acknowledgements.json)。
 
-已导出 527 条公开原话、168 个反馈范围和 132 个去重问题。开放纯BUG 47 项，建议/覆盖等 18 项，分类待核 39 项；各问题保留各自实际检查时间，本次3项见下方限定修复进展，开放不表示正在修复。
+已导出 540 条公开原话、172 个反馈范围和 136 个去重问题。开放纯BUG 50 项，建议/覆盖等 19 项，分类待核 39 项；各问题保留各自实际检查时间，本次只同步实际关联范围。
 
 开放不等于正在修复，关闭不代表所有场景验收。实际玩家SHA未知时保持未知。公开Issue需逐项审核创建，这些记录不声称已创建公开Issue。
 
@@ -35,3 +35,9 @@
 ## 2026-10-24 已发布版本限定修复状态
 
 实际核对3项源问题的版本修复回执：1项按原单定位范围关闭（其中1项纯BUG、0项覆盖需求），2项部分完成并保持开放。当前公开台账开放纯BUG 47 项，建议/覆盖等 18 项；其余问题保留各自原检查时间。原反馈、图片和收件答复未变；关闭限定用例不代表全流程或实机验收。
+
+## 20261024-1615 增量
+
+同步7项实际登记（3个新问题，含2个纯BUG和1个覆盖问题；4条既有问题补充）、2项既有关闭状态核对、13条公开原话及23张原始JPEG。保留Prism既有大字号需求，另登记4条实际公开收件答复和1条炸弹人GB2排队说明；不作为新ROM、修复完成或已开始汉化。
+
+本轮页面：[炸弹人GB2（排队待汉化）](../games/bomberman-gb2/feedback.md)、[Koto Battle 天外之守人](../games/kotobattle/feedback.md)、[女神转生外传：最后的圣经Ⅱ（黑白GB版）](../games/last-bible-ii-gb/feedback.md)、[ONIⅢ黑之破坏神](../games/oni-iii/feedback.md)、[ONIⅤ隐忍继承者](../games/oni-v/feedback.md)、[宝可梦棱镜](../games/pokemon-prism/feedback.md)、[波永的迷宫2](../games/poyon-dungeon-2/feedback.md)、[沙加1／魔界塔士](../games/saga-1/feedback.md)、[放课后冒险RPG](../games/soul-getter/feedback.md)、[极限运动](../games/xtreme-sports/feedback.md)。

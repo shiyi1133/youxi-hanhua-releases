@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 527,
+  "count": 540,
   "rows": [
     {
       "tid": "11092365551",
@@ -11361,9 +11361,420 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154064883516",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064883516#154064883516",
+      "created_at": "2026-10-24T06:23:11+08:00",
+      "quote": "是女神转生二代0.1.0的8px版",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "dc54234f0ef7dd0ab843a6e1818ed370079740b3199023abcde7133ec87b5eaf",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065039552",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065039552#154065039552",
+      "created_at": "2026-10-24T08:14:47+08:00",
+      "quote": "再汇报一条，全部3个1.0.1版本，在开头选人界面时，按B键会死机，",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "dde3cb410a4f5be07a2a83622e07ea4bf2c2ce20fd18ec3ce27090c58afdc960",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4df719385343fbf2bbbe1224f67eca8064388f56.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/f50efdce091f8951f0b3.jpg",
+          "SHA256_of_archived_preview": "f50efdce091f8951f0b317228583c02120326881c6ed63e562c14c9dd63f04a5",
+          "archived_bytes": 718976,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065314689",
+      "parent_pid": "154063269936",
+      "floor": 235,
+      "public_nickname": "SABER吾之王",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065314689#154065314689",
+      "created_at": "2026-10-24T10:09:36+08:00",
+      "quote": "大佬，我这个是GB2，和你网盘里的GB3不一样哦",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "b282b3e508970dc19fa1236f2eedfc3f9af5e0aaad625f03a8dd80536a741a79",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065523182",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065523182#154065523182",
+      "created_at": "2026-10-24T11:23:05+08:00",
+      "quote": "每次都会出现",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e0dcf5013579fc5936dfc8f877e29e2a089071c432164bf9d4ac6889a6efefc0",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065524006",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065524006#154065524006",
+      "created_at": "2026-10-24T11:23:23+08:00",
+      "quote": "8px 0.1.4，仓库（初始村庄左上1房间，图1）中取出或者卖出道具的界面，物品名称显示错乱。比如文字显示位置错乱或溢出，图3、图5；再比如物品名称显示错误，图2、图4的“豆沙”应为“木盾”等",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "142e3fc8dfff6f53bab22747fc2db437dec385a830e56dc4a676ad3b6c325c09",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0129b0014a90f603da352a407f12b31bb151ed58.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e31135e52b54f45baa62.jpg",
+          "SHA256_of_archived_preview": "e31135e52b54f45baa621da9f1718c9a7995fd3650ef340e32ab7f3c8d75a346",
+          "archived_bytes": 196980,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b1583387e950352ac5e5930f1543fbf2b3118b58.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/cee55d35e91d8d294009.jpg",
+          "SHA256_of_archived_preview": "cee55d35e91d8d2940099309d3507b2b4c138ad4ca3e0c7d6ec74b2464d0a0a0",
+          "archived_bytes": 163971,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/be81cf5c10385343fd4b3126d513b07ecb808858.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/fa728f6e04b428bf8599.jpg",
+          "SHA256_of_archived_preview": "fa728f6e04b428bf85990107e14051ed70e9d3ff23a0b02c8efe0fb822060fa7",
+          "archived_bytes": 176199,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f772841001e9390101863b393dec54e737d19658.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/ded8f203d595e65a6268.jpg",
+          "SHA256_of_archived_preview": "ded8f203d595e65a6268a070027755f21b97758fea279596a91ad39cb3299877",
+          "archived_bytes": 165897,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3bd5c38065380cd79c9a14eae744ad3458828158.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/a7c3717399e10535b555.jpg",
+          "SHA256_of_archived_preview": "a7c3717399e10535b555b5993e1b132121e40738a317700dfaaf5114c611a56d",
+          "archived_bytes": 177039,
+          "image_index": 5,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b36b516adeae5cc7cd98c109d58.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/328f4e1ed6598bbc13e3.jpg",
+          "SHA256_of_archived_preview": "328f4e1ed6598bbc13e39537333ecb4e2cb5e48809709f50cb0c95e12d894d18",
+          "archived_bytes": 172231,
+          "image_index": 6,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef7609538f2f9868dda3cc7dd99e58.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/a68bd1c01cc85119f0ba.jpg",
+          "SHA256_of_archived_preview": "a68bd1c01cc85119f0ba580ec7b9decb01ee19b731fa313756fc1a564d77f4d9",
+          "archived_bytes": 176977,
+          "image_index": 7,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065538172",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065538172#154065538172",
+      "created_at": "2026-10-24T11:28:25+08:00",
+      "quote": "8px 0.1.4，第二大关进入迷宫时，迷宫的标题页面下方的日文未翻译（图2）",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "00fce2599b0dd6e4bdf96c85cd1494d4a5d24f8afec35913ae5da18e51706f6e",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5b0905f431adcbef61dbc801eaaf2edda2cc9f71.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/54cb5751a2a12e82f8da.jpg",
+          "SHA256_of_archived_preview": "54cb5751a2a12e82f8da07a67d232ab7e5aa75734f5c5c17cd504ffd8057d8e1",
+          "archived_bytes": 192291,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/391cd9a20cf431addd3df53e0d36acaf2fdd9871.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/17e7733f1251174c592f.jpg",
+          "SHA256_of_archived_preview": "17e7733f1251174c592f9683dd2d0bbcf072ca4bd92dae9c23ac2960cc2a0c63",
+          "archived_bytes": 178603,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065541954",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065541954#154065541954",
+      "created_at": "2026-10-24T11:29:47+08:00",
+      "quote": "8px 0.1.4，获得的召唤兽名字，全都显示错误",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "11c010cacf2167328987c2bf0dee78a085353e846170790728f4ab612d944d6b",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/81edfb1fbe096b631cf2e8574a338744eaf8ac7e.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/7bbf04e5a350a0b4be34.jpg",
+          "SHA256_of_archived_preview": "7bbf04e5a350a0b4be3478426a393a2638d73b3e53d5aeb7ef0102c69fe5d543",
+          "archived_bytes": 183106,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065566924",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065566924#154065566924",
+      "created_at": "2026-10-24T11:38:46+08:00",
+      "quote": "來反饋下oni3，版本號ONI-III-v0.1.1-8px。1.商店購買介面的買賣離開未漢化。2.寺廟寄存介面未漢化。3.所有村鎮口的地名立牌文字未漢化。4.調整字速介面範例文字未漢化且快普通慢的普通兩字間距過遠較不美觀。 目前剛推到第二章，菜單跟戰鬥速度比四代好非常多，體驗舒服。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "668671b1d325920331427448f5362775907c02ea9ed2c9629b1011355cc76758",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0e9eecdde71190ef582024d8881b9d16fcfa600d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b649bd053b892b74bdaf.jpg",
+          "SHA256_of_archived_preview": "b649bd053b892b74bdaf8e86821e0704ff26b79023f47ccee22681dddae66429",
+          "archived_bytes": 1517456,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac2134954092398b2d579d458d109b2de490d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/784342805c036f160fc8.jpg",
+          "SHA256_of_archived_preview": "784342805c036f160fc8ccf2e346ba6afbf6b84d3c1ea01519a66e11ce56fa26",
+          "archived_bytes": 1479524,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b2aa283fb80e7bec7701b5e6692eb9389a506b0d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/4d87563179f960c6b8a2.jpg",
+          "SHA256_of_archived_preview": "4d87563179f960c6b8a283edf4385337f4db0b283ff5a7f50a678aad06e5ecf7",
+          "archived_bytes": 1454153,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0ba110d8bc3eb135611c01bce01ea8d3fc1f440d.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/02d3758fc996905b2505.jpg",
+          "SHA256_of_archived_preview": "02d3758fc996905b2505c5c3cdc46d6fbf18a49c77c37b61a49db2876311d259",
+          "archived_bytes": 1578227,
+          "image_index": 4,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065711779",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065711779#154065711779",
+      "created_at": "2026-10-24T12:29:45+08:00",
+      "quote": "看到新版本出来了，求个10px",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8c1094a8b5bdee1dbb7e54a1fdb72eef5af6caba8e9986b0af92ff936f35fca3",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065777243",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065777243#154065777243",
+      "created_at": "2026-10-24T12:53:16+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 新Rom：0936 - Kotobattle (JP) [ZH v0.1.1 8px].gbc 测试，与老师新手教程对战完，找右上角房间老者对话未翻译，要出村时宠物的对话与教学页面均存在未翻译情况",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f4d33b8babc25997c6f30285860cbf238a34483ca31f9c6967f6e6d97ff49148",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/77a89b45d688d43ff54d20f53b1ed21b0ff43b78.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/385391fd2a20d6d723be.jpg",
+          "SHA256_of_archived_preview": "385391fd2a20d6d723be8b4314e40f94b41a705d8662f16664e213a379d05687",
+          "archived_bytes": 186780,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2f69741ed21b0ef46c0c29599bc451da80cb3e78.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/6ec71421ca0132c379c6.jpg",
+          "SHA256_of_archived_preview": "6ec71421ca0132c379c61b1b81addab94b17ae1a0cae2b2410290d406d4f09bd",
+          "archived_bytes": 224774,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4357cacec3fdfc03fd9c52bf923f8794a5c22678.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/d585833046613c72c157.jpg",
+          "SHA256_of_archived_preview": "d585833046613c72c157f96f0f2f97407f2c2cdba2977c5031874a9d8aad61d0",
+          "archived_bytes": 193392,
+          "image_index": 3,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065823943",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065823943#154065823943",
+      "created_at": "2026-10-24T13:09:41+08:00",
+      "quote": "对比了一下日文版的，召唤时的卡片，日文卡片的中间是文字，而汉化版的中间是乱码，先发日文的",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4b00bd573aeb53ed0fe0bddddd348fa35e2985eb4405ffc2ec7a838c2ff22b93",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbee4d7728f8096b63f624a82b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/e5072982c95224550298.jpg",
+          "SHA256_of_archived_preview": "e5072982c952245502984e987ad955d4aad0b31f24c0c518a740b465af3dfb05",
+          "archived_bytes": 184337,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/79b4b7096b63f624826b8904c144ebf81a4ca32b.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/d71e21c820c29e57e4a7.jpg",
+          "SHA256_of_archived_preview": "d71e21c820c29e57e4a731171648b37300f757915496eb8389558cbfc3c1c55a",
+          "archived_bytes": 186043,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065825247",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065825247#154065825247",
+      "created_at": "2026-10-24T13:10:09+08:00",
+      "quote": "然后中文的，中间的乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2ad117f25272c5cecabb9b39ea32ecbef910d09c4091769a7d1e7c0eb95827b6",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/949be024b899a901f307eb315b950a7b0208f537.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/43ae797fda4ae7fa40df.jpg",
+          "SHA256_of_archived_preview": "43ae797fda4ae7fa40dfc582e1719577e808b80171d3e0e02fc9dc71b21d31d2",
+          "archived_bytes": 149343,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e97bfe03918fa0ecd9f5d40a609759ee3d6ddb37.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/b0e74db848b0b40275b9.jpg",
+          "SHA256_of_archived_preview": "b0e74db848b0b40275b9b348ce3424bcb6ec27477fa1f437c043220253b805ec",
+          "archived_bytes": 142302,
+          "image_index": 2,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065827377",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065827377#154065827377",
+      "created_at": "2026-10-24T13:10:54+08:00",
+      "quote": "开局与言灵的对话存在日文",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "356b2152b50b92a6769a44fa76af78f3013c670d2bf500aa69c4e746b6762dfa",
+      "omission_notice": null,
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/32b9c1fcc3cec3fd911117729088d43f87942731.jpg",
+          "classification": "PLAYER_PUBLIC_FEEDBACK_IMAGE_NOT_FINAL_ROM_RUNTIME_PROOF",
+          "archived_public_path": "feedback/images/7062b28066a44580f0b4.jpg",
+          "SHA256_of_archived_preview": "7062b28066a44580f0b462ebd2b5edd19403c53e72c6bc4c61c7f0bf41d74dbb",
+          "archived_bytes": 194061,
+          "image_index": 1,
+          "original_bytes_unmodified": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00"
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00"
 }

@@ -109,7 +109,7 @@
       ],
       "summary": "放课后冒险：10px v0.9.0局部对白残日文；混合大小字先区分既有范围",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-24T16:50:34.737550+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "10px v0.9.0",
       "reported_font": "10px",
@@ -123,7 +123,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261024-1615|metadata-closed|problem-23c885afd21fd56f",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-24T16:50:34.737550+08:00",
+          "actual_closed_at": "2026-10-18T03:44:42Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_status_and_feedback_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-5d18817a84d0581e",
@@ -170,7 +185,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-24T16:50:34.737550+08:00"
     },
     {
       "public_problem_key": "problem-7de6b80f6a01ddfe",
@@ -196,5 +212,23 @@
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [],
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "scoped_public_feedback_events": [],
+  "metadata_state_alignment_history": [
+    {
+      "public_update_key": "20261024-1615|metadata-closed|problem-23c885afd21fd56f",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-24T16:50:34.737550+08:00",
+      "actual_closed_at": "2026-10-18T03:44:42Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_status_and_feedback_preserved": true
+    }
+  ]
 }

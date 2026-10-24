@@ -184,7 +184,7 @@
       ],
       "summary": "[待核版本与复现] 极限运动：8px v0.9.1空姓名直接确认后对白使用Guppi，选择画面使用古比",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-24T16:50:35.511464+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.9.1",
       "reported_font": "8px",
@@ -197,7 +197,22 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "metadata_state_alignment_history": [
+        {
+          "public_update_key": "20261024-1615|metadata-closed|problem-137705b4eea6fb42",
+          "game_ids": [
+            "xtreme-sports"
+          ],
+          "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+          "state": "closed",
+          "actual_state_checked_at": "2026-10-24T16:50:35.511464+08:00",
+          "actual_closed_at": "2026-10-18T03:25:51Z",
+          "new_API_close": false,
+          "new_fix_or_acceptance_claim": false,
+          "legacy_status_and_feedback_preserved": true
+        }
+      ]
     },
     {
       "public_case_key": "case-4fc1b958aac9569b",
@@ -373,10 +388,29 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-24T16:50:35.511464+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [],
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "scoped_public_feedback_events": [],
+  "metadata_state_alignment_history": [
+    {
+      "public_update_key": "20261024-1615|metadata-closed|problem-137705b4eea6fb42",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-24T16:50:35.511464+08:00",
+      "actual_closed_at": "2026-10-18T03:25:51Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_status_and_feedback_preserved": true
+    }
+  ]
 }

@@ -4915,8 +4915,153 @@
       "SDK_precise_nested_notification_claimed": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-7e3abe077bca6b8a",
+      "game_id": "bomberman-gb2",
+      "game_ids": [
+        "bomberman-gb2"
+      ],
+      "kind": "ORIGINAL_ARCHIVED_QUEUE_INFORMATION",
+      "source_feedback_keys": [
+        "11092365551|154065314689"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154063269936",
+      "floor": 235,
+      "pid": "154066494565",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066494565#154066494565",
+      "text": "@SABER吾之王 《炸弹人GB2》已单独登记，原件已归档，目前排队待汉化，和GB3分开。",
+      "text_sha256": "4f9ec7a482691f5b723d001cfc961e2c8ce88578d969690a2c66e68239f6eeaf",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:04:57.384734+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true
+    },
+    {
+      "public_reply_key": "reply-285f98c31418ebae",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154065777243",
+        "11092365551|154065823943",
+        "11092365551|154065825247",
+        "11092365551|154065827377"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154066493166",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066493166#154066493166",
+      "text": "@醒着做梦ლ v0.1.1普通8px的老者、出村教学和开局言灵对白漏译，以及召唤卡片中央乱码已一起记录，后续排查。",
+      "text_sha256": "8294ab0552a04ad5df0a40499dfd3a57c59f912657e299db524b088d734ec983",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:04:29.979662+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-9c145b3a908d1544",
+      "game_id": "oni-iii",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154065566924"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "pid": "154066491011",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066491011#154066491011",
+      "text": "@吉他手阿室 v0.1.1普通8px的商店、寺庙寄存、地名牌和字速范例漏译已记录，“普通”字距建议也记下了，后续排查。",
+      "text_sha256": "4ca352852fdd68b6426916a368dadbd9e55281a50b41dd7dcf579cee78d87704",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:03:59.438756+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-eee7bdb43eb254ae",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154065524006",
+        "11092365551|154065538172",
+        "11092365551|154065541954"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154066489145",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066489145#154066489145",
+      "text": "@球总好学 v0.1.4普通8px的仓库名称/位置异常、第二关迷宫标题日文和召唤名异常已一起记录，后续排查。",
+      "text_sha256": "7521c46fc36c37106446378a52d747e91c1d4a1154dbbdd79099d6dab6b165d8",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:03:21.772550+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
+    },
+    {
+      "public_reply_key": "reply-f3ae66c4f421f851",
+      "game_id": "saga-1",
+      "game_ids": [
+        "saga-1"
+      ],
+      "kind": "BUG_ACKNOWLEDGEMENT",
+      "source_feedback_keys": [
+        "11092365551|154065039552"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154024581332",
+      "floor": 48,
+      "pid": "154066487634",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066487634#154066487634",
+      "text": "@♬肚皮吸碗🎶 v1.0.1开头选人界面按B键死机已记录，后续排查。",
+      "text_sha256": "fac9f1caa592193c7aa8bb04b96a90b1bd46a1d37b0b8ea7fdad3113b8e5b845",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:02:41.852972+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false
     }
   ],
-  "row_count": 67,
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00"
+  "row_count": 72,
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00"
 }

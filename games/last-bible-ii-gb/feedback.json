@@ -196,6 +196,21 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154064883516",
+      "parent_pid": "154052582417",
+      "floor": 177,
+      "public_nickname": "炽天火3",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154064883516#154064883516",
+      "created_at": "2026-10-24T06:23:11+08:00",
+      "quote": "是女神转生二代0.1.0的8px版",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "dc54234f0ef7dd0ab843a6e1818ed370079740b3199023abcde7133ec87b5eaf",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -208,7 +223,8 @@
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "classification": "BUG",
       "public_feedback_keys": [
-        "11092365551|154064717870"
+        "11092365551|154064717870",
+        "11092365551|154064883516"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -218,8 +234,8 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
-      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",
@@ -259,6 +275,47 @@
           "black_and_white_GB_not_GBC": true,
           "player_actual_version_and_font_unconfirmed": true,
           "current_release_only_a_reference_not_player_identity": true
+        },
+        {
+          "public_update_key": "20261024-1615|last-bible-II-GB-v010-font-clarification",
+          "game_ids": [
+            "last-bible-ii-gb"
+          ],
+          "summary": "最后的圣经Ⅱ黑白GB版：旧报告明确v0.1.0普通8px",
+          "feedback_summary": "玩家已答为“女神转生二代0.1.0的8px版”。这是黑白GB last-bible-ii-gb 的旧v0.1.0报告，和GBC last-bible-ii普通/大字完全区分。将必要版本/字号信息补#138；玩家实际文件完整输入/输出SHA仍未知。当前v0.1.1已实际交付且通知PID154066304798，本次不重发、不宣称旧报告已在新版复现，也不把部分修复写成全部关闭。",
+          "source_feedback_keys": [
+            "11092365551|154064883516"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+          "reported_version": "v0.1.0",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "last-bible-ii-gb",
+              "original_input_SHA256": "f0e3a5f918e65dc089e3cbc3d70cb49863b1ff59ac9e3c7013381887d238d746",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": "unchanged",
+                  "version": "v0.1.1",
+                  "output_SHA256": "64e2d29f04111434656ad7eac82e890ef4dbd3a5836f234bac343b79fc98e4e4"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "black_and_white_GB_not_GBC": true,
+          "version_and_font_answered": true,
+          "player_actual_version_and_font_unconfirmed": false,
+          "actual_ROM_filename": null,
+          "current_v011_delivery_not_repeated": true
         }
       ],
       "fixed": false,
@@ -329,13 +386,14 @@
       ],
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "state": "open",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f538ad1870af685"
       ],
       "public_feedback_keys": [
-        "11092365551|154064717870"
+        "11092365551|154064717870",
+        "11092365551|154064883516"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -401,7 +459,7 @@
       ]
     }
   ],
-  "last_incremental_update_at": "2026-10-24T15:35:39.633387+08:00",
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",
@@ -419,6 +477,26 @@
       "actual_player_input_sha256": null,
       "actual_player_output_sha256": null,
       "maintainer_ROM_runtime": false,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|last-bible-II-GB-v010-font-clarification",
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "最后的圣经Ⅱ黑白GB版：旧报告明确v0.1.0普通8px",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154064883516"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
       "reproduced": false,
       "fixed": false,
       "public_Issue_created": false,

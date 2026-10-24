@@ -245,6 +245,21 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154065523182",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "Duyes",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065523182#154065523182",
+      "created_at": "2026-10-24T11:23:05+08:00",
+      "quote": "每次都会出现",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e0dcf5013579fc5936dfc8f877e29e2a089071c432164bf9d4ac6889a6efefc0",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -356,6 +371,70 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_case_key": "case-3905cfde82fe4a9c",
+      "public_problem_key": "problem-befe5d8fbf657a65",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+      "classification": "BUG",
+      "public_feedback_keys": [
+        "11092365551|154065523182"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261024-1615|oni5-status-corruption-frequency",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+          "feedback_summary": "Duyes本条答复原状态画面问题的频率追问，是ONIⅤ的#106，不是同层ONIⅣ反馈。保留“每次都会出现”这一实际回答；未得到的新触发步骤或玩家完整ROM SHA不虚构，已回答频率不重复询问。不据频率陈述宣称维护复现或修复。",
+          "source_feedback_keys": [
+            "11092365551|154065523182"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+          "reported_version": "v0.1.2（既有#106上下文）",
+          "reported_font": "普通8px（既有报告关联）",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "published_hash_references_not_player_identity": [
+            {
+              "game_id": "oni-v",
+              "original_input_SHA256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+              "targets": [
+                {
+                  "font": "8px",
+                  "audio_variant": null,
+                  "version": "v0.1.2限定测试版",
+                  "output_SHA256": "80d68a27cc91f8f398d8913787af22d2ecaa619951e6c9f03138f80d77c2f94b"
+                }
+              ],
+              "reference_not_player_identity": true
+            }
+          ],
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "reported_frequency": "每次都会出现",
+          "frequency_answered": true,
+          "opening_trigger_steps_still_unknown": true,
+          "additional_question_sent": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -451,9 +530,53 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+    },
+    {
+      "public_problem_key": "problem-befe5d8fbf657a65",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+      "classification": "BUG",
+      "case_keys": [
+        "case-3905cfde82fe4a9c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154065523182"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [],
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_event_key": "20261024-1615|oni5-status-corruption-frequency",
+      "public_case_key": "case-3905cfde82fe4a9c",
+      "public_problem_key": "problem-befe5d8fbf657a65",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154065523182"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ]
 }

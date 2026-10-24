@@ -1,0 +1,62 @@
+{
+  "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
+  "game_id": "bomberman-gb2",
+  "game_name": "炸弹人GB2（排队待汉化）",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154065314689",
+      "parent_pid": "154063269936",
+      "floor": 235,
+      "public_nickname": "SABER吾之王",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154065314689#154065314689",
+      "created_at": "2026-10-24T10:09:36+08:00",
+      "quote": "大佬，我这个是GB2，和你网盘里的GB3不一样哦",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "b282b3e508970dc19fa1236f2eedfc3f9af5e0aaad625f03a8dd80536a741a79",
+      "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [],
+  "problems": [],
+  "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
+  "private_issue_bodies_copied": false,
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-7e3abe077bca6b8a",
+      "game_id": "bomberman-gb2",
+      "game_ids": [
+        "bomberman-gb2"
+      ],
+      "kind": "ORIGINAL_ARCHIVED_QUEUE_INFORMATION",
+      "source_feedback_keys": [
+        "11092365551|154065314689"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154063269936",
+      "floor": 235,
+      "pid": "154066494565",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154066494565#154066494565",
+      "text": "@SABER吾之王 《炸弹人GB2》已单独登记，原件已归档，目前排队待汉化，和GB3分开。",
+      "text_sha256": "4f9ec7a482691f5b723d001cfc961e2c8ce88578d969690a2c66e68239f6eeaf",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-24T17:04:57.384734+08:00",
+      "actual_public_reply_to_id": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true
+    }
+  ],
+  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "scoped_public_feedback_events": [],
+  "delivery_status": "UNTRANSLATED_ORIGINAL_ARCHIVED_QUEUED",
+  "new_ROM_delivery": false,
+  "translation_started": false
+}

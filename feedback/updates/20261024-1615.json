@@ -1,0 +1,429 @@
+{
+  "schema": "public13sources23JPEG7registrations4ACK1TEXT_feedback_increment_v1",
+  "bindings": {
+    "immutable_private_bindings_sha256": "ff0c2ceeb45d0cc96aa1f993866f17fc94e7b9ee8cbe3daf20fadb671b266b9b",
+    "registered_plan_sha256": "dd290b5f1344995caba4dca5dc75425dcfa824eb3c37bdd0509b40d735a9a041",
+    "registration_receipt_sha256": "1425dcee67a0c635ecabd50d55122c30f4c73716916578e4fd7704db87a67843",
+    "reply_receipts_sha256": "a0250a06a506cbe3b9f0eb0b97b9e292e81fd418fa3659ce3ee1dfa1a02cb9dc",
+    "public_source_rows_sha256": "9fc64f25de398e5f8bf2e65f435853a624e380ade9230bf0727b7fa07683099a",
+    "player_image_bindings_sha256": "7a316197451210ee2511515aadd50dc36be4f118ef411d1b016aa80d864adb94"
+  },
+  "generated_at": "2026-10-24T17:17:27.152534+08:00",
+  "source_PIDs": [
+    "154064883516",
+    "154065039552",
+    "154065314689",
+    "154065523182",
+    "154065524006",
+    "154065538172",
+    "154065541954",
+    "154065566924",
+    "154065711779",
+    "154065777243",
+    "154065823943",
+    "154065825247",
+    "154065827377"
+  ],
+  "public_source_quotes": 13,
+  "original_image_positions": 23,
+  "distinct_original_JPEGs": 23,
+  "actual_API_registration_events": 7,
+  "new_private_source_problems": 3,
+  "new_private_pure_bug_problems": 2,
+  "new_private_coverage_problems": 1,
+  "existing_private_source_problem_supplements": 4,
+  "previously_unmirrored_existing_private_problems": 1,
+  "metadata_only_already_closed_alignments": 2,
+  "actual_public_ACKs": 4,
+  "actual_public_information_replies": 1,
+  "affected_game_pages": 10,
+  "public_events": [
+    {
+      "public_event_key": "20261024-1615|saga1-opening-selection-B-freeze",
+      "public_case_key": "case-b3a9661ac8ee91ef",
+      "public_problem_key": "problem-50b68d3495a8eeeb",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "[BUG待复现] 沙加1 v1.0.1：开头选人界面按B键死机",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154065039552"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|oni3-four-untranslated-UI-consumers",
+      "public_case_key": "case-42c0e1b0364ecfcf",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "[覆盖反馈] ONIⅢ v0.1.1普通8px：商店、寺庙、地名牌及字速范例残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154065566924"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|koto-summon-card-center-corruption",
+      "public_case_key": "case-bc19149acfc05aff",
+      "public_problem_key": "problem-7d7cc4ceff8a2112",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "[BUG待复现] Koto Battle v0.1.1普通8px：召唤卡片中央显示乱码",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154065823943",
+        "11092365551|154065825247"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|poyon2-v014-warehouse-title-summon-followup",
+      "public_case_key": "case-63a908948eb64951",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2 v0.1.4普通8px：仓库名称错位、迷宫标题日文及召唤名续证据",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154065524006",
+        "11092365551|154065538172",
+        "11092365551|154065541954"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|koto-v011-additional-Japanese",
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle v0.1.1普通8px：村中老者、出村教学与开局言灵对白日文",
+      "classification": "REQUEST_OR_OTHER",
+      "source_feedback_keys": [
+        "11092365551|154065777243",
+        "11092365551|154065827377"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|oni5-status-corruption-frequency",
+      "public_case_key": "case-3905cfde82fe4a9c",
+      "public_problem_key": "problem-befe5d8fbf657a65",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ v0.1.2：人物状态花屏频率补充“每次都会出现”",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154065523182"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    },
+    {
+      "public_event_key": "20261024-1615|last-bible-II-GB-v010-font-clarification",
+      "public_case_key": "case-6f538ad1870af685",
+      "public_problem_key": "problem-7c6eed6fdcb6f19c",
+      "game_ids": [
+        "last-bible-ii-gb"
+      ],
+      "summary": "最后的圣经Ⅱ黑白GB版：旧报告明确v0.1.0普通8px",
+      "classification": "BUG",
+      "source_feedback_keys": [
+        "11092365551|154064883516"
+      ],
+      "state": "open",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "reproduced": false,
+      "fixed": false,
+      "public_Issue_created": false,
+      "source_api_body_copied": false
+    }
+  ],
+  "metadata_state_alignments": [
+    {
+      "public_update_key": "20261024-1615|metadata-closed|problem-23c885afd21fd56f",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-24T16:50:34.737550+08:00",
+      "actual_closed_at": "2026-10-18T03:44:42Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_status_and_feedback_preserved": true
+    },
+    {
+      "public_update_key": "20261024-1615|metadata-closed|problem-137705b4eea6fb42",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "kind": "ALREADY_CLOSED_API_METADATA_ALIGNMENT",
+      "state": "closed",
+      "actual_state_checked_at": "2026-10-24T16:50:35.511464+08:00",
+      "actual_closed_at": "2026-10-18T03:25:51Z",
+      "new_API_close": false,
+      "new_fix_or_acceptance_claim": false,
+      "legacy_status_and_feedback_preserved": true
+    }
+  ],
+  "player_image_bindings": [
+    {
+      "source_pid": "154065039552",
+      "image_index": 1,
+      "path": "feedback/images/f50efdce091f8951f0b3.jpg",
+      "sha256": "f50efdce091f8951f0b317228583c02120326881c6ed63e562c14c9dd63f04a5",
+      "bytes": 718976,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 1,
+      "path": "feedback/images/e31135e52b54f45baa62.jpg",
+      "sha256": "e31135e52b54f45baa621da9f1718c9a7995fd3650ef340e32ab7f3c8d75a346",
+      "bytes": 196980,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 2,
+      "path": "feedback/images/cee55d35e91d8d294009.jpg",
+      "sha256": "cee55d35e91d8d2940099309d3507b2b4c138ad4ca3e0c7d6ec74b2464d0a0a0",
+      "bytes": 163971,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 3,
+      "path": "feedback/images/fa728f6e04b428bf8599.jpg",
+      "sha256": "fa728f6e04b428bf85990107e14051ed70e9d3ff23a0b02c8efe0fb822060fa7",
+      "bytes": 176199,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 4,
+      "path": "feedback/images/ded8f203d595e65a6268.jpg",
+      "sha256": "ded8f203d595e65a6268a070027755f21b97758fea279596a91ad39cb3299877",
+      "bytes": 165897,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 5,
+      "path": "feedback/images/a7c3717399e10535b555.jpg",
+      "sha256": "a7c3717399e10535b555b5993e1b132121e40738a317700dfaaf5114c611a56d",
+      "bytes": 177039,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 6,
+      "path": "feedback/images/328f4e1ed6598bbc13e3.jpg",
+      "sha256": "328f4e1ed6598bbc13e39537333ecb4e2cb5e48809709f50cb0c95e12d894d18",
+      "bytes": 172231,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065524006",
+      "image_index": 7,
+      "path": "feedback/images/a68bd1c01cc85119f0ba.jpg",
+      "sha256": "a68bd1c01cc85119f0ba580ec7b9decb01ee19b731fa313756fc1a564d77f4d9",
+      "bytes": 176977,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065538172",
+      "image_index": 1,
+      "path": "feedback/images/54cb5751a2a12e82f8da.jpg",
+      "sha256": "54cb5751a2a12e82f8da07a67d232ab7e5aa75734f5c5c17cd504ffd8057d8e1",
+      "bytes": 192291,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065538172",
+      "image_index": 2,
+      "path": "feedback/images/17e7733f1251174c592f.jpg",
+      "sha256": "17e7733f1251174c592f9683dd2d0bbcf072ca4bd92dae9c23ac2960cc2a0c63",
+      "bytes": 178603,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065541954",
+      "image_index": 1,
+      "path": "feedback/images/7bbf04e5a350a0b4be34.jpg",
+      "sha256": "7bbf04e5a350a0b4be3478426a393a2638d73b3e53d5aeb7ef0102c69fe5d543",
+      "bytes": 183106,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065566924",
+      "image_index": 1,
+      "path": "feedback/images/b649bd053b892b74bdaf.jpg",
+      "sha256": "b649bd053b892b74bdaf8e86821e0704ff26b79023f47ccee22681dddae66429",
+      "bytes": 1517456,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065566924",
+      "image_index": 2,
+      "path": "feedback/images/784342805c036f160fc8.jpg",
+      "sha256": "784342805c036f160fc8ccf2e346ba6afbf6b84d3c1ea01519a66e11ce56fa26",
+      "bytes": 1479524,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065566924",
+      "image_index": 3,
+      "path": "feedback/images/4d87563179f960c6b8a2.jpg",
+      "sha256": "4d87563179f960c6b8a283edf4385337f4db0b283ff5a7f50a678aad06e5ecf7",
+      "bytes": 1454153,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065566924",
+      "image_index": 4,
+      "path": "feedback/images/02d3758fc996905b2505.jpg",
+      "sha256": "02d3758fc996905b2505c5c3cdc46d6fbf18a49c77c37b61a49db2876311d259",
+      "bytes": 1578227,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065777243",
+      "image_index": 1,
+      "path": "feedback/images/385391fd2a20d6d723be.jpg",
+      "sha256": "385391fd2a20d6d723be8b4314e40f94b41a705d8662f16664e213a379d05687",
+      "bytes": 186780,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065777243",
+      "image_index": 2,
+      "path": "feedback/images/6ec71421ca0132c379c6.jpg",
+      "sha256": "6ec71421ca0132c379c61b1b81addab94b17ae1a0cae2b2410290d406d4f09bd",
+      "bytes": 224774,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065777243",
+      "image_index": 3,
+      "path": "feedback/images/d585833046613c72c157.jpg",
+      "sha256": "d585833046613c72c157f96f0f2f97407f2c2cdba2977c5031874a9d8aad61d0",
+      "bytes": 193392,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065823943",
+      "image_index": 1,
+      "path": "feedback/images/e5072982c95224550298.jpg",
+      "sha256": "e5072982c952245502984e987ad955d4aad0b31f24c0c518a740b465af3dfb05",
+      "bytes": 184337,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065823943",
+      "image_index": 2,
+      "path": "feedback/images/d71e21c820c29e57e4a7.jpg",
+      "sha256": "d71e21c820c29e57e4a731171648b37300f757915496eb8389558cbfc3c1c55a",
+      "bytes": 186043,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065825247",
+      "image_index": 1,
+      "path": "feedback/images/43ae797fda4ae7fa40df.jpg",
+      "sha256": "43ae797fda4ae7fa40dfc582e1719577e808b80171d3e0e02fc9dc71b21d31d2",
+      "bytes": 149343,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065825247",
+      "image_index": 2,
+      "path": "feedback/images/b0e74db848b0b40275b9.jpg",
+      "sha256": "b0e74db848b0b40275b9b348ce3424bcb6ec27477fa1f437c043220253b805ec",
+      "bytes": 142302,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    },
+    {
+      "source_pid": "154065827377",
+      "image_index": 1,
+      "path": "feedback/images/7062b28066a44580f0b4.jpg",
+      "sha256": "7062b28066a44580f0b462ebd2b5edd19403c53e72c6bc4c61c7f0bf41d74dbb",
+      "bytes": 194061,
+      "original_bytes_unmodified": true,
+      "classification": "PLAYER_STATIC_IMAGE_NOT_MAINTAINER_RUNTIME_PROOF"
+    }
+  ],
+  "public_Issues_created": 0,
+  "private_API_bodies_copied": false,
+  "ROM_Source_patch_Release_version_or_counter_changes": 0,
+  "images_are_player_evidence_not_ROM_runtime_proof": true,
+  "maintainer_runtime_tests": 0,
+  "Source_executions": 0
+}

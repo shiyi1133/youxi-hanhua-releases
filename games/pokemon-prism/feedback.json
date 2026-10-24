@@ -136,8 +136,8 @@
         "pokemon-prism"
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -155,7 +155,7 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false,
+      "fixed": true,
       "reported_ROM_filename_literal": "Pokemon Prism v0.95.0254.zh-Hans.v0.1.0.8px.gbc",
       "filename_information_answered": true,
       "public_information_updates": [
@@ -169,6 +169,61 @@
           "actual_player_output_sha256": null,
           "filename_only_not_full_ROM_identity_verification": true
         }
+      ],
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "两块69号道路原生交互旧版异常/新版返回；七显式页眉入口修正、139翻译路牌开关诊断。"
+        ],
+        "remaining": [
+          "玩家实际字节未知、未自然走完整砍树路线；不能称玩家复测或全通。"
+        ],
+        "evidence_boundary": "精确地图定位用原生warp后正常保存；冷进程Continue、普通转向/A交互。精确消费者覆盖充分可作为限定修复关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b616e97afe94fd0b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "两块69号道路原生交互旧版异常/新版返回；七显式页眉入口修正、139翻译路牌开关诊断。"
+          ],
+          "remaining": [
+            "玩家实际字节未知、未自然走完整砍树路线；不能称玩家复测或全通。"
+          ],
+          "evidence_boundary": "精确地图定位用原生warp后正常保存；冷进程Continue、普通转向/A交互。精确消费者覆盖充分可作为限定修复关闭候选。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b616e97afe94fd0b",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
       ]
     },
     {
@@ -179,7 +234,7 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -210,6 +265,61 @@
           "actual_player_output_sha256": null,
           "filename_only_not_full_ROM_identity_verification": true
         }
+      ],
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "菜单关闭VRAM残留30格→0格；洞窟对白清页自然按键61连续帧记录。"
+        ],
+        "remaining": [
+          "沙龙换装半黑头像在受控造型/性别/肤色/衣色矩阵未复现，实际完整行走/状态未覆盖；总单继续open。"
+        ],
+        "evidence_boundary": "菜单/洞窟已有最终SHA证据；沙龙症状独立保留，不能由其它渲染修复推定同根因。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3b238f909725b329",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "菜单关闭VRAM残留30格→0格；洞窟对白清页自然按键61连续帧记录。"
+          ],
+          "remaining": [
+            "沙龙换装半黑头像在受控造型/性别/肤色/衣色矩阵未复现，实际完整行走/状态未覆盖；总单继续open。"
+          ],
+          "evidence_boundary": "菜单/洞窟已有最终SHA证据；沙龙症状独立保留，不能由其它渲染修复推定同根因。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-3b238f909725b329",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
       ]
     },
     {
@@ -220,7 +330,7 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -251,6 +361,61 @@
           "actual_player_output_sha256": null,
           "filename_only_not_full_ROM_identity_verification": true
         }
+      ],
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "九PC标签、八能力名称及忘招续段在最终SHA受控原生入口重跑。"
+        ],
+        "remaining": [
+          "未知地点漏译仍待定位；POCKET/ITEMS图形标签不在本次修改；未验自然PC交易/战斗升级忘招完整流程。"
+        ],
+        "evidence_boundary": "旧SCOPED_REPORT明确中间候选，最终整合由FINAL_SHA_REGRESSION绑定22d0…；不得拿中间445d…冒充已发布目标。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b465698919325191",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "九PC标签、八能力名称及忘招续段在最终SHA受控原生入口重跑。"
+          ],
+          "remaining": [
+            "未知地点漏译仍待定位；POCKET/ITEMS图形标签不在本次修改；未验自然PC交易/战斗升级忘招完整流程。"
+          ],
+          "evidence_boundary": "旧SCOPED_REPORT明确中间候选，最终整合由FINAL_SHA_REGRESSION绑定22d0…；不得拿中间445d…冒充已发布目标。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b465698919325191",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
       ]
     }
   ],
@@ -262,7 +427,7 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-1bb53957f01a904e"
@@ -274,7 +439,63 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "菜单关闭VRAM残留30格→0格；洞窟对白清页自然按键61连续帧记录。"
+        ],
+        "remaining": [
+          "沙龙换装半黑头像在受控造型/性别/肤色/衣色矩阵未复现，实际完整行走/状态未覆盖；总单继续open。"
+        ],
+        "evidence_boundary": "菜单/洞窟已有最终SHA证据；沙龙症状独立保留，不能由其它渲染修复推定同根因。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3b238f909725b329",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "菜单关闭VRAM残留30格→0格；洞窟对白清页自然按键61连续帧记录。"
+          ],
+          "remaining": [
+            "沙龙换装半黑头像在受控造型/性别/肤色/衣色矩阵未复现，实际完整行走/状态未覆盖；总单继续open。"
+          ],
+          "evidence_boundary": "菜单/洞窟已有最终SHA证据；沙龙症状独立保留，不能由其它渲染修复推定同根因。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-3b238f909725b329",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-b465698919325191",
@@ -283,7 +504,7 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-deb11bf7d28bcd9b"
@@ -295,7 +516,63 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "九PC标签、八能力名称及忘招续段在最终SHA受控原生入口重跑。"
+        ],
+        "remaining": [
+          "未知地点漏译仍待定位；POCKET/ITEMS图形标签不在本次修改；未验自然PC交易/战斗升级忘招完整流程。"
+        ],
+        "evidence_boundary": "旧SCOPED_REPORT明确中间候选，最终整合由FINAL_SHA_REGRESSION绑定22d0…；不得拿中间445d…冒充已发布目标。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b465698919325191",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "九PC标签、八能力名称及忘招续段在最终SHA受控原生入口重跑。"
+          ],
+          "remaining": [
+            "未知地点漏译仍待定位；POCKET/ITEMS图形标签不在本次修改；未验自然PC交易/战斗升级忘招完整流程。"
+          ],
+          "evidence_boundary": "旧SCOPED_REPORT明确中间候选，最终整合由FINAL_SHA_REGRESSION绑定22d0…；不得拿中间445d…冒充已发布目标。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b465698919325191",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-b616e97afe94fd0b",
@@ -303,8 +580,8 @@
         "pokemon-prism"
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
-      "state": "open",
-      "state_checked_at": "2026-10-22T18:39:13.033858+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-29c6a220b0305da4"
@@ -317,7 +594,63 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "两块69号道路原生交互旧版异常/新版返回；七显式页眉入口修正、139翻译路牌开关诊断。"
+        ],
+        "remaining": [
+          "玩家实际字节未知、未自然走完整砍树路线；不能称玩家复测或全通。"
+        ],
+        "evidence_boundary": "精确地图定位用原生warp后正常保存；冷进程Continue、普通转向/A交互。精确消费者覆盖充分可作为限定修复关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b616e97afe94fd0b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+          "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+          "covered": [
+            "两块69号道路原生交互旧版异常/新版返回；七显式页眉入口修正、139翻译路牌开关诊断。"
+          ],
+          "remaining": [
+            "玩家实际字节未知、未自然走完整砍树路线；不能称玩家复测或全通。"
+          ],
+          "evidence_boundary": "精确地图定位用原生warp后正常保存；冷进程Continue、普通转向/A交互。精确消费者覆盖充分可作为限定修复关闭候选。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b616e97afe94fd0b",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+        }
+      ]
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -351,5 +684,5 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-22T18:39:13.033858+08:00"
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00"
 }

@@ -117,7 +117,7 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "玩家未另报；当前原生12px仅作参考",
@@ -175,7 +175,62 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "v012结构白名单纠正误文本指针；event36原生引擎诊断旧版停住、新版完成并进入下一画面，与原件行为对照。"
+        ],
+        "remaining": [
+          "玩家未知实际版本/触发前步骤及自然首关骑象路径未验；不单凭受控event36关闭整个玩家死机单。"
+        ],
+        "evidence_boundary": "event36显式设置现有引擎过场选择；并非自然到达或玩家SAV验收，保留原边界。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-fdd0ed6d2ee71595",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "v012结构白名单纠正误文本指针；event36原生引擎诊断旧版停住、新版完成并进入下一画面，与原件行为对照。"
+          ],
+          "remaining": [
+            "玩家未知实际版本/触发前步骤及自然首关骑象路径未验；不单凭受控event36关闭整个玩家死机单。"
+          ],
+          "evidence_boundary": "event36显式设置现有引擎过场选择；并非自然到达或玩家SAV验收，保留原边界。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-fdd0ed6d2ee71595",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     },
     {
       "public_case_key": "case-a35dacebaf91c496",
@@ -184,8 +239,8 @@
         "crayon-shin-chan-cinema-land-gba"
       ],
       "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -240,7 +295,63 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "VRAM LZ77距离1引用已纠正；46压缩资源实际VRAM解压比对；自然开局电影入口/过场与受控收藏098前后对照。"
+        ],
+        "remaining": [
+          "收藏098使用拥有位/数量诊断，不是自然解锁全部收藏；不扩展成全关卡实机通过。"
+        ],
+        "evidence_boundary": "原反馈收藏错块与过场背景图形已具有对应自然/受控原生VRAM证据；Root核原图后可作限定关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-01d50bcbf75c12cb",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "VRAM LZ77距离1引用已纠正；46压缩资源实际VRAM解压比对；自然开局电影入口/过场与受控收藏098前后对照。"
+          ],
+          "remaining": [
+            "收藏098使用拥有位/数量诊断，不是自然解锁全部收藏；不扩展成全关卡实机通过。"
+          ],
+          "evidence_boundary": "原反馈收藏错块与过场背景图形已具有对应自然/受控原生VRAM证据；Root核原图后可作限定关闭候选。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-01d50bcbf75c12cb",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     },
     {
       "public_case_key": "case-d16aebf74d23e81b",
@@ -250,7 +361,7 @@
       ],
       "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -306,7 +417,63 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "衣装/家人共享图形标签已补译，衣装自然界面和共享704字节VRAM上传已验。"
+        ],
+        "remaining": [
+          "家人菜单及底部提示自然布局未达到；open_inventory细字/附属标签未全部完成，保留open。"
+        ],
+        "evidence_boundary": "共享标签字节通过不能代替每个自然菜单及提示摆放的验收。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b514a77a04b8e036",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "衣装/家人共享图形标签已补译，衣装自然界面和共享704字节VRAM上传已验。"
+          ],
+          "remaining": [
+            "家人菜单及底部提示自然布局未达到；open_inventory细字/附属标签未全部完成，保留open。"
+          ],
+          "evidence_boundary": "共享标签字节通过不能代替每个自然菜单及提示摆放的验收。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b514a77a04b8e036",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     }
   ],
   "problems": [
@@ -317,7 +484,7 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f84aea9a1bcbc64"
@@ -329,7 +496,63 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "v012结构白名单纠正误文本指针；event36原生引擎诊断旧版停住、新版完成并进入下一画面，与原件行为对照。"
+        ],
+        "remaining": [
+          "玩家未知实际版本/触发前步骤及自然首关骑象路径未验；不单凭受控event36关闭整个玩家死机单。"
+        ],
+        "evidence_boundary": "event36显式设置现有引擎过场选择；并非自然到达或玩家SAV验收，保留原边界。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-fdd0ed6d2ee71595",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "v012结构白名单纠正误文本指针；event36原生引擎诊断旧版停住、新版完成并进入下一画面，与原件行为对照。"
+          ],
+          "remaining": [
+            "玩家未知实际版本/触发前步骤及自然首关骑象路径未验；不单凭受控event36关闭整个玩家死机单。"
+          ],
+          "evidence_boundary": "event36显式设置现有引擎过场选择；并非自然到达或玩家SAV验收，保留原边界。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-fdd0ed6d2ee71595",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-01d50bcbf75c12cb",
@@ -337,8 +560,8 @@
         "crayon-shin-chan-cinema-land-gba"
       ],
       "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
-      "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-a35dacebaf91c496"
@@ -349,7 +572,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "VRAM LZ77距离1引用已纠正；46压缩资源实际VRAM解压比对；自然开局电影入口/过场与受控收藏098前后对照。"
+        ],
+        "remaining": [
+          "收藏098使用拥有位/数量诊断，不是自然解锁全部收藏；不扩展成全关卡实机通过。"
+        ],
+        "evidence_boundary": "原反馈收藏错块与过场背景图形已具有对应自然/受控原生VRAM证据；Root核原图后可作限定关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-01d50bcbf75c12cb",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "VRAM LZ77距离1引用已纠正；46压缩资源实际VRAM解压比对；自然开局电影入口/过场与受控收藏098前后对照。"
+          ],
+          "remaining": [
+            "收藏098使用拥有位/数量诊断，不是自然解锁全部收藏；不扩展成全关卡实机通过。"
+          ],
+          "evidence_boundary": "原反馈收藏错块与过场背景图形已具有对应自然/受控原生VRAM证据；Root核原图后可作限定关闭候选。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-01d50bcbf75c12cb",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-b514a77a04b8e036",
@@ -358,7 +637,7 @@
       ],
       "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d16aebf74d23e81b"
@@ -369,7 +648,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "衣装/家人共享图形标签已补译，衣装自然界面和共享704字节VRAM上传已验。"
+        ],
+        "remaining": [
+          "家人菜单及底部提示自然布局未达到；open_inventory细字/附属标签未全部完成，保留open。"
+        ],
+        "evidence_boundary": "共享标签字节通过不能代替每个自然菜单及提示摆放的验收。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b514a77a04b8e036",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.2",
+          "font": "12px",
+          "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+          "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+          "covered": [
+            "衣装/家人共享图形标签已补译，衣装自然界面和共享704字节VRAM上传已验。"
+          ],
+          "remaining": [
+            "家人菜单及底部提示自然布局未达到；open_inventory细字/附属标签未全部完成，保留open。"
+          ],
+          "evidence_boundary": "共享标签字节通过不能代替每个自然菜单及提示摆放的验收。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-b514a77a04b8e036",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+        }
+      ]
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -431,7 +766,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-crayon-cinema-graphics",

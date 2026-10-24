@@ -205,7 +205,7 @@
       ],
       "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -263,7 +263,63 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "存档/继续对话底板、存档标题、战术共享图块冲突及标题TM恢复有当前目标证据。"
+        ],
+        "remaining": [
+          "创建存档提示与已打开的新建/继续子菜单两个原场景缺最终ROM实帧，整单继续open。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3109a451a997a3f8",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "native8-12px",
+          "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+          "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+          "covered": [
+            "存档/继续对话底板、存档标题、战术共享图块冲突及标题TM恢复有当前目标证据。"
+          ],
+          "remaining": [
+            "创建存档提示与已打开的新建/继续子菜单两个原场景缺最终ROM实帧，整单继续open。"
+          ],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-3109a451a997a3f8",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+        }
+      ]
     },
     {
       "public_case_key": "case-d88c313408dc6744",
@@ -354,7 +410,7 @@
       ],
       "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -413,7 +469,63 @@
           "font_scope_note": "原生8/12px混排为既有描述；字号偏好仅建议，不按纯BUG计数。"
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "等待提示、球员五项/阵型三项/战术三项注释已补，玩家2/电脑标签左对齐。"
+        ],
+        "remaining": [
+          "设置窄框保留原生8px，字号一致性建议未实施；不以部分补译关闭整单。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f667e766b4693537",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "native8-12px",
+          "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+          "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+          "covered": [
+            "等待提示、球员五项/阵型三项/战术三项注释已补，玩家2/电脑标签左对齐。"
+          ],
+          "remaining": [
+            "设置窄框保留原生8px，字号一致性建议未实施；不以部分补译关闭整单。"
+          ],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-f667e766b4693537",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+        }
+      ]
     }
   ],
   "problems": [
@@ -424,7 +536,7 @@
       ],
       "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-f2eb6dac14c4147d"
@@ -435,7 +547,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "存档/继续对话底板、存档标题、战术共享图块冲突及标题TM恢复有当前目标证据。"
+        ],
+        "remaining": [
+          "创建存档提示与已打开的新建/继续子菜单两个原场景缺最终ROM实帧，整单继续open。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3109a451a997a3f8",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "native8-12px",
+          "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+          "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+          "covered": [
+            "存档/继续对话底板、存档标题、战术共享图块冲突及标题TM恢复有当前目标证据。"
+          ],
+          "remaining": [
+            "创建存档提示与已打开的新建/继续子菜单两个原场景缺最终ROM实帧，整单继续open。"
+          ],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-3109a451a997a3f8",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-7cee56fa3698cbd3",
@@ -562,7 +730,7 @@
       ],
       "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-323ec2b5594527a7"
@@ -573,7 +741,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "等待提示、球员五项/阵型三项/战术三项注释已补，玩家2/电脑标签左对齐。"
+        ],
+        "remaining": [
+          "设置窄框保留原生8px，字号一致性建议未实施；不以部分补译关闭整单。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f667e766b4693537",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "native8-12px",
+          "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+          "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+          "covered": [
+            "等待提示、球员五项/阵型三项/战术三项注释已补，玩家2/电脑标签左对齐。"
+          ],
+          "remaining": [
+            "设置窄框保留原生8px，字号一致性建议未实施；不以部分补译关闭整单。"
+          ],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-f667e766b4693537",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+        }
+      ]
     }
   ],
   "delivery_notices": [
@@ -663,7 +887,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-soccer-pocket-2-graphics",

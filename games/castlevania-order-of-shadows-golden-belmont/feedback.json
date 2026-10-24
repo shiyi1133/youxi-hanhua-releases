@@ -45,8 +45,8 @@
         "castlevania-order-of-shadows-golden-belmont"
       ],
       "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -85,7 +85,59 @@
           "static_images_do_not_establish_corruption_or_root_cause": true
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+        "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+        "covered": [
+          "52b6…标题实际自然原帧没有额外S；诊断遗物原生拾取后教程及装备实际帧显示↓/A，5字段源控制/672入口矩阵零差异证据保留。关闭仅限显示两原项；↓+A输入不当滑铲动作/碰撞/自然到房间通过，未全通/实机。"
+        ],
+        "remaining": [],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f290ddd0927ec9cf",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+          "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+          "covered": [
+            "52b6…标题实际自然原帧没有额外S；诊断遗物原生拾取后教程及装备实际帧显示↓/A，5字段源控制/672入口矩阵零差异证据保留。关闭仅限显示两原项；↓+A输入不当滑铲动作/碰撞/自然到房间通过，未全通/实机。"
+          ],
+          "remaining": [],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-f290ddd0927ec9cf",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
+        }
+      ]
     }
   ],
   "problems": [
@@ -95,8 +147,8 @@
         "castlevania-order-of-shadows-golden-belmont"
       ],
       "summary": "[BUG待复现] 黄金贝尔蒙特：标题START前额外S样字符、蜥蜴之尾滑铲教程文字异常",
-      "state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-e01934e47ea85b78"
@@ -107,7 +159,59 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+        "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+        "covered": [
+          "52b6…标题实际自然原帧没有额外S；诊断遗物原生拾取后教程及装备实际帧显示↓/A，5字段源控制/672入口矩阵零差异证据保留。关闭仅限显示两原项；↓+A输入不当滑铲动作/碰撞/自然到房间通过，未全通/实机。"
+        ],
+        "remaining": [],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f290ddd0927ec9cf",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+          "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+          "covered": [
+            "52b6…标题实际自然原帧没有额外S；诊断遗物原生拾取后教程及装备实际帧显示↓/A，5字段源控制/672入口矩阵零差异证据保留。关闭仅限显示两原项；↓+A输入不当滑铲动作/碰撞/自然到房间通过，未全通/实机。"
+          ],
+          "remaining": [],
+          "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-f290ddd0927ec9cf",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
+        }
+      ]
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -139,7 +243,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|golden-belmont-title-START-and-sliding-tutorial-display",

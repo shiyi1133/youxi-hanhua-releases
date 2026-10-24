@@ -1,0 +1,430 @@
+{
+  "schema": "actual_thirteen_bounded_public_problem_state_mirror_v1",
+  "parent": "729fae28c6d6754cf9db007f1649df32d2a133d8",
+  "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+  "approved_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+  "public_problem_updates": [
+    {
+      "public_case_key": "case-6f84aea9a1bcbc64",
+      "public_problem_key": "problem-fdd0ed6d2ee71595",
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "v012结构白名单纠正误文本指针；event36原生引擎诊断旧版停住、新版完成并进入下一画面，与原件行为对照。"
+        ],
+        "remaining": [
+          "玩家未知实际版本/触发前步骤及自然首关骑象路径未验；不单凭受控event36关闭整个玩家死机单。"
+        ],
+        "evidence_boundary": "event36显式设置现有引擎过场选择；并非自然到达或玩家SAV验收，保留原边界。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-fdd0ed6d2ee71595",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      }
+    },
+    {
+      "public_case_key": "case-29c6a220b0305da4",
+      "public_problem_key": "problem-b616e97afe94fd0b",
+      "game_id": "pokemon-prism",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "两块69号道路原生交互旧版异常/新版返回；七显式页眉入口修正、139翻译路牌开关诊断。"
+        ],
+        "remaining": [
+          "玩家实际字节未知、未自然走完整砍树路线；不能称玩家复测或全通。"
+        ],
+        "evidence_boundary": "精确地图定位用原生warp后正常保存；冷进程Continue、普通转向/A交互。精确消费者覆盖充分可作为限定修复关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b616e97afe94fd0b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-1bb53957f01a904e",
+      "public_problem_key": "problem-3b238f909725b329",
+      "game_id": "pokemon-prism",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "菜单关闭VRAM残留30格→0格；洞窟对白清页自然按键61连续帧记录。"
+        ],
+        "remaining": [
+          "沙龙换装半黑头像在受控造型/性别/肤色/衣色矩阵未复现，实际完整行走/状态未覆盖；总单继续open。"
+        ],
+        "evidence_boundary": "菜单/洞窟已有最终SHA证据；沙龙症状独立保留，不能由其它渲染修复推定同根因。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3b238f909725b329",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-deb11bf7d28bcd9b",
+      "public_problem_key": "problem-b465698919325191",
+      "game_id": "pokemon-prism",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d",
+        "target_rom_sha256": "22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358",
+        "covered": [
+          "九PC标签、八能力名称及忘招续段在最终SHA受控原生入口重跑。"
+        ],
+        "remaining": [
+          "未知地点漏译仍待定位；POCKET/ITEMS图形标签不在本次修改；未验自然PC交易/战斗升级忘招完整流程。"
+        ],
+        "evidence_boundary": "旧SCOPED_REPORT明确中间候选，最终整合由FINAL_SHA_REGRESSION绑定22d0…；不得拿中间445d…冒充已发布目标。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b465698919325191",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-57e5fbb4ad7d4901",
+      "public_problem_key": "problem-71a599023e36bb7b",
+      "game_id": "kotobattle",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "同一99D5C对白的消字旧像素精确水平翻转，新像素与源字模8行一致；对白预算17字并保留右框属性。"
+        ],
+        "remaining": [
+          "未取得玩家实际ROM；不宣称所有对话/变量/实机全部覆盖。"
+        ],
+        "evidence_boundary": "原句的精确原生消费者诊断和前后像素对应原报告；可作限定修复关闭候选，非自然全流程。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-71a599023e36bb7b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-2328f13bf64f2bae",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_id": "kotobattle",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+        ],
+        "remaining": [
+          "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+        ],
+        "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-ee7a1b312549370e",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-e01934e47ea85b78",
+      "public_problem_key": "problem-f290ddd0927ec9cf",
+      "game_id": "castlevania-order-of-shadows-golden-belmont",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "640757eda116be779f2c3b42971ca72864c86ce4b3c3c89a5deef2cdec762c1e",
+        "target_rom_sha256": "52b64df33cb2aca9c853fbe8e156b1303dbd238b6ed323c87720d60caf56a494",
+        "covered": [
+          "52b6…标题实际自然原帧没有额外S；诊断遗物原生拾取后教程及装备实际帧显示↓/A，5字段源控制/672入口矩阵零差异证据保留。关闭仅限显示两原项；↓+A输入不当滑铲动作/碰撞/自然到房间通过，未全通/实机。"
+        ],
+        "remaining": [],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f290ddd0927ec9cf",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/castlevania-order-of-shadows-golden-belmont-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-6cc7be3acd07f544",
+      "public_problem_key": "problem-d8e95b2aaf369c30",
+      "game_id": "jikkyou-world-soccer-pocket",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native-8-12px",
+        "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+        "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+        "covered": [
+          "原反馈图01标题球形标志切割、图05球门两项均有原/旧/新精确最终ROM实际原帧；标题与球门恢复可按定位关闭。保留原声/深层未译及全赛事边界不妨碍该定位修复。"
+        ],
+        "remaining": [],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-d8e95b2aaf369c30",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-f2eb6dac14c4147d",
+      "public_problem_key": "problem-3109a451a997a3f8",
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "存档/继续对话底板、存档标题、战术共享图块冲突及标题TM恢复有当前目标证据。"
+        ],
+        "remaining": [
+          "创建存档提示与已打开的新建/继续子菜单两个原场景缺最终ROM实帧，整单继续open。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-3109a451a997a3f8",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-a35dacebaf91c496",
+      "public_problem_key": "problem-01d50bcbf75c12cb",
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "VRAM LZ77距离1引用已纠正；46压缩资源实际VRAM解压比对；自然开局电影入口/过场与受控收藏098前后对照。"
+        ],
+        "remaining": [
+          "收藏098使用拥有位/数量诊断，不是自然解锁全部收藏；不扩展成全关卡实机通过。"
+        ],
+        "evidence_boundary": "原反馈收藏错块与过场背景图形已具有对应自然/受控原生VRAM证据；Root核原图后可作限定关闭候选。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-01d50bcbf75c12cb",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      }
+    },
+    {
+      "public_case_key": "case-4eb6a4433af5e84e",
+      "public_problem_key": "problem-565c62336579e0bc",
+      "game_id": "jikkyou-world-soccer-pocket",
+      "state": "closed",
+      "result": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native-8-12px",
+        "input_sha256": "834f5b79a18b456e1f765e4531b68745daeb8244b37fcc834fb064101ba8025e",
+        "target_rom_sha256": "2cdd15d4d46fbbdafdf63b14aea2318685dda8a3b1f848be35051060ada975b7",
+        "covered": [
+          "图03/04/06/07/08/10/11七处定位都有最终2cdd…原帧和来源元数据；关闭只表示这些请求定位已覆盖，不表示深层全部界面/全赛事自然通关。"
+        ],
+        "remaining": [],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-565c62336579e0bc",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-323ec2b5594527a7",
+      "public_problem_key": "problem-f667e766b4693537",
+      "game_id": "jikkyou-world-soccer-pocket-2",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "native8-12px",
+        "input_sha256": "5cfd354c5dcba7583a954bfb04d28145ced4ccc0a441dcb3b694c039bae583aa",
+        "target_rom_sha256": "693e8636b5de46e10982282c5f06f3fa017dbd3b6580e9067f9e6f7e145f539a",
+        "covered": [
+          "等待提示、球员五项/阵型三项/战术三项注释已补，玩家2/电脑标签左对齐。"
+        ],
+        "remaining": [
+          "设置窄框保留原生8px，字号一致性建议未实施；不以部分补译关闭整单。"
+        ],
+        "evidence_boundary": "同一实现者的最终ROM自然/诊断对照按原报告区分；维护仅字节/补丁和图片核验，未新增运行。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-f667e766b4693537",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
+      }
+    },
+    {
+      "public_case_key": "case-d16aebf74d23e81b",
+      "public_problem_key": "problem-b514a77a04b8e036",
+      "game_id": "crayon-shin-chan-cinema-land-gba",
+      "state": "open",
+      "result": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.2",
+        "font": "12px",
+        "input_sha256": "68398055267634e5521b79c0e5249bc7629ae2800c635b897aee66aede85770a",
+        "target_rom_sha256": "d9595f0204473f6b46c6a391ac1dac166172b9a8f53a25129c6cd8b98bd4a66b",
+        "covered": [
+          "衣装/家人共享图形标签已补译，衣装自然界面和共享704字节VRAM上传已验。"
+        ],
+        "remaining": [
+          "家人菜单及底部提示自然布局未达到；open_inventory细字/附属标签未全部完成，保留open。"
+        ],
+        "evidence_boundary": "共享标签字节通过不能代替每个自然菜单及提示摆放的验收。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-b514a77a04b8e036",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
+      }
+    }
+  ],
+  "actual_closed_problems": 6,
+  "partial_open_problems": 7,
+  "actual_closed_pure_BUG_problems": 5,
+  "open_pure_BUG_count": 48,
+  "open_requests_or_other_count": 18,
+  "public_Issue_creations": 0,
+  "private_API_body_or_URL_copies": 0,
+  "new_runtime_tests": 0,
+  "Source_executions": 0,
+  "monitor_counter_increment": 0,
+  "all_other_case_problem_ACK_quote_image_version_Source_claim_and_counter_fields_preserved": true,
+  "recorded_at": "2026-10-24T11:25:00.326512+08:00"
+}

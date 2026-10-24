@@ -433,8 +433,8 @@
         "kotobattle"
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -469,7 +469,63 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00",
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "同一99D5C对白的消字旧像素精确水平翻转，新像素与源字模8行一致；对白预算17字并保留右框属性。"
+        ],
+        "remaining": [
+          "未取得玩家实际ROM；不宣称所有对话/变量/实机全部覆盖。"
+        ],
+        "evidence_boundary": "原句的精确原生消费者诊断和前后像素对应原报告；可作限定修复关闭候选，非自然全流程。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-71a599023e36bb7b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+          "covered": [
+            "同一99D5C对白的消字旧像素精确水平翻转，新像素与源字模8行一致；对白预算17字并保留右框属性。"
+          ],
+          "remaining": [
+            "未取得玩家实际ROM；不宣称所有对话/变量/实机全部覆盖。"
+          ],
+          "evidence_boundary": "原句的精确原生消费者诊断和前后像素对应原报告；可作限定修复关闭候选，非自然全流程。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-71a599023e36bb7b",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        }
+      ]
     },
     {
       "public_case_key": "case-2328f13bf64f2bae",
@@ -479,7 +535,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -553,7 +609,63 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+        ],
+        "remaining": [
+          "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+        ],
+        "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-ee7a1b312549370e",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+          "covered": [
+            "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+          ],
+          "remaining": [
+            "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+          ],
+          "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-ee7a1b312549370e",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        }
+      ]
     },
     {
       "public_case_key": "case-0519710788cd54cd",
@@ -751,8 +863,8 @@
         "kotobattle"
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
-      "state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-57e5fbb4ad7d4901"
@@ -763,7 +875,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": true,
+      "partially_fixed": false,
+      "latest_bounded_repair": {
+        "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+        "actual_issue_state": "closed",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "同一99D5C对白的消字旧像素精确水平翻转，新像素与源字模8行一致；对白预算17字并保留右框属性。"
+        ],
+        "remaining": [
+          "未取得玩家实际ROM；不宣称所有对话/变量/实机全部覆盖。"
+        ],
+        "evidence_boundary": "原句的精确原生消费者诊断和前后像素对应原报告；可作限定修复关闭候选，非自然全流程。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-71a599023e36bb7b",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "CLOSE_BOUNDED_VERIFIED_CASES",
+          "actual_issue_state": "closed",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+          "covered": [
+            "同一99D5C对白的消字旧像素精确水平翻转，新像素与源字模8行一致；对白预算17字并保留右框属性。"
+          ],
+          "remaining": [
+            "未取得玩家实际ROM；不宣称所有对话/变量/实机全部覆盖。"
+          ],
+          "evidence_boundary": "原句的精确原生消费者诊断和前后像素对应原报告；可作限定修复关闭候选，非自然全流程。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-71a599023e36bb7b",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-ee7a1b312549370e",
@@ -772,7 +940,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae"
@@ -785,7 +953,63 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "fixed": false,
+      "partially_fixed": true,
+      "latest_bounded_repair": {
+        "disposition": "PARTIAL_KEEP_OPEN",
+        "actual_issue_state": "open",
+        "state_API_readback_verified": true,
+        "version": "v0.1.1",
+        "font": "8px",
+        "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+        "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+        "covered": [
+          "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+        ],
+        "remaining": [
+          "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+        ],
+        "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+        "reported_case_only": true,
+        "whole_game_acceptance": false,
+        "hardware_tested": false,
+        "new_maintainer_ROM_runtime": false,
+        "Source_executions": 0,
+        "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+        "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+        "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+        "public_problem_key": "problem-ee7a1b312549370e",
+        "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+      },
+      "bounded_repair_history": [
+        {
+          "disposition": "PARTIAL_KEEP_OPEN",
+          "actual_issue_state": "open",
+          "state_API_readback_verified": true,
+          "version": "v0.1.1",
+          "font": "8px",
+          "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "target_rom_sha256": "5c96e69b77886b7b59364407c5b9a16a34e3b5cab7c6a40f63085fd7bd14080e",
+          "covered": [
+            "设置帮助/BGM选择、教学卡/属性和普通战斗已自然操作；石碑/回血共享文本精确消费者诊断有前后图。"
+          ],
+          "remaining": [
+            "原反馈石碑/老师/杂志具体自然交互位置未完全建立；维护仍需逐图确认原报告所有消费者是否均已对应，未确认部分继续open。"
+          ],
+          "evidence_boundary": "自然设置/教学与诊断石碑/回血分开；不将新136/137现象合并为已修。",
+          "reported_case_only": true,
+          "whole_game_acceptance": false,
+          "hardware_tested": false,
+          "new_maintainer_ROM_runtime": false,
+          "Source_executions": 0,
+          "actual_operations_receipt_sha256": "45236e115fa7b5e24518502b8e3c4c577f41c5f4a14901f0459d3dfbc21a92b9",
+          "approved_bounded_plan_sha256": "b9c7136fd5b9a667c94ffb4a759996a1fad5fb5523412443777c33db58ec9674",
+          "recorded_at": "2026-10-24T11:25:00.326512+08:00",
+          "public_problem_key": "problem-ee7a1b312549370e",
+          "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.1"
+        }
+      ]
     },
     {
       "public_problem_key": "problem-7c55eeb945e612a0",
@@ -1066,7 +1290,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",

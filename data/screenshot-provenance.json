@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 251,
-  "unique_PNG_file_count": 243,
+  "screenshot_binding_count": 252,
+  "unique_PNG_file_count": 244,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -5488,6 +5488,21 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "mini-yonku-gb",
+      "font": "8px",
+      "version": "v0.1.2",
+      "audio_variant": "unchanged",
+      "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+      "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+      "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0",
+      "screenshot_bytes": 123605,
+      "path": "games/mini-yonku-gb/screenshots/mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+      "caption": "v0.1.2普通8px最终ROM的原生SGB九宫格，各原生256×224帧仅2倍整数放大；第5/6格为受控配件ID，第8格为临时时间边界诊断，其余按提供方自然/电池冷读记录；非维护重跑或全流程验收。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -5974,5 +5989,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T23:02:36.768952+08:00"
+  "last_incremental_update_at": "2026-10-24T23:45:21.054976+08:00"
 }

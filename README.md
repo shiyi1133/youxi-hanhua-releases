@@ -91,7 +91,7 @@
 | [双截龙2（美国版）](games/double-dragon-2/README.md) | 8px v1.0.0测试版 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [牧场物语GB3：男孩遇见女孩](games/bokujou-monogatari-gb3/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [巫术外传1：女王的受难](games/wizardry-gaiden-1/README.md) | 8px v0.1.1限定修复测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
-| [四驱兄弟GB初代](games/mini-yonku-gb/README.md) | 8px v0.1.1限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
+| [四驱兄弟GB初代](games/mini-yonku-gb/README.md) | 8px v0.1.2限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [格兰蒂亚：平行旅途](games/grandia-parallel-trippers/README.md) | 8px v0.1.3 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [马里奥网球GB](games/mario-tennis-gb/README.md) | 8px v1.0.2限定修复测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [月球战争（Nectaris GB）](games/nectaris-gb/README.md) | native8px-12px v1.0.0 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |

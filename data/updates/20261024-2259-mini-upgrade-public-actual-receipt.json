@@ -1,0 +1,118 @@
+{
+  "schema": "Root_batch_public_actual_published_full_asset_readback_v1",
+  "repository": "shiyi1133/youxi-hanhua-releases",
+  "repository_id": 1428723645,
+  "repository_private": false,
+  "game_releases": {
+    "mini-yonku-gb": {
+      "game_id": "mini-yonku-gb",
+      "tag": "mini-yonku-gb-v0.1.2",
+      "version": "v0.1.2",
+      "release_id": 422819688,
+      "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
+      "draft": false,
+      "prerelease": true,
+      "all_remote_assets_sha256_verified": true,
+      "assets": [
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+          "id": 672635358,
+          "bytes": 13354620,
+          "sha256": "7faef1e203c73c05393ca8ab411d94885896854093721271c70c92ff98cf6280",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+          "id": 672638454,
+          "bytes": 59386,
+          "sha256": "d09ebeba4b06ac2f59fb1f8521d45c9966e6d3bfb404ac399beafd7a4e034dec",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+          "id": 672638663,
+          "bytes": 123605,
+          "sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        }
+      ],
+      "complete_release_asset_guards": [
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+          "id": 672635358,
+          "bytes": 13354620,
+          "sha256": "7faef1e203c73c05393ca8ab411d94885896854093721271c70c92ff98cf6280",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+          "id": 672638454,
+          "bytes": 59386,
+          "sha256": "d09ebeba4b06ac2f59fb1f8521d45c9966e6d3bfb404ac399beafd7a4e034dec",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        },
+        {
+          "name": "mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+          "id": 672638663,
+          "bytes": 123605,
+          "sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0",
+          "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+          "remote_sha256_verified": true,
+          "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+          "actual_new_file_created": true,
+          "cached_readback_used": false,
+          "actual_download_before_publication": true
+        }
+      ],
+      "category": "game",
+      "initial_draft_stage_verified": true,
+      "draft_created_this_execution": true,
+      "existing_exact_tag_reused": false,
+      "all_assets_full_SHA_download_verified_before_publish": true,
+      "existing_published_exact_tag_also_full_download_verified": false,
+      "body_sha256": "bcc3744b4f8739b545c9591f7dac8ce4f6abfc59ac1289b4a9123b900b8aa88d",
+      "verified_at": "2026-10-24T23:41:28.956044+08:00",
+      "historical_Releases_tags_and_assets_deleted": 0
+    }
+  },
+  "expected_release_count": 1,
+  "completed_release_count": 1,
+  "all_releases_published_and_actual_full_SHA_verified": true,
+  "status": "PUBLISHED_ALL_ACTUAL_FULL_READBACK_VERIFIED",
+  "Source_private_uploads": 0,
+  "Source_semantic_completeness": null,
+  "Source_executions": 0,
+  "ROM_runtime": 0,
+  "Git_writes": 0,
+  "cloud_mutations": 0,
+  "forum_sends": 0,
+  "Issue_writes": 0,
+  "monitor_counter_increment": 0,
+  "history_deletions": 0,
+  "verified_at": "2026-10-24T23:41:33.966522+08:00"
+}

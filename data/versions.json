@@ -9865,84 +9865,162 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.1限定测试版",
+          "version": "v0.1.2",
           "audio_variant": "unchanged",
-          "variant_id": null,
+          "variant_id": "8px:unchanged",
           "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
-          "output_sha256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5",
+          "output_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
           "output_bytes": 524288,
-          "font_scope": "Fusion Pixel原生普通8px正文/姓名，10px仅既有烘焙标题素材；保留原生SGB边框与配色，未新增10px运行版。",
-          "scope": "共享文本框顶边叠加选择器及600G初始车辆独立压缩介绍12页的限定修复。",
+          "font_scope": "Fusion Pixel普通原生8px正文/命名；10px字源仅烘焙标题素材，无独立大字ROM；原生SGB和实际DMG证据分列。",
+          "scope": "普通原生8px限定修复测试版：配件预览队列终止符与白银前杠精灵目录、12车型名称裁切、18空槽标签、GB1保存页标签和时间数字；保留原生SGB边框及主体标题图案。",
+          "status": "CURRENT_LIMITED_TEST",
+          "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "提供方自然SGB新开局学校/家/商店及5款可自然到达车辆介绍；总12页其中7页只经原生压缩渲染器受控诊断，不称全部自然购买。",
-            "玩家6字符/车辆10字符重复输入、超长、删除重输、正常保存及新Python进程只载电池冷读为提供方证据。",
-            "保存统计页状态标签异常已在v0.1.0存在且像素未改，本版未修该已知残留。",
-            "未测后期全部赛道剧情、原日文历史存档、联机/实机。维护端未运行模拟器。",
-            "提供方限定路线验证；维护独立核完整SHA、补丁和截图，未运行附包代码或游戏。",
-            "未声明实机、全流程通关或全部旧存档兼容。"
+            "维护独立核完整SHA、BPS逐字节、源包CRC/清单/许可证和九宫格像素；未执行提供者代码、重建工程或运行ROM。",
+            "未验证实机、联机、CGB模型、全流程、所有高级配件自然购买、结尾职员表或全部旧存档兼容。",
+            "#118报告实际ROM版本未知；只确认已复现的配件展示乱行/图块损坏及白银前杠分支，静图不能证明永久卡死；二代#76不在本作修复范围。"
           ],
           "public_source_assets": [
             {
-              "name": "mini-yonku-gb-current-source-d069ed0d178c-public-r01.zip",
-              "sha256": "439310c8460175b54be284aecbc4a47d3325dedfc14b8973737e988bf3d2952d",
-              "bytes": 13271164,
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/mini-yonku-gb-current-source-d069ed0d178c-public-r01.zip",
-              "asset_id": 663482920,
+              "name": "mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+              "bytes": 13354620,
+              "sha256": "7faef1e203c73c05393ca8ab411d94885896854093721271c70c92ff98cf6280",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip",
+              "remote_sha256_verified": true,
+              "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+              "actual_new_file_created": true,
+              "cached_readback_used": false,
+              "asset_id": 672635358,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02b",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2",
               "complete_all_modification_source": null,
-              "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
-              "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
-              "known_source_gaps": [],
-              "source_rebuilt_this_export": false,
-              "source_batch": "Source2-02b",
-              "bound_audio_variant": "unchanged",
-              "source_declared_audio_variant": null,
-              "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+              "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+              "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "mini-yonku-gb-current-patches.zip",
-            "sha256": "5c1cc1a88b881e6ce132d5e68509886bdd704ac722b971666daabf63a21f6aca",
-            "bytes": 76869,
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mini-yonku-gb-current-patches.zip",
-            "asset_id": 663494768,
+            "name": "mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+            "bytes": 59386,
+            "sha256": "d09ebeba4b06ac2f59fb1f8521d45c9966e6d3bfb404ac399beafd7a4e034dec",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-PATCH-public.zip",
+            "remote_sha256_verified": true,
+            "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+            "actual_new_file_created": true,
+            "cached_readback_used": false,
+            "asset_id": 672638454,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2"
           },
           "public_screenshots": [
             {
               "game_id": "mini-yonku-gb",
               "font": "8px",
-              "version": "v0.1.1限定测试版",
+              "version": "v0.1.2",
               "audio_variant": "unchanged",
               "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
-              "target_rom_sha256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5",
-              "screenshot_sha256": "c2c00f9061b504bcaf7daa1fcb0d8366077e136cd185049071ebcee2fd06b5e3",
-              "screenshot_bytes": 95854,
-              "path": "games/mini-yonku-gb/screenshots/c2c00f9061b504bcaf7d.png",
-              "caption": "四驱兄弟GB初代 v0.1.1限定测试版 普通8px；提供方最终ROM画面，维护实际查看九宫格，不代表维护重跑游戏。",
-              "PNG_validation": {
-                "format": "PNG",
-                "width": 1536,
-                "height": 1496,
-                "bit_depth": 8,
-                "colour_type": 2,
-                "interlaced": false,
-                "all_chunk_CRC_verified": true,
-                "complete_IDAT_decompression_and_scanline_sizes_verified": true
-              },
+              "target_rom_sha256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e",
+              "screenshot_sha256": "be3d2fe81af1bffc84321e1033d54e5407e0e1e3c864b393e5877506b69c2ef0",
+              "screenshot_bytes": 123605,
+              "path": "games/mini-yonku-gb/screenshots/mini-yonku-gb-v0.1.2-8px-nine-grid.png",
+              "caption": "v0.1.2普通8px最终ROM的原生SGB九宫格，各原生256×224帧仅2倍整数放大；第5/6格为受控配件ID，第8格为临时时间边界诊断，其余按提供方自然/电池冷读记录；非维护重跑或全流程验收。",
               "actual_original_PNG_full_bytes_download_verified": true,
-              "new_runtime_test_by_this_export": false
+              "new_runtime_test_by_this_export": false,
+              "PNG_pixels_modified": false
             }
           ]
         }
       ],
       "page": "games/mini-yonku-gb/README.md",
-      "feedback": "games/mini-yonku-gb/feedback.md"
+      "feedback": "games/mini-yonku-gb/feedback.md",
+      "historical_releases": [
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.1限定测试版",
+              "audio_variant": "unchanged",
+              "variant_id": null,
+              "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+              "output_sha256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5",
+              "output_bytes": 524288,
+              "font_scope": "Fusion Pixel原生普通8px正文/姓名，10px仅既有烘焙标题素材；保留原生SGB边框与配色，未新增10px运行版。",
+              "scope": "共享文本框顶边叠加选择器及600G初始车辆独立压缩介绍12页的限定修复。",
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "提供方自然SGB新开局学校/家/商店及5款可自然到达车辆介绍；总12页其中7页只经原生压缩渲染器受控诊断，不称全部自然购买。",
+                "玩家6字符/车辆10字符重复输入、超长、删除重输、正常保存及新Python进程只载电池冷读为提供方证据。",
+                "保存统计页状态标签异常已在v0.1.0存在且像素未改，本版未修该已知残留。",
+                "未测后期全部赛道剧情、原日文历史存档、联机/实机。维护端未运行模拟器。",
+                "提供方限定路线验证；维护独立核完整SHA、补丁和截图，未运行附包代码或游戏。",
+                "未声明实机、全流程通关或全部旧存档兼容。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "mini-yonku-gb-current-source-d069ed0d178c-public-r01.zip",
+                  "sha256": "439310c8460175b54be284aecbc4a47d3325dedfc14b8973737e988bf3d2952d",
+                  "bytes": 13271164,
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/mini-yonku-gb-current-source-d069ed0d178c-public-r01.zip",
+                  "asset_id": 663482920,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/source-migration-20261022-02b",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "COMPLETENESS_NOT_INDEPENDENTLY_CONFIRMED",
+                  "scope": "EXACT_CURRENT_TARGET_IDENTITY_AND_ARCHIVE_SAFETY_VERIFIED_NOT_REBUILT_THIS_RUN_COMPLETENESS_SEPARATE",
+                  "known_source_gaps": [],
+                  "source_rebuilt_this_export": false,
+                  "source_batch": "Source2-02b",
+                  "bound_audio_variant": "unchanged",
+                  "source_declared_audio_variant": null,
+                  "audio_binding_basis": "UNIQUE_EXACT_CURRENT_GAME_INPUT_FONT_VERSION_FULL_OUTPUT_SHA_AND_BYTES"
+                }
+              ],
+              "public_patch_asset": {
+                "name": "mini-yonku-gb-current-patches.zip",
+                "sha256": "5c1cc1a88b881e6ce132d5e68509886bdd704ac722b971666daabf63a21f6aca",
+                "bytes": 76869,
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mini-yonku-gb-current-patches.zip",
+                "asset_id": 663494768,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/patch-migration-20261022"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "mini-yonku-gb",
+                  "font": "8px",
+                  "version": "v0.1.1限定测试版",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+                  "target_rom_sha256": "d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5",
+                  "screenshot_sha256": "c2c00f9061b504bcaf7daa1fcb0d8366077e136cd185049071ebcee2fd06b5e3",
+                  "screenshot_bytes": 95854,
+                  "path": "games/mini-yonku-gb/screenshots/c2c00f9061b504bcaf7d.png",
+                  "caption": "四驱兄弟GB初代 v0.1.1限定测试版 普通8px；提供方最终ROM画面，维护实际查看九宫格，不代表维护重跑游戏。",
+                  "PNG_validation": {
+                    "format": "PNG",
+                    "width": 1536,
+                    "height": 1496,
+                    "bit_depth": 8,
+                    "colour_type": 2,
+                    "interlaced": false,
+                    "all_chunk_CRC_verified": true,
+                    "complete_IDAT_decompression_and_scanline_sizes_verified": true
+                  },
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-24T23:45:21.054976+08:00",
+          "reason": "PREVIOUS_CURRENT_TARGETS_SUPERSEDED_BY_ACTUALLY_PUBLISHED_NEW_VERSION",
+          "preserved_old_row_sha256": "b7a3063dafb6fef003810c98d6520b8da3487305bac21f8c2d7a0ebe933dfce6"
+        }
+      ]
     },
     {
       "game_id": "grandia-parallel-trippers",
@@ -21135,5 +21213,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-24T23:02:36.768952+08:00"
+  "last_incremental_update_at": "2026-10-24T23:45:21.054976+08:00"
 }

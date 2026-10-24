@@ -1,40 +1,39 @@
-# 四驱兄弟GB初代
+# 四驱兄弟GB初代 v0.1.2（限定测试版）
 
-原输入：Mini Yonku GB (Japan; requester filename and MINI4WD GB header identity)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Mini Yonku GB (Japan; requester filename and MINI4WD GB header identity)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1限定测试版 | unchanged | `d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5` |
+原输入完整SHA-256：`ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52`（524288字节）。
 
-## 源码与补丁
+范围：普通原生8px限定修复测试版：配件预览队列终止符与白银前杠精灵目录、12车型名称裁切、18空槽标签、GB1保存页标签和时间数字；保留原生SGB边框及主体标题图案。
 
-- 8px／v0.1.1限定测试版／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/mini-yonku-gb-current-source-d069ed0d178c-public-r01.zip)（ZIP SHA256 `439310c8460175b54be284aecbc4a47d3325dedfc14b8973737e988bf3d2952d`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mini-yonku-gb-current-patches.zip)（ZIP SHA256 `5c1cc1a88b881e6ce132d5e68509886bdd704ac722b971666daabf63a21f6aca`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v0.1.2
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：Fusion Pixel普通原生8px正文/命名；10px字源仅烘焙标题素材，无独立大字ROM；原生SGB和实际DMG证据分列。
 
-## 范围与验证边界
+目标完整SHA-256：`79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e`（524288字节）。
 
-- 8px／v0.1.1限定测试版：Fusion Pixel原生普通8px正文/姓名，10px仅既有烘焙标题素材；保留原生SGB边框与配色，未新增10px运行版。。
-  共享文本框顶边叠加选择器及600G初始车辆独立压缩介绍12页的限定修复。
-  提供方自然SGB新开局学校/家/商店及5款可自然到达车辆介绍；总12页其中7页只经原生压缩渲染器受控诊断，不称全部自然购买。
-  玩家6字符/车辆10字符重复输入、超长、删除重输、正常保存及新Python进程只载电池冷读为提供方证据。
-  保存统计页状态标签异常已在v0.1.0存在且像素未改，本版未修该已知残留。
-  未测后期全部赛道剧情、原日文历史存档、联机/实机。维护端未运行模拟器。
-  提供方限定路线验证；维护独立核完整SHA、补丁和截图，未运行附包代码或游戏。
-  未声明实机、全流程通关或全部旧存档兼容。
+补丁：`mini-yonku-gb-v0.1.2-8px.bps`，SHA-256 `f161d09cb7544ec991643e33efd31b029c06e37a4d607609daa1c4c852ae63dd`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-SOURCE-public.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-v0.1.2/mini-yonku-gb-v0.1.2-8px-PATCH-public.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际九宫格](screenshots/mini-yonku-gb-v0.1.2-8px-nine-grid.png)
 
-## 对应版本截图
+v0.1.2普通8px最终ROM的原生SGB九宫格，各原生256×224帧仅2倍整数放大；第5/6格为受控配件ID，第8格为临时时间边界诊断，其余按提供方自然/电池冷读记录；非维护重跑或全流程验收。
 
-![版本 v0.1.1限定测试版／8px／unchanged](screenshots/c2c00f9061b504bcaf7d.png)
+## 测试及限制
 
-四驱兄弟GB初代 v0.1.1限定测试版 普通8px；提供方最终ROM画面，维护实际查看九宫格，不代表维护重跑游戏。
+提供者自然路径：提供方同一最终ROM自测：纯按键新开局、五种初期车型、玩家6字及车辆10字的删除/重输、正常保存；新进程仅载battery的SGB/DMG冷读。
 
-图像SHA256：`c2c00f9061b504bcaf7daa1fcb0d8366077e136cd185049071ebcee2fd06b5e3`；绑定ROM SHA256：`d9fcbb6d887f9c13eafeaf517f9604a6f5cdd69a9be0bfaeabefe123d30df6c5`。
+提供者诊断路径：提供方受控诊断：12车型名称/介绍原生消费者；空槽加29种前杠ID置换后走正常选择/取消/再入；保存摘要临时字段00:00:00、09:09:09、99:59:59，不等于自然解锁全部或实际游玩99小时。
+
+保存边界：未据原件SRAM或空存档推定保存冷读成功。
+
+同一实现者自测，不是独立人员QA；维护未新增ROM运行或源码重建，未宣称实机或完整通关。
+
+- 未验证：维护独立核完整SHA、BPS逐字节、源包CRC/清单/许可证和九宫格像素；未执行提供者代码、重建工程或运行ROM。
+- 未验证：未验证实机、联机、CGB模型、全流程、所有高级配件自然购买、结尾职员表或全部旧存档兼容。
+- 未验证：#118报告实际ROM版本未知；只确认已复现的配件展示乱行/图块损坏及白银前杠分支，静图不能证明永久卡死；二代#76不在本作修复范围。
+- 核对补丁还原、资产完整SHA和截图字节不等于全部游戏功能验收。
 

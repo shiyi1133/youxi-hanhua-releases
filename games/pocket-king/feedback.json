@@ -140,7 +140,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -179,7 +179,9 @@
           "fixed": false,
           "is_repair_completion": false
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -190,7 +192,7 @@
       ],
       "summary": "[BUG待核版本] 口袋国王：人物/光标移动后地图与菜单乱码",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-aa0b1cca78339430"
@@ -201,7 +203,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "delivery_notices": [
@@ -286,7 +290,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|pocket-king-movement-corruption",
@@ -309,5 +313,11 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
-  ]
+  ],
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

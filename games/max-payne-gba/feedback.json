@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "max-payne-gba",
   "game_name": "马克思·佩恩",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11097560613",
@@ -43,7 +43,7 @@
       ],
       "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -97,7 +97,9 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -108,7 +110,7 @@
       ],
       "summary": "[待复现] 马克思·佩恩 v0.1.0：标题“克”字显示不全",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-fdfe6d3f841786d4"
@@ -119,7 +121,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -158,7 +162,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-max-payne-title-clipping",
@@ -184,5 +188,10 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

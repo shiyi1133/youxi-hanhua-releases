@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "wizardry-gaiden-1",
   "game_name": "巫术外传1：女王的受难",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -56,8 +56,8 @@
       ],
       "summary": "[待复现] 巫术外传1：城堡对白刷新及战斗后开菜单瞬间花屏",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "未明；父楼唯一当前交付参考v0.1.0",
       "reported_font": "未明；父楼当前交付为普通8px",
       "actual_reporter_input_sha256": null,
@@ -70,7 +70,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-a069bfcec4b03aed",
+          "game_ids": [
+            "wizardry-gaiden-1"
+          ],
+          "summary": "v012城镇返回首帧与中文门提示覆盖墙纹已修；自然三返回/建筑/王宫/首战战后营地，长门及符文关闭以原生函数指针诊断。旧原案玩家图2整表瞬间花屏曾未自然复现；最新材料未明确逐项证明该完整原现象闭环，保持open更准确。",
+          "state": "open",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.2",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "2353a5903c7bd7aeca7ed3c60ac1946b7fb63e8c58f41dc3a18ebf9ce69ee9d0"
+            }
+          ],
+          "original_input_SHA256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": false,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -81,7 +114,7 @@
       ],
       "summary": "[待复现] 巫术外传1：城堡对白刷新及战斗后开菜单瞬间花屏",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-90acc3391de99e2e"
       ],
@@ -92,10 +125,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-a069bfcec4b03aed",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "v012城镇返回首帧与中文门提示覆盖墙纹已修；自然三返回/建筑/王宫/首战战后营地，长门及符文关闭以原生函数指针诊断。旧原案玩家图2整表瞬间花屏曾未自然复现；最新材料未明确逐项证明该完整原现象闭环，保持open更准确。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "2353a5903c7bd7aeca7ed3c60ac1946b7fb63e8c58f41dc3a18ebf9ce69ee9d0"
+        }
+      ],
+      "original_input_SHA256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-a069bfcec4b03aed",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

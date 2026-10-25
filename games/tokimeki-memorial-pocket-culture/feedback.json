@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "tokimeki-memorial-pocket-culture",
   "game_name": "心跳回忆Pocket：文化篇",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -209,6 +209,22 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069301880",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069301880#154069301880",
+      "created_at": "2026-10-25T13:01:04+08:00",
+      "quote": "请问运动篇和文化篇，可以分别再来个全8px小字版吗？",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "797f6b64313846b33f12cee18ad98672a5ff95848e470631a45af99f502804ac",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -220,7 +236,7 @@
       ],
       "summary": "多位玩家称非主角姓名后原有引号或间隔符号框被去掉。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -358,7 +374,7 @@
       ],
       "summary": "文化篇偷看洗澡事件对话/选项残留日文；公开照片可见日文选项。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -372,7 +388,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-0a940b33ee9327e7",
@@ -381,8 +399,8 @@
         "tokimeki-memorial-pocket-culture"
       ],
       "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "原话未给出；当前v0.1.0仅参考",
       "reported_font": "原话未给出；当前原生混排仅参考",
@@ -395,7 +413,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-4595919452458fb1",
+          "game_ids": [
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "summary": "文艺篇考试名单伊集院レイ这一独立表项",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.7",
+              "font": "native8px-12px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1"
+            }
+          ],
+          "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     },
     {
       "public_case_key": "case-0205475b616eebb1",
@@ -404,9 +455,9 @@
         "tokimeki-memorial-pocket-culture"
       ],
       "summary": "两位玩家讨论女扮男装设定下是否应使用伊集院丽这一中文名；另一位认为不能仅凭名字判断性别。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
-      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "未提供",
       "reported_font": "未提供",
       "actual_reporter_input_sha256": null,
@@ -422,7 +473,40 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-4595919452458fb1",
+          "game_ids": [
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "summary": "文艺篇考试名单伊集院レイ这一独立表项",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.7",
+              "font": "native8px-12px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1"
+            }
+          ],
+          "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     },
     {
       "public_case_key": "case-8e3d11ee61b16388",
@@ -433,7 +517,7 @@
       ],
       "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1（原图两作标题）",
       "reported_font": "原生字号；未独立提供字体文件身份",
@@ -449,7 +533,49 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|tokimeki-memorial-pocket-sport|037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "tokimeki-memorial-pocket-sport"
+          ],
+          "summary": "此次恢复运动篇标题右选“设定”时消失的原生下划线；提供方报告CGB/SGB标题选择和设定入口的限定检查。",
+          "remaining_boundaries": "不扩大到出生/血型确认、跨画面绿线或文化篇；原问题原案仍未完整闭环。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.8",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.8",
+              "font": "native8px-12px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+              "bytes": 8388608
+            }
+          ],
+          "original_input_SHA256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.8",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-a8ffd7bc25258b4f",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
+      ]
     },
     {
       "public_case_key": "case-d233260d5c6055f4",
@@ -460,7 +586,7 @@
       ],
       "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.1（同源图1两作标题）",
       "reported_font": "原生字号；未独立提供字体文件身份",
@@ -642,7 +768,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "fixed": true,
       "partially_fixed": false,
       "latest_bounded_repair": {
@@ -772,7 +898,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-4595919452458fb1",
@@ -780,8 +909,8 @@
         "tokimeki-memorial-pocket-culture"
       ],
       "summary": "玩家对比文艺/体育篇，文艺成绩名单显示伊集院レイ而其它场景及体育篇显示中文。记录成绩名单这一特定消费者。；两位玩家讨论女扮男装设定下是否应使用伊集院丽这一中文名；另一位认为不能仅凭名字判断性别。",
-      "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-0205475b616eebb1",
@@ -795,7 +924,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-93293400b9815d8a",
@@ -805,7 +936,7 @@
       ],
       "summary": "玩家称被动等待进入屏保或按Select主动进入时，随机人物话语仍日文。",
       "state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d233260d5c6055f4"
@@ -966,25 +1097,57 @@
       ],
       "summary": "作者明确同时测试体育篇/文艺篇新版标题：直接开始正常；选右侧游戏设定时确认下划线消失，进入短暂花屏。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-8d026448f7dbc6b7",
         "case-8e3d11ee61b16388"
       ],
       "public_feedback_keys": [
-        "11092365551|154058640162"
+        "11092365551|154058640162",
+        "11092365551|154068754749",
+        "11092365551|154068768689",
+        "11092365551|154069228452"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
+  "acknowledgements": [
+    {
+      "pid": "154070370287",
+      "tid": "11092365551",
+      "parent_pid": "154032152268",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070370287#154070370287",
+      "source_feedback_keys": [
+        "11092365551|154068754749",
+        "11092365551|154068768689",
+        "11092365551|154069220570",
+        "11092365551|154069228452",
+        "11092365551|154069301880"
+      ],
+      "game_ids": [
+        "tokimeki-memorial-pocket-sport",
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "text": "标题、选项闪烁和出生确认显示问题已补充记录。全8px版本的需求也记下了，目前仍是对白12px、密集栏8px。",
+      "text_sha256": "fd3029cf5119a474a7596fc7e56bcb68ecd630322c35d0191f64df1562cb9657",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "version_update_notices": [
     {
       "public_version_reply_key": "version-reply-0e4a735cb8b1bec27f0c",
@@ -1032,5 +1195,43 @@
       "precise_nested_notification_claimed": false,
       "original_actual_notice_receipt_sha256": "9127dca027a10f2d8c5936b0993f38c3488076a7feac8c3cf7c26d0132b8ae3d"
     }
-  ]
+  ],
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇考试名单伊集院レイ这一独立表项",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.7",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1"
+        }
+      ],
+      "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-4595919452458fb1",
+      "classification": "BUG"
+    }
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

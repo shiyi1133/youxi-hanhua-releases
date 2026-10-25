@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "slam-dunk-1",
   "game_name": "灌篮高手1",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -30,8 +30,8 @@
         "slam-dunk-1"
       ],
       "summary": "灌篮高手1进入对战模式后界面两个选项残留日文。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -44,7 +44,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-3e3cad92005bbdf5",
+          "game_ids": [
+            "slam-dunk-1"
+          ],
+          "summary": "非SGB对战页两个选项ひとり/ふたり",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.1",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "8e3cafc68e26a8abc515614a2ee89c6558b0a989176bc8629e4fdaeef66d662e"
+            }
+          ],
+          "original_input_SHA256": "9a4f40bbd5b4a8cbdb99d22df0f7672c8d67aa5dd4717ddcd56c4c9a4d4c5b2d",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -54,7 +87,7 @@
         "slam-dunk-1"
       ],
       "summary": "灌篮高手1进入对战模式后界面两个选项残留日文。",
-      "state": "open",
+      "state": "closed",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d04fd6d2f8bedc6c"
@@ -65,10 +98,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-3e3cad92005bbdf5",
+      "game_ids": [
+        "slam-dunk-1"
+      ],
+      "summary": "非SGB对战页两个选项ひとり/ふたり",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "8e3cafc68e26a8abc515614a2ee89c6558b0a989176bc8629e4fdaeef66d662e"
+        }
+      ],
+      "original_input_SHA256": "9a4f40bbd5b4a8cbdb99d22df0f7672c8d67aa5dd4717ddcd56c4c9a4d4c5b2d",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-3e3cad92005bbdf5",
+      "classification": "REQUEST_OR_OTHER"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

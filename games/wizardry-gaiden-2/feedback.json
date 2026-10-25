@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "wizardry-gaiden-2",
   "game_name": "巫术外传Ⅱ古代皇帝的诅咒",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -97,7 +97,7 @@
       ],
       "summary": "[待核版本与复现] 巫术外传Ⅱ古代皇帝的诅咒：王宫第一页和魔法名称日文，迷宫一段时间后队伍列表乱码",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -122,7 +122,7 @@
       ],
       "summary": "玩家给两图，城镇进入或退出小建筑时一帧花屏；进迷宫立即转身，关闭是否退出冒险提示后残留文字。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1",
       "reported_font": "8px",
@@ -135,7 +135,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -158,7 +160,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-8f9477ec2d041015",
@@ -177,10 +180,19 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

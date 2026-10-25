@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "world-advance-soccer",
   "game_name": "世界足球迈向胜利之路",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11097560613",
@@ -65,8 +65,8 @@
       ],
       "summary": "[待复现] 世界足球迈向胜利之路 v0.1.0：菜单字形/图块异常和多处日文残留",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "0.1.0（容器与游戏子目录文件名）",
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -80,7 +80,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -91,7 +93,7 @@
       ],
       "summary": "[待复现] 世界足球迈向胜利之路 v0.1.0：菜单字形/图块异常和多处日文残留",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-cadf7e70b05ed9fb"
       ],
@@ -103,10 +105,19 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

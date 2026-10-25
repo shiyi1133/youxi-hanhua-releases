@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "zerd-no-densetsu-2",
   "game_name": "扎德传说2：伪神的领域",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -41,8 +41,8 @@
         "zerd-no-densetsu-2"
       ],
       "summary": "同一原反馈两处消费者：行走时下方滚动字幕日文；大地图选择远处目标时中文末尾仍有日文。合并一条漏译问题。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1",
       "reported_font": "8px",
@@ -55,7 +55,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-cbe113ecc76fc175",
+          "game_ids": [
+            "zerd-no-densetsu-2"
+          ],
+          "summary": "行走时横向叙事和大地图远目标日文尾句",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.2",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "37c8d151d20bf898d7451e84b6ad60cb75aa903da5c4e23a1e8155c98fb957cf"
+            }
+          ],
+          "original_input_SHA256": "c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -65,7 +98,7 @@
         "zerd-no-densetsu-2"
       ],
       "summary": "同一原反馈两处消费者：行走时下方滚动字幕日文；大地图选择远处目标时中文末尾仍有日文。合并一条漏译问题。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-e34580633d6185f4"
@@ -76,10 +109,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-cbe113ecc76fc175",
+      "game_ids": [
+        "zerd-no-densetsu-2"
+      ],
+      "summary": "行走时横向叙事和大地图远目标日文尾句",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "37c8d151d20bf898d7451e84b6ad60cb75aa903da5c4e23a1e8155c98fb957cf"
+        }
+      ],
+      "original_input_SHA256": "c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-cbe113ecc76fc175",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

@@ -205,7 +205,7 @@
       ],
       "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -319,18 +319,39 @@
           "public_problem_key": "problem-3109a451a997a3f8",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-d88c313408dc6744",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
         "jikkyou-world-soccer-pocket",
-        "jikkyou-world-soccer-pocket-2"
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "实况世界足球Pocket 1/2 v0.1.0菜单文字位置与间距反馈",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -400,7 +421,9 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-323ec2b5594527a7",
@@ -410,7 +433,7 @@
       ],
       "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -525,7 +548,9 @@
           "public_problem_key": "problem-f667e766b4693537",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "problems": [
@@ -536,7 +561,7 @@
       ],
       "summary": "[待复现] 实况世界足球Pocket 2 v0.1.0：标题及子菜单、存档、战术背景异常",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-f2eb6dac14c4147d"
@@ -603,7 +628,9 @@
           "public_problem_key": "problem-3109a451a997a3f8",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-7cee56fa3698cbd3",
@@ -613,16 +640,20 @@
         "conan-underground",
         "devil-children-kuro",
         "dt-lords-of-genomes",
+        "first-contact-protocol",
         "gegege-kitarou",
         "jikkyou-world-soccer-pocket",
         "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
         "mario-tennis-gb",
         "miracle-of-the-zone-2",
         "monster-traveler",
         "one-piece-grand-line",
         "poyon-dungeon-1",
+        "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
@@ -632,21 +663,25 @@
       "case_keys": [
         "case-1826114663d9d86d",
         "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
         "case-4ab74c8d26e6d9c2",
         "case-4fc1b958aac9569b",
         "case-6bd0fcf592305cbc",
         "case-73251cc6b76d6c92",
         "case-77dad19aec9301d9",
         "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
         "case-abf003d1eb6c9f16",
         "case-adf93c114ce30a75",
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
-        "case-eab2c8ffe4f1ebad"
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -711,6 +746,13 @@
         "11092365551|154054296408",
         "11092365551|154054306070",
         "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -719,9 +761,10 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-f667e766b4693537",
@@ -730,7 +773,7 @@
       ],
       "summary": "[补译/界面建议] 实况世界足球Pocket 2 v0.1.0：等待、球员及阵型提示",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-323ec2b5594527a7"
@@ -797,7 +840,9 @@
           "public_problem_key": "problem-f667e766b4693537",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/jikkyou-world-soccer-pocket-2-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "delivery_notices": [
@@ -887,7 +932,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-soccer-pocket-2-graphics",
@@ -1199,5 +1244,11 @@
       "supplemental_resolution_sha256": "3cf297d94a30b1d247b6fdef3740c264f313a0fd34bb7866f13b18136fd9b948",
       "original_failed_standard_notice_preserved": true
     }
-  ]
+  ],
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 2,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

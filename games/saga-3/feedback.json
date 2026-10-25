@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "saga-3",
   "game_name": "沙加3：时空之霸者（彩色DX基底）",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -196,6 +196,22 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068651661",
+      "parent_pid": "154068011792",
+      "floor": 247,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068651661#154068651661",
+      "created_at": "2026-10-25T09:09:44+08:00",
+      "quote": "版本 SaGa-dx3-8px-music-v1.0.6",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4854f84f6abb6884a4fc352d77a755dd716562781446b4d714417a9940896bd5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -207,8 +223,8 @@
       ],
       "summary": "两张玩家图可见开始游戏上方黑条、数个人物姓名后的黑色方块；需当前精确8px目标对照复现，不牵连8x12目标。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "v1.0.0",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -220,7 +236,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-662052e64f201ac8",
@@ -230,8 +248,8 @@
       ],
       "summary": "球总好学明确8px v1.0.0，战斗/状态光标约1–2秒；后续自行计划换模拟器不能当维护已复现。；另一作者bgcnh只说小字版及iOS Delta，版本未知；新增加速后关加速、对话换行时拖慢线索并入此性能Issue，保持其版本未知。；不因发生于换行时就归排版既有反馈，不惯例索模拟器版本或存档。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "球总好学：v1.0.0；bgcnh：未知",
       "reported_font": "球总好学：8px；bgcnh：小字（具体px未知）",
       "actual_reporter_input_sha256": null,
@@ -246,7 +264,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-986194df0c2816a6",
@@ -256,7 +276,7 @@
       ],
       "summary": "玩家称gb saga3打宙斯转last boss时死机，需精确区分黑白GB日版与彩色DX及实际版本字号。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "未确认（原话gb saga 3）",
       "reported_font": "未确认",
@@ -271,7 +291,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-bb4985895854e375",
@@ -294,7 +316,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261025-0421|saga3-two-freeze-scenes",
@@ -352,6 +374,52 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-c6c9600e674659c2",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：两处卡死报告补充实际版本",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "public_feedback_keys": [
+        "11092365551|154068651661"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-1619|saga3-version-confirmation",
+          "game_ids": [
+            "saga-3"
+          ],
+          "summary": "沙加3 DX：两处卡死报告补充实际版本",
+          "feedback_summary": "玩家已明确SaGa-dx3-8px-music-v1.0.6；登记普通8px音乐版，完整私人ROM字节仍未知；两处卡死继续待复现，不重复询问已回答信息。",
+          "source_feedback_keys": [
+            "11092365551|154068651661"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
       ]
     }
   ],
@@ -363,7 +431,7 @@
       ],
       "summary": "两张玩家图可见开始游戏上方黑条、数个人物姓名后的黑色方块；需当前精确8px目标对照复现，不牵连8x12目标。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-3408333e0cf83365"
       ],
@@ -373,7 +441,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-062ca319b2e0be0a",
@@ -382,7 +453,7 @@
       ],
       "summary": "球总好学明确8px v1.0.0，战斗/状态光标约1–2秒；后续自行计划换模拟器不能当维护已复现。；另一作者bgcnh只说小字版及iOS Delta，版本未知；新增加速后关加速、对话换行时拖慢线索并入此性能Issue，保持其版本未知。；不因发生于换行时就归排版既有反馈，不惯例索模拟器版本或存档。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-662052e64f201ac8"
       ],
@@ -395,7 +466,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-cd54c613b45b5950",
@@ -416,7 +490,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-21d16fad4378d8af",
@@ -426,19 +503,23 @@
       "summary": "[BUG待核版本] 沙加3DX小字：两处战斗卡死与即时状态来源",
       "classification": "BUG",
       "case_keys": [
-        "case-bb4985895854e375"
+        "case-bb4985895854e375",
+        "case-c6c9600e674659c2"
       ],
       "public_feedback_keys": [
         "11092365551|154066454789",
         "11092365551|154066466539",
-        "11092365551|154068011792"
+        "11092365551|154068011792",
+        "11092365551|154068651661"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -474,9 +555,29 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "pid": "154070375194",
+      "tid": "11092365551",
+      "parent_pid": "154068011792",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070375194#154070375194",
+      "source_feedback_keys": [
+        "11092365551|154068651661"
+      ],
+      "game_ids": [
+        "saga-3"
+      ],
+      "text": "收到，已补记为 v1.0.6 普通8px音乐版，两处卡死继续按现有问题排查。",
+      "text_sha256": "2df8238cf4a6730fbdff4fab00f8152bbb15c2b4392a29237c22d51faeb48f0e",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261025-0421|saga3-two-freeze-scenes",
@@ -499,6 +600,35 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|saga3-version-confirmation",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：两处卡死报告补充实际版本",
+      "feedback_summary": "玩家已明确SaGa-dx3-8px-music-v1.0.6；登记普通8px音乐版，完整私人ROM字节仍未知；两处卡死继续待复现，不重复询问已回答信息。",
+      "source_feedback_keys": [
+        "11092365551|154068651661"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-c6c9600e674659c2",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "classification": "BUG"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 4,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

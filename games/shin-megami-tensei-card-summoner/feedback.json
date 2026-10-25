@@ -109,7 +109,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "closed",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -230,7 +230,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -327,7 +327,9 @@
           "public_problem_key": "problem-ab91415dc04b6622",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "problems": [
@@ -338,7 +340,7 @@
       ],
       "summary": "[覆盖反馈] 卡牌召唤师v0.1.0普通8px：正式对战VS页上下两行日文",
       "state": "open",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-e1e312e2ff4d2255"
@@ -407,7 +409,9 @@
           "public_problem_key": "problem-ab91415dc04b6622",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/shin-megami-tensei-card-summoner-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-cf1dcde252ac2624",
@@ -416,7 +420,7 @@
       ],
       "summary": "[BUG待复现] 卡牌召唤师v0.1.0普通8px：取名黑条与主要阶段残留图块",
       "state": "closed",
-      "state_checked_at": "2026-10-24T15:35:39.633387+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-1c81e259d36c5e96"
@@ -524,7 +528,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T15:35:39.633387+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|card-summoner-UI-residual",
@@ -617,5 +621,11 @@
       "precise_nested_notification_claimed": false,
       "original_actual_notice_receipt_sha256": "4f08e78cb1fa3cd6f0b0c34e3de3e3711eabd0baaa2f2e2e2b6185dcc8baf0c8"
     }
-  ]
+  ],
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

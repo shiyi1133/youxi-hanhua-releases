@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "saga-1",
   "game_name": "沙加1／魔界塔士",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -167,8 +167,8 @@
       ],
       "summary": "[待核版本与复现] 沙加1／魔界塔士：游戏内按暂停时背景花屏",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "v1.0.0-test",
       "reported_font": "8px与10px-dialogue",
       "actual_reporter_input_sha256": null,
@@ -205,7 +205,9 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-2af8155d7ffb992e",
@@ -225,8 +227,8 @@
       "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -283,6 +285,57 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-0db6bd45feeb8281",
+          "game_ids": [
+            "saga-1"
+          ],
+          "summary": "原案战斗选择逃跑后停留／死机的四变体消息消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "music",
+              "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "no-music",
+              "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "music",
+              "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "no-music",
+              "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+            }
+          ],
+          "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     },
     {
@@ -303,8 +356,8 @@
       "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -361,6 +414,57 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-62bcf2511c2f1d5f",
+          "game_ids": [
+            "saga-1"
+          ],
+          "summary": "原案战斗阵亡后状态显示似姓名乱码的四变体原生opcode2C消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "music",
+              "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "no-music",
+              "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "music",
+              "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "no-music",
+              "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+            }
+          ],
+          "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     },
     {
@@ -381,8 +485,8 @@
       "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "issue_state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -439,6 +543,57 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-50b68d3495a8eeeb",
+          "game_ids": [
+            "saga-1"
+          ],
+          "summary": "开场选人B返回银行错误这一消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "music",
+              "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "10px-dialogue",
+              "audio_variant": "no-music",
+              "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "music",
+              "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+            },
+            {
+              "version": "v1.0.3",
+              "font": "8px",
+              "audio_variant": "no-music",
+              "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+            }
+          ],
+          "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     }
   ],
@@ -450,7 +605,7 @@
       ],
       "summary": "[待核版本与复现] 沙加1／魔界塔士：游戏内按暂停时背景花屏",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-76320c86dfc96e62"
       ],
@@ -464,7 +619,9 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-0db6bd45feeb8281",
@@ -472,8 +629,8 @@
         "saga-1"
       ],
       "summary": "[BUG待复现] 沙加1 v1.0.1：战斗选择逃跑后死机",
-      "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-2af8155d7ffb992e"
@@ -484,7 +641,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-62bcf2511c2f1d5f",
@@ -492,8 +651,8 @@
         "saga-1"
       ],
       "summary": "[BUG待复现] 沙加1 v1.0.1：战斗阵亡后角色名字乱码",
-      "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-bcecbd38e6efe4aa"
@@ -504,7 +663,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-50b68d3495a8eeeb",
@@ -523,8 +684,10 @@
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state": "open",
-      "state_checked_at": "2026-10-24T17:17:27.152534+08:00"
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -611,7 +774,7 @@
       "is_information_reply": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|saga1-gb-current",
@@ -695,6 +858,158 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-50b68d3495a8eeeb",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "开场选人B返回银行错误这一消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-50b68d3495a8eeeb",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-0db6bd45feeb8281",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "原案战斗选择逃跑后停留／死机的四变体消息消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-0db6bd45feeb8281",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-62bcf2511c2f1d5f",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "原案战斗阵亡后状态显示似姓名乱码的四变体原生opcode2C消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-62bcf2511c2f1d5f",
+      "classification": "BUG"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

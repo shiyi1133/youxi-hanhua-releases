@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "poyon-dungeon-2",
   "game_name": "波永的迷宫2",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -1103,6 +1103,99 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069220570",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069220570#154069220570",
+      "created_at": "2026-10-25T12:32:28+08:00",
+      "quote": "运动篇0.1.3，开始新游戏，确定好自己的出生年月和血型后的界面，画面下方有文本显示重叠或显示不全  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2ded6bce0439be415d247f65a9135f258de1b067932c164118826d6bc24941ea",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/848f4ba7d933c895aeea3f7c971373f083020048.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069220570-1-13243d6d79dc84b128156fc8ef544355c5af06e0f36d6120293b26d1a711df0e.jpg",
+          "sha256": "13243d6d79dc84b128156fc8ef544355c5af06e0f36d6120293b26d1a711df0e",
+          "bytes": 162040,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5298c195d143ad4b50bae1c7c4025aafa50f0648.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069220570-2-0140962934403134ff34995804bb5c3854398ee3b380a14d3bb458cab9cb74af.jpg",
+          "sha256": "0140962934403134ff34995804bb5c3854398ee3b380a14d3bb458cab9cb74af",
+          "bytes": 161952,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069297278",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069297278#154069297278",
+      "created_at": "2026-10-25T12:59:26+08:00",
+      "quote": "8px 0.1.4，第二个迷宫前的村庄，在图1房间，进入后，转职成格斗家职业劈瓦，在劈瓦过程中的界面，显示不明中文，如图2、图3，如秒数后面的“查天下”，图2画面中间位置的“伊上仓……”“旺固……”等   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "742b693572245019f73ba4c476817ad2eca3bc311c930ca77c2f1781b15c1925",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e97bfe03918fa0eccc0cc30a609759ee3c6ddb1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-1-da507d286d9b1fb8d9499f65596cd4d3ae1684469d1f428909b0ff69738beb2c.jpg",
+          "sha256": "da507d286d9b1fb8d9499f65596cd4d3ae1684469d1f428909b0ff69738beb2c",
+          "bytes": 223017,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b36a658bceae5cc7cd98c109d1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-2-30c4d3cbaf2f0b29b5f11b37b98b59eb46d4d669df6e1569b2cec88945eedfd4.jpg",
+          "sha256": "30c4d3cbaf2f0b29b5f11b37b98b59eb46d4d669df6e1569b2cec88945eedfd4",
+          "bytes": 146564,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef760942c13e9868dda3cc7dd99e1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-3-cfa64aa0ef00e48eeae041999d6d1ecb99d39d2d9cea0cec9d9ac634ca19e855.jpg",
+          "sha256": "cfa64aa0ef00e48eeae041999d6d1ecb99d39d2d9cea0cec9d9ac634ca19e855",
+          "bytes": 158370,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069350075",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069350075#154069350075",
+      "created_at": "2026-10-25T13:17:24+08:00",
+      "quote": "8px 0.1.4，文本框内文本超出方框 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cf13a6783300a5b9cc4bd89d45017a020541c5c4786f59f9634e379dbc6476c5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40fcec368daed64034f79f019df.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069350075-1-becc9f8c68c2b204f0d323711cd02cc2c92f960c49e8066ae5753042b6b7c3ce.jpg",
+          "sha256": "becc9f8c68c2b204f0d323711cd02cc2c92f960c49e8066ae5753042b6b7c3ce",
+          "bytes": 228256,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1114,7 +1207,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善",
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "0.1版",
       "reported_font": "8px",
@@ -1146,7 +1239,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有图块/菜单显示问题，本次实际同编号补充仍按BUG登记；未新建问题。",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -1265,6 +1358,47 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "semantic_type": "PURE_BUG",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+          "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.8",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.8",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-f0b3edaaeebec4f9",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
       ]
     },
     {
@@ -1275,8 +1409,8 @@
       ],
       "summary": "波永2：8px v0.1.0战斗选项说明及道具菜单错误",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "8px，0.1版 / 8px v0.1.0",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -1299,7 +1433,49 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+          "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.8",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.8",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-f0b3edaaeebec4f9",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
+      ]
     },
     {
       "public_case_key": "case-7709e9b584b204e8",
@@ -1309,7 +1485,7 @@
       ],
       "summary": "原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.4",
       "reported_font": "8px",
@@ -1329,13 +1505,75 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+          "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.8",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.8",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-f0b3edaaeebec4f9",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
+      ]
     },
     {
       "public_case_key": "case-ec0244e7436f6ab8",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
-        "poyon-dungeon-2"
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "波永的迷宫2 v0.1.4普通8px：两句拾取物品文本越右边框",
       "classification": "BUG",
@@ -1351,7 +1589,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261025-0421|poyon2-v014-two-overflow-consumers",
@@ -1390,6 +1628,140 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-515c3e3b410c3f8b",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：格斗家劈瓦界面异常字",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "public_feedback_keys": [
+        "11092365551|154069297278"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-1619|poyon-minigame",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：格斗家劈瓦界面异常字",
+          "feedback_summary": "玩家报告普通8px v0.1.4劈瓦小游戏异常字；新交付的迷你机械改装房是不同消费者，本条保持待排查。",
+          "source_feedback_keys": [
+            "11092365551|154069297278"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ],
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+          "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.8",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.8",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-f0b3edaaeebec4f9",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-d58d5b9be1821f26",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "波永2与心跳回忆运动篇：文本越框及出生确认重叠",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "public_feedback_keys": [
+        "11092365551|154069350075",
+        "11092365551|154069220570"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-1619|layout-two-games",
+          "game_ids": [
+            "poyon-dungeon-2",
+            "tokimeki-memorial-pocket-sport"
+          ],
+          "summary": "波永2与心跳回忆运动篇：文本越框及出生确认重叠",
+          "feedback_summary": "分别保留波永2普通8px v0.1.4越框、运动篇v0.1.3出生年月/血型确认后重叠，不把其它菜单改动当作两处已修。",
+          "source_feedback_keys": [
+            "11092365551|154069350075",
+            "11092365551|154069220570"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
       ]
     }
   ],
@@ -1401,9 +1773,10 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
+        "case-515c3e3b410c3f8b",
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449"
@@ -1443,14 +1816,16 @@
         "11092365551|154065541954",
         "11092365551|154066475055",
         "11092365551|154066523183",
-        "11092365551|154066531004"
+        "11092365551|154066531004",
+        "11092365551|154069297278"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有运行/显示BUG；本次只补同编号已登记范围，不新增问题。"
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-7cee56fa3698cbd3",
@@ -1473,6 +1848,7 @@
         "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
@@ -1495,6 +1871,7 @@
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
@@ -1569,6 +1946,8 @@
         "11092365551|154066502119",
         "11092365551|154066519512",
         "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -1577,9 +1956,10 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -1704,9 +2084,30 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "pid": "154070364931",
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070364931#154070364931",
+      "source_feedback_keys": [
+        "11092365551|154069297278",
+        "11092365551|154069350075"
+      ],
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "text": "劈瓦界面的异常字和文本越框都已记录，图片已留存，后续继续排查。",
+      "text_sha256": "060e60a607bbd109ba6c65db6d1bef810596ce85a69266c217e42ba3d3679757",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",
@@ -1797,6 +2198,100 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|poyon-minigame",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：格斗家劈瓦界面异常字",
+      "feedback_summary": "玩家报告普通8px v0.1.4劈瓦小游戏异常字；新交付的迷你机械改装房是不同消费者，本条保持待排查。",
+      "source_feedback_keys": [
+        "11092365551|154069297278"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-515c3e3b410c3f8b",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|layout-two-games",
+      "game_ids": [
+        "poyon-dungeon-2",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "波永2与心跳回忆运动篇：文本越框及出生确认重叠",
+      "feedback_summary": "分别保留波永2普通8px v0.1.4越框、运动篇v0.1.3出生年月/血型确认后重叠，不把其它菜单改动当作两处已修。",
+      "source_feedback_keys": [
+        "11092365551|154069350075",
+        "11092365551|154069220570"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-d58d5b9be1821f26",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+      "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.8",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 2,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

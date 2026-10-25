@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mayor-of-sanctuary",
   "game_name": "庇护区区长",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -52,8 +52,8 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "reported_version": "v1.0.0",
       "reported_font": "8px",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -105,6 +105,39 @@
           "player_clear_statement_only": true,
           "maintainer_full_playthrough_acceptance": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-04cccd019baeb936",
+          "game_ids": [
+            "mayor-of-sanctuary"
+          ],
+          "summary": "START后SELECT收藏页英文恢复",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.1",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "a754ecccf9ed492e3d77258697133613aaa321f7bbab7e1831f3719698a60778"
+            }
+          ],
+          "original_input_SHA256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     }
   ],
@@ -115,8 +148,8 @@
         "mayor-of-sanctuary"
       ],
       "summary": "[覆盖反馈] 庇护区区长：START后SELECT收藏品界面恢复英文",
-      "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-5548a0af702d1591"
@@ -127,7 +160,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -161,7 +196,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|mayor-collection-English",
@@ -183,6 +218,42 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-04cccd019baeb936",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "summary": "START后SELECT收藏页英文恢复",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "a754ecccf9ed492e3d77258697133613aaa321f7bbab7e1831f3719698a60778"
+        }
+      ],
+      "original_input_SHA256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-04cccd019baeb936",
+      "classification": "REQUEST_OR_OTHER"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mini-yonku-gb",
   "game_name": "四驱兄弟GB初代",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -310,7 +310,7 @@
       ],
       "summary": "[待复现] 四驱兄弟GB v0.1.0普通8px：文本框顶边缺段及初始车介绍异常",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -336,7 +336,7 @@
       ],
       "summary": "玩家建议三游戏保留原Logo及图像，把中文名另列下方；马网另提英文Logo候选。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "马网v1.0.1；四驱两作v0.1.1",
       "reported_font": "8px",
@@ -358,7 +358,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-65192b03d46ef48b",
@@ -368,7 +370,7 @@
       ],
       "summary": "购初始车辆后两张全身图上方名称一辆仅显示“蛇”、另一辆空白。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1",
       "reported_font": "8px",
@@ -501,7 +503,7 @@
       ],
       "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -689,7 +691,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-b8328f670d349620",
@@ -719,7 +722,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-6969c5ef348cf4d0",
@@ -739,7 +745,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "fixed": true,
       "partially_fixed": false,
       "latest_bounded_repair": {
@@ -858,7 +864,7 @@
       ],
       "summary": "四驱兄弟GB初代：更换零件时展示区域黑屏、列表异常，玩家称无法继续",
       "state": "closed",
-      "state_checked_at": "2026-10-25T01:23:29.458310+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-d89d628b639f1435"
@@ -1018,7 +1024,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T01:23:29.458310+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",
@@ -1042,5 +1048,10 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

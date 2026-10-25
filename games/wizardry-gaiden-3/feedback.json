@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "wizardry-gaiden-3",
   "game_name": "巫术外传Ⅲ暗之圣典",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -66,9 +66,9 @@
         "wizardry-gaiden-3"
       ],
       "summary": "[待核版本与复现] 巫术外传Ⅲ暗之圣典：遇敌右下角偶发乱码、画面切换约1秒整体乱码",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -82,7 +82,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-2785e9dab704f7f5",
+          "game_ids": [
+            "wizardry-gaiden-3"
+          ],
+          "summary": "旧原案遇敌末尾乱码及城镇切换首帧显示消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.2",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "3da9d8006b2b0f8b871298c8d028d9efae2b3bc7de9cea962df7f18f730e2ec3"
+            }
+          ],
+          "original_input_SHA256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -92,8 +125,8 @@
         "wizardry-gaiden-3"
       ],
       "summary": "[待核版本与复现] 巫术外传Ⅲ暗之圣典：遇敌右下角偶发乱码、画面切换约1秒整体乱码",
-      "state": "open",
-      "classification": "UNCLASSIFIED",
+      "state": "closed",
+      "classification": "BUG",
       "case_keys": [
         "case-27aea9c599994f1c"
       ],
@@ -105,10 +138,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-2785e9dab704f7f5",
+      "game_ids": [
+        "wizardry-gaiden-3"
+      ],
+      "summary": "旧原案遇敌末尾乱码及城镇切换首帧显示消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "3da9d8006b2b0f8b871298c8d028d9efae2b3bc7de9cea962df7f18f730e2ec3"
+        }
+      ],
+      "original_input_SHA256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-2785e9dab704f7f5",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

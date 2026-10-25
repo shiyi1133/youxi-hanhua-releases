@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mini-yonku-gb-2",
   "game_name": "四驱兄弟：全明星对战",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -287,7 +287,7 @@
       ],
       "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -314,7 +314,7 @@
       ],
       "summary": "玩家建议三游戏保留原Logo及图像，把中文名另列下方；马网另提英文Logo候选。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "马网v1.0.1；四驱两作v0.1.1",
       "reported_font": "8px",
@@ -336,7 +336,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-e6f4d68313124d8e",
@@ -345,8 +347,8 @@
         "mini-yonku-gb-2"
       ],
       "summary": "新v0.1.1普通8px反馈存档页游戏时间字段异常与多场景边框缺线。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.1",
       "reported_font": "8px",
@@ -360,7 +362,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-1b19e8d4feeca2e4",
+          "game_ids": [
+            "mini-yonku-gb-2"
+          ],
+          "summary": "记录页时间分隔符与文字框上横线两个消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.2",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011"
+            }
+          ],
+          "original_input_SHA256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -383,7 +418,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-b8328f670d349620",
@@ -413,7 +449,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-1b19e8d4feeca2e4",
@@ -421,7 +460,7 @@
         "mini-yonku-gb-2"
       ],
       "summary": "新v0.1.1普通8px反馈存档页游戏时间字段异常与多场景边框缺线。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-e6f4d68313124d8e"
@@ -433,10 +472,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-1b19e8d4feeca2e4",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "记录页时间分隔符与文字框上横线两个消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011"
+        }
+      ],
+      "original_input_SHA256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-1b19e8d4feeca2e4",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

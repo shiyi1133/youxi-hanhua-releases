@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "sound-of-thunder-gba",
   "game_name": "雷霆之音",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11097560613",
@@ -43,7 +43,7 @@
       ],
       "summary": "[界面建议] 雷霆之音 v0.1.0：“简体中文”旁旗帜图标",
       "issue_state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -98,7 +98,9 @@
           "flag_scope_note": "国旗替换为建议，不按功能性纯BUG计数。"
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "problems": [
@@ -109,7 +111,7 @@
       ],
       "summary": "[界面建议] 雷霆之音 v0.1.0：“简体中文”旁旗帜图标",
       "state": "open",
-      "state_checked_at": "2026-10-23T17:12:10.147024+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-3158f504568463df"
@@ -120,7 +122,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -159,7 +163,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T17:12:10.147024+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-thunder-language-flag-suggestion",
@@ -185,5 +189,10 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

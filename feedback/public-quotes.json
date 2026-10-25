@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 553,
+  "count": 565,
   "rows": [
     {
       "tid": "11092365551",
@@ -12313,9 +12313,370 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068651661",
+      "parent_pid": "154068011792",
+      "floor": 247,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068651661#154068651661",
+      "created_at": "2026-10-25T09:09:44+08:00",
+      "quote": "版本 SaGa-dx3-8px-music-v1.0.6",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4854f84f6abb6884a4fc352d77a755dd716562781446b4d714417a9940896bd5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068754749",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068754749#154068754749",
+      "created_at": "2026-10-25T09:48:30+08:00",
+      "quote": "运动篇0.1.3，标题画面的副标题“体育篇 校园的……”，这一行字显示不全，观感上字体的顶部少了一截 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "24dc2f1dfe3090d6c408acd3d51207c5407a63d3181e2cd4b13ecc43b6ef9748",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/91e7580fd9f9d72a86efb51a922a2834359bbb5e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154068754749-1-8eb6fa27102bbb5f43ad84153f3c147a63855e518711d9d87b39dd479363b88b.jpg",
+          "sha256": "8eb6fa27102bbb5f43ad84153f3c147a63855e518711d9d87b39dd479363b88b",
+          "bytes": 204241,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068768689",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068768689#154068768689",
+      "created_at": "2026-10-25T09:53:36+08:00",
+      "quote": "运动篇0.1.3，在标题画面，默认是“游戏开始”，默认选定此选项的时候“游戏开始”字样的下方有一条绿色横线，表示选定了此选项。但按方向键“右”之后绿色横线消失（图2左下角），不确定是否已选定图1、图2的右下角的“游戏设定”选项，且这时按“start”键时，“游戏设定”字样会出现花屏（图3右下角）   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d21f26f48216c591b71792d67adf6f250423972231464aaf93615d0a63d5b5dc",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/47146581800a19d8ff84210275fa828ba71e4659.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154068768689-1-077c1fb6a20a720c43af9e70958c714afc051f2dd78b754fef91d44d7bfa2bdb.jpg",
+          "sha256": "077c1fb6a20a720c43af9e70958c714afc051f2dd78b754fef91d44d7bfa2bdb",
+          "bytes": 205920,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/91e7580fd9f9d72a86e3b51a922a2834359bbb5a.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154068768689-2-c0503e3ba45f49438c163cf53467e6ae124d10d6ae523d052106b98d6886b9bb.jpg",
+          "sha256": "c0503e3ba45f49438c163cf53467e6ae124d10d6ae523d052106b98d6886b9bb",
+          "bytes": 202895,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/35a26263f6246b60d3891773adf81a4c500fa25a.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154068768689-3-13f305e1d6fec60a5f8ad1f35f78748f4c4eb79f51865d2acb216bdb2d4e4bd7.jpg",
+          "sha256": "13f305e1d6fec60a5f8ad1f35f78748f4c4eb79f51865d2acb216bdb2d4e4bd7",
+          "bytes": 206948,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154068887213",
+      "parent_pid": "154064125435",
+      "floor": 238,
+      "public_nickname": "yangdi3222",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154068887213#154068887213",
+      "created_at": "2026-10-25T10:36:24+08:00",
+      "quote": "大佬你好 请问大概需要几天能汉化好",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "38052f080eb72d5a324403dc96561cd7d06827a6864f63f0548ccfdd5f182007",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069220570",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069220570#154069220570",
+      "created_at": "2026-10-25T12:32:28+08:00",
+      "quote": "运动篇0.1.3，开始新游戏，确定好自己的出生年月和血型后的界面，画面下方有文本显示重叠或显示不全  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2ded6bce0439be415d247f65a9135f258de1b067932c164118826d6bc24941ea",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/848f4ba7d933c895aeea3f7c971373f083020048.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069220570-1-13243d6d79dc84b128156fc8ef544355c5af06e0f36d6120293b26d1a711df0e.jpg",
+          "sha256": "13243d6d79dc84b128156fc8ef544355c5af06e0f36d6120293b26d1a711df0e",
+          "bytes": 162040,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5298c195d143ad4b50bae1c7c4025aafa50f0648.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069220570-2-0140962934403134ff34995804bb5c3854398ee3b380a14d3bb458cab9cb74af.jpg",
+          "sha256": "0140962934403134ff34995804bb5c3854398ee3b380a14d3bb458cab9cb74af",
+          "bytes": 161952,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069228452",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069228452#154069228452",
+      "created_at": "2026-10-25T12:35:13+08:00",
+      "quote": "运动篇0.1.3，进入游戏，选择“游戏开始”后，光标会闪烁，闪烁的时候，右侧“游戏设定”字样会有显示不全或文字被白框遮挡的情况，图2下方“游戏设定”的“游”字左边部分被遮挡  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a390dce6143fe1b6e990f82c8351f62b59b0d9f65fb95f36fc0c4c1c28fb66ee",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bd7a262eb9389b50566c4755c335e5dde6116e55.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069228452-1-e4def77f3eb55e0e280ce3963466ba4dfe87e93a48b2595a47c9764ce52968c3.jpg",
+          "sha256": "e4def77f3eb55e0e280ce3963466ba4dfe87e93a48b2595a47c9764ce52968c3",
+          "bytes": 212775,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/40447f094b36acaf257331fb3ad98d1000e99c55.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069228452-2-691fe0eb3582a98a744f1c8739db46f2b43e10cf5993a9e72b902a5a63274f08.jpg",
+          "sha256": "691fe0eb3582a98a744f1c8739db46f2b43e10cf5993a9e72b902a5a63274f08",
+          "bytes": 201852,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069297278",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069297278#154069297278",
+      "created_at": "2026-10-25T12:59:26+08:00",
+      "quote": "8px 0.1.4，第二个迷宫前的村庄，在图1房间，进入后，转职成格斗家职业劈瓦，在劈瓦过程中的界面，显示不明中文，如图2、图3，如秒数后面的“查天下”，图2画面中间位置的“伊上仓……”“旺固……”等   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "742b693572245019f73ba4c476817ad2eca3bc311c930ca77c2f1781b15c1925",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e97bfe03918fa0eccc0cc30a609759ee3c6ddb1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-1-da507d286d9b1fb8d9499f65596cd4d3ae1684469d1f428909b0ff69738beb2c.jpg",
+          "sha256": "da507d286d9b1fb8d9499f65596cd4d3ae1684469d1f428909b0ff69738beb2c",
+          "bytes": 223017,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ba06c2ef76094b36a658bceae5cc7cd98c109d1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-2-30c4d3cbaf2f0b29b5f11b37b98b59eb46d4d669df6e1569b2cec88945eedfd4.jpg",
+          "sha256": "30c4d3cbaf2f0b29b5f11b37b98b59eb46d4d669df6e1569b2cec88945eedfd4",
+          "bytes": 146564,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/875f38adcbef760942c13e9868dda3cc7dd99e1e.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069297278-3-cfa64aa0ef00e48eeae041999d6d1ecb99d39d2d9cea0cec9d9ac634ca19e855.jpg",
+          "sha256": "cfa64aa0ef00e48eeae041999d6d1ecb99d39d2d9cea0cec9d9ac634ca19e855",
+          "bytes": 158370,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069301880",
+      "parent_pid": "154032152268",
+      "floor": 83,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069301880#154069301880",
+      "created_at": "2026-10-25T13:01:04+08:00",
+      "quote": "请问运动篇和文化篇，可以分别再来个全8px小字版吗？",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "797f6b64313846b33f12cee18ad98672a5ff95848e470631a45af99f502804ac",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069350075",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069350075#154069350075",
+      "created_at": "2026-10-25T13:17:24+08:00",
+      "quote": "8px 0.1.4，文本框内文本超出方框 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cf13a6783300a5b9cc4bd89d45017a020541c5c4786f59f9634e379dbc6476c5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40fcec368daed64034f79f019df.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069350075-1-becc9f8c68c2b204f0d323711cd02cc2c92f960c49e8066ae5753042b6b7c3ce.jpg",
+          "sha256": "becc9f8c68c2b204f0d323711cd02cc2c92f960c49e8066ae5753042b6b7c3ce",
+          "bytes": 228256,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069368179",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069368179#154069368179",
+      "created_at": "2026-10-25T13:23:41+08:00",
+      "quote": "城下镇多处未翻译：木桶调查，道具店老板对话，道具购买页面，猫的对话，路牌调查，下水道对话         ",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "a9d1fbe5187be488d1a5dd4ecbb33c4ae20bb7b5f4034adfd6bbfb8e976f945a",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7bb433292df5e0feb56e2f061a6034a85fdf72ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-1-f7cd791bcdaa0e08366fde267b0bf900663efce01fc1413bd6d8654904e5d755.jpg",
+          "sha256": "f7cd791bcdaa0e08366fde267b0bf900663efce01fc1413bd6d8654904e5d755",
+          "bytes": 185274,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7651a651f3deb48faa1f07d9b61f3a292cf578ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-2-09bcc72cfe922065c646599e8292a8b3e29ca8e9ae9c838b4f76aeab58bf09c8.jpg",
+          "sha256": "09bcc72cfe922065c646599e8292a8b3e29ca8e9ae9c838b4f76aeab58bf09c8",
+          "bytes": 180632,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/329392504fc2d5629f7e76eaa11190ef77c66cea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-3-b62ceac3236ccbac51bd1eff0229577297a7d9f323d2382deb35ece4c20aa248.jpg",
+          "sha256": "b62ceac3236ccbac51bd1eff0229577297a7d9f323d2382deb35ece4c20aa248",
+          "bytes": 240548,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/10fb46c2d5628535fe967426d6ef76c6a6ef63ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-4-1a94dbbbbd1fd7f789edf90c97a3a973a16cbdd3eb6d1fcd4a2ac854e071ade4.jpg",
+          "sha256": "1a94dbbbbd1fd7f789edf90c97a3a973a16cbdd3eb6d1fcd4a2ac854e071ade4",
+          "bytes": 123867,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/07ff9deef01f3a2907be73c9df25bc315d607cea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-5-41a39195da5fbd98678f1ce9732dae99516410b4849e952fccee95ed78289d3f.jpg",
+          "sha256": "41a39195da5fbd98678f1ce9732dae99516410b4849e952fccee95ed78289d3f",
+          "bytes": 221016,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0e9eecdde71190ef688d34d8881b9d16fcfa60ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-6-adc9917edea1f659a3e9bdce9cf62873ce871c2d647dca3f05afd46625c89f06.jpg",
+          "sha256": "adc9917edea1f659a3e9bdce9cf62873ce871c2d647dca3f05afd46625c89f06",
+          "bytes": 202827,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac21349540923e81fc579d458d109b2de49ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-7-30c0310f3341bdc431c068168524756503686a57889289dbc5b550bb3ef24329.jpg",
+          "sha256": "30c0310f3341bdc431c068168524756503686a57889289dbc5b550bb3ef24329",
+          "bytes": 216968,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38759582d158ccbf51ca133d5fd8bc3eb03541ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-8-6c64c63649af4c1da3d91dd786c40f6cafcbb181d420572ee142380335c49844.jpg",
+          "sha256": "6c64c63649af4c1da3d91dd786c40f6cafcbb181d420572ee142380335c49844",
+          "bytes": 216831,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8288d454564e9258e94220e9da82d158cdbf4eea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-9-b268ecc84a0b8f1c5eff2e1b13cba5be518e53f0042c5d37012f60e8590322d5.jpg",
+          "sha256": "b268ecc84a0b8f1c5eff2e1b13cba5be518e53f0042c5d37012f60e8590322d5",
+          "bytes": 265082,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069374152",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069374152#154069374152",
+      "created_at": "2026-10-25T13:25:48+08:00",
+      "quote": "字号小，线条粗，有些字会看不清",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "c29adfc39ef55e394fbe5fbfb9d64b200417e8b04acbe3daa9690e9310660879",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069723421",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069723421#154069723421",
+      "created_at": "2026-10-25T15:26:14+08:00",
+      "quote": "回報oni3，目前版本ONI-III-v0.1.2-8px。 地名目前僅遠夜町有漢化，其他地名尚未漢化。 另敵人名字在登場時正常，但顯示敵人受傷時會在敵人名後多一個日文字。 目前已推進至70%進度左右，尚未遇到任何會影響通關的死機bug，完畢  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8f2a7bf5dbd4bf382c731c451f181dde6f52d6412629f9135b5df3e78682f619",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fadbbbc0f5930e924b999f353.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069723421-1-3badef233f1018ce6c5d6f6a2b26be40476de2d8bff2ea7ef4b8eb3bda23e813.jpg",
+          "sha256": "3badef233f1018ce6c5d6f6a2b26be40476de2d8bff2ea7ef4b8eb3bda23e813",
+          "bytes": 1543280,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0caaa88b87d6277f379c933f6e381f30e824fc53.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069723421-2-050dec74529d247f2f6e4ef82ebfe6c26798125cea2455e3c80e9872731b30e0.jpg",
+          "sha256": "050dec74529d247f2f6e4ef82ebfe6c26798125cea2455e3c80e9872731b30e0",
+          "bytes": 1575128,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00"
 }

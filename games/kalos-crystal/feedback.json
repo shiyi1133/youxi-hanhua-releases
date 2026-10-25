@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "kalos-crystal",
   "game_name": "卡洛斯水晶",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11090183907",
@@ -497,8 +497,8 @@
       ],
       "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -546,7 +546,9 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-7831b22987e25ae8",
@@ -556,8 +558,8 @@
       ],
       "summary": "场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -574,7 +576,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-170de8c1bd891587",
@@ -584,7 +588,7 @@
       ],
       "summary": "已查看Will you check the clock for me / Zzz... Hm? Wha...? You woke me up!及SWITCH/STATS/CANCEL画面。；当前README声明有230项未确认片段，但未明确这几个消费者是否已覆盖；先对照发布源范围，不将所有英文残留称新增回归。；原ASCII命名页/英文默认名保留本身不直接登记程序BUG。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": null,
       "reported_font": null,
@@ -610,7 +614,7 @@
       ],
       "summary": "玩家报告没拿到图鉴之前不能进化，进化时卡死，附两图。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "此前照片v0.1.1，后续是否更换未证",
       "reported_font": "此前照片普通8px",
@@ -625,7 +629,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-029fdff12a7837d9",
@@ -635,7 +641,7 @@
       ],
       "summary": "玩家补充游戏厅精灵兑换列表、龙穴问题选择项仍是英文，两张图实际查看。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "同一原楼先前PID154046917205明确v0.1.3；新图未附ROM哈希",
       "reported_font": "8px（当前发布参考）",
@@ -649,7 +655,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-7e8f6d8de006e3a0",
@@ -659,7 +667,7 @@
       ],
       "summary": "玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "未提供",
       "reported_font": "未提供",
@@ -676,7 +684,9 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -687,8 +697,8 @@
       ],
       "summary": "粉色杂乱怪兽页与战斗图上的残字均有实际图片；abcd瞬态以原话保存，不能从静态图确认全部。；与同作者跨两个征集帖反馈按来源PID合并，版本/字号/完整ROM哈希保持未知。；玩家补充所有攻击都会变色，选择攻击后退出来即上色、攻击完成后恢复，并称原版不会；另提宝可梦水晶数码暴龙。",
       "state": "open",
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "case_keys": [
         "case-7e8f6d8de006e3a0",
         "case-eaf53b75946aeea2"
@@ -714,7 +724,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-581944442a9bd2d1",
@@ -723,7 +735,7 @@
       ],
       "summary": "场景由玩家明确描述，截图不能证明帧率或回归原因；不因换行处卡顿而路由排版既有反馈。；鸡蛋进度疑虑另作待信息观察，不先假定与界面拖慢同根因。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-7831b22987e25ae8"
       ],
@@ -738,7 +750,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-b2eda94afd468b96",
@@ -760,7 +775,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-f7a2ebfcc8625c94",
@@ -781,7 +797,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-a01516d2ecd1837a",
@@ -801,7 +820,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -833,7 +855,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|kalos-digimon-current-version-kalos-crystal",
@@ -857,5 +879,10 @@
       "public_Issue_created": false,
       "source_api_body_copied": false
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 4,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

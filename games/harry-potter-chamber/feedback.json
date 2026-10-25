@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "harry-potter-chamber",
   "game_name": "哈利波特与密室",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -42,9 +42,9 @@
         "harry-potter-chamber"
       ],
       "summary": "哈利波特与密室：标题Logo漏“与”字",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -79,7 +79,46 @@
           "is_repair_completion": false
         }
       ],
-      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00"
+      "latest_scoped_feedback_update_at": "2026-10-23T05:40:13.981294+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-ffdad8416300591b",
+          "game_ids": [
+            "harry-potter-chamber"
+          ],
+          "summary": "两字号标题连接字与缺失",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.4",
+              "font": "10px-dialogue",
+              "audio_variant": "unchanged",
+              "output_SHA256": "18f42d86fc899e55652a5434fecf2354e1aeb72700c6b847a217ad852f941271"
+            },
+            {
+              "version": "v1.0.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "719475a2a25d72d7252e6cbf400032dfdfff8de06eb90d8f38fcdeb5df82a13c"
+            }
+          ],
+          "original_input_SHA256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -89,8 +128,8 @@
         "harry-potter-chamber"
       ],
       "summary": "哈利波特与密室：标题Logo漏“与”字",
-      "state": "open",
-      "classification": "UNCLASSIFIED",
+      "state": "closed",
+      "classification": "BUG",
       "case_keys": [
         "case-d4752ef8d279d85c"
       ],
@@ -102,7 +141,35 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-23T05:40:13.981294+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-7376f47bbd3b1656",
+      "game_ids": [
+        "harry-potter-chamber",
+        "harry-potter-stone"
+      ],
+      "summary": "哈利波特与魔法石：大字版字体bank中断恢复导致随机乱码（v1.0.2已修复）",
+      "state": "closed",
+      "classification": "UNCLASSIFIED",
+      "case_keys": [
+        "case-74baf4213f7d5205"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154021719147",
+        "11092365551|154021727639",
+        "11092365551|154021728607",
+        "11092365551|154025248449",
+        "11092365551|154025427615",
+        "11092365551|154025842621"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -134,7 +201,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-23T05:40:13.981294+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|hp2-logo",
@@ -156,6 +223,48 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "两字号标题连接字与缺失",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.4",
+          "font": "10px-dialogue",
+          "audio_variant": "unchanged",
+          "output_SHA256": "18f42d86fc899e55652a5434fecf2354e1aeb72700c6b847a217ad852f941271"
+        },
+        {
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "719475a2a25d72d7252e6cbf400032dfdfff8de06eb90d8f38fcdeb5df82a13c"
+        }
+      ],
+      "original_input_SHA256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-ffdad8416300591b",
+      "classification": "BUG"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "first-contact-protocol",
   "game_name": "第一次接触协议",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -152,7 +152,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261025-0421|first-contact-avatar-character-tearing",
@@ -196,13 +196,66 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-089c35eec50e9f50",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "人物对白头像字符覆盖和六人物新日记头像撕裂",
+          "state": "open",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.1",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "f483688611402ebec132cedcaaf9744318471a49a91b801025ae3480a0aecaf0"
+            }
+          ],
+          "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": false,
+          "new_diary_scope": "DIAGNOSTIC_ONLY_NOT_NATURAL_PLAYER_TRIGGER",
+          "original_script_tokens": "PRESERVED_ORIGINAL_CONTENT_NOT_REPAIRED"
+        }
       ]
     },
     {
       "public_case_key": "case-a10f735ac4e1950f",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
-        "first-contact-protocol"
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "第一次接触协议：数字与英文错行可读性反馈",
       "classification": "BUG",
@@ -217,7 +270,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261025-0421|first-contact-numeric-English-layout",
@@ -261,7 +314,9 @@
           "fixed": false,
           "is_repair_completion": false
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -283,7 +338,9 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-7cee56fa3698cbd3",
@@ -306,6 +363,7 @@
         "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
@@ -328,6 +386,7 @@
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
@@ -402,6 +461,8 @@
         "11092365551|154066502119",
         "11092365551|154066519512",
         "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -410,9 +471,10 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -488,7 +550,43 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "人物对白头像字符覆盖和六人物新日记头像撕裂",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f483688611402ebec132cedcaaf9744318471a49a91b801025ae3480a0aecaf0"
+        }
+      ],
+      "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": "DIAGNOSTIC_ONLY_NOT_NATURAL_PLAYER_TRIGGER",
+      "original_script_tokens": "PRESERVED_ORIGINAL_CONTENT_NOT_REPAIRED",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 2,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

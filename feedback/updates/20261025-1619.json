@@ -1,0 +1,1435 @@
+{
+  "schema": "public_r03_actual_old_scoped_results_new4_Git_only_open_progress_and_partial_cloud_v1",
+  "run_id": "20261025-1619",
+  "bindings": {
+    "source_plan_sha256": "6ee50346d8cbec46db1693857dd3b8d93ed5d54c71435cdcd89cec4213b02d3c",
+    "actual6_registration_sha256": "f658ee2b5b97cf001b45b574ab0f7e0692fe79aacb6592672d9b4b5c2ff2a364",
+    "actual6_ACK_registry_proof_sha256": "2702cf1d1954ab2dffd15f4f71cf89c397c0047648fc4bf45cdab7abec28ef40",
+    "actual_finite_result_receipt_SHA256s": {
+      "manual14-actual-Issue-receipts-public.json": "8faf1060b28f8c9d1f6ea0d72acbf7a0a9f06739dd4edd921cb04f9aebcec0fd",
+      "supplemental7-actual-Issue-receipts-public.json": "3c6413b683e4f915b11e7c369b179faadd6445dd45e634621ad02070faff412b",
+      "partial4-actual-Issue-receipts-public.json": "06bb76857bc55e08460be40babdb0403373a473b6ec53b285603b6ae03c65cdf"
+    },
+    "reviewed_case_scope_plan_SHA256s": {
+      "manual35-Issue-scope-proposal-private.json": "b6218c032b9908e0d891f9feb7fe89b2e08be46b16abf924999ac597b63f7975",
+      "supplemental7-Issue-case-proposal-private.json": "03b77f7b6b4eb2c0aacdddb6d61994c81cbfbc2e129be6d18d76a3724df68295",
+      "partial4-Issue-case-proposal-private.json": "82db455ba02d728bc36aae63f11a586d6ff2777dbe49a53767416d8cf0cc3848"
+    },
+    "actual_current_Issue_states_sha256": "798d80af62a9a070479c84e3ab3a3d8ec44e84a6ed5e89a4bf445ef30dfb9a53",
+    "actual_current_game_associations_sha256": "2eed49b6243086bbde32d6ba0645a2023f5bf3131e426050d47b051eb5fd7b24",
+    "Root_reviewed_types_sha256": "63b65e90b17c4fdfdd70b9fece243faca4328a48958d64d64ab0b6eb4b8f36fa",
+    "Root_reviewed_types_gate_sha256": "40205c5b7216edd09206f3a32dbccb33677b1bec1aca2a023be8b52202187308",
+    "final_manual_disposition_Git_proof_sha256": "93071639e25ea72433ba5c654ef1bb5a0c4aed7874e087cc692f32c0c82e9203",
+    "final_cloud_Git_proof_sha256": "57f802e9c4a4806dbf6436c115b3f7b864da9304b36eb14571443b13c3805aad",
+    "final_notice_disposition_Git_proof_sha256": "46535046d0f410d7aeed3d4e32091648f3e2720aaeb874cf9be2ef4ffbe8e816",
+    "final_Source_bridge_Git_proof_sha256": "d08fe3669d0fd2dc72ee1e5eb113d033c6423470368b5c89447cfaea4c664c02",
+    "new4_Git_only_business_manifest_SHA256": "e3573c7018be108de0f16c50308308a3a42d5bd2a724b07dcf20d03ef04a82c2",
+    "new4_current_Git_only_facts_SHA256": "09ce4b68d3974a6d125aba6821e4d93defa99d77825a1a623de9e62be07fc4c9",
+    "actual_partial_cloud_facts_SHA256": "911bb3c49d022967d856ccaa0bd36dfef0c26cc725eb6520182d95dee1557be4",
+    "source_scan_sha256": "657ac37f33fe00db0c4155c75fe59fa56b77776c7a335244d7c295a263ab7f31"
+  },
+  "generated_at": "2026-10-26T01:07:46.515027+08:00",
+  "actual_source_quote_count": 12,
+  "actual_original_JPEG_positions": 23,
+  "existing_problem_supplements": 6,
+  "actual_scoped_closures": 20,
+  "actual_partial_comments_kept_open": 4,
+  "actual_ACKs": 4,
+  "actual_information_replies": 2,
+  "actual_new4_open_partial_progress_comments": 4,
+  "new4_current_Git_only_versions": [
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|oni-iii|4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "此次修正普通8px伤害消息中姓名后残留的日文助词“に”；提供方报告包含敌我伤害自然场景。",
+      "remaining_boundaries": "地名/路牌/传送等既有修订及受控诊断不等于全地图自然验收；原问题原报告其余反馈仍继续排查。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.4",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+          "bytes": 524288
+        }
+      ],
+      "original_input_SHA256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+      "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.8",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|tokimeki-memorial-pocket-sport|037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "此次恢复运动篇标题右选“设定”时消失的原生下划线；提供方报告CGB/SGB标题选择和设定入口的限定检查。",
+      "remaining_boundaries": "不扩大到出生/血型确认、跨画面绿线或文化篇；原问题原案仍未完整闭环。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.8",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.8",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+          "bytes": 8388608
+        }
+      ],
+      "original_input_SHA256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.8",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|kotobattle|63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "此次修订镇内/水边共享对话、两幅保留日文谜题线索的双语画及交换界面的局部显示。",
+      "remaining_boundaries": "最终图为一张自然标题与八个明确诊断场景；提供方自然推进到珊瑚森林，未到城镇，提供方尚未与原反馈图5–9逐项对齐，镇内自然流程与全部原案未验收。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.6",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
+    }
+  ],
+  "new4_cloud_pending": true,
+  "new4_completion_notices_sent": false,
+  "actual_partial_cloud_state": {
+    "schema": "actual_partial_cloud_cohort_state_without_current_new4_cloud_claim_v1",
+    "actual_cloud_checkpoint_SHA256": "88baf57d6547e1291ecd9e068420e7eef8421226af988208098cc1b8e46b9a2f",
+    "all52_cloud_targets_complete": false,
+    "actual_complete_game_ids_at_cloud_ledger_commit": [
+      "double-dragon-2",
+      "first-contact-protocol",
+      "fleet-commander-vs",
+      "gb-harobots",
+      "harry-potter-chamber",
+      "j-league-winning-eleven-advance-2002",
+      "last-bible-ii-gb",
+      "mario-tennis-gb",
+      "mayor-of-sanctuary",
+      "mini-yonku-gb",
+      "mini-yonku-gb-2",
+      "miracle-of-the-zone-2",
+      "mobile-golf",
+      "oni-iii",
+      "oni-iv",
+      "oni-v",
+      "pokemon-prism",
+      "poyon-dungeon-1",
+      "saga-1",
+      "saga-2-dx",
+      "saga-3",
+      "saga-3-gb",
+      "slam-dunk-1",
+      "sylvanian-families-fashion-designer",
+      "tokimeki-memorial-pocket-culture",
+      "tokimeki-memorial-pocket-sport",
+      "wizardry-empire",
+      "wizardry-gaiden-1",
+      "wizardry-gaiden-3",
+      "world-advance-soccer",
+      "xtreme-sports",
+      "zelda-links-awakening-gb",
+      "zerd-no-densetsu",
+      "zerd-no-densetsu-2"
+    ],
+    "actual_target_count_at_cloud_ledger_commit": 49,
+    "pending_targets_at_cloud_ledger_commit": [
+      {
+        "game_id": "poyon-dungeon-2",
+        "version": "v0.1.7",
+        "font": "8px",
+        "audio_variant": "unchanged"
+      },
+      {
+        "game_id": "shin-megami-tensei-card-summoner",
+        "version": "v0.1.3",
+        "font": "8px",
+        "audio_variant": "unchanged"
+      },
+      {
+        "game_id": "kotobattle",
+        "version": "v0.1.5",
+        "font": "8px",
+        "audio_variant": "unchanged"
+      }
+    ],
+    "cloud_checkpoint_is_historical_cohort_not_latest_new4_progress": true,
+    "old_ROM_deletions": 0,
+    "all_upload_phase_old_ROMs_retained": true,
+    "actual_cleanup_status": "NO_CLEANUP_ATTEMPTED_ALL_OLD_RETAINED",
+    "specific_download_authorization_block_SHA256": "488caba44d76c31797c110aad689bf2cd64414060503df6482fad8582a22a289",
+    "new4_cloud_pending": true,
+    "whole_account_login_expiry_not_inferred": true
+  },
+  "actual_download_authorization_block": {
+    "HTTP_status": 403,
+    "error_code": 31326,
+    "error_msg": "user is not authorized, hitcode:104",
+    "hitcode": 104,
+    "whole_account_login_expiry_not_inferred": true,
+    "all_cloud_bytes_and_mutations_stopped": true
+  },
+  "current_classification_counts": {
+    "open_pure_BUG_count": 58,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "Root_reviewed_per_Issue_type_semantics_applied": true,
+  "classification_counts_current_states_only": true,
+  "all_prior_anonymous_problem_keys_preserved": true,
+  "private_Issue_bodies_copied": false,
+  "player_quotes_only_known_leading_self_mentions_and_in_place_download_locators_removed": true,
+  "private_original_full_text_preserved": true,
+  "remaining_quote_tail_never_removed": true,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261025-1619|poyon-minigame",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：格斗家劈瓦界面异常字",
+      "feedback_summary": "玩家报告普通8px v0.1.4劈瓦小游戏异常字；新交付的迷你机械改装房是不同消费者，本条保持待排查。",
+      "source_feedback_keys": [
+        "11092365551|154069297278"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-515c3e3b410c3f8b",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|layout-two-games",
+      "game_ids": [
+        "poyon-dungeon-2",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "波永2与心跳回忆运动篇：文本越框及出生确认重叠",
+      "feedback_summary": "分别保留波永2普通8px v0.1.4越框、运动篇v0.1.3出生年月/血型确认后重叠，不把其它菜单改动当作两处已修。",
+      "source_feedback_keys": [
+        "11092365551|154069350075",
+        "11092365551|154069220570"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-d58d5b9be1821f26",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|oni3-place-damage",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "ONIⅢ：地名覆盖与受伤提示后缀",
+      "feedback_summary": "地名修订与敌人受伤提示后的日文后缀分开；后缀没有已核修复证据。约70%进度无阻断死机仅为玩家陈述。",
+      "source_feedback_keys": [
+        "11092365551|154069723421"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-be48f6ce597d9184",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "20261025-1619|sport-title-selection",
+      "game_ids": [
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "心跳回忆运动篇：标题及游戏设定显示",
+      "feedback_summary": "保留v0.1.3副标题裁切、右切下划线/START花屏和闪烁遮挡三个具体反馈，不按新版本号自动判全修。",
+      "source_feedback_keys": [
+        "11092365551|154068754749",
+        "11092365551|154068768689",
+        "11092365551|154069228452"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-8d026448f7dbc6b7",
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|koto-town-coverage",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：城下镇多处未译",
+      "feedback_summary": "六处城镇漏译附九图；新留言未重新明确版本，同楼旧版仅上下文，不把技能名修订当作城镇六场景已修。",
+      "source_feedback_keys": [
+        "11092365551|154069368179"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-a76995e5876b6d1d",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "20261025-1619|saga3-version-confirmation",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：两处卡死报告补充实际版本",
+      "feedback_summary": "玩家已明确SaGa-dx3-8px-music-v1.0.6；登记普通8px音乐版，完整私人ROM字节仍未知；两处卡死继续待复现，不重复询问已回答信息。",
+      "source_feedback_keys": [
+        "11092365551|154068651661"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-c6c9600e674659c2",
+      "public_problem_key": "problem-21d16fad4378d8af",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-ffdad8416300591b",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "两字号标题连接字与缺失",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.4",
+          "font": "10px-dialogue",
+          "audio_variant": "unchanged",
+          "output_SHA256": "18f42d86fc899e55652a5434fecf2354e1aeb72700c6b847a217ad852f941271"
+        },
+        {
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "719475a2a25d72d7252e6cbf400032dfdfff8de06eb90d8f38fcdeb5df82a13c"
+        }
+      ],
+      "original_input_SHA256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-ffdad8416300591b",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-b61a6e4b16a6f8d7",
+      "game_ids": [
+        "sylvanian-families-fashion-designer"
+      ],
+      "summary": "原反馈地图木牌日文/错行、重复感叹号、树果のこり",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "d641d2d0a1a187c4972e09e6eb57e63f636bdc34e76f7bc756709e39c90a74d6"
+        }
+      ],
+      "original_input_SHA256": "38b89dff9b4eb6ee3ab6fdca1ce9150a64b3a641ed72e86570251ee9a23b489b",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-b61a6e4b16a6f8d7",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-1b19e8d4feeca2e4",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "记录页时间分隔符与文字框上横线两个消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011"
+        }
+      ],
+      "original_input_SHA256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-1b19e8d4feeca2e4",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-f4242e0551aa150d",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "门图鉴地点名列表和详情独立消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.6",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "ea7c4f2c46dbd37aa818abeab1ec2cb8cd98fa8d5d9246fe8b2294d18b624444"
+        },
+        {
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7"
+        }
+      ],
+      "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-f4242e0551aa150d",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-3e3cad92005bbdf5",
+      "game_ids": [
+        "slam-dunk-1"
+      ],
+      "summary": "非SGB对战页两个选项ひとり/ふたり",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "8e3cafc68e26a8abc515614a2ee89c6558b0a989176bc8629e4fdaeef66d662e"
+        }
+      ],
+      "original_input_SHA256": "9a4f40bbd5b4a8cbdb99d22df0f7672c8d67aa5dd4717ddcd56c4c9a4d4c5b2d",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-3e3cad92005bbdf5",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-f12cb98156760e78",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "普通8px/10px对白最终收窗前字库过早归还",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc"
+        },
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539"
+        }
+      ],
+      "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-f12cb98156760e78",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-cbe113ecc76fc175",
+      "game_ids": [
+        "zerd-no-densetsu-2"
+      ],
+      "summary": "行走时横向叙事和大地图远目标日文尾句",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "37c8d151d20bf898d7451e84b6ad60cb75aa903da5c4e23a1e8155c98fb957cf"
+        }
+      ],
+      "original_input_SHA256": "c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-cbe113ecc76fc175",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-82d1672ef70c32b0",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "同原反馈的开场图片、确认/命名、生日性别、假名切页、排行榜重复与计分卡",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-82d1672ef70c32b0",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-4595919452458fb1",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇考试名单伊集院レイ这一独立表项",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.7",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1"
+        }
+      ],
+      "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-4595919452458fb1",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-ed42c4f4a0a0996b",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "黑白GB普通8px音乐版训练战未命中原ミス精灵字图",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "music",
+          "output_SHA256": "849c22d770bf9256637f01a9fa7e91f76b86914263e6cbebdf242a13726e8084"
+        },
+        {
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "no-music",
+          "output_SHA256": "e6149263a9496c438977b964dede483f5852f01261f01c2719114284f076ce14"
+        },
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "5ed88b96391b91c516ae13dfa67bebb5b630abdfcaf12c884ad56e6242bc661f"
+        },
+        {
+          "version": "v0.1.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815"
+        }
+      ],
+      "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-ed42c4f4a0a0996b",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-993d2e605d57ec06",
+      "game_ids": [
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "黑白GB Rev1取名混排/白条及显示和输入错配",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "e4b0c813010071f95bd3c5a109b22406d195be3d96ab9b2363e76ed45968b947"
+        }
+      ],
+      "original_input_SHA256": "d37d36cc47e42a42146ef04bed47d2fe127f5f98daf9cb499dc1a0e676574e78",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-993d2e605d57ec06",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-04cccd019baeb936",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "summary": "START后SELECT收藏页英文恢复",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "a754ecccf9ed492e3d77258697133613aaa321f7bbab7e1831f3719698a60778"
+        }
+      ],
+      "original_input_SHA256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-04cccd019baeb936",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-50b68d3495a8eeeb",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "开场选人B返回银行错误这一消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-50b68d3495a8eeeb",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "人物对白头像字符覆盖和六人物新日记头像撕裂",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f483688611402ebec132cedcaaf9744318471a49a91b801025ae3480a0aecaf0"
+        }
+      ],
+      "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": "DIAGNOSTIC_ONLY_NOT_NATURAL_PLAYER_TRIGGER",
+      "original_script_tokens": "PRESERVED_ORIGINAL_CONTENT_NOT_REPAIRED",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-25081e88884c76d7",
+      "game_ids": [
+        "wizardry-empire"
+      ],
+      "summary": "旧原案怪物名称/乱码及迷宫角色信息栈消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.5",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f87fafa85cbb50780c0652b254bc1ba2e8c42d2a450362d29ed328e95f65656f"
+        }
+      ],
+      "original_input_SHA256": "cd7f00d398bf30c3302cb814cb849761caa8aa0183ba7b4460677ec98d7f1472",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-25081e88884c76d7",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-2785e9dab704f7f5",
+      "game_ids": [
+        "wizardry-gaiden-3"
+      ],
+      "summary": "旧原案遇敌末尾乱码及城镇切换首帧显示消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "3da9d8006b2b0f8b871298c8d028d9efae2b3bc7de9cea962df7f18f730e2ec3"
+        }
+      ],
+      "original_input_SHA256": "aeb5380f81a8b4e05b9eca3f5d0178923a5460c2632be4b1173269b6bd043612",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-2785e9dab704f7f5",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-57793ff8d482c097",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "标题Logo右下孤立多余乎字",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "1f69fc8098de07f9f3084df2407a463da0bd45f0fcf24350064274c8f7a0a5fa"
+        }
+      ],
+      "original_input_SHA256": "859d69833e8d422440a4268d30bec4df238550b969cb3bc3b2f262136de63b6f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-57793ff8d482c097",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-f5903b49cf597e8a",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "原案初始能力配置确认框上方多余像素点",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "015f59f383576bd808fd82621b325c6901cb80fda23ddfc5fe85eb94bbd060ee"
+        }
+      ],
+      "original_input_SHA256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-f5903b49cf597e8a",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-0db6bd45feeb8281",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "原案战斗选择逃跑后停留／死机的四变体消息消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-0db6bd45feeb8281",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-62bcf2511c2f1d5f",
+      "game_ids": [
+        "saga-1"
+      ],
+      "summary": "原案战斗阵亡后状态显示似姓名乱码的四变体原生opcode2C消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "music",
+          "output_SHA256": "2dddb55e673630057f0fa9c61c8061faa0006fb60ecef8e874ca8b55b48e06da"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": "no-music",
+          "output_SHA256": "2e2be61d0ee795853eb7c4ceb09b54fa0d81252125d2e3d7393997b351be2f0a"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "output_SHA256": "376bd146d2259db4a5fe02b5bae0141bd866e91d11a417577822a015aac9d413"
+        },
+        {
+          "version": "v1.0.3",
+          "font": "8px",
+          "audio_variant": "no-music",
+          "output_SHA256": "9512ad348afdbca0e456f5b2a599c8d0b510e95e84ffbfe89ada057b621a82d1"
+        }
+      ],
+      "original_input_SHA256": "4d537adaaa8d395a7b724b084d57f2c9b704e6f348103a399cd7c1f73174801f",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-62bcf2511c2f1d5f",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "原案同伴施法目标选择箭头字形损坏",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-01d05608a9506b50",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-a069bfcec4b03aed",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "v012城镇返回首帧与中文门提示覆盖墙纹已修；自然三返回/建筑/王宫/首战战后营地，长门及符文关闭以原生函数指针诊断。旧原案玩家图2整表瞬间花屏曾未自然复现；最新材料未明确逐项证明该完整原现象闭环，保持open更准确。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "2353a5903c7bd7aeca7ed3c60ac1946b7fb63e8c58f41dc3a18ebf9ce69ee9d0"
+        }
+      ],
+      "original_input_SHA256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-a069bfcec4b03aed",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-cb6bf37dd471ed60",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "v014菜单186→56/状态176→57/分类53→25/列表32→14帧等限定改善，不等于全场景零卡顿。状态消费者恢复但自然敌方毒/混乱、持续/恢复未全测，原问题尚不能全部关闭。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-cb6bf37dd471ed60",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "20已证术语消费者继承保留；御琴等仍缺原说明书/脚本一级原字证，未将攻略建议全部应用；最新v014明确未增加未经核定译名。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|oni-iii|4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "此次修正普通8px伤害消息中姓名后残留的日文助词“に”；提供方报告包含敌我伤害自然场景。",
+      "remaining_boundaries": "地名/路牌/传送等既有修订及受控诊断不等于全地图自然验收；原问题原报告其余反馈仍继续排查。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.4",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+          "bytes": 524288
+        }
+      ],
+      "original_input_SHA256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|poyon-dungeon-2|30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "此次修订格斗家劈瓦小游戏的最高纪录、当前时间和秒单位显示；提供方在原生诊断入口覆盖六关、慢速失败、重试及纪录保存。",
+      "remaining_boundaries": "小游戏六关使用诊断入口，未自然推进第二村入口、职业/奖励事件；Boss全身图、包子比赛及其它原反馈未据此称已修。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "30d0e200b510965ebb70b19769c0e2e963bb4349522b7203ce658620b020ba49",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.8",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|tokimeki-memorial-pocket-sport|037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "此次恢复运动篇标题右选“设定”时消失的原生下划线；提供方报告CGB/SGB标题选择和设定入口的限定检查。",
+      "remaining_boundaries": "不扩大到出生/血型确认、跨画面绿线或文化篇；原问题原案仍未完整闭环。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "037c8e376f18feca6bd19bb8ed404395aa13f9be2740badc91e1c464a9bd1dee",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.8",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.8",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+          "bytes": 8388608
+        }
+      ],
+      "original_input_SHA256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.8",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-a8ffd7bc25258b4f",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|kotobattle|63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "此次修订镇内/水边共享对话、两幅保留日文谜题线索的双语画及交换界面的局部显示。",
+      "remaining_boundaries": "最终图为一张自然标题与八个明确诊断场景；提供方自然推进到珊瑚森林，未到城镇，提供方尚未与原反馈图5–9逐项对齐，镇内自然流程与全部原案未验收。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.6",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
+    }
+  ]
+}

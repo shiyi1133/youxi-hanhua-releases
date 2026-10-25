@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "pokemon-prism",
   "game_name": "宝可梦棱镜",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -152,7 +152,7 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -249,7 +249,7 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -335,7 +335,9 @@
           "public_problem_key": "problem-3b238f909725b329",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-deb11bf7d28bcd9b",
@@ -345,7 +347,7 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": "8px",
@@ -431,7 +433,9 @@
           "public_problem_key": "problem-b465698919325191",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "problems": [
@@ -442,7 +446,7 @@
       ],
       "summary": "菜单关闭后右上残留，过场景或对话后恢复；对白出现未知符号与底层图块；酢浆草市左上沙龙换装人物黑块。",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-1bb53957f01a904e"
@@ -510,7 +514,9 @@
           "public_problem_key": "problem-3b238f909725b329",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-b465698919325191",
@@ -519,7 +525,7 @@
       ],
       "summary": "同一反馈指出PC菜单未翻译、战斗属性变化含英文、学习新技能忘记旧技能时单词未翻译；最后还提及一处忘记位置的未译内容。",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-deb11bf7d28bcd9b"
@@ -587,7 +593,9 @@
           "public_problem_key": "problem-b465698919325191",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-b616e97afe94fd0b",
@@ -596,7 +604,7 @@
       ],
       "summary": "同一玩家报告两块路牌：希思村南69号道路；卡珀岭北70→69左上砍树后路牌。第一处提供位置图与游戏崩溃诊断，第二处提供具体路线和路牌图。",
       "state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-29c6a220b0305da4"
@@ -699,7 +707,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T17:17:27.152534+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "version_update_notices": [
     {
       "public_version_reply_key": "version-reply-a6485b4b965bd8c46eb6",
@@ -761,5 +769,10 @@
       "claim_created": false,
       "previous_ACK_PID": "154059404791"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

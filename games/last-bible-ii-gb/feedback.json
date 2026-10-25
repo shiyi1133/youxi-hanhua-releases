@@ -7,7 +7,7 @@
     "case-6f538ad1870af685"
   ],
   "case_count": 1,
-  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
   "acknowledgements": [
@@ -288,7 +288,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -465,7 +465,9 @@
           "public_problem_key": "problem-7c6eed6fdcb6f19c",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -476,7 +478,7 @@
       ],
       "summary": "[BUG待核版本] 最后的圣经Ⅱ黑白GB版：对白黑块、声音及开场迟滞",
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f538ad1870af685"
@@ -547,10 +549,12 @@
           "public_problem_key": "problem-7c6eed6fdcb6f19c",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/last-bible-ii-gb-v0.1.1"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|last-bible-II-GB-blackblocks-lag",
@@ -661,5 +665,10 @@
       "precise_nested_notification_claimed": false,
       "original_actual_notice_receipt_sha256": "16352e23f40cfe674eb3bb63d8f6f0c3f1fc7d1be8758bc3b5d7acccf19afb3b"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

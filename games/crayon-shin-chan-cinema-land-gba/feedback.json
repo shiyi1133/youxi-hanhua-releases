@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "crayon-shin-chan-cinema-land-gba",
   "game_name": "蜡笔小新 电影乐园大冒险",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -117,7 +117,7 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": "玩家未另报；当前原生12px仅作参考",
@@ -230,7 +230,9 @@
           "public_problem_key": "problem-fdd0ed6d2ee71595",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-a35dacebaf91c496",
@@ -240,7 +242,7 @@
       ],
       "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -361,7 +363,7 @@
       ],
       "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -473,7 +475,9 @@
           "public_problem_key": "problem-b514a77a04b8e036",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "problems": [
@@ -484,7 +488,7 @@
       ],
       "summary": "原报告者回答ROM名CrayonCinema_zhCN_v0.1.0，死机前为自动播放的小新骑象画面，过程卡住。",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6f84aea9a1bcbc64"
@@ -552,7 +556,9 @@
           "public_problem_key": "problem-fdd0ed6d2ee71595",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-01d50bcbf75c12cb",
@@ -561,7 +567,7 @@
       ],
       "summary": "[待复现] 蜡笔小新 电影乐园大冒险 v0.1.0：收藏室与过场背景图形异常",
       "state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-a35dacebaf91c496"
@@ -637,7 +643,7 @@
       ],
       "summary": "[补译需求] 蜡笔小新 电影乐园大冒险 v0.1.0：家人、服装及按键提示图片日文",
       "state": "open",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-d16aebf74d23e81b"
@@ -704,7 +710,9 @@
           "public_problem_key": "problem-b514a77a04b8e036",
           "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/crayon-shin-chan-cinema-land-gba-v0.1.2"
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -766,7 +774,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T11:25:00.326512+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|gba17-crayon-cinema-graphics",
@@ -891,5 +899,10 @@
       "precise_nested_notification_claimed": false,
       "original_actual_notice_receipt_sha256": "c7185fb877dd75a1480f4945b5fc42e5a409eb6a373b6c81fc58f44b7db5782d"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

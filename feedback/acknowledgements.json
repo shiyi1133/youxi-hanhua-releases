@@ -5207,8 +5207,133 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "pid": "154070364931",
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070364931#154070364931",
+      "source_feedback_keys": [
+        "11092365551|154069297278",
+        "11092365551|154069350075"
+      ],
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "text": "劈瓦界面的异常字和文本越框都已记录，图片已留存，后续继续排查。",
+      "text_sha256": "060e60a607bbd109ba6c65db6d1bef810596ce85a69266c217e42ba3d3679757",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "pid": "154070367535",
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070367535#154070367535",
+      "source_feedback_keys": [
+        "11092365551|154069723421"
+      ],
+      "game_ids": [
+        "oni-iii"
+      ],
+      "text": "地名和受伤提示后的日文已补充记录，感谢持续测试，后续继续核对。",
+      "text_sha256": "4c622125c8c1b70179a3be40b171fd3fa19593d5e66f70b2afa2e2c49c89a682",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "pid": "154070370287",
+      "tid": "11092365551",
+      "parent_pid": "154032152268",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070370287#154070370287",
+      "source_feedback_keys": [
+        "11092365551|154068754749",
+        "11092365551|154068768689",
+        "11092365551|154069220570",
+        "11092365551|154069228452",
+        "11092365551|154069301880"
+      ],
+      "game_ids": [
+        "tokimeki-memorial-pocket-sport",
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "text": "标题、选项闪烁和出生确认显示问题已补充记录。全8px版本的需求也记下了，目前仍是对白12px、密集栏8px。",
+      "text_sha256": "fd3029cf5119a474a7596fc7e56bcb68ecd630322c35d0191f64df1562cb9657",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "pid": "154070372501",
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070372501#154070372501",
+      "source_feedback_keys": [
+        "11092365551|154069368179",
+        "11092365551|154069374152"
+      ],
+      "game_ids": [
+        "kotobattle"
+      ],
+      "text": "城下镇这些未译和字体辨识建议已补记，9张截图都收到了，后续继续排查。",
+      "text_sha256": "a1a1f934cdf8c58780dc8bfbb1b356ab5438c2301dc9604f0966127940e6a8fb",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "pid": "154070375194",
+      "tid": "11092365551",
+      "parent_pid": "154068011792",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070375194#154070375194",
+      "source_feedback_keys": [
+        "11092365551|154068651661"
+      ],
+      "game_ids": [
+        "saga-3"
+      ],
+      "text": "收到，已补记为 v1.0.6 普通8px音乐版，两处卡死继续按现有问题排查。",
+      "text_sha256": "2df8238cf4a6730fbdff4fab00f8152bbb15c2b4392a29237c22d51faeb48f0e",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "pid": "154070377358",
+      "tid": "11092365551",
+      "parent_pid": "154064125435",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070377358#154070377358",
+      "source_feedback_keys": [
+        "11092365551|154068887213"
+      ],
+      "game_ids": [],
+      "text": "原件已收到，目前仍在核对这份英译版的容量和版本身份，核定后再安排。",
+      "text_sha256": "96c74471a161250869ea22b53a60d63411f4ffc86b27f90c885464fe2a29cc69",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
     }
   ],
-  "row_count": 77,
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
+  "row_count": 83,
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00"
 }

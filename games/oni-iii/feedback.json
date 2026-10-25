@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "oni-iii",
   "game_name": "ONIⅢ黑之破坏神",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -238,6 +238,37 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069723421",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069723421#154069723421",
+      "created_at": "2026-10-25T15:26:14+08:00",
+      "quote": "回報oni3，目前版本ONI-III-v0.1.2-8px。 地名目前僅遠夜町有漢化，其他地名尚未漢化。 另敵人名字在登場時正常，但顯示敵人受傷時會在敵人名後多一個日文字。 目前已推進至70%進度左右，尚未遇到任何會影響通關的死機bug，完畢  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8f2a7bf5dbd4bf382c731c451f181dde6f52d6412629f9135b5df3e78682f619",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2a208ed6277f9e2fadbbbc0f5930e924b999f353.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069723421-1-3badef233f1018ce6c5d6f6a2b26be40476de2d8bff2ea7ef4b8eb3bda23e813.jpg",
+          "sha256": "3badef233f1018ce6c5d6f6a2b26be40476de2d8bff2ea7ef4b8eb3bda23e813",
+          "bytes": 1543280,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0caaa88b87d6277f379c933f6e381f30e824fc53.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069723421-2-050dec74529d247f2f6e4ef82ebfe6c26798125cea2455e3c80e9872731b30e0.jpg",
+          "sha256": "050dec74529d247f2f6e4ef82ebfe6c26798125cea2455e3c80e9872731b30e0",
+          "bytes": 1575128,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -249,7 +280,7 @@
       ],
       "summary": "[待复现／版本待确认] ONIⅢ：主角使用默认名时，对话中的姓名乱码",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.1.0",
       "reported_font": null,
@@ -275,7 +306,7 @@
       ],
       "summary": "玩家在三部曲共用楼报告开场后村子中间NPC第二句日文。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -290,7 +321,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-62e37a6faaa19bdd",
@@ -302,7 +335,7 @@
       ],
       "summary": "玩家希望字体放大，认为部分现有字难以辨认。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -321,7 +354,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-42c0e1b0364ecfcf",
@@ -342,7 +377,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -483,6 +518,132 @@
             "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
           }
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|oni-iii|4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "oni-iii"
+          ],
+          "summary": "此次修正普通8px伤害消息中姓名后残留的日文助词“に”；提供方报告包含敌我伤害自然场景。",
+          "remaining_boundaries": "地名/路牌/传送等既有修订及受控诊断不等于全地图自然验收；原问题原报告其余反馈仍继续排查。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.4",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+              "bytes": 524288
+            }
+          ],
+          "original_input_SHA256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-0a437822e7d9deed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-be48f6ce597d9184",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "ONIⅢ：地名覆盖与受伤提示后缀",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "public_feedback_keys": [
+        "11092365551|154069723421"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-1619|oni3-place-damage",
+          "game_ids": [
+            "oni-iii"
+          ],
+          "summary": "ONIⅢ：地名覆盖与受伤提示后缀",
+          "feedback_summary": "地名修订与敌人受伤提示后的日文后缀分开；后缀没有已核修复证据。约70%进度无阻断死机仅为玩家陈述。",
+          "source_feedback_keys": [
+            "11092365551|154069723421"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ],
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|oni-iii|4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "oni-iii"
+          ],
+          "summary": "此次修正普通8px伤害消息中姓名后残留的日文助词“に”；提供方报告包含敌我伤害自然场景。",
+          "remaining_boundaries": "地名/路牌/传送等既有修订及受控诊断不等于全地图自然验收；原问题原报告其余反馈仍继续排查。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.4",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+              "bytes": 524288
+            }
+          ],
+          "original_input_SHA256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-0a437822e7d9deed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
       ]
     }
   ],
@@ -505,7 +666,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-bd13b3df0460bdd0",
@@ -528,7 +690,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-b66aac992e978b24",
@@ -555,7 +720,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-0a437822e7d9deed",
@@ -565,17 +733,19 @@
       "summary": "[覆盖反馈] ONIⅢ v0.1.1普通8px：商店、寺庙、地名牌及字速范例残留日文",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-42c0e1b0364ecfcf"
+        "case-42c0e1b0364ecfcf",
+        "case-be48f6ce597d9184"
       ],
       "public_feedback_keys": [
-        "11092365551|154065566924"
+        "11092365551|154065566924",
+        "11092365551|154069723421"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "fixed": false,
       "partially_fixed": true,
       "latest_bounded_repair": {
@@ -677,7 +847,9 @@
             "oni-iii": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.2"
           }
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -711,9 +883,29 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "pid": "154070367535",
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070367535#154070367535",
+      "source_feedback_keys": [
+        "11092365551|154069723421"
+      ],
+      "game_ids": [
+        "oni-iii"
+      ],
+      "text": "地名和受伤提示后的日文已补充记录，感谢持续测试，后续继续核对。",
+      "text_sha256": "4c622125c8c1b70179a3be40b171fd3fa19593d5e66f70b2afa2e2c49c89a682",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T00:33:58.920799+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-1615|oni3-four-untranslated-UI-consumers",
@@ -734,6 +926,74 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|oni3-place-damage",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "ONIⅢ：地名覆盖与受伤提示后缀",
+      "feedback_summary": "地名修订与敌人受伤提示后的日文后缀分开；后缀没有已核修复证据。约70%进度无阻断死机仅为玩家陈述。",
+      "source_feedback_keys": [
+        "11092365551|154069723421"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-be48f6ce597d9184",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|oni-iii|4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "此次修正普通8px伤害消息中姓名后残留的日文助词“に”；提供方报告包含敌我伤害自然场景。",
+      "remaining_boundaries": "地名/路牌/传送等既有修订及受控诊断不等于全地图自然验收；原问题原报告其余反馈仍继续排查。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "4dd6053115b167dfe39c6e341ad4e7e27780c2800845f5c5ad6d2250ec6b4504",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.4",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+          "bytes": 524288
+        }
+      ],
+      "original_input_SHA256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-0a437822e7d9deed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 3,
+    "UNCLASSIFIED": 0
+  }
 }

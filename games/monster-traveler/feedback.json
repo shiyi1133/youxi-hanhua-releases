@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "monster-traveler",
   "game_name": "怪兽旅行者",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -44,12 +44,32 @@
       "public_case_key": "case-4ab74c8d26e6d9c2",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
-        "monster-traveler"
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": "大字体版本",
       "actual_reporter_input_sha256": null,
@@ -61,7 +81,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-60ff4c73a8c3fe62",
@@ -71,7 +93,7 @@
       ],
       "summary": "怪兽旅行者：大字金钱单位及开场／出门战斗漏译反馈待核（实际ROM版本待补）",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": null,
       "reported_font": "大字体版本",
@@ -97,37 +119,48 @@
         "conan-underground",
         "devil-children-kuro",
         "dt-lords-of-genomes",
+        "first-contact-protocol",
         "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
         "mario-tennis-gb",
         "miracle-of-the-zone-2",
         "monster-traveler",
         "one-piece-grand-line",
         "poyon-dungeon-1",
+        "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
       "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-1826114663d9d86d",
         "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
         "case-4ab74c8d26e6d9c2",
         "case-4fc1b958aac9569b",
         "case-6bd0fcf592305cbc",
         "case-73251cc6b76d6c92",
         "case-77dad19aec9301d9",
         "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
         "case-abf003d1eb6c9f16",
         "case-adf93c114ce30a75",
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
+        "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
-        "case-eab2c8ffe4f1ebad"
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -191,13 +224,26 @@
         "11092365551|154048786590",
         "11092365551|154054296408",
         "11092365551|154054306070",
+        "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
-        "11097560613|154048988684"
+        "11097560613|154048988684",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-3752f42756b8fde9",
@@ -217,10 +263,17 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

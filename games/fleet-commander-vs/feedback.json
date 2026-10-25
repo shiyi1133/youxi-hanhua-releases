@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "fleet-commander-vs",
   "game_name": "舰队指挥官VS",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -91,7 +91,7 @@
       ],
       "summary": "舰队指挥官开始菜单“单人游戏/联机游戏/读取进度”首字似乎缺失。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -129,7 +129,7 @@
       ],
       "summary": "玩家称舰船点击移动指令时右侧出现图形错乱；本轮预览可见右侧多个零散黑色／字形状块。",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -167,7 +167,7 @@
       ],
       "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -180,7 +180,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-03c51069ac5657f0",
@@ -190,7 +192,7 @@
       ],
       "summary": "玩家称重新测试后旧图片错乱已修，舰船数据指令进入会白屏一下且比原版慢约一秒。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "未提供文件名；刚收到v0.1.1通知仅作参考",
       "reported_font": "玩家未另报",
@@ -206,7 +208,9 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "problems": [
@@ -228,7 +232,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-97fc3c832eefcfaf",
@@ -248,7 +252,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-6c683d590ea6d219",
@@ -257,7 +261,7 @@
       ],
       "summary": "玩家报告进入作战室有卡顿，在选地图介绍界面似乎也有；与日版相比约慢1–2秒，先纯白再出图像。；玩家称重新测试后旧图片错乱已修，舰船数据指令进入会白屏一下且比原版慢约一秒。",
       "state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-03c51069ac5657f0",
@@ -270,7 +274,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -301,5 +307,10 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00"
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

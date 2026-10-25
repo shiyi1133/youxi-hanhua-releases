@@ -699,6 +699,102 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069368179",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069368179#154069368179",
+      "created_at": "2026-10-25T13:23:41+08:00",
+      "quote": "城下镇多处未翻译：木桶调查，道具店老板对话，道具购买页面，猫的对话，路牌调查，下水道对话         ",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "a9d1fbe5187be488d1a5dd4ecbb33c4ae20bb7b5f4034adfd6bbfb8e976f945a",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7bb433292df5e0feb56e2f061a6034a85fdf72ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-1-f7cd791bcdaa0e08366fde267b0bf900663efce01fc1413bd6d8654904e5d755.jpg",
+          "sha256": "f7cd791bcdaa0e08366fde267b0bf900663efce01fc1413bd6d8654904e5d755",
+          "bytes": 185274,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7651a651f3deb48faa1f07d9b61f3a292cf578ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-2-09bcc72cfe922065c646599e8292a8b3e29ca8e9ae9c838b4f76aeab58bf09c8.jpg",
+          "sha256": "09bcc72cfe922065c646599e8292a8b3e29ca8e9ae9c838b4f76aeab58bf09c8",
+          "bytes": 180632,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/329392504fc2d5629f7e76eaa11190ef77c66cea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-3-b62ceac3236ccbac51bd1eff0229577297a7d9f323d2382deb35ece4c20aa248.jpg",
+          "sha256": "b62ceac3236ccbac51bd1eff0229577297a7d9f323d2382deb35ece4c20aa248",
+          "bytes": 240548,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/10fb46c2d5628535fe967426d6ef76c6a6ef63ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-4-1a94dbbbbd1fd7f789edf90c97a3a973a16cbdd3eb6d1fcd4a2ac854e071ade4.jpg",
+          "sha256": "1a94dbbbbd1fd7f789edf90c97a3a973a16cbdd3eb6d1fcd4a2ac854e071ade4",
+          "bytes": 123867,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/07ff9deef01f3a2907be73c9df25bc315d607cea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-5-41a39195da5fbd98678f1ce9732dae99516410b4849e952fccee95ed78289d3f.jpg",
+          "sha256": "41a39195da5fbd98678f1ce9732dae99516410b4849e952fccee95ed78289d3f",
+          "bytes": 221016,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0e9eecdde71190ef688d34d8881b9d16fcfa60ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-6-adc9917edea1f659a3e9bdce9cf62873ce871c2d647dca3f05afd46625c89f06.jpg",
+          "sha256": "adc9917edea1f659a3e9bdce9cf62873ce871c2d647dca3f05afd46625c89f06",
+          "bytes": 202827,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac21349540923e81fc579d458d109b2de49ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-7-30c0310f3341bdc431c068168524756503686a57889289dbc5b550bb3ef24329.jpg",
+          "sha256": "30c0310f3341bdc431c068168524756503686a57889289dbc5b550bb3ef24329",
+          "bytes": 216968,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/38759582d158ccbf51ca133d5fd8bc3eb03541ea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-8-6c64c63649af4c1da3d91dd786c40f6cafcbb181d420572ee142380335c49844.jpg",
+          "sha256": "6c64c63649af4c1da3d91dd786c40f6cafcbb181d420572ee142380335c49844",
+          "bytes": 216831,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8288d454564e9258e94220e9da82d158cdbf4eea.jpg",
+          "archived_public_path": "feedback/images/20261025-1619/154069368179-9-b268ecc84a0b8f1c5eff2e1b13cba5be518e53f0042c5d37012f60e8590322d5.jpg",
+          "sha256": "b268ecc84a0b8f1c5eff2e1b13cba5be518e53f0042c5d37012f60e8590322d5",
+          "bytes": 265082,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069374152",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069374152#154069374152",
+      "created_at": "2026-10-25T13:25:48+08:00",
+      "quote": "字号小，线条粗，有些字会看不清",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "c29adfc39ef55e394fbe5fbfb9d64b200417e8b04acbe3daa9690e9310660879",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -710,7 +806,7 @@
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
@@ -811,7 +907,7 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -1089,6 +1185,48 @@
             "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
           }
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION",
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|kotobattle|63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "此次修订镇内/水边共享对话、两幅保留日文谜题线索的双语画及交换界面的局部显示。",
+          "remaining_boundaries": "最终图为一张自然标题与八个明确诊断场景；提供方自然推进到珊瑚森林，未到城镇，提供方尚未与原反馈图5–9逐项对齐，镇内自然流程与全部原案未验收。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.6",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.6",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-ee7a1b312549370e",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
       ]
     },
     {
@@ -1112,7 +1250,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -1253,7 +1391,9 @@
             "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
           }
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-6dce938cce2d0e78",
@@ -1274,7 +1414,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -1419,7 +1559,27 @@
       "public_case_key": "case-3ea84c00ae3dc926",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
-        "kotobattle"
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "Koto Battle v0.1.0普通8px：对白越右边框、边框缺失及同画面乱码",
       "classification": "BUG",
@@ -1435,7 +1595,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -1477,7 +1637,9 @@
           "scope_note": "超框/边线反馈补入既有集中排版问题；乱码部分根因未确认，本轮未修复。",
           "whole_batch_fixed": false
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-bc19149acfc05aff",
@@ -1499,7 +1661,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "closed",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T17:17:27.152534+08:00",
       "public_feedback_updates": [
         {
@@ -1663,7 +1825,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "issue_state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "public_feedback_updates": [
         {
           "public_update_key": "20261025-0421|koto-v013-battle-buffer-and-empty-cursor",
@@ -1702,6 +1864,92 @@
           "fixed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-a76995e5876b6d1d",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：城下镇多处未译",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "public_feedback_keys": [
+        "11092365551|154069368179"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261025-1619|koto-town-coverage",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle：城下镇多处未译",
+          "feedback_summary": "六处城镇漏译附九图；新留言未重新明确版本，同楼旧版仅上下文，不把技能名修订当作城镇六场景已修。",
+          "source_feedback_keys": [
+            "11092365551|154069368179"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "maintainer_new_runtime_tests": false,
+          "reproduced": false,
+          "fixed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ],
+      "versioned_partial_progress_events": [
+        {
+          "public_update_key": "manual-four-update-20261025-new|Git-only-progress|kotobattle|63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+          "cohort_id": "manual-four-update-20261025-new",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "此次修订镇内/水边共享对话、两幅保留日文谜题线索的双语画及交换界面的局部显示。",
+          "remaining_boundaries": "最终图为一张自然标题与八个明确诊断场景；提供方自然推进到珊瑚森林，未到城镇，提供方尚未与原反馈图5–9逐项对齐，镇内自然流程与全部原案未验收。",
+          "state": "open",
+          "comment_only_keep_open": true,
+          "actual_progress_comment_body_SHA256": "63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+          "actual_owner_full_comment_GET_verified": true,
+          "version": "v0.1.6",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.6",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+              "bytes": 4194304
+            }
+          ],
+          "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
+          "actual_Git_release_assets_full_SHA_verified": true,
+          "current_private_public_metadata_full_Git_readback_verified": true,
+          "cloud_pending": true,
+          "actual_netdisk_readback_verified": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+          "new_ROM_completion_notice_sent": false,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+          "public_problem_key": "problem-ee7a1b312549370e",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+        }
       ]
     }
   ],
@@ -1713,7 +1961,7 @@
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：对白“消”字疑镜像及窗口右侧显示异常",
       "state": "closed",
-      "state_checked_at": "2026-10-24T11:25:00.326512+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-57e5fbb4ad7d4901"
@@ -1789,10 +2037,11 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-2328f13bf64f2bae"
+        "case-2328f13bf64f2bae",
+        "case-a76995e5876b6d1d"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
@@ -1800,7 +2049,8 @@
         "11092365551|154063811817",
         "11092365551|154065777243",
         "11092365551|154065827377",
-        "11092365551|154068153590"
+        "11092365551|154068153590",
+        "11092365551|154069368179"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -1933,7 +2183,9 @@
             "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
           }
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-7c55eeb945e612a0",
@@ -1942,7 +2194,7 @@
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：PUSH START左侧残留署名字形",
       "state": "closed",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-6dce938cce2d0e78"
@@ -2076,6 +2328,7 @@
         "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
@@ -2098,6 +2351,7 @@
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
         "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
@@ -2172,6 +2426,8 @@
         "11092365551|154066502119",
         "11092365551|154066519512",
         "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534"
@@ -2180,9 +2436,10 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "previous_public_classification": "UNCLASSIFIED",
-      "classification_basis": "既有集中排版问题，依本次实际登记和台账核为纯BUG；未新增问题编号。"
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-d471fedd2626e9fd",
@@ -2191,7 +2448,7 @@
       ],
       "summary": "[BUG待复现] Koto Battle v0.1.0普通8px：状态图标/词条及保存界面闪烁",
       "state": "open",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-0519710788cd54cd"
@@ -2304,7 +2561,9 @@
             "kotobattle": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.3"
           }
         }
-      ]
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-7d7cc4ceff8a2112",
@@ -2325,7 +2584,7 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "closed",
-      "state_checked_at": "2026-10-25T00:33:58.920799+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "fixed": true,
       "partially_fixed": false,
       "latest_bounded_repair": {
@@ -2448,7 +2707,9 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-25T05:32:27.011550+08:00"
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "delivery_notices": [
@@ -2623,9 +2884,30 @@
       "is_repair_completion": false,
       "is_bug_acknowledgement": true,
       "is_information_reply": false
+    },
+    {
+      "pid": "154070372501",
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070372501#154070372501",
+      "source_feedback_keys": [
+        "11092365551|154069368179",
+        "11092365551|154069374152"
+      ],
+      "game_ids": [
+        "kotobattle"
+      ],
+      "text": "城下镇这些未译和字体辨识建议已补记，9张截图都收到了，后续继续排查。",
+      "text_sha256": "a1a1f934cdf8c58780dc8bfbb1b356ab5438c2301dc9604f0966127940e6a8fb",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false,
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "actual_public_full_body_verified": true,
+      "exact_nested_target_PID_publicly_verified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T05:32:27.011550+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",
@@ -2839,6 +3121,69 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|koto-town-coverage",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：城下镇多处未译",
+      "feedback_summary": "六处城镇漏译附九图；新留言未重新明确版本，同楼旧版仅上下文，不把技能名修订当作城镇六场景已修。",
+      "source_feedback_keys": [
+        "11092365551|154069368179"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "HISTORICAL_REGISTRATION_SNAPSHOT_NOT_LATEST_REPAIR_CONCLUSION",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "maintainer_new_runtime_tests": false,
+      "reproduced": false,
+      "fixed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "public_case_key": "case-a76995e5876b6d1d",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "classification": "REQUEST_OR_OTHER"
+    },
+    {
+      "public_update_key": "manual-four-update-20261025-new|Git-only-progress|kotobattle|63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "cohort_id": "manual-four-update-20261025-new",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "此次修订镇内/水边共享对话、两幅保留日文谜题线索的双语画及交换界面的局部显示。",
+      "remaining_boundaries": "最终图为一张自然标题与八个明确诊断场景；提供方自然推进到珊瑚森林，未到城镇，提供方尚未与原反馈图5–9逐项对齐，镇内自然流程与全部原案未验收。",
+      "state": "open",
+      "comment_only_keep_open": true,
+      "actual_progress_comment_body_SHA256": "63bdf261e8dcbbe130ad9e3955627cb4cc7828329e3d582426ba551dadfe2f02",
+      "actual_owner_full_comment_GET_verified": true,
+      "version": "v0.1.6",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+          "bytes": 4194304
+        }
+      ],
+      "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "public_release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
+      "actual_Git_release_assets_full_SHA_verified": true,
+      "current_private_public_metadata_full_Git_readback_verified": true,
+      "cloud_pending": true,
+      "actual_netdisk_readback_verified": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "cloud_status": "DOWNLOAD_AUTHORIZATION_BLOCKED_NEW_VERSION_SYNC_PENDING",
+      "new_ROM_completion_notice_sent": false,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "source_completeness": "NOT_INDEPENDENTLY_CONFIRMED",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "REQUEST_OR_OTHER"
     }
   ],
   "version_update_notices": [
@@ -3066,5 +3411,11 @@
       "supplemental_resolution_sha256": "6bccd8bbcdec021d5e0d959b02bb0b8daaf6ef12c96e358de065203ea0f71d28",
       "original_failed_standard_notice_preserved": true
     }
-  ]
+  ],
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 3,
+    "REQUEST_OR_OTHER": 1,
+    "UNCLASSIFIED": 0
+  }
 }

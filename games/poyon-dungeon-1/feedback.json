@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "poyon-dungeon-1",
   "game_name": "波永的迷宫1",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -922,8 +922,8 @@
       ],
       "summary": "波永的迷宫1：战斗敌人名、招式名残留日文（待排查）",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "1.02版",
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -958,7 +958,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-cafffaf7481c785a",
@@ -968,8 +970,8 @@
       ],
       "summary": "波永1：大字v1.0.4调查/对白后上方和菜单乱码；普通v1.0.2装备说明异常",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": null,
       "reported_font": null,
       "actual_reporter_input_sha256": null,
@@ -989,7 +991,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-345411ebfe8ddf9f",
@@ -999,8 +1003,8 @@
       ],
       "summary": "波永1：普通v1.0.2召唤兽四只变两只，原因待核",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "UNCLASSIFIED",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "小字1.02版",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -1013,18 +1017,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-e2f8617f838f1123",
       "public_problem_key": "problem-7cee56fa3698cbd3",
       "game_ids": [
-        "poyon-dungeon-1"
+        "conan-island",
+        "conan-train",
+        "conan-underground",
+        "devil-children-kuro",
+        "dt-lords-of-genomes",
+        "first-contact-protocol",
+        "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
+        "mario-tennis-gb",
+        "miracle-of-the-zone-2",
+        "monster-traveler",
+        "one-piece-grand-line",
+        "poyon-dungeon-1",
+        "poyon-dungeon-2",
+        "saga-3-gb",
+        "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
+        "xtreme-sports",
+        "zelda-links-awakening-gb"
       ],
       "summary": "玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-      "classification": "REQUEST_OR_OTHER",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification": "BUG",
       "reported_version": "旧v1.0.2及新v1.0.3",
       "reported_font": "8px",
       "actual_reporter_input_sha256": null,
@@ -1040,7 +1066,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_case_key": "case-4d1a86f445f000b1",
@@ -1049,8 +1077,8 @@
         "poyon-dungeon-1"
       ],
       "summary": "菜单-图鉴的左一门形图标进入后异常，附三图。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v1.0.3",
       "reported_font": "8px",
@@ -1063,7 +1091,46 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-f4242e0551aa150d",
+          "game_ids": [
+            "poyon-dungeon-1"
+          ],
+          "summary": "门图鉴地点名列表和详情独立消费者",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v1.0.6",
+              "font": "10px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "ea7c4f2c46dbd37aa818abeab1ec2cb8cd98fa8d5d9246fe8b2294d18b624444"
+            },
+            {
+              "version": "v1.0.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7"
+            }
+          ],
+          "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -1075,37 +1142,48 @@
         "conan-underground",
         "devil-children-kuro",
         "dt-lords-of-genomes",
+        "first-contact-protocol",
         "gegege-kitarou",
+        "jikkyou-world-soccer-pocket",
+        "jikkyou-world-soccer-pocket-2",
+        "kotobattle",
         "mario-tennis-gb",
         "miracle-of-the-zone-2",
         "monster-traveler",
         "one-piece-grand-line",
         "poyon-dungeon-1",
+        "poyon-dungeon-2",
         "saga-3-gb",
         "sylvanian-families-fashion-designer",
+        "tokimeki-memorial-pocket-sport",
         "xtreme-sports",
         "zelda-links-awakening-gb"
       ],
       "summary": "鬼太郎10px对白框下沿冒头、疑缺字；黑之书10px v1.0.1对白出现第二行溢出；海贼王省略号或声响描述附近文字缺失；柯南地下游乐园v1.0.2：推理摘要显示不全；柯南奇岩岛v1.0.1：玩家报告混合字号，切换现象待核；柯南豪华列车v1.0.3：对白下方笔画残留；DT：章标题字底截断、长对白快速跳末句（玩家已补v1.0.0文件名）；黑之书：10px v1.0.3第二行/文本范围排版反馈（9张截图）待复现；怪兽旅行者：大字对白姓名错位待核（实际ROM版本待补；动态姓名保留8px属当前范围）；实际左栏文字到右缘后不完整，原话称语句不通或显示不全。；合入既有反馈待复现，不另建排版重复Issue；只记录这一游戏/字号/版本范围，不宣称总批完成。；切换地图的标题被报告显示越界。；玩家要求统一战斗指令及目的地“召唤兽馆”等名称左对齐。；“学习网球知识”等模式说明要求与“查看角色等信息”统一左对齐。；8px v0.9.2默认名古比后有多空格，姓名与标点间不自然。；玩家报角色名与后续对白之间多余空字符；9图引用含1张完全相同的重复图，8张不同原图。；玩家报自定义姓名与后续对白间有多个空字符，2张原图。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-1826114663d9d86d",
         "case-30c8eb0b33ae4adf",
+        "case-3ea84c00ae3dc926",
         "case-4ab74c8d26e6d9c2",
         "case-4fc1b958aac9569b",
         "case-6bd0fcf592305cbc",
         "case-73251cc6b76d6c92",
         "case-77dad19aec9301d9",
         "case-910cd61095f457bc",
+        "case-a10f735ac4e1950f",
         "case-abf003d1eb6c9f16",
         "case-adf93c114ce30a75",
         "case-b0b7494a88f9593f",
         "case-b9d9e9d8adf6eb17",
         "case-ccdd564562923146",
+        "case-d58d5b9be1821f26",
+        "case-d88c313408dc6744",
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
-        "case-eab2c8ffe4f1ebad"
+        "case-eab2c8ffe4f1ebad",
+        "case-ec0244e7436f6ab8"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -1169,13 +1247,26 @@
         "11092365551|154048786590",
         "11092365551|154054296408",
         "11092365551|154054306070",
+        "11092365551|154061098688",
+        "11092365551|154063807720",
+        "11092365551|154063809711",
+        "11092365551|154066502119",
+        "11092365551|154066519512",
+        "11092365551|154067485113",
+        "11092365551|154069220570",
+        "11092365551|154069350075",
         "11097560613|154043716841",
-        "11097560613|154048988684"
+        "11097560613|154048988684",
+        "11097560613|154061939534"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "previous_public_classification": "UNCLASSIFIED",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-83ec46f28e6518d4",
@@ -1184,7 +1275,7 @@
       ],
       "summary": "波永的迷宫1：战斗敌人名、招式名残留日文（待排查）；波永1：大字v1.0.4调查/对白后上方和菜单乱码；普通v1.0.2装备说明异常",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-bfd93e9418e6bdf3",
         "case-cafffaf7481c785a"
@@ -1227,7 +1318,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-c873de91f1a5f654",
@@ -1236,7 +1330,7 @@
       ],
       "summary": "波永1：普通v1.0.2召唤兽四只变两只，原因待核",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-345411ebfe8ddf9f"
       ],
@@ -1247,7 +1341,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-f4242e0551aa150d",
@@ -1255,7 +1352,7 @@
         "poyon-dungeon-1"
       ],
       "summary": "菜单-图鉴的左一门形图标进入后异常，附三图。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-4d1a86f445f000b1"
@@ -1266,10 +1363,58 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-f4242e0551aa150d",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "门图鉴地点名列表和详情独立消费者",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v1.0.6",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "ea7c4f2c46dbd37aa818abeab1ec2cb8cd98fa8d5d9246fe8b2294d18b624444"
+        },
+        {
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7"
+        }
+      ],
+      "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-f4242e0551aa150d",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 3,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

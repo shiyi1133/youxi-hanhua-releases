@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mobile-golf",
   "game_name": "迷你高尔夫 Mobile Golf",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -145,8 +145,8 @@
         "mobile-golf"
       ],
       "summary": "同一152楼反馈合并：开场图片日文、是非/取名/出生年等选项未读懂或未译、假名页切换慢和大量问号、成绩姓名重复/异常、积分卡日文。按原图和原话分症状记录，根因尚未确认。",
-      "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "原话未给出；当前同楼v0.1.0仅核对参考",
       "reported_font": "原话未给出；当前普通8px仅参考",
@@ -162,7 +162,40 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-82d1672ef70c32b0",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "同原反馈的开场图片、确认/命名、生日性别、假名切页、排行榜重复与计分卡",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.1",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+            }
+          ],
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -172,7 +205,7 @@
         "mobile-golf"
       ],
       "summary": "同一152楼反馈合并：开场图片日文、是非/取名/出生年等选项未读懂或未译、假名页切换慢和大量问号、成绩姓名重复/异常、积分卡日文。按原图和原话分症状记录，根因尚未确认。",
-      "state": "open",
+      "state": "closed",
       "classification": "BUG",
       "case_keys": [
         "case-cf2e1d8154ce729f"
@@ -186,10 +219,52 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-82d1672ef70c32b0",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "同原反馈的开场图片、确认/命名、生日性别、假名切页、排行榜重复与计分卡",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-82d1672ef70c32b0",
+      "classification": "BUG"
+    }
+  ],
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "reviewed_open_problem_counts": {
+    "BUG": 0,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  }
 }

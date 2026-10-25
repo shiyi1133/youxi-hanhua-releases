@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "oni-iv",
   "game_name": "ONIⅣ鬼神之血族",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -453,7 +453,7 @@
       ],
       "summary": "[待复现／版本待确认] ONIⅣ：开场第三句话出现花屏",
       "issue_state": "closed",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "UNCLASSIFIED",
       "reported_version": "v0.1.1",
       "reported_font": null,
@@ -479,7 +479,7 @@
       ],
       "summary": "玩家在三部曲共用楼报告开场后村子中间NPC第二句日文。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -494,7 +494,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-62e37a6faaa19bdd",
@@ -506,7 +508,7 @@
       ],
       "summary": "玩家希望字体放大，认为部分现有字难以辨认。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "REQUEST_OR_OTHER",
       "reported_version": null,
       "reported_font": null,
@@ -525,7 +527,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_case_key": "case-be4e55694caf28dc",
@@ -535,7 +539,7 @@
       ],
       "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.12",
       "reported_font": null,
@@ -593,6 +597,39 @@
           "maintainer_full_playthrough_acceptance": false,
           "terminology_and_equipment_rename_not_confirmed_errors": true
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-cb6bf37dd471ed60",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "v014菜单186→56/状态176→57/分类53→25/列表32→14帧等限定改善，不等于全场景零卡顿。状态消费者恢复但自然敌方毒/混乱、持续/恢复未全测，原问题尚不能全部关闭。",
+          "state": "open",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+            }
+          ],
+          "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": false,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     },
     {
@@ -603,7 +640,7 @@
       ],
       "summary": "同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-22T17:05:03.647421+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.2",
       "reported_font": "8px",
@@ -619,7 +656,40 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "maintainer_new_runtime_tests": false,
       "reproduced": false,
-      "fixed": false
+      "fixed": false,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-cb6bf37dd471ed60",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "v014菜单186→56/状态176→57/分类53→25/列表32→14帧等限定改善，不等于全场景零卡顿。状态消费者恢复但自然敌方毒/混乱、持续/恢复未全测，原问题尚不能全部关闭。",
+          "state": "open",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+            }
+          ],
+          "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": false,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
+      ]
     },
     {
       "public_case_key": "case-8f884e0516c7046d",
@@ -629,7 +699,7 @@
       ],
       "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
       "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "reported_version": "v0.1.2",
       "reported_font": "8px",
@@ -695,6 +765,39 @@
           "maintainer_full_playthrough_acceptance": false,
           "terminology_and_equipment_rename_not_confirmed_errors": true
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-3cc7c58851f7daa7",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "20已证术语消费者继承保留；御琴等仍缺原说明书/脚本一级原字证，未将攻略建议全部应用；最新v014明确未增加未经核定译名。",
+          "state": "open",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+            }
+          ],
+          "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": false,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     },
     {
@@ -715,8 +818,8 @@
       "identity_scope": "RECORDED_GAME_PLAYER_BYTES_UNKNOWN",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "issue_state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "issue_state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "latest_scoped_feedback_update_at": "2026-10-24T05:16:24.993634+08:00",
       "public_feedback_updates": [
         {
@@ -758,6 +861,39 @@
           "maintainer_full_playthrough_acceptance": false,
           "terminology_and_equipment_rename_not_confirmed_errors": true
         }
+      ],
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG",
+      "verified_fix_events": [
+        {
+          "public_update_key": "20261025-1619|verified-fix|problem-01d05608a9506b50",
+          "game_ids": [
+            "oni-iv"
+          ],
+          "summary": "原案同伴施法目标选择箭头字形损坏",
+          "state": "closed",
+          "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+          "versioned_output_hashes_not_player_identity": [
+            {
+              "version": "v0.1.4",
+              "font": "8px",
+              "audio_variant": "unchanged",
+              "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+            }
+          ],
+          "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+          "provider_implementation_selftest": true,
+          "maintainer_new_runtime_tests": false,
+          "independent_Source_rebuild": false,
+          "whole_game_acceptance": false,
+          "all_current_Release_Git_and_netdisk_bytes_verified": false,
+          "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+          "evidence_applies_to_recorded_targets_not_latest_state": true,
+          "player_ROM_full_identity_unknown": true,
+          "closed_scope_only_verified_original_case": true,
+          "new_diary_scope": null,
+          "original_script_tokens": null
+        }
       ]
     }
   ],
@@ -780,7 +916,8 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
     },
     {
       "public_problem_key": "problem-bd13b3df0460bdd0",
@@ -803,7 +940,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-b66aac992e978b24",
@@ -830,7 +970,10 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "FEATURE_OR_SUGGESTION"
     },
     {
       "public_problem_key": "problem-cb6bf37dd471ed60",
@@ -839,7 +982,7 @@
       ],
       "summary": "同一反馈含两个待复现子项：平时打开菜单约50%概率拖慢；遭敌人状态攻击时HP区域显示异常。默认名「音鬼丸」另列建议，不计作已证BUG。；同一报告者明确文件Oni IV - Kijin no Ketsuzoku (Japan) - zh-CN v0.1.2 8px，进入战斗及A键菜单拖慢；毒/混乱等状态攻击后数值/角色显示异常；HP与最大HP间斜线显示年或锦。",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-be4e55694caf28dc",
@@ -854,7 +997,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-3cc7c58851f7daa7",
@@ -863,7 +1008,7 @@
       ],
       "summary": "三个人名与两处迷宫译名待核；村/町另为玩家风格建议，未批准全局替换。",
       "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-8f884e0516c7046d"
@@ -878,7 +1023,9 @@
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     },
     {
       "public_problem_key": "problem-01d05608a9506b50",
@@ -886,8 +1033,8 @@
         "oni-iv"
       ],
       "summary": "[BUG待复现] ONIⅣ v0.1.2普通8px：对同伴施法时光标显示异常",
-      "state": "open",
-      "state_checked_at": "2026-10-24T05:16:24.993634+08:00",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-78f01adaf427d2ea"
@@ -898,7 +1045,9 @@
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
-      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -981,7 +1130,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-24T05:16:24.993634+08:00",
+  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|oni4-status-and-performance-followup",
@@ -1049,6 +1198,104 @@
       "fixed": false,
       "public_Issue_created": false,
       "source_api_body_copied": false
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-01d05608a9506b50",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "原案同伴施法目标选择箭头字形损坏",
+      "state": "closed",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": true,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-01d05608a9506b50",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-cb6bf37dd471ed60",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "v014菜单186→56/状态176→57/分类53→25/列表32→14帧等限定改善，不等于全场景零卡顿。状态消费者恢复但自然敌方毒/混乱、持续/恢复未全测，原问题尚不能全部关闭。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-cb6bf37dd471ed60",
+      "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261025-1619|verified-fix|problem-3cc7c58851f7daa7",
+      "game_ids": [
+        "oni-iv"
+      ],
+      "summary": "20已证术语消费者继承保留；御琴等仍缺原说明书/脚本一级原字证，未将攻略建议全部应用；最新v014明确未增加未经核定译名。",
+      "state": "open",
+      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "versioned_output_hashes_not_player_identity": [
+        {
+          "version": "v0.1.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "output_SHA256": "f6f23efa3a919ffe699a2b80e5baef3c5206fb55e102a8da2a6be88695edecef"
+        }
+      ],
+      "original_input_SHA256": "ca61b752f44fc0059e6ef328092416a7d62f804e51bf9543941e8b4ea0a24505",
+      "provider_implementation_selftest": true,
+      "maintainer_new_runtime_tests": false,
+      "independent_Source_rebuild": false,
+      "whole_game_acceptance": false,
+      "all_current_Release_Git_and_netdisk_bytes_verified": false,
+      "recorded_version_Release_Git_and_netdisk_bytes_verified": true,
+      "evidence_applies_to_recorded_targets_not_latest_state": true,
+      "player_ROM_full_identity_unknown": true,
+      "closed_scope_only_verified_original_case": false,
+      "new_diary_scope": null,
+      "original_script_tokens": null,
+      "public_problem_key": "problem-3cc7c58851f7daa7",
+      "classification": "BUG"
     }
-  ]
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 2,
+    "REQUEST_OR_OTHER": 2,
+    "UNCLASSIFIED": 0
+  }
 }

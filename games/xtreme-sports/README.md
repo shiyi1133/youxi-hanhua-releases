@@ -1,32 +1,37 @@
-# 极限运动
+# 极限运动 v0.9.3（限定测试版）
 
-原输入：Xtreme Sports
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/xtreme-sports-v0.9.3) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Xtreme Sports
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.9.2 | unchanged | `e3e408080ff223ed17b88f84915e0a4a4e1e229f72978536f1123db63aab8cbe` |
+原输入完整 SHA-256：`c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8`（4194304字节）。
 
-## 源码与补丁
+范围：普通8px留言中心是/否与十项留言菜单字形恢复；旧室内触发未复现，不称整个Issue已修。
 
-- 8px／v0.9.2／unchanged：完整修改源码：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022/xtreme-sports-current-source-d4cceb7ddfa0-public-r02.zip)（ZIP SHA256 `d5baf443f69183c32d3998640c661890583cd5094171c6f3edd1fe232727d7cb`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/xtreme-sports-current-patches.zip)（ZIP SHA256 `f3f0c7b8777eb0bd766d5e763b915bbbc4372c2cfef223169a283348ab3bbfef`）。
+## 8px v0.9.3 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px留言中心是/否与十项留言菜单字形恢复；旧室内触发未复现，不称整个Issue已修。
 
-## 范围与验证边界
+目标完整 SHA-256：`15a85421130784241b22786657fc6c924a1e7a2815b52052d3532eba26e8116a`（4194304字节）。
 
-- 8px／v0.9.2：原生8px普通版；完整10px未交付。
+补丁：`Xtreme_Sports_Chinese_8px_v0_9_3.bps`，SHA-256 `133fffd26c353f87f9db3fd8454d9ff130b26ef7f08b7041625186af2ec394c9`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/xtreme-sports-v0.9.3/xtreme-sports-v0.9.3-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/xtreme-sports-v0.9.3/xtreme-sports-v0.9.3-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/xtreme-sports-v0.9.3-final-nine-grid-1.png)
 
-## 对应版本截图
+普通8px留言中心是/否与十项留言菜单字形恢复；旧室内触发未复现，不称整个Issue已修。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.9.2／8px／unchanged](screenshots/e3c05375e5e718317e5c.png)
+## 测试及限制
 
-8px CGB当前实际ROM：自然取名/场景、受控姓名原生保存与新进程仅电池冷读
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`e3c05375e5e718317e5c7d1a537d74eb1e23f7b0f106c43228c3de8b76fee84b`；绑定ROM SHA256：`e3e408080ff223ed17b88f84915e0a4a4e1e229f72978536f1123db63aab8cbe`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

@@ -1,34 +1,37 @@
-# 双截龙2（美国版）
+# 双截龙2（美国版） v1.0.1（限定测试版）
 
-原输入：Double Dragon II (USA; requester filename and DOUBLE DRAGON 2 header identity)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/double-dragon-2-v1.0.1) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Double Dragon II (USA; requester filename and DOUBLE DRAGON 2 header identity)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v1.0.0测试版 | unchanged | `53552bf15a68b4293626673c5d64aee49e2bdb9bda2b7128ec4e9f180ac271f0` |
+原输入完整 SHA-256：`21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878`（131072字节）。
 
-## 源码与补丁
+范围：美版普通8px路线图恢复、共享字库分离及五类招牌限定图形修复。
 
-- 8px／v1.0.0测试版／unchanged：完整修改源码：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022/double-dragon-2-current-source-78c59f2fa67f-public-r02.zip)（ZIP SHA256 `4a042aaafa3072740bdd1062ffb7263617364fce441a4b07bbee89f59dd2f3e0`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/double-dragon-2-current-patches.zip)（ZIP SHA256 `6b64ef0ed6b68dfcca57daa9f089d446b165bcb070fda05737a005d9706cb89f`）。
+## 8px v1.0.1 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：美版普通8px路线图恢复、共享字库分离及五类招牌限定图形修复。
 
-## 范围与验证边界
+目标完整 SHA-256：`eb8cd3bb6d8e4ff7d2d10108664998ec66146964213198a614c53e42487e13c0`（524288字节）。
 
-- 8px／v1.0.0测试版：普通原生8×8 Fusion Pixel；标题艺术字16px整数放大不作为10px版。
-  美国版Double Dragon II普通原生8px Fusion Pixel测试版。已审静态成品含标题、菜单三难度、单/双人开始与续关文字、开场、12段后期/结局对白、10项制作职务与已识别场景招牌。提供方有自然开场、首战移动攻击跳跃、暂停/死亡等有限测试；后期与结局使用明确诊断入口。维护只独立核补丁、头部、字形、控制记录和截图，未运行或重建。
-  不是自然全流程验收：未自然打通首关/全作、未双机联机、未实机/闪卡。九格前6为自然按键、后3为诊断，不冒称后期自然通关。未证明全部语义换行分类或七规则/所有分支验收；未确认旧遗留ASCII片段的可达性，不把它们声称已消除。本包仅普通8px，无10px大字；标题16px艺术字是整数缩放。原作无玩家取名、SRAM或电池保存，不新增；跨版本即时状态不保证兼容，建议冷启动。
+补丁：`DoubleDragon2_USA_zh_v1.0.1_8px.bps`，SHA-256 `ab080d302921191b34dda2d7f994c1cbf6b7a54652a57cb8fee42d548ad3407d`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/double-dragon-2-v1.0.1/double-dragon-2-v1.0.1-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/double-dragon-2-v1.0.1/double-dragon-2-v1.0.1-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/double-dragon-2-v1.0.1-final-nine-grid-1.png)
 
-## 对应版本截图
+美版普通8px路线图恢复、共享字库分离及五类招牌限定图形修复。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v1.0.0测试版／8px／unchanged](screenshots/2584c69bf11b1d2028bb.png)
+## 测试及限制
 
-双截龙2 美国版 v1.0.0测试版 普通8px最终ROM：前6格自然按键，后3格诊断；DMG灰度原帧整数3×显示，不代表自然全通或大字号。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`2584c69bf11b1d2028bb95ac5c4363775b90aa3d5d1e9b7e6a56c6a536b06475`；绑定ROM SHA256：`53552bf15a68b4293626673c5d64aee49e2bdb9bda2b7128ec4e9f180ac271f0`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

@@ -1,39 +1,37 @@
-# J联赛胜利十一人Advance2002
+# J联赛胜利十一人Advance2002 v0.1.4（限定测试版）
 
-原输入：J.League Winning Eleven Advance 2002 (Japan)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/j-league-winning-eleven-advance-2002-v0.1.4) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：J.League Winning Eleven Advance 2002 (Japan)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| native8-12 | v0.1.3限定修复测试版 | unchanged | `a52c12571048850d7221f105d13325a21274b1cb7e57d1af03b0db7100655df4` |
+原输入完整 SHA-256：`ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5`（8388608字节）。
 
-## 源码与补丁
+范围：原生混合8/12px子菜单背景、存档动态槽/状态图及轮次独立图像限定修复；部分深层仍未验。
 
-- native8-12／v0.1.3限定修复测试版／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/j-league-winning-eleven-advance-2002-current-source-b21547c23c79-public-r01.zip)（ZIP SHA256 `89433273f719dcab523b4e17a4a0485940f4631fd3477888a2ffe404c8f2cd11`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/j-league-winning-eleven-advance-2002-current-patches.zip)（ZIP SHA256 `09aa83bd4a2290bd1fba676eac5f26e4be12e88ebcd32efaec925b99afcb5ad5`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## native8-12 v0.1.4 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：原生混合8/12px子菜单背景、存档动态槽/状态图及轮次独立图像限定修复；部分深层仍未验。
 
-## 范围与验证边界
+目标完整 SHA-256：`a24931eb5d51461ef9b857a9f8008ace62ca05d43d7c1c6a264b25e2b014d0c3`（16777216字节）。
 
-- native8-12／v0.1.3限定修复测试版：一个原生混合8/12px目标：密集名单8px、原生菜单12px；不是独立大字版，无10px/SGB。。
-  既有反馈合并限定修复：保留原生混合8/12px，已核条目修订及入口实图范围见审计；深层赛季/全部姓名/联机未验，既有反馈保持open。
-  完整所有姓名与最长组合、全部球队及动态存档值未穷举。
-  深层赛季/杯赛/隐藏大师杯、联机成功、硬件和全流程未验。
-  未证实可达的遗留队名、世界杯最终预选和候选地图保持；部分阶段值仅静态核对。
-  混合8/12px为一个原生布局目标，不是普通/大字两份ROM。
-  同一提供者自测；本次维护审计没有重建或运行游戏。
+补丁：`JLeague2002-v0.1.4-native8-12px.bps`，SHA-256 `06e8bbefcc2fdb07983db2361e2da72f9974fc56976802ba3ad600f9a9921ad1`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/j-league-winning-eleven-advance-2002-v0.1.4/j-league-winning-eleven-advance-2002-v0.1.4-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/j-league-winning-eleven-advance-2002-v0.1.4/j-league-winning-eleven-advance-2002-v0.1.4-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/j-league-winning-eleven-advance-2002-v0.1.4-final-nine-grid-1.png)
 
-## 对应版本截图
+原生混合8/12px子菜单背景、存档动态槽/状态图及轮次独立图像限定修复；部分深层仍未验。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.1.3限定修复测试版／native8-12／unchanged](screenshots/f14358b3965f4ae5e90a.png)
+## 测试及限制
 
-对应版本的原始截图；此导出未新增运行或通关验收。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`f14358b3965f4ae5e90a446d49c98640215b898a8cf07ef4f92ddf44033e3f91`；绑定ROM SHA256：`a52c12571048850d7221f105d13325a21274b1cb7e57d1af03b0db7100655df4`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

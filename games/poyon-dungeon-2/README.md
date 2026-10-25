@@ -1,36 +1,38 @@
-# 波永的迷宫2
+# 波永的迷宫2 v0.1.7（限定测试版）
 
-原输入：Poyon no Dungeon Room 2
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.7) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Poyon no Dungeon Room 2
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.4 | unchanged | `b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff` |
+原输入完整 SHA-256：`ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148`（2097152字节）。
 
-## 源码与补丁
+范围：职业栏、三个图鉴及初村迷你机械改装/4字节命名短路线的限定显示修复。
 
-- 8px／v0.1.4／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/poyon-dungeon-2-current-source-fc1000a54c54-public-r01.zip)（ZIP SHA256 `5bc79197f6854afb7f85cc84c53a7841931b0bd7ba60a0aa735f97d00af7d217`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/poyon-dungeon-2-current-patches.zip)（ZIP SHA256 `0e01cd9bfde43ddbe9420069200b112bc642b0ecb9466cb2702e4d83df26867d`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v0.1.7 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px；本批不新增大字号。
 
-## 范围与验证边界
+目标完整 SHA-256：`f2260fe64fc9b2a06845a00a92ec3c7954902c47235fd9bd3222c53a4536ca74`（4194304字节）。
 
-- 8px／v0.1.4：普通原生8px，仓库存入/取出E装备标记及五项小弹窗局部修复；保留此前已修内容，无大字。。
-  普通原生8px，仓库存入/取出E装备标记及五项小弹窗局部修复；保留此前已修内容，无大字。
-  未自然获得装备后实际非空存取交易与冷读、其它仓库、自然实战、深层职业/合成/全通/实机/联机。
-  八字召唤兽命名及图鉴/预览等其它问题不在本次结论；暂停长攻略不恢复。
+补丁：`Poyon2_v0.1.7_8px_limited.bps`，SHA-256 `320f6cc5bd17e9811beded6c35b7ce9c27d5681b68ed1d83533fccfbb3fca5e7`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-SOURCE-public.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-PATCH-public.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/poyon-dungeon-2-v0.1.7-8px-unchanged-nine-grid.png)
 
-## 对应版本截图
+v0.1.7 / 8px / unchanged 最终ROM提供者实际画面；真实九格，按提供者场景分别保留自然和诊断边界。维护未运行、未全通或实机验收。
 
-![版本 v0.1.4／8px／unchanged](screenshots/5f569cf892060c0fc7df.png)
+## 测试及限制
 
-v0.1.4 普通原生8px，仓库存入/取出E装备标记及五项小弹窗局部修复；保留此前已修内容，无大字。 音频：unchanged；九宫格6自然+3诊断，2倍最近邻展示及外加说明；诊断装备并非自然持有/穿戴或成功存取。
+提供方自然范围：提供者自测：最终ROM自然初村职业栏、未知图鉴页、迷你机械房菜单/命名、普通保存及新进程Continue。
 
-图像SHA256：`5f569cf892060c0fc7df06ca534653cbdf86c04dd05c67950c39afc005fe328d`；绑定ROM SHA256：`b0444ebf01b262e18b4f7f8a7e03ff231be03c4f3b5166154bd1787a01f6f7ff`。
+提供方诊断范围：提供者诊断：已知图鉴全项与混合发现位/机械名字边界为明确受控诊断；不当自然发现或全收集。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅做数据/字节与独立补丁验证，未执行提供者源码或ROM，未独立重建。
+- 未验证：全作未译仍开放；Boss/第二大关/包子比赛长路线暂停保持。
+- 未验证：迷你机械改装房不等于格斗家劈瓦迷你游戏；不得据本版冒称该反馈已修。
+- 未验证：未全通/实机/自然全物品/玩家真实旧档；保存计时差异保留精确说明。

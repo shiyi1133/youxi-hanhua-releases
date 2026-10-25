@@ -1,35 +1,37 @@
-# 庇护区区长
+# 庇护区区长 v1.0.1（限定测试版）
 
-原输入：The Mayor of Sanctuary
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mayor-of-sanctuary-v1.0.1) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：The Mayor of Sanctuary
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v1.0.0 | unchanged | `97f22b397e70523db7b910df798c437ee919c218e935a8545fd40a0d20dd7e2d` |
+原输入完整 SHA-256：`596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02`（4194304字节）。
 
-## 源码与补丁
+范围：普通8px收藏页64条件图板及相关原声播放器标签限定修订，原曲名/作者保留。
 
-- 8px／v1.0.0／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/mayor-of-sanctuary-current-scope-source-public-r01.zip)（ZIP SHA256 `259a1375ee661e66b4213663bb93014bacec6b6b5d3621c09991e5d1482288cf`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mayor-of-sanctuary-current-patches.zip)（ZIP SHA256 `18573fadce08e1320f7fb06a4c1c8bccb0d75a19cab2288b40c4d03f217be408`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v1.0.1 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px收藏页64条件图板及相关原声播放器标签限定修订，原曲名/作者保留。
 
-## 范围与验证边界
+目标完整 SHA-256：`a754ecccf9ed492e3d77258697133613aaa321f7bbab7e1831f3719698a60778`（4194304字节）。
 
-- 8px／v1.0.0：普通原生8px，按实际CGB-only头保留；不认证DMG/SGB可玩。。
-  普通原生8px，按实际CGB-only头保留；不认证DMG/SGB可玩。
-  未完整通关、全部支线/结局自然推进、实机或闪卡；诊断消费者通过不等于全部剧情可达。
+补丁：`MayorSanctuary_zh_8px_v1.0.1.bps`，SHA-256 `e0895d3872b248f8bc646ba7d3f2dca49ef854824d17ea9436fd360a0d9a6cd7`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mayor-of-sanctuary-v1.0.1/mayor-of-sanctuary-v1.0.1-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mayor-of-sanctuary-v1.0.1/mayor-of-sanctuary-v1.0.1-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/mayor-of-sanctuary-v1.0.1-final-nine-grid-1.png)
 
-## 对应版本截图
+普通8px收藏页64条件图板及相关原声播放器标签限定修订，原曲名/作者保留。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v1.0.0／8px／unchanged](screenshots/66b894d53c90133cda7b.png)
+## 测试及限制
 
-九格均为提供方同目标自然操作及电池冷读路线，无诊断画面。；对应 v1.0.0 8px 最终ROM。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`66b894d53c90133cda7bbeaed0784fe73e1870086408746bd49a7f426b03a0b2`；绑定ROM SHA256：`97f22b397e70523db7b910df798c437ee919c218e935a8545fd40a0d20dd7e2d`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

@@ -1,42 +1,37 @@
-# 扎德传说2：伪神的领域
+# 扎德传说2：伪神的领域 v0.1.2（限定测试版）
 
-原输入：Zerd no Densetsu 2 - Xerd!! Gishin no Ryouiki
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/zerd-no-densetsu-2-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Zerd no Densetsu 2 - Xerd!! Gishin no Ryouiki
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1 | unchanged | `58beec57ed1fe841d50061c87c9122f17bbec1d61363b750cdd395c23823f2ef` |
+原输入完整 SHA-256：`c941a4f807bc02df3713c63034a250d9daf965e2a22e2fae9d461f0ebdaef858`（524288字节）。
 
-## 源码与补丁
+范围：普通8px开场独立滚动叙事、目的地提示补译及原生VRAM可写期上传修复。
 
-- 8px／v0.1.1／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/zerd-no-densetsu-2-current-scope-source-public-r01.zip)（ZIP SHA256 `b15c30d03bb01a22859d9077761b984333c91c037d619e483c578cdcf42f7ad6`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/zerd-no-densetsu-2-current-patches.zip)（ZIP SHA256 `e4ecf01ac11f93527ff21c1b423a64207d19ffb60ee0fa035a5c65719bfb44f0`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v0.1.2 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px开场独立滚动叙事、目的地提示补译及原生VRAM可写期上传修复。
 
-## 范围与验证边界
+目标完整 SHA-256：`37c8d151d20bf898d7451e84b6ad60cb75aa903da5c4e23a1e8155c98fb957cf`（2097152字节）。
 
-- 8px／v0.1.1：原生普通8px。。
-  命名键盘扩展为40姓+60名字，保留原假名/原生4字存储。
-  提供者自身测试，不是维护方独立运行或独立人员QA；本轮未执行源码或ROM。
-  v0.1.0覆盖只保留历史；不能将旧版自然/诊断场景自动当v0.1.1验收。
-  提供者记录v0.1.0原生电池样本冷读；旧SAV字节未随包提供，本轮未载入复测，不外推所有旧档/模拟器兼容。
-  新增汉字姓名不保证旧v0.1.0或未修改原版显示；不建议降级读取，跨版本即时状态不保证。
-  未全流程、实机、全部深层事件/最长变量组合或自然死亡续关。
-  两套姓名字段各40姓+60名字，每字段最多4字；100汉字×两字段200按键验收仅提供者报告。
-  普通8px唯一版，无10px交付；九格无诊断入口标记，仍属提供者按键路线证据。
-  覆盖保存取消/覆盖/新进程冷读与音效测试口令样本仅提供者报告；并非全部存档槽/所有取消组合通过。
+补丁：`zerd2-v0.1.2-8px.bps`，SHA-256 `8ae2ae2e1273d7d428194fb436da91901eeef8cbb3414c94d25e0392e5fecad2`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-2-v0.1.2/zerd-no-densetsu-2-v0.1.2-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-2-v0.1.2/zerd-no-densetsu-2-v0.1.2-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/zerd-no-densetsu-2-v0.1.2-final-nine-grid-1.png)
 
-## 对应版本截图
+普通8px开场独立滚动叙事、目的地提示补译及原生VRAM可写期上传修复。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.1.1／8px／unchanged](screenshots/4e02ae156e27b4a99f44.png)
+## 测试及限制
 
-扎德传说2：伪神的领域 v0.1.1 8px；原生普通8px。；最终ROM真实九宫格（自然/诊断/续行边界按本说明）
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`4e02ae156e27b4a99f44376a83f1727b0b9271f3e0be1b7ce8b1956af04de905`；绑定ROM SHA256：`58beec57ed1fe841d50061c87c9122f17bbec1d61363b750cdd395c23823f2ef`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

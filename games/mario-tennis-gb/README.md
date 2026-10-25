@@ -1,47 +1,37 @@
-# 马里奥网球GB
+# 马里奥网球GB v1.0.4（限定测试版）
 
-原输入：Mario Tennis GB (Japan; requester filename and MOBILETENS/BM8J header identity)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mario-tennis-gb-v1.0.4) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Mario Tennis GB (Japan; requester filename and MOBILETENS/BM8J header identity)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v1.0.2限定修复测试版 | unchanged | `fff3c4a157a544ea1286a58599b42bd83cfac2da1c26ca84fc8d25ca6aff3745` |
+原输入完整 SHA-256：`bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7`（2097152字节）。
 
-## 源码与补丁
+范围：原生普通8px独立胜负结果字图及滚动胜负背景文字；12px仅原尺寸结果图片区，非大字版。
 
-- 8px／v1.0.2限定修复测试版／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/mario-tennis-gb-current-scope-source-public-r01.zip)（ZIP SHA256 `cac5656b74aa0e0ea3ed1e548c41e57a0c3c91c7cd6662563aac9aa4da1d7b7c`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mario-tennis-gb-current-patches.zip)（ZIP SHA256 `51f2d657291d01f5bce6bd9b514c81f0f9d23f15ced78d9fab476857bf18eb30`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v1.0.4 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：原生普通8px独立胜负结果字图及滚动胜负背景文字；12px仅原尺寸结果图片区，非大字版。
 
-## 范围与验证边界
+目标完整 SHA-256：`015f59f383576bd808fd82621b325c6901cb80fda23ddfc5fe85eb94bbd060ee`（4194304字节）。
 
-- 8px／v1.0.2限定修复测试版：普通Fusion Pixel8px既有范围；无大字；原生紧凑UI/图像范围按说明。
-  补译RPG角色总览/主角与搭档详情图片文字：标题、左右手、四属性、距升级、游戏时间、返回与经验值；保留v1.0.1模式刷新与能力确认。
-  RPG图片是本版新修范围，比赛深层日文仍未全面覆盖；既有反馈复合剩余范围保持open。
-  标题底色/球拍美术和Logo偏好未改；新报告能力确认框上方半引号白点本版仍可见，不把18个标签框BDF零差异冒称框外噪点已修。
-  未自然全通、后期数值/条形穷举、全部剧情换行、实机、联机或N64连接；同版自然状态续接与电池冷读分别记录，不当独立人员QA。
-  静态4045条控制/1433字形/110姓名槽审计及144注入VRAM向量是静态/诊断，不能冒称自然全场景。
-  维护本次仅独立核ZIP/CRC/全SHA、原输入、BPS严格回补与截图逐像素绑定，未执行附包源码/依赖/模拟器或开展汉化。
-  按用户AGENTS本轮Source上传0；完整源码、存档/即时状态/依赖二进制仅本地，不装入玩家ROM/补丁ZIP；原输入复用统一单ROM ZIP不重复上传。
-  换版先备份原生电池存档；不保证任意历史即时状态跨版兼容。
+补丁：`MarioTennisGB_v1.0.4.bps`，SHA-256 `bb99904f59cf89a20d62e7e3e07bae2646f1cfe0257fc3abdfc064debd81202e`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mario-tennis-gb-v1.0.4/mario-tennis-gb-v1.0.4-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mario-tennis-gb-v1.0.4/mario-tennis-gb-v1.0.4-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/mario-tennis-gb-v1.0.4-final-nine-grid-1.png)
 
-## 对应版本截图
+原生普通8px独立胜负结果字图及滚动胜负背景文字；12px仅原尺寸结果图片区，非大字版。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v1.0.2限定修复测试版／8px／unchanged](screenshots/3c9ae04d58a5b69d765d.png)
+## 测试及限制
 
-马里奥网球GB v1.0.2限定修复测试版 普通8px；提供方最终ROM画面，诊断/自然范围按图及证据明确标注，未新增维护运行。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`3c9ae04d58a5b69d765d547d0536148cead57a54635b80ab78ec62b549a0a5c7`；绑定ROM SHA256：`fff3c4a157a544ea1286a58599b42bd83cfac2da1c26ca84fc8d25ca6aff3745`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
-![版本 v1.0.2限定修复测试版／8px／unchanged](screenshots/5288c5ac24961ed860c9.png)
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
 
-旧版本与当前修复测试版的真实对比，按图内原版本标签区分。
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
 
-图像SHA256：`5288c5ac24961ed860c97b5c5acb9d6e7552e1c98925a0d3c9f90b941d1b0008`；绑定ROM SHA256：`fff3c4a157a544ea1286a58599b42bd83cfac2da1c26ca84fc8d25ca6aff3745`。
-
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

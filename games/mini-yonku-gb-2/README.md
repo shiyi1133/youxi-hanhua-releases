@@ -1,39 +1,38 @@
-# 四驱兄弟：全明星对战
+# 四驱兄弟：全明星对战 v0.1.2（限定测试版）
 
-原输入：Mini Yonku GB 2 (Japan; requester filename and MINI4WD GB2 header identity)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/mini-yonku-gb-2-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Mini Yonku GB 2 (Japan; requester filename and MINI4WD GB2 header identity)
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1限定测试版 | unchanged | `3844aaa2843eea34a62f24ae133a2c1c0ac1fae1ec471288868b4eba74f03fd9` |
+原输入完整 SHA-256：`947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0`（1048576字节）。
 
-## 源码与补丁
+范围：普通8px限定修复Issue76记录页游戏时间分隔符乱码与扩展中文绘制破坏文字框上横线；27字节改动，不改计时算法、存档布局和既有教学内容。
 
-- 8px／v0.1.1限定测试版／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02b/mini-yonku-gb-2-current-source-23b39ad82f63-public-r01.zip)（ZIP SHA256 `a44f7cee39e42e4f2d0289d7a167683f7c1f63fed32b72d4285272b0b8fab39e`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/mini-yonku-gb-2-current-patches.zip)（ZIP SHA256 `65b89d77e0e73ad519e24ba0bdb4262f8294ee28cd25825ed324ee2e58fe46fb`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v0.1.2 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px限定修复Issue76记录页游戏时间分隔符乱码与扩展中文绘制破坏文字框上横线；27字节改动，不改计时算法、存档布局和既有教学内容。
 
-## 范围与验证边界
+目标完整 SHA-256：`7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011`（1048576字节）。
 
-- 8px／v0.1.1限定测试版：普通8px点阵汉化；原生英文/假名及未覆盖图形按实际版本保留。。
-  修复开场切换、车名、帐篷成绩三个已反馈显示场景。
-  提供方自然路径覆盖开场、初始车辆、成绩、首次获胜、取名和电池存档冷启动；73车名矩阵为受控诊断，不代表自然解锁全车。
-  原生SGB边框和调色保持；无全流程、实机或联机验收。
-  本维护会话仅独立静态、BPS还原、文件校验和九宫格像素核验；未执行附件代码、未运行模拟器或复测游戏。
-  提供方限定路线验证；维护独立核完整SHA、补丁和截图，未运行附包代码或游戏。
-  未声明实机、全流程通关或全部旧存档兼容。
+补丁：`mini-yonku-gb2-v0.1.2-8px-from-original.bps`，SHA-256 `e77d4f7ff7562e33813e7829ec6725ded381ea07117072bbefa1fcc3910afd27`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-2-v0.1.2/mini-yonku-gb-2-v0.1.2-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/mini-yonku-gb-2-v0.1.2/mini-yonku-gb-2-v0.1.2-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/mini-yonku-gb-2-v0.1.2-final-nine-grid-1.png)
 
-## 对应版本截图
+普通8px限定修复Issue76记录页游戏时间分隔符乱码与扩展中文绘制破坏文字框上横线；27字节改动，不改计时算法、存档布局和既有教学内容。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.1.1限定测试版／8px／unchanged](screenshots/ede9000a8454727179a2.png)
+## 测试及限制
 
-四驱兄弟：全明星对战 v0.1.1限定测试版 普通8px；提供方最终ROM画面，维护实际查看九宫格，不代表维护重跑游戏。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`ede9000a8454727179a2f0012fc065973854480e3000703df133b24d499368cb`；绑定ROM SHA256：`3844aaa2843eea34a62f24ae133a2c1c0ac1fae1ec471288868b4eba74f03fd9`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。
+- 未验证：发布勘误：本Release早先ROM包及补丁包内README的一行范围摘要誊写有误，以此更正说明为准：普通8px限定修复Issue76记录页游戏时间分隔符乱码与扩展中文绘制破坏文字框上横线；27字节改动，不改计时算法、存档布局和既有教学内容。 ROM及补丁字节和完整SHA256未变；保留原ZIP及回执，不替换资产、不另造游戏新版，也不扩大运行验收。

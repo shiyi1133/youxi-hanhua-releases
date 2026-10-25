@@ -1,39 +1,37 @@
-# 宝可梦棱镜 v0.1.1（限定测试版）
+# 宝可梦棱镜 v0.1.2（限定测试版）
 
-[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.1) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/pokemon-prism-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
 原游戏／实际输入：Pokemon Prism v0.95.0254
 
-原输入完整SHA-256：`dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d`（2097152字节）。
+原输入完整 SHA-256：`dea0729edbc5923f1af1fbd9c79e56cd7ff255642bca12f7fb146d506196077d`（2097152字节）。
 
-范围：普通8px限定修复测试版：七处显式页眉路牌入口、菜单/洞窟清页消费者，PC九标签、八能力名称与忘招续段。
+范围：普通8px背包六类独立图像标签补译；沙龙未复现和未知地点漏译仍保留。
 
-## 8px v0.1.1
+## 8px v0.1.2 / unchanged
 
-字号范围：原生普通8px；无另行大字版；CGB原生彩色，非SGB验收。
+字号范围：普通8px背包六类独立图像标签补译；沙龙未复现和未知地点漏译仍保留。
 
-目标完整SHA-256：`22d0f5475d912d006e2c622e524b67366effa2ae87659f46ed1d55f8bbdd6358`（2097152字节）。
+目标完整 SHA-256：`44688934bfee2dfb21aaaaf0d43a56e559f3160fc4d37d53d3c4db8fc2ce2eca`（2097152字节）。
 
-补丁：`pokemon-prism-v0.1.1-8px.bps`，SHA-256 `8acaa7dc4640a17e20820cea14991f5d4cd5176948b99200a455feb95be80ea7`。
+补丁：`pokemon-prism-v0.1.2-8px.bps`，SHA-256 `456763e474494dc6b31bd73049a943544dc1ea72374f1e8b4ff6c28207c01c14`。
 
-[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.1/pokemon-prism-v0.1.1-8px-SOURCE-public-r02.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.1/pokemon-prism-v0.1.1-8px-PATCH-public.zip)
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.2/pokemon-prism-v0.1.2-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/pokemon-prism-v0.1.2/pokemon-prism-v0.1.2-patches.zip)
 
-![最终ROM对应实际九宫格](screenshots/pokemon-prism-v0.1.1-8px-nine-grid.png)
+![最终ROM对应实际截图](screenshots/pokemon-prism-v0.1.2-final-nine-grid-1.png)
 
-v0.1.1 原生普通8px最终ROM真实九宫格；自然/受控诊断消费者分层见说明，不作全流程/实机证明。
+普通8px背包六类独立图像标签补译；沙龙未复现和未知地点漏译仍保留。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
 ## 测试及限制
 
-提供者自然路径：提供者自然自测：新开局玩家与首只精灵杨咩咩重复/删除/重输、首战、普通保存及新进程冷读；洞窟自然按键重放。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-提供者诊断路径：两块路牌用原生warp诊断定位后正常保存、新进程Continue及普通交互；PC、能力变化及忘招是受控原生消费者入口，非自然升级/物品交易。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
-保存边界：提供者自测与诊断按上述边界区分；维护未运行ROM/源码，建议先备份存档、跨版本不用即时状态。
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
 
-同一实现者自测，不是独立人员QA；维护未新增ROM运行或源码重建，未宣称实机或完整通关。
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
 
-- 未验证：Issue109沙龙黑块受控测试未复现，不能称已修；自然完整行走状态未覆盖。
-- 未验证：Issue110未知地点漏译仍待定位；POCKET/ITEMS图形标签保留，PC物品交易/自然升级忘招未完整验收。
-- 未验证：全流程、实机、联机及所有外部旧档未测。
-- 核对补丁还原、资产完整SHA和截图字节不等于全部游戏功能验收。
-
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

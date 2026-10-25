@@ -1,36 +1,37 @@
-# 舰队指挥官VS
+# 舰队指挥官VS v0.1.3（限定测试版）
 
-原输入：Fleet Commander VS.
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/fleet-commander-vs-v0.1.3) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`a6ac3d3a8c7144a5e1ed8ca9d0283fc34ab134210170297e53504ada4dccb485`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Fleet Commander VS.
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1 | unchanged | `83a50a20b91c5c1801e5f7b381fb50f89f3501a393052426fa7b3e5bc1797b9c` |
+原输入完整 SHA-256：`a6ac3d3a8c7144a5e1ed8ca9d0283fc34ab134210170297e53504ada4dccb485`（262144字节）。
 
-## 源码与补丁
+范围：普通8px选图/作战室/Data等待减缓并修赤城/阵营缺字；延迟仍存在，Issue94未完全解决。
 
-- 8px／v0.1.1／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-02a/fleet-commander-vs-current-source-5923dac7875f-public-r01.zip)（ZIP SHA256 `0134c3fca22adfb6d83dde4aed4276f59d7aac848b979884d0bd0dcfb7d8fa33`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/fleet-commander-vs-current-patches.zip)（ZIP SHA256 `2b4299c69549219b32afc43bc59bba486d3f1608e53bcb90887fd2a40dc2f2b6`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 8px v0.1.3 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px选图/作战室/Data等待减缓并修赤城/阵营缺字；延迟仍存在，Issue94未完全解决。
 
-## 范围与验证边界
+目标完整 SHA-256：`07f7ab120883a308851a8a7ab5f316c4bd10683a124736dd0e569bad18a1fe01`（524288字节）。
 
-- 8px／v0.1.1：Fusion Pixel普通8px，GB/DMG；未实现可靠真10px，无独立大字或SGB。。
-  Fusion Pixel普通8px，GB/DMG；未实现可靠真10px，无独立大字或SGB。
-  #94延迟仅降低仍比日版慢，不称全作卡顿已解决；玩家实际ROM SHA/设备未核。
-  未自然战斗/港口商店/胜败结局/全通/实机/联机；外交字母通信不是命名，不新增键盘；旧8KB存档等兼容未验。
+补丁：`fleet-commander-vs-v0.1.3-8px.bps`，SHA-256 `b4769ee2f0a8e2f15628fc5107a1b7b4772973b55ead4c11cf3543b9aadfd24e`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/fleet-commander-vs-v0.1.3/fleet-commander-vs-v0.1.3-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/fleet-commander-vs-v0.1.3/fleet-commander-vs-v0.1.3-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/fleet-commander-vs-v0.1.3-final-nine-grid-1.png)
 
-## 对应版本截图
+普通8px选图/作战室/Data等待减缓并修赤城/阵营缺字；延迟仍存在，Issue94未完全解决。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.1.1／8px／unchanged](screenshots/31e1162509d5880d473e.png)
+## 测试及限制
 
-v0.1.1 Fusion Pixel普通8px，GB/DMG；未实现可靠真10px，无独立大字或SGB。 音频：unchanged；同目标DMG原生帧，有限自然路线/保存冷读；延迟数据是mGBA帧计数，非实机。
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
 
-图像SHA256：`31e1162509d5880d473e60e59919c7c8ba7b9b830ca09294f0e632825709f229`；绑定ROM SHA256：`83a50a20b91c5c1801e5f7b381fb50f89f3501a393052426fa7b3e5bc1797b9c`。
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
 
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。

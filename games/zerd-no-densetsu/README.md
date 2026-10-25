@@ -1,61 +1,53 @@
-# 扎德传说
+# 扎德传说 v0.1.2（限定测试版）
 
-原输入：Zerd no Densetsu
+[源码与补丁Release](https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/zerd-no-densetsu-v0.1.2) · [公开反馈](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
 
-原输入完整SHA256：`f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3`。此处“原输入”保留改版、既有汉化或地区修订身份，不一律称干净零售ROM。
+原游戏／实际输入：Zerd no Densetsu
 
-| 字号 | 当前版本 | 音频 | 输出完整SHA256 |
-| --- | --- | --- | --- |
-| 8px | v0.1.1 | unchanged | `1f1d91fb4830d9f325374d7ff1213e7431924c62c62e4776807fad464936b657` |
-| 10px | v0.1.1 | unchanged | `57d7d4d5fa0812c5e8aa5596bd8f0d5a85fa967361b35ffd575d084493af7fbd` |
+原输入完整 SHA-256：`f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3`（131072字节）。
 
-## 源码与补丁
+范围：普通8px与既有10px对白分别修收窗后才恢复原假名字库，保留原生等待/收窗/翻页。
 
-- 8px／v0.1.1／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/zerd-no-densetsu-current-scope-source-public-r01.zip)（ZIP SHA256 `810c092dff58baf437ee32fc68eab6919c8ee428f448bd1a10b1e29260fc08bb`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/zerd-no-densetsu-current-patches.zip)（ZIP SHA256 `ce97dbe32f28364c8ed671237725a9b4f54f7701a0e23166e1b8b75b0e113717`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
-- 10px／v0.1.1／unchanged：源码包（完整性未独立确认）：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/source-migration-20261022-04/zerd-no-densetsu-current-scope-source-public-r01.zip)（ZIP SHA256 `810c092dff58baf437ee32fc68eab6919c8ee428f448bd1a10b1e29260fc08bb`）；补丁：[下载](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/patch-migration-20261022/zerd-no-densetsu-current-patches.zip)（ZIP SHA256 `ce97dbe32f28364c8ed671237725a9b4f54f7701a0e23166e1b8b75b0e113717`）。
-  该包已核对对应版本与字节安全；完整修改源码覆盖范围未独立确认。
+## 10px v0.1.2 / unchanged
 
-补丁须直接应用于完整SHA一致的实际原输入；普通字、大字和音乐变体分别核对。公开源码归档不表示本轮重新构建或通过新的运行验收。原作、字体、已有翻译及工具依赖的权利与许可，依各包对应许可保留。
+字号范围：普通8px与既有10px对白分别修收窗后才恢复原假名字库，保留原生等待/收窗/翻页。
 
-## 范围与验证边界
+目标完整 SHA-256：`3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc`（524288字节）。
 
-- 8px／v0.1.1：原生普通8px。。
-  命名键盘扩展为40姓+60名字，保留原假名/原生4字存储。
-  提供者自身测试，不是维护方独立运行或独立人员QA；本轮未执行源码或ROM。
-  v0.1.0覆盖只保留历史；不能将旧版自然/诊断场景自动当v0.1.1验收。
-  提供者记录v0.1.0原生电池样本冷读；旧SAV字节未随包提供，本轮未载入复测，不外推所有旧档/模拟器兼容。
-  新增汉字姓名不保证旧v0.1.0或未修改原版显示；不建议降级读取，跨版本即时状态不保证。
-  未全流程、实机、全部深层事件/最长变量组合或自然死亡续关。
-  10px只对白，输入/菜单/战斗仍8px；模拟器1帧按键接受延迟不代表实机帧率或无拖慢。
-  两个九格第9格明确为同最终ROM状态恢复后的layout/2诊断入口，不是自然到达；其余保存冷读格各有电池来源。
-  本版姓名40姓+60名字及原170假名，共270位置；自然新名/商店/装备/战斗/保存样本为提供者自测，未独立重跑。
-- 10px／v0.1.1：真10px仅对白；密集菜单/战斗/取名等仍8px，独立排版；更易拖慢/刷新残留，请反馈。。
-  命名键盘扩展为40姓+60名字，保留原假名/原生4字存储。
-  提供者自身测试，不是维护方独立运行或独立人员QA；本轮未执行源码或ROM。
-  v0.1.0覆盖只保留历史；不能将旧版自然/诊断场景自动当v0.1.1验收。
-  提供者记录v0.1.0原生电池样本冷读；旧SAV字节未随包提供，本轮未载入复测，不外推所有旧档/模拟器兼容。
-  新增汉字姓名不保证旧v0.1.0或未修改原版显示；不建议降级读取，跨版本即时状态不保证。
-  未全流程、实机、全部深层事件/最长变量组合或自然死亡续关。
-  10px只对白，输入/菜单/战斗仍8px；模拟器1帧按键接受延迟不代表实机帧率或无拖慢。
-  两个九格第9格明确为同最终ROM状态恢复后的layout/2诊断入口，不是自然到达；其余保存冷读格各有电池来源。
-  本版姓名40姓+60名字及原170假名，共270位置；自然新名/商店/装备/战斗/保存样本为提供者自测，未独立重跑。
+补丁：`zerd-no-densetsu-v0.1.2-10px.bps`，SHA-256 `5496d79c619ad3fee3325935a46f059b12997eb73af063e3747ecb33f0eb1390`。
 
-本次资料搬运未新增模拟器、实机或全通验收；未记录或未测试的范围不写成通过。问题单开放只表示尚未关闭，已关闭也不单独证明全部场景都修复。
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-v0.1.2/zerd-no-densetsu-v0.1.2-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-v0.1.2/zerd-no-densetsu-v0.1.2-patches.zip)
 
-[公开反馈及问题状态](feedback.md) · [报告BUG](https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md)
+![最终ROM对应实际截图](screenshots/zerd-no-densetsu-v0.1.2-final-nine-grid-2.png)
 
-## 对应版本截图
+普通8px与既有10px对白分别修收窗后才恢复原假名字库，保留原生等待/收窗/翻页。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
 
-![版本 v0.1.1／8px／unchanged](screenshots/f7b6218788074947604a.png)
+## 8px v0.1.2 / unchanged
 
-扎德传说 v0.1.1 8px；原生普通8px。；最终ROM真实九宫格（自然/诊断/续行边界按本说明）
+字号范围：普通8px与既有10px对白分别修收窗后才恢复原假名字库，保留原生等待/收窗/翻页。
 
-图像SHA256：`f7b6218788074947604a72a0ef6f4104a98688e97942902c1c9440ea68ddc402`；绑定ROM SHA256：`1f1d91fb4830d9f325374d7ff1213e7431924c62c62e4776807fad464936b657`。
+目标完整 SHA-256：`070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539`（524288字节）。
 
-![版本 v0.1.1／10px／unchanged](screenshots/5b5b4dd3fb50e600b7d5.png)
+补丁：`zerd-no-densetsu-v0.1.2-8px.bps`，SHA-256 `c57c6f79617b70e7a36af856557946f859ef0d64aff1ba3ab6b61e6c32a57b25`。
 
-扎德传说 v0.1.1 10px；真10px仅对白；密集菜单/战斗/取名等仍8px，独立排版；更易拖慢/刷新残留，请反馈。；最终ROM真实九宫格（自然/诊断/续行边界按本说明）
+[源码（完整性未独立确认）](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-v0.1.2/zerd-no-densetsu-v0.1.2-complete-source.zip) · [补丁包](https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/zerd-no-densetsu-v0.1.2/zerd-no-densetsu-v0.1.2-patches.zip)
 
-图像SHA256：`5b5b4dd3fb50e600b7d571d0e0a658d5be331c3ef53784cfaa82c68eda4ba3be`；绑定ROM SHA256：`57d7d4d5fa0812c5e8aa5596bd8f0d5a85fa967361b35ffd575d084493af7fbd`。
+![最终ROM对应实际截图](screenshots/zerd-no-densetsu-v0.1.2-final-nine-grid-1.png)
 
+普通8px与既有10px对白分别修收窗后才恢复原假名字库，保留原生等待/收窗/翻页。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。
+
+## 测试及限制
+
+提供方自然范围：提供方报告的自然/正常按键流程，维护未重跑。
+
+提供方诊断范围：提供方明确标注的受控消费者、解锁或边界测试，不能冒充自然到达。
+
+保存边界：仅按具体版本材料，不推定所有旧存档兼容。
+
+维护本轮独立核原输入、补丁逐字节还原、ZIP/CRC、Source安全与原图字节；未执行提供方源码、未重建或运行ROM，未宣称独立人员QA、实机或全流程验收。
+
+- 未验证：维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。
+- 未验证：运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。
+- 未验证：使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。
+
+大字版更容易出现拖慢、刷新残留等问题，遇到请及时在原楼反馈。

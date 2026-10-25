@@ -1,8 +1,8 @@
 {
   "schema": "public_current_target_bound_PNG_original_bytes_provenance_v1",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "screenshot_binding_count": 306,
-  "unique_PNG_file_count": 298,
+  "screenshot_binding_count": 311,
+  "unique_PNG_file_count": 303,
   "assets": [
     {
       "game_id": "azure-dreams",
@@ -6313,6 +6313,81 @@
       "actual_original_PNG_full_bytes_download_verified": true,
       "new_runtime_test_by_this_export": false,
       "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "oni-iii",
+      "font": "8px",
+      "version": "v0.1.4",
+      "audio_variant": "unchanged",
+      "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+      "target_rom_sha256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+      "screenshot_sha256": "5ebb1e56c72e2c5f0ab1da9843a8201fba671b6444f86871bfdf5a85ccc27ac6",
+      "screenshot_bytes": 51918,
+      "path": "games/oni-iii/screenshots/oni-iii-v0.1.4-8px-nine-grid.png",
+      "caption": "修正受伤提示中姓名后的日文助词；继承v0.1.3地名、取名和菜单修订。本次普通8px。 提供方报告v0.1.3与本版自然战斗均实核敌我伤害提示，普通姓名/保存新进程冷读；维护未运行。 商店、30路牌/30目的地入口与999伤害属于有标注的诊断/数值边界，不称自然走遍全部城镇。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "poyon-dungeon-2",
+      "font": "8px",
+      "version": "v0.1.8",
+      "audio_variant": "unchanged",
+      "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+      "target_rom_sha256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+      "screenshot_sha256": "51803c85463aa872e33d67d25b3468254621a2ba5006aa055de0417e4e76532a",
+      "screenshot_bytes": 49314,
+      "path": "games/poyon-dungeon-2/screenshots/poyon-dungeon-2-v0.1.8-8px-nine-grid.png",
+      "caption": "修正格斗家劈瓦小游戏的“最高纪录、当前用时、秒”显示，保留递增计时、数字、瓦片美术和原生玩法。 标题与普通存档新进程Continue为自然范围；提供方40组继承回归明确绑定本版。 劈瓦六组关卡、按键/计时/失败/纪录/重试均为显式原生诊断入口，未自然走到第二关前村庄；未执行奖励/职业推进。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "font": "native8px-12px",
+      "version": "v0.1.8",
+      "audio_variant": "unchanged",
+      "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "target_rom_sha256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+      "screenshot_sha256": "0fadc5d4b5cf6b1014e8e14c2389b04921abde79b064eeb98fc90dc75337ff95",
+      "screenshot_bytes": 58388,
+      "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.8-native8-12-CGB-nine-grid.png",
+      "caption": "只恢复标题右选“设定”时消失的原生下划线，保留用户标题图及既有原生8/12px显示。 提供方CGB/SGB冷启、左右选与Start、设置出入、普通姓名/保存/新进程电池冷读有界回归；非维护重跑。 原有调试菜单/参数入口回归不外推到任意深层功能；旧版本报告单独保留为历史。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "tokimeki-memorial-pocket-sport",
+      "font": "native8px-12px",
+      "version": "v0.1.8",
+      "audio_variant": "unchanged",
+      "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+      "target_rom_sha256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+      "screenshot_sha256": "afab4f67895dec5f428e02cb9162599aedad8bd27eae549624faf148eabd59fe",
+      "screenshot_bytes": 102165,
+      "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.8-native8-12-SGB-nine-grid.png",
+      "caption": "只恢复标题右选“设定”时消失的原生下划线，保留用户标题图及既有原生8/12px显示。 提供方CGB/SGB冷启、左右选与Start、设置出入、普通姓名/保存/新进程电池冷读有界回归；非维护重跑。 原有调试菜单/参数入口回归不外推到任意深层功能；旧版本报告单独保留为历史。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
+    },
+    {
+      "game_id": "kotobattle",
+      "font": "8px",
+      "version": "v0.1.6",
+      "audio_variant": "unchanged",
+      "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+      "target_rom_sha256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+      "screenshot_sha256": "ba158317528d1ed3e21714a6da9a7d42c34dd9168447c95619a8e7f97130f43c",
+      "screenshot_bytes": 66216,
+      "path": "games/kotobattle/screenshots/kotobattle-v0.1.6-8px-nine-grid.png",
+      "caption": "补译7条镇内/水道共享消息、两处保留假名线索的挂画释义，并修正交换页描述、道具名和底部言灵名显示。 标题、自然试炼/装备教学/野战、姓名保存冷读与至珊瑚森林路线按提供方报告；未自然到城下镇。 九宫格仅首格自然标题，其余8格明确[D]原生消费者诊断，开场背景不是城镇现场；商店150布局亦为诊断。",
+      "actual_original_PNG_full_bytes_download_verified": true,
+      "new_runtime_test_by_this_export": false,
+      "PNG_pixels_modified": false
     }
   ],
   "new_runtime_tests": 0,
@@ -6799,5 +6874,5 @@
       "PNG_pixels_modified": false
     }
   ],
-  "last_incremental_update_at": "2026-10-25T20:43:53.927589+08:00"
+  "last_incremental_update_at": "2026-10-25T23:19:02.553146+08:00"
 }

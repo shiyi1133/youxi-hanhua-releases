@@ -12,7 +12,7 @@
 | 名称 | 当前版本 | 源码 | 补丁 |
 | --- | --- | --- | --- |
 | [实况世界足球Pocket 2](games/jikkyou-world-soccer-pocket-2/README.md) | native8-12px v0.1.1限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
-| [Koto Battle 天外之守人](games/kotobattle/README.md) | 8px v0.1.5 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [Koto Battle 天外之守人](games/kotobattle/README.md) | 8px v0.1.6 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [口袋国王](games/pocket-king/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [魔物之塔](games/azure-dreams/README.md) | 8px v1.0.9；10px v1.0.11 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [炸弹人GB3](games/bomberman-gb3/README.md) | 8px v1.0.2 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
@@ -54,7 +54,7 @@
 | [骑士冒险](games/knight-quest/README.md) | 8px v1.0；10px v1.0 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [圣斗士星矢：乐园 最强的战士们](games/saint-seiya-gb/README.md) | 8px v1.0.0 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [信长之野望GB](games/nobunaga-gb/README.md) | 8px v1.0.0 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
-| [波永的迷宫2](games/poyon-dungeon-2/README.md) | 8px v0.1.7 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [波永的迷宫2](games/poyon-dungeon-2/README.md) | 8px v0.1.8 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [炸弹人MAX 光之勇者](games/bomberman-max-hikari/README.md) | 8px v1.0.1；10px v1.0.1 | 有源码 2/2目标；完整 2；已知局部 0；完整性待核 0 | 2/2目标 |
 | [极限运动](games/xtreme-sports/README.md) | 8px v0.9.3 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [放课后冒险RPG](games/soul-getter/README.md) | 8px v0.9.1；10px v0.9.1 | 有源码 2/2目标；完整 0；已知局部 0；完整性待核 2 | 2/2目标 |
@@ -75,7 +75,7 @@
 | [巫术Ⅰ狂王的试炼场](games/wizardry-1-gbc/README.md) | 8px v0.1.3 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [巫术Ⅱ利尔伽敏的遗产](games/wizardry-2-gbc/README.md) | 8px v0.1.1 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [巫术Ⅲ钻石骑士](games/wizardry-3-gbc/README.md) | 8px v0.1.1 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
-| [ONIⅢ黑之破坏神](games/oni-iii/README.md) | 8px v0.1.3 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [ONIⅢ黑之破坏神](games/oni-iii/README.md) | 8px v0.1.4 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [ONIⅣ鬼神之血族](games/oni-iv/README.md) | 8px v0.1.4 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [ONIⅤ隐忍继承者](games/oni-v/README.md) | 8px v0.1.3限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [格兰宝](games/guranbo/README.md) | native8x12-8ui v0.1.4 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
@@ -105,7 +105,7 @@
 | [沙加1 DX彩色改版](games/saga-1-dx/README.md) | 8px v0.1.2 music；8px v0.1.2 no-music；8x12 v0.1.2 music；8x12 v0.1.2 no-music | 有源码 4/4目标；完整 0；已知局部 0；完整性待核 4 | 4/4目标 |
 | [沙加2 DX](games/saga-2-dx/README.md) | 8px v0.1.4 music 限定测试版；8px v0.1.4 no-music 限定测试版；8x12 v0.1.4 music 限定测试版；8x12 v0.1.4 no-music 限定测试版 | 有源码 4/4目标；完整性待核 | 4/4目标 |
 | [心跳回忆Pocket：文化篇](games/tokimeki-memorial-pocket-culture/README.md) | native8px-12px v0.1.7 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
-| [心跳回忆Pocket：运动篇](games/tokimeki-memorial-pocket-sport/README.md) | native8px-12px v0.1.7 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
+| [心跳回忆Pocket：运动篇](games/tokimeki-memorial-pocket-sport/README.md) | native8px-12px v0.1.8 unchanged 限定测试版 | 有源码 1/1目标；完整性待核 | 1/1目标 |
 | [Zoids：白银零式](games/zoids-hakugin-no-raiger-zero/README.md) | 8px v0.1.0限定测试版 | 有源码 1/1目标；完整 1；已知局部 0；完整性待核 0 | 1/1目标 |
 | [幽游白书4](games/yuu-yuu-hakusho-4/README.md) | 8px v0.1.0 | 有源码 1/1目标；完整 0；已知局部 0；完整性待核 1 | 1/1目标 |
 | [沙加3 时空的霸者 黑白GB版](games/saga-3-gb/README.md) | 10px v0.1.2 music 限定测试版；10px v0.1.2 no-music 限定测试版；8px v0.1.2 no-music 限定测试版；8px v0.1.3 music 限定测试版 | 有源码 4/4目标；完整性待核 | 4/4目标 |

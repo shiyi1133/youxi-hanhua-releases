@@ -6519,68 +6519,68 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.7",
+          "version": "v0.1.8",
           "audio_variant": "unchanged",
           "variant_id": "8px:unchanged",
           "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
-          "output_sha256": "f2260fe64fc9b2a06845a00a92ec3c7954902c47235fd9bd3222c53a4536ca74",
+          "output_sha256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
           "output_bytes": 4194304,
-          "font_scope": "普通8px；本批不新增大字号。",
-          "scope": "职业栏、三个图鉴及初村迷你机械改装/4字节命名短路线的限定显示修复。",
+          "font_scope": "普通原生8px；未新增大字号。",
+          "scope": "修正格斗家劈瓦小游戏的“最高纪录、当前用时、秒”显示，保留递增计时、数字、瓦片美术和原生玩法。",
           "status": "CURRENT_LIMITED_TEST",
           "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "维护仅做数据/字节与独立补丁验证，未执行提供者源码或ROM，未独立重建。",
-            "全作未译仍开放；Boss/第二大关/包子比赛长路线暂停保持。",
-            "迷你机械改装房不等于格斗家劈瓦迷你游戏；不得据本版冒称该反馈已修。",
-            "未全通/实机/自然全物品/玩家真实旧档；保存计时差异保留精确说明。"
+            "维护独立核输入ZIP/ROM完整SHA、BPS逐字节还原、ZIP成员CRC与Root实际查看最终图；未执行附件源码或ROM、未独立重建。",
+            "提供方自然/受控/静态证据分别记录，不冒充维护运行、独立外部人员QA、玩家实际存档、实机、联机或完整通关验收。",
+            "备份原件与普通存档，不跨ROM完整SHA加载即时状态；既有旧Release、标签、引用、原始包与本地历史保留。",
+            "Issue22保留open；Boss全身介绍、第二关入口标题、包子比赛及其它未覆盖反馈未声明修复，用户暂停长攻略保持暂停。"
           ],
           "public_source_assets": [
             {
-              "name": "poyon-dungeon-2-v0.1.7-SOURCE-public.zip",
-              "bytes": 19974996,
-              "sha256": "68cbf8f1ebfbd052c33169b86e34f13bd4a70debc9b9fb9475a87229dad0411d",
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-SOURCE-public.zip",
+              "name": "poyon-dungeon-2-v0.1.8-complete-source.zip",
+              "bytes": 20108067,
+              "sha256": "c792be2c2e35a959e64e9504ff623624a6ffdeefaef0d00091a431ae5de0c10f",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.8/poyon-dungeon-2-v0.1.8-complete-source.zip",
               "remote_sha256_verified": true,
               "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
               "actual_new_file_created": true,
               "cached_readback_used": false,
-              "asset_id": 674804203,
+              "asset_id": 675251555,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.7",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "poyon-dungeon-2-v0.1.7-PATCH-public.zip",
-            "bytes": 169704,
-            "sha256": "9a65dae685e71dadf7f8557519b0503d33a9dcd8ec17928e4c5b7139ccd56e39",
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-PATCH-public.zip",
+            "name": "poyon-dungeon-2-v0.1.8-PATCH.zip",
+            "bytes": 169089,
+            "sha256": "5b9564a3d68a591fccbdd321105553abd230a8d923ec4cb9f1f73465d639ed58",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.8/poyon-dungeon-2-v0.1.8-PATCH.zip",
             "remote_sha256_verified": true,
             "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
             "actual_new_file_created": true,
             "cached_readback_used": false,
-            "asset_id": 674804725,
+            "asset_id": 675255992,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.7"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.8"
           },
           "public_screenshots": [
             {
               "game_id": "poyon-dungeon-2",
               "font": "8px",
-              "version": "v0.1.7",
+              "version": "v0.1.8",
               "audio_variant": "unchanged",
               "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
-              "target_rom_sha256": "f2260fe64fc9b2a06845a00a92ec3c7954902c47235fd9bd3222c53a4536ca74",
-              "screenshot_sha256": "f490f6b986fa9ee73304651d5c7be4d72fc68383c3e536a9069dd20c604ce38b",
-              "screenshot_bytes": 43987,
-              "path": "games/poyon-dungeon-2/screenshots/poyon-dungeon-2-v0.1.7-8px-unchanged-nine-grid.png",
-              "caption": "v0.1.7 / 8px / unchanged 最终ROM提供者实际画面；真实九格，按提供者场景分别保留自然和诊断边界。维护未运行、未全通或实机验收。",
+              "target_rom_sha256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6",
+              "screenshot_sha256": "51803c85463aa872e33d67d25b3468254621a2ba5006aa055de0417e4e76532a",
+              "screenshot_bytes": 49314,
+              "path": "games/poyon-dungeon-2/screenshots/poyon-dungeon-2-v0.1.8-8px-nine-grid.png",
+              "caption": "修正格斗家劈瓦小游戏的“最高纪录、当前用时、秒”显示，保留递增计时、数字、瓦片美术和原生玩法。 标题与普通存档新进程Continue为自然范围；提供方40组继承回归明确绑定本版。 劈瓦六组关卡、按键/计时/失败/纪录/重试均为显式原生诊断入口，未自然走到第二关前村庄；未执行奖励/职业推进。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -6670,6 +6670,83 @@
           "preserved_at": "2026-10-25T20:43:53.927589+08:00",
           "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
           "preserved_old_row_sha256": "e2aca86e970d572f083fea86d16163b74e9bea2c43f5c59b04090ac77ef7c387"
+        },
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.7",
+              "audio_variant": "unchanged",
+              "variant_id": "8px:unchanged",
+              "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+              "output_sha256": "f2260fe64fc9b2a06845a00a92ec3c7954902c47235fd9bd3222c53a4536ca74",
+              "output_bytes": 4194304,
+              "font_scope": "普通8px；本批不新增大字号。",
+              "scope": "职业栏、三个图鉴及初村迷你机械改装/4字节命名短路线的限定显示修复。",
+              "status": "CURRENT_LIMITED_TEST",
+              "prerelease": true,
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "维护仅做数据/字节与独立补丁验证，未执行提供者源码或ROM，未独立重建。",
+                "全作未译仍开放；Boss/第二大关/包子比赛长路线暂停保持。",
+                "迷你机械改装房不等于格斗家劈瓦迷你游戏；不得据本版冒称该反馈已修。",
+                "未全通/实机/自然全物品/玩家真实旧档；保存计时差异保留精确说明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "poyon-dungeon-2-v0.1.7-SOURCE-public.zip",
+                  "bytes": 19974996,
+                  "sha256": "68cbf8f1ebfbd052c33169b86e34f13bd4a70debc9b9fb9475a87229dad0411d",
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-SOURCE-public.zip",
+                  "remote_sha256_verified": true,
+                  "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                  "actual_new_file_created": true,
+                  "cached_readback_used": false,
+                  "asset_id": 674804203,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.7",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false
+                }
+              ],
+              "public_patch_asset": {
+                "name": "poyon-dungeon-2-v0.1.7-PATCH-public.zip",
+                "bytes": 169704,
+                "sha256": "9a65dae685e71dadf7f8557519b0503d33a9dcd8ec17928e4c5b7139ccd56e39",
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/poyon-dungeon-2-v0.1.7/poyon-dungeon-2-v0.1.7-PATCH-public.zip",
+                "remote_sha256_verified": true,
+                "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                "actual_new_file_created": true,
+                "cached_readback_used": false,
+                "asset_id": 674804725,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/poyon-dungeon-2-v0.1.7"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "poyon-dungeon-2",
+                  "font": "8px",
+                  "version": "v0.1.7",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+                  "target_rom_sha256": "f2260fe64fc9b2a06845a00a92ec3c7954902c47235fd9bd3222c53a4536ca74",
+                  "screenshot_sha256": "f490f6b986fa9ee73304651d5c7be4d72fc68383c3e536a9069dd20c604ce38b",
+                  "screenshot_bytes": 43987,
+                  "path": "games/poyon-dungeon-2/screenshots/poyon-dungeon-2-v0.1.7-8px-unchanged-nine-grid.png",
+                  "caption": "v0.1.7 / 8px / unchanged 最终ROM提供者实际画面；真实九格，按提供者场景分别保留自然和诊断边界。维护未运行、未全通或实机验收。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-25T23:19:02.553146+08:00",
+          "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
+          "preserved_old_row_sha256": "9d0855f58be59cf3f732ef2c139e915544549a1c4c1c67221c8dc9a4f67f06f7"
         }
       ]
     },
@@ -9257,67 +9334,68 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.3",
+          "version": "v0.1.4",
           "audio_variant": "unchanged",
           "variant_id": "8px:unchanged",
           "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
-          "output_sha256": "9ef593f1957842158c8ebb8c20c550ec1e6eebe8456f2e931e92f7bfb3c069b5",
+          "output_sha256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
           "output_bytes": 524288,
-          "font_scope": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。",
-          "scope": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。",
+          "font_scope": "普通原生8px；未新增大字号。",
+          "scope": "修正受伤提示中姓名后的日文助词；继承v0.1.3地名、取名和菜单修订。本次普通8px。",
           "status": "CURRENT_LIMITED_TEST",
           "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。",
-            "运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。",
-            "使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。"
+            "维护独立核输入ZIP/ROM完整SHA、BPS逐字节还原、ZIP成员CRC与Root实际查看最终图；未执行附件源码或ROM、未独立重建。",
+            "提供方自然/受控/静态证据分别记录，不冒充维护运行、独立外部人员QA、玩家实际存档、实机、联机或完整通关验收。",
+            "备份原件与普通存档，不跨ROM完整SHA加载即时状态；既有旧Release、标签、引用、原始包与本地历史保留。",
+            "Issue140仍保持open，只登记本次伤害助词子项进展；Issue8/72不在此次修复声明。"
           ],
           "public_source_assets": [
             {
-              "name": "oni-iii-v0.1.3-complete-source.zip",
-              "bytes": 14808541,
-              "sha256": "01656265cd4a9ef6d47337e63c8c1f5600ef1f172e315c42d684355e62b19a76",
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.3/oni-iii-v0.1.3-complete-source.zip",
+              "name": "oni-iii-v0.1.4-complete-source.zip",
+              "bytes": 14857306,
+              "sha256": "e6884e29ac538e42dbfe01c4d0921fa573d54be55c47ffd6eebc20ff4fd3c9b3",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.4/oni-iii-v0.1.4-complete-source.zip",
               "remote_sha256_verified": true,
               "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
               "actual_new_file_created": true,
               "cached_readback_used": false,
-              "asset_id": 674742398,
+              "asset_id": 675244878,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.3",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "oni-iii-v0.1.3-patches.zip",
-            "bytes": 44358,
-            "sha256": "a70d64b1c5118f6d583b89941227d5b21fe1e792042427fba29daaa821d52950",
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.3/oni-iii-v0.1.3-patches.zip",
+            "name": "oni-iii-v0.1.4-PATCH.zip",
+            "bytes": 44396,
+            "sha256": "833bafc0c68cfe0be89c8cc8876122c698c705457d12843a8f0bc24ab98def1e",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.4/oni-iii-v0.1.4-PATCH.zip",
             "remote_sha256_verified": true,
             "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
             "actual_new_file_created": true,
             "cached_readback_used": false,
-            "asset_id": 674741782,
+            "asset_id": 675249922,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.3"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.4"
           },
           "public_screenshots": [
             {
               "game_id": "oni-iii",
               "font": "8px",
-              "version": "v0.1.3",
+              "version": "v0.1.4",
               "audio_variant": "unchanged",
               "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
-              "target_rom_sha256": "9ef593f1957842158c8ebb8c20c550ec1e6eebe8456f2e931e92f7bfb3c069b5",
-              "screenshot_sha256": "b6d294f40a97919f5af7ad9a80048f2dbed41442c8424807943573a512ecf605",
-              "screenshot_bytes": 71254,
-              "path": "games/oni-iii/screenshots/oni-iii-v0.1.3-final-nine-grid-1.png",
-              "caption": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+              "target_rom_sha256": "d355e8fa93a20e6a05697937d6a2e2dec85b7f1704827162f2924c6fa9b84983",
+              "screenshot_sha256": "5ebb1e56c72e2c5f0ab1da9843a8201fba671b6444f86871bfdf5a85ccc27ac6",
+              "screenshot_bytes": 51918,
+              "path": "games/oni-iii/screenshots/oni-iii-v0.1.4-8px-nine-grid.png",
+              "caption": "修正受伤提示中姓名后的日文助词；继承v0.1.3地名、取名和菜单修订。本次普通8px。 提供方报告v0.1.3与本版自然战斗均实核敌我伤害提示，普通姓名/保存新进程冷读；维护未运行。 商店、30路牌/30目的地入口与999伤害属于有标注的诊断/数值边界，不称自然走遍全部城镇。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -9487,6 +9565,82 @@
           "preserved_at": "2026-10-25T20:43:53.927589+08:00",
           "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
           "preserved_old_row_sha256": "1521d17e31cfbcdf78dd60b9629bc788344662fc6cc7128ccc8eb233f6c02051"
+        },
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.3",
+              "audio_variant": "unchanged",
+              "variant_id": "8px:unchanged",
+              "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+              "output_sha256": "9ef593f1957842158c8ebb8c20c550ec1e6eebe8456f2e931e92f7bfb3c069b5",
+              "output_bytes": 524288,
+              "font_scope": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。",
+              "scope": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。",
+              "status": "CURRENT_LIMITED_TEST",
+              "prerelease": true,
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。",
+                "运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。",
+                "使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "oni-iii-v0.1.3-complete-source.zip",
+                  "bytes": 14808541,
+                  "sha256": "01656265cd4a9ef6d47337e63c8c1f5600ef1f172e315c42d684355e62b19a76",
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.3/oni-iii-v0.1.3-complete-source.zip",
+                  "remote_sha256_verified": true,
+                  "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                  "actual_new_file_created": true,
+                  "cached_readback_used": false,
+                  "asset_id": 674742398,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.3",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false
+                }
+              ],
+              "public_patch_asset": {
+                "name": "oni-iii-v0.1.3-patches.zip",
+                "bytes": 44358,
+                "sha256": "a70d64b1c5118f6d583b89941227d5b21fe1e792042427fba29daaa821d52950",
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/oni-iii-v0.1.3/oni-iii-v0.1.3-patches.zip",
+                "remote_sha256_verified": true,
+                "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                "actual_new_file_created": true,
+                "cached_readback_used": false,
+                "asset_id": 674741782,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/oni-iii-v0.1.3"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "oni-iii",
+                  "font": "8px",
+                  "version": "v0.1.3",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "6905fbdd67f1113b7b75064d329e1fec1a9434af28f91910e8b5a15c4e6210b0",
+                  "target_rom_sha256": "9ef593f1957842158c8ebb8c20c550ec1e6eebe8456f2e931e92f7bfb3c069b5",
+                  "screenshot_sha256": "b6d294f40a97919f5af7ad9a80048f2dbed41442c8424807943573a512ecf605",
+                  "screenshot_bytes": 71254,
+                  "path": "games/oni-iii/screenshots/oni-iii-v0.1.3-final-nine-grid-1.png",
+                  "caption": "普通8px独立地名表、路牌/传送列表及一处对白地点误译限定修订；未新增大字。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-25T23:19:02.553146+08:00",
+          "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
+          "preserved_old_row_sha256": "6587fdeb65eb6c6e7a05b45fd926238ef3b36a03d3367792917d31217b65f5e1"
         }
       ]
     },
@@ -15588,67 +15742,68 @@
       "current_targets": [
         {
           "font": "native8px-12px",
-          "version": "v0.1.7",
+          "version": "v0.1.8",
           "audio_variant": "unchanged",
           "variant_id": "native8px-12px:unchanged",
           "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
-          "output_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
+          "output_sha256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
           "output_bytes": 8388608,
-          "font_scope": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。",
-          "scope": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。",
+          "font_scope": "原生对白12px／密集栏与姓名8px；未新增大字号。",
+          "scope": "只恢复标题右选“设定”时消失的原生下划线，保留用户标题图及既有原生8/12px显示。",
           "status": "CURRENT_LIMITED_TEST",
           "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。",
-            "运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。",
-            "使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。"
+            "维护独立核输入ZIP/ROM完整SHA、BPS逐字节还原、ZIP成员CRC与Root实际查看最终图；未执行附件源码或ROM、未独立重建。",
+            "提供方自然/受控/静态证据分别记录，不冒充维护运行、独立外部人员QA、玩家实际存档、实机、联机或完整通关验收。",
+            "备份原件与普通存档，不跨ROM完整SHA加载即时状态；既有旧Release、标签、引用、原始包与本地历史保留。",
+            "Issue111保持open，本版不代表两篇全部转场/闪烁反馈闭环；Issue8出生日期/血型确认不在此版修复范围。"
           ],
           "public_source_assets": [
             {
-              "name": "tokimeki-memorial-pocket-sport-v0.1.7-complete-source.zip",
-              "bytes": 15807380,
-              "sha256": "7b6d79a31fbf935e5fddc413163854b6c8c2fd149f4ec83fdc716c9a7546dddd",
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.7/tokimeki-memorial-pocket-sport-v0.1.7-complete-source.zip",
+              "name": "tokimeki-memorial-pocket-sport-v0.1.8-complete-source.zip",
+              "bytes": 15832526,
+              "sha256": "e930ef269712a4406d351df90d02d56b1d71f01b92d38c0e18ad0f1f38470aee",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.8/tokimeki-memorial-pocket-sport-v0.1.8-complete-source.zip",
               "remote_sha256_verified": true,
               "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
               "actual_new_file_created": true,
               "cached_readback_used": false,
-              "asset_id": 674790247,
+              "asset_id": 675257270,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.7",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.8",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "tokimeki-memorial-pocket-sport-v0.1.7-patches.zip",
-            "bytes": 302182,
-            "sha256": "7c806e4b153c2f30ffd1e8e3921e0fa99993a1bb13fdae605e7c6fda801546d4",
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.7/tokimeki-memorial-pocket-sport-v0.1.7-patches.zip",
+            "name": "tokimeki-memorial-pocket-sport-v0.1.8-PATCH.zip",
+            "bytes": 302104,
+            "sha256": "f6d9500406b8e8cff010166c143aff484499abd5d1416ca0bdcde8a72ad9ff89",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.8/tokimeki-memorial-pocket-sport-v0.1.8-PATCH.zip",
             "remote_sha256_verified": true,
             "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
             "actual_new_file_created": true,
             "cached_readback_used": false,
-            "asset_id": 674789388,
+            "asset_id": 675261895,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.7"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.8"
           },
           "public_screenshots": [
             {
               "game_id": "tokimeki-memorial-pocket-sport",
               "font": "native8px-12px",
-              "version": "v0.1.7",
+              "version": "v0.1.8",
               "audio_variant": "unchanged",
               "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
-              "target_rom_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
-              "screenshot_sha256": "916bb8afb4d5aea6eff7a91a8cb83f2f40a96932378d77913c09f4c2a4aa72b4",
-              "screenshot_bytes": 68581,
-              "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.7-final-nine-grid-1.png",
-              "caption": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+              "target_rom_sha256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+              "screenshot_sha256": "0fadc5d4b5cf6b1014e8e14c2389b04921abde79b064eeb98fc90dc75337ff95",
+              "screenshot_bytes": 58388,
+              "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.8-native8-12-CGB-nine-grid.png",
+              "caption": "只恢复标题右选“设定”时消失的原生下划线，保留用户标题图及既有原生8/12px显示。 提供方CGB/SGB冷启、左右选与Start、设置出入、普通姓名/保存/新进程电池冷读有界回归；非维护重跑。 原有调试菜单/参数入口回归不外推到任意深层功能；旧版本报告单独保留为历史。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -15656,14 +15811,14 @@
             {
               "game_id": "tokimeki-memorial-pocket-sport",
               "font": "native8px-12px",
-              "version": "v0.1.7",
+              "version": "v0.1.8",
               "audio_variant": "unchanged",
               "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
-              "target_rom_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
-              "screenshot_sha256": "ca44def16beb2d2ce05f0dad271ef159157d91a63a3c0e8c3cea9c1165aa17ba",
-              "screenshot_bytes": 107634,
-              "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.7-final-nine-grid-2.png",
-              "caption": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+              "target_rom_sha256": "afd0d2aed3d2ec2a0bf8ab3f75f58d463bd6df9031243bf340411e61e2096cc9",
+              "screenshot_sha256": "afab4f67895dec5f428e02cb9162599aedad8bd27eae549624faf148eabd59fe",
+              "screenshot_bytes": 102165,
+              "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.8-native8-12-SGB-nine-grid.png",
+              "caption": "只恢复标题右选“设定”时消失的原生下划线，保留用户标题图及既有原生8/12px显示。 提供方CGB/SGB冷启、左右选与Start、设置出入、普通姓名/保存/新进程电池冷读有界回归；非维护重跑。 原有调试菜单/参数入口回归不外推到任意深层功能；旧版本报告单独保留为历史。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -15910,6 +16065,97 @@
           "preserved_at": "2026-10-25T20:43:53.927589+08:00",
           "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
           "preserved_old_row_sha256": "fcc94da6b6b43dc7db01adac7a4211ab9a9b1ae32ab25e9a34944f63a9c89c22"
+        },
+        {
+          "version_targets": [
+            {
+              "font": "native8px-12px",
+              "version": "v0.1.7",
+              "audio_variant": "unchanged",
+              "variant_id": "native8px-12px:unchanged",
+              "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+              "output_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
+              "output_bytes": 8388608,
+              "font_scope": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。",
+              "scope": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。",
+              "status": "CURRENT_LIMITED_TEST",
+              "prerelease": true,
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "维护仅独立核用户输入ZIP/ROM完整SHA、补丁逐字节还原、ZIP成员/CRC与源包静态材料；未执行提供者源码、重建工程或运行ROM。",
+                "运行、自然按键、受控诊断、保存/新进程冷读等范围以所附提供方报告分别为据，不冒充维护重跑、独立人员QA、玩家验收、实机或全流程通关。",
+                "使用前备份普通存档；不跨ROM版本/字号套用即时状态，旧电池兼容仅按提供方实际样本说明。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "tokimeki-memorial-pocket-sport-v0.1.7-complete-source.zip",
+                  "bytes": 15807380,
+                  "sha256": "7b6d79a31fbf935e5fddc413163854b6c8c2fd149f4ec83fdc716c9a7546dddd",
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.7/tokimeki-memorial-pocket-sport-v0.1.7-complete-source.zip",
+                  "remote_sha256_verified": true,
+                  "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                  "actual_new_file_created": true,
+                  "cached_readback_used": false,
+                  "asset_id": 674790247,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.7",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false
+                }
+              ],
+              "public_patch_asset": {
+                "name": "tokimeki-memorial-pocket-sport-v0.1.7-patches.zip",
+                "bytes": 302182,
+                "sha256": "7c806e4b153c2f30ffd1e8e3921e0fa99993a1bb13fdae605e7c6fda801546d4",
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/tokimeki-memorial-pocket-sport-v0.1.7/tokimeki-memorial-pocket-sport-v0.1.7-patches.zip",
+                "remote_sha256_verified": true,
+                "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                "actual_new_file_created": true,
+                "cached_readback_used": false,
+                "asset_id": 674789388,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/tokimeki-memorial-pocket-sport-v0.1.7"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "tokimeki-memorial-pocket-sport",
+                  "font": "native8px-12px",
+                  "version": "v0.1.7",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+                  "target_rom_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
+                  "screenshot_sha256": "916bb8afb4d5aea6eff7a91a8cb83f2f40a96932378d77913c09f4c2a4aa72b4",
+                  "screenshot_bytes": 68581,
+                  "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.7-final-nine-grid-1.png",
+                  "caption": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                },
+                {
+                  "game_id": "tokimeki-memorial-pocket-sport",
+                  "font": "native8px-12px",
+                  "version": "v0.1.7",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "99334cdbdd326ce6ce117b4aa2761ee34b33290a226d914ca6d08a70ee14c253",
+                  "target_rom_sha256": "5fc733db6f8bc57971a28f0b6422d566d9968e1d22a934394b14c057b174d6db",
+                  "screenshot_sha256": "ca44def16beb2d2ce05f0dad271ef159157d91a63a3c0e8c3cea9c1165aa17ba",
+                  "screenshot_bytes": 107634,
+                  "path": "games/tokimeki-memorial-pocket-sport/screenshots/tokimeki-memorial-pocket-sport-v0.1.7-final-nine-grid-2.png",
+                  "caption": "原生对白12px/密集栏8px，仅汉化原有调试主菜单十项，保留用户标题原图与原生分派。；提供方对应最终ROM图证，具体自然/诊断类别见原图标签及材料；非维护运行、全通或实机验收。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-25T23:19:02.553146+08:00",
+          "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
+          "preserved_old_row_sha256": "6803f45493542f533731e603c2dfd70498fcd6046a4512446ae70cd37bfab8ea"
         }
       ]
     },
@@ -22000,68 +22246,68 @@
       "current_targets": [
         {
           "font": "8px",
-          "version": "v0.1.5",
+          "version": "v0.1.6",
           "audio_variant": "unchanged",
           "variant_id": "8px:unchanged",
           "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
-          "output_sha256": "bae0293f2db3eab0e436ed98ec86620b7aa586bc60ebf029e1f64eaf35460e8e",
+          "output_sha256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
           "output_bytes": 4194304,
-          "font_scope": "普通8px；本批不新增大字号。",
-          "scope": "独立八格技能标题61记录53独名补译，保留v0.1.4战斗/卡面/名字/空位稳定修复。",
+          "font_scope": "普通原生8px；未新增大字号。",
+          "scope": "补译7条镇内/水道共享消息、两处保留假名线索的挂画释义，并修正交换页描述、道具名和底部言灵名显示。",
           "status": "CURRENT_LIMITED_TEST",
           "prerelease": true,
           "whole_game_acceptance_recorded": false,
           "hardware_tested_recorded": false,
           "new_runtime_or_Source_rebuild_by_this_export": false,
           "known_limits": [
-            "维护仅做数据/字节与独立补丁验证，未执行提供者源码或ROM，未独立重建。",
-            "4条歧义假名与5原生空槽保留；全作漏译仍部分覆盖。",
-            "首Boss现场未自然到达、保存图标箭头未复现，历史排版未接手。",
-            "未全通/实机/成功联机/全部Boss技能/玩家真实SAV与任意跨版档兼容。"
+            "维护独立核输入ZIP/ROM完整SHA、BPS逐字节还原、ZIP成员CRC与Root实际查看最终图；未执行附件源码或ROM、未独立重建。",
+            "提供方自然/受控/静态证据分别记录，不冒充维护运行、独立外部人员QA、玩家实际存档、实机、联机或完整通关验收。",
+            "备份原件与普通存档，不跨ROM完整SHA加载即时状态；既有旧Release、标签、引用、原始包与本地历史保留。",
+            "Issue116保持部分覆盖/open；玩家反馈图5–9未对齐，六处自然到访及完整商店自然返回未验；Issue8未接，136箭头/自然首boss未确认。"
           ],
           "public_source_assets": [
             {
-              "name": "kotobattle-v0.1.5-SOURCE-public.zip",
-              "bytes": 12730970,
-              "sha256": "4739518416dfd7fa8cb9ae11569640891723695b56475d023f63fbcb1c34b14d",
-              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.5/kotobattle-v0.1.5-SOURCE-public.zip",
+              "name": "kotobattle-v0.1.6-complete-source.zip",
+              "bytes": 12860438,
+              "sha256": "86abfba2681ebb16acb8b5690776168b663cfbede271adf3b1c3150d4ec37303",
+              "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.6/kotobattle-v0.1.6-complete-source.zip",
               "remote_sha256_verified": true,
               "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
               "actual_new_file_created": true,
               "cached_readback_used": false,
-              "asset_id": 674810606,
+              "asset_id": 675263531,
               "actual_full_SHA_download_verified": true,
-              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.5",
+              "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6",
               "complete_all_modification_source": null,
               "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
               "source_rebuilt_this_export": false
             }
           ],
           "public_patch_asset": {
-            "name": "kotobattle-v0.1.5-PATCH-public.zip",
-            "bytes": 109976,
-            "sha256": "8ca3cc164ddd2ac419068244421eead2a080ffbe262d9193675a3ae0427b1689",
-            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.5/kotobattle-v0.1.5-PATCH-public.zip",
+            "name": "kotobattle-v0.1.6-PATCH.zip",
+            "bytes": 109785,
+            "sha256": "b0cdc8cbc23a0d5777f146d9f75198e515ba7236b8e95e41a64a87168d2c76a7",
+            "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.6/kotobattle-v0.1.6-PATCH.zip",
             "remote_sha256_verified": true,
             "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
             "actual_new_file_created": true,
             "cached_readback_used": false,
-            "asset_id": 674811264,
+            "asset_id": 675263919,
             "actual_full_SHA_download_verified": true,
-            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.5"
+            "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.6"
           },
           "public_screenshots": [
             {
               "game_id": "kotobattle",
               "font": "8px",
-              "version": "v0.1.5",
+              "version": "v0.1.6",
               "audio_variant": "unchanged",
               "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
-              "target_rom_sha256": "bae0293f2db3eab0e436ed98ec86620b7aa586bc60ebf029e1f64eaf35460e8e",
-              "screenshot_sha256": "cf4883c4c8b6e8434554a3cee2e89c746519313f04ce767032f8f5636e79ca63",
-              "screenshot_bytes": 103510,
-              "path": "games/kotobattle/screenshots/kotobattle-v0.1.5-8px-unchanged-nine-grid.png",
-              "caption": "v0.1.5 / 8px / unchanged 最终ROM提供者实际画面；真实九格，按提供者场景分别保留自然和诊断边界。维护未运行、未全通或实机验收。",
+              "target_rom_sha256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da",
+              "screenshot_sha256": "ba158317528d1ed3e21714a6da9a7d42c34dd9168447c95619a8e7f97130f43c",
+              "screenshot_bytes": 66216,
+              "path": "games/kotobattle/screenshots/kotobattle-v0.1.6-8px-nine-grid.png",
+              "caption": "补译7条镇内/水道共享消息、两处保留假名线索的挂画释义，并修正交换页描述、道具名和底部言灵名显示。 标题、自然试炼/装备教学/野战、姓名保存冷读与至珊瑚森林路线按提供方报告；未自然到城下镇。 九宫格仅首格自然标题，其余8格明确[D]原生消费者诊断，开场背景不是城镇现场；商店150布局亦为诊断。",
               "actual_original_PNG_full_bytes_download_verified": true,
               "new_runtime_test_by_this_export": false,
               "PNG_pixels_modified": false
@@ -22298,6 +22544,83 @@
           "preserved_at": "2026-10-25T20:43:53.927589+08:00",
           "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
           "preserved_old_row_sha256": "e0564cde39809e0d62959d12d13db385239409a25574e639641c63f5354ce680"
+        },
+        {
+          "version_targets": [
+            {
+              "font": "8px",
+              "version": "v0.1.5",
+              "audio_variant": "unchanged",
+              "variant_id": "8px:unchanged",
+              "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+              "output_sha256": "bae0293f2db3eab0e436ed98ec86620b7aa586bc60ebf029e1f64eaf35460e8e",
+              "output_bytes": 4194304,
+              "font_scope": "普通8px；本批不新增大字号。",
+              "scope": "独立八格技能标题61记录53独名补译，保留v0.1.4战斗/卡面/名字/空位稳定修复。",
+              "status": "CURRENT_LIMITED_TEST",
+              "prerelease": true,
+              "whole_game_acceptance_recorded": false,
+              "hardware_tested_recorded": false,
+              "new_runtime_or_Source_rebuild_by_this_export": false,
+              "known_limits": [
+                "维护仅做数据/字节与独立补丁验证，未执行提供者源码或ROM，未独立重建。",
+                "4条歧义假名与5原生空槽保留；全作漏译仍部分覆盖。",
+                "首Boss现场未自然到达、保存图标箭头未复现，历史排版未接手。",
+                "未全通/实机/成功联机/全部Boss技能/玩家真实SAV与任意跨版档兼容。"
+              ],
+              "public_source_assets": [
+                {
+                  "name": "kotobattle-v0.1.5-SOURCE-public.zip",
+                  "bytes": 12730970,
+                  "sha256": "4739518416dfd7fa8cb9ae11569640891723695b56475d023f63fbcb1c34b14d",
+                  "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.5/kotobattle-v0.1.5-SOURCE-public.zip",
+                  "remote_sha256_verified": true,
+                  "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                  "actual_new_file_created": true,
+                  "cached_readback_used": false,
+                  "asset_id": 674810606,
+                  "actual_full_SHA_download_verified": true,
+                  "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.5",
+                  "complete_all_modification_source": null,
+                  "completeness_status": "NOT_INDEPENDENTLY_CONFIRMED",
+                  "source_rebuilt_this_export": false
+                }
+              ],
+              "public_patch_asset": {
+                "name": "kotobattle-v0.1.5-PATCH-public.zip",
+                "bytes": 109976,
+                "sha256": "8ca3cc164ddd2ac419068244421eead2a080ffbe262d9193675a3ae0427b1689",
+                "download_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/download/kotobattle-v0.1.5/kotobattle-v0.1.5-PATCH-public.zip",
+                "remote_sha256_verified": true,
+                "verification_method": "ACTUAL_REMOTE_ASSET_DOWNLOAD_FULL_BYTES_SHA256_AND_SIZE",
+                "actual_new_file_created": true,
+                "cached_readback_used": false,
+                "asset_id": 674811264,
+                "actual_full_SHA_download_verified": true,
+                "release_url": "https://github.com/shiyi1133/youxi-hanhua-releases/releases/tag/kotobattle-v0.1.5"
+              },
+              "public_screenshots": [
+                {
+                  "game_id": "kotobattle",
+                  "font": "8px",
+                  "version": "v0.1.5",
+                  "audio_variant": "unchanged",
+                  "input_sha256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+                  "target_rom_sha256": "bae0293f2db3eab0e436ed98ec86620b7aa586bc60ebf029e1f64eaf35460e8e",
+                  "screenshot_sha256": "cf4883c4c8b6e8434554a3cee2e89c746519313f04ce767032f8f5636e79ca63",
+                  "screenshot_bytes": 103510,
+                  "path": "games/kotobattle/screenshots/kotobattle-v0.1.5-8px-unchanged-nine-grid.png",
+                  "caption": "v0.1.5 / 8px / unchanged 最终ROM提供者实际画面；真实九格，按提供者场景分别保留自然和诊断边界。维护未运行、未全通或实机验收。",
+                  "actual_original_PNG_full_bytes_download_verified": true,
+                  "new_runtime_test_by_this_export": false,
+                  "PNG_pixels_modified": false
+                }
+              ]
+            }
+          ],
+          "preserved_at": "2026-10-25T23:19:02.553146+08:00",
+          "reason": "SUPERSEDED_BY_ACTUALLY_PUBLISHED_EXACT_NEW_TARGETS",
+          "preserved_old_row_sha256": "0fc101fff43a4ae0089029fc7fb6252cba116c930bd610f99a8bafc6e0452a71"
         }
       ]
     },
@@ -25033,5 +25356,5 @@
     }
   ],
   "scope": "仅当前精确版本、输入输出SHA及真实发布回执；未发布的源码补丁入口保持空值，截图原字节校验不等于新增运行验收。",
-  "last_incremental_update_at": "2026-10-25T20:43:53.927589+08:00"
+  "last_incremental_update_at": "2026-10-25T23:19:02.553146+08:00"
 }

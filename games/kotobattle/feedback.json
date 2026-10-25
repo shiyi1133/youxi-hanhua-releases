@@ -795,6 +795,30 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154071288799",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071288799#154071288799",
+      "created_at": "2026-10-25T23:53:59+08:00",
+      "quote": "龙背山日晷庭园打完反派与另一个言灵的对话未翻译 ",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "8ebae9fb14eebfb1ad92f30c9ae0ffb7fc888d70b9d4843b4ca1bff6bfbca2f9",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c13bff03738da977aa1c282cf651f8198618e336.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154071288799-1-9962c0f2937a01f3496eac495439944524d256adfafec6a453ce8756e4ff602d.jpg",
+          "sha256": "9962c0f2937a01f3496eac495439944524d256adfafec6a453ce8756e4ff602d",
+          "bytes": 121873,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1951,6 +1975,60 @@
           "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
         }
       ]
+    },
+    {
+      "public_case_key": "case-87e766ad4e450ac5",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：日晷庭园剧情未译",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071288799"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "kotobattle",
+          "font": "8px",
+          "version": "v0.1.6",
+          "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|koto-sundial-garden-untranslated",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle：日晷庭园剧情未译",
+          "feedback_summary": "玩家补充龙背山日晷庭园击败反派后与另一言灵的对白未译，附1图。实际版本与完整SHA未知；当前v0.1.6镇和水道局部修订未覆盖这段剧情，不称新版回归。",
+          "source_feedback_keys": [
+            "11092365551|154071288799"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -2037,11 +2115,12 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae",
-        "case-a76995e5876b6d1d"
+        "case-a76995e5876b6d1d",
+        "case-87e766ad4e450ac5"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
@@ -2050,7 +2129,8 @@
         "11092365551|154065777243",
         "11092365551|154065827377",
         "11092365551|154068153590",
-        "11092365551|154069368179"
+        "11092365551|154069368179",
+        "11092365551|154071288799"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -2905,9 +2985,35 @@
       "is_information_reply": false,
       "actual_public_full_body_verified": true,
       "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "public_reply_key": "reply-7ecf2448815823a9",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154071288799"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154071814484",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071814484#154071814484",
+      "text": "日晷庭园这段未译对白和截图已补充记录，后续继续排查。",
+      "text_sha256": "a820673405bbb640b45ca7e8661ab4d4f5fa4cdd687a28cbfc9041599724d512",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:23:16.064545+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071288799",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",

@@ -1196,6 +1196,144 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069982105",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069982105#154069982105",
+      "created_at": "2026-10-25T16:54:48+08:00",
+      "quote": "8px 0.1.4，初始村庄上面左1的房间（图1）内，仓库-取出，之后的界面，物品图标上面显示乱码（图4、图5）     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "57b679a5a983ffd21113001246586db4b97167865c66352872dfae677f16db23",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/828fa218972bd407462d73fa3d899e510eb3097e.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069982105-1-c263580e1ae8a5440afcb8e67ecb6eb8b3aabe2cfe3d4eae3c5ec222224f2361.jpg",
+          "sha256": "c263580e1ae8a5440afcb8e67ecb6eb8b3aabe2cfe3d4eae3c5ec222224f2361",
+          "bytes": 193774,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/2c2dc0177f3e670986e5e5f87dc79f3df9dc557f.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069982105-2-581e364a3ea4f86236d610df35f552dc5286315a9775cf48ad8d620587f6aacd.jpg",
+          "sha256": "581e364a3ea4f86236d610df35f552dc5286315a9775cf48ad8d620587f6aacd",
+          "bytes": 165634,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/433ed843ad4bd1130c2817351cafa40f4afb057f.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069982105-3-de17e52f28705e56ed840718e8d30a2b403d33f1535fff3ddaae52d4ba528d40.jpg",
+          "sha256": "de17e52f28705e56ed840718e8d30a2b403d33f1535fff3ddaae52d4ba528d40",
+          "bytes": 164412,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fb6432c79f3df8dc85da2f968b11728b46102879.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069982105-4-f42c00c90f4a7bb4f2fb7768c8305f8ad587e07ad85be6f0f82d0951d441bec4.jpg",
+          "sha256": "f42c00c90f4a7bb4f2fb7768c8305f8ad587e07ad85be6f0f82d0951d441bec4",
+          "bytes": 168779,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/b06c963df8dcd100ef7b5826348b4710b8122f79.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069982105-5-4aa1fa2a860069f9365189407866f26fd5f9d486fe23b3a9ed9cf281b9ee9cc5.jpg",
+          "sha256": "4aa1fa2a860069f9365189407866f26fd5f9d486fe23b3a9ed9cf281b9ee9cc5",
+          "bytes": 172306,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154069998453",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154069998453#154069998453",
+      "created_at": "2026-10-25T17:00:40+08:00",
+      "quote": "8px 0.1.4，第二只召唤兽的固定招式名显示错误（图2中间位置，图3上方），“御暗果……”，中文词条错误  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e904c1db7339aa876c85e708752e18342f0beecc9a6293e2c9f0dd7431147952",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/bbe52c1f95cad1c8ec615c20393e6709c83d510e.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069998453-1-900e3b4e15409a7244513dd2229dd05ed4d709570525fdae39f4948e61fdb26f.jpg",
+          "sha256": "900e3b4e15409a7244513dd2229dd05ed4d709570525fdae39f4948e61fdb26f",
+          "bytes": 175466,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b89e8b69a84492442a7d8330e0e.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154069998453-2-678014a8d4ef90e37fabd38ef741ea8b30b75e7e4550b7a2d65bde7ea50036b5.jpg",
+          "sha256": "678014a8d4ef90e37fabd38ef741ea8b30b75e7e4550b7a2d65bde7ea50036b5",
+          "bytes": 156058,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154070170298",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070170298#154070170298",
+      "created_at": "2026-10-25T18:02:04+08:00",
+      "quote": "8px 0.1.4，在战斗中学会敌人的此招式时，有日文残留（图1），且在菜单-召唤-招式中，装备已学会的敌人技能的界面时，招式名都为乱码（图2）  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "70baf8fefa21e7934067370a0877f4b46e202b89e97dffb2b28306def7a226d3",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/aa94b10e7bec54e72772b919ff389b504ec26a42.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154070170298-1-4e8f7d8b1209a929e9027149a91a63eceb526fd3d1c13c6af8da2ae97c4e4394.jpg",
+          "sha256": "4e8f7d8b1209a929e9027149a91a63eceb526fd3d1c13c6af8da2ae97c4e4394",
+          "bytes": 180328,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5af3c5bf6c81800a257b2a09f73533fa838b4742.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154070170298-2-e771f176ec18a9a675b3a44f35a1b43956977a5eae91f655f8c4fa7d45280452.jpg",
+          "sha256": "e771f176ec18a9a675b3a44f35a1b43956977a5eae91f655f8c4fa7d45280452",
+          "bytes": 146787,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154070171453",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154070171453#154070171453",
+      "created_at": "2026-10-25T18:02:26+08:00",
+      "quote": "8px 0.1.4，文本超出文本框 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c00e81b6b7ceda725cd933c385f803489712566c154acf7c31d904fcb9b1b212",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e0cb05338744ebf8c6e5c7389ff9d72a6159a749.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154070171453-1-70f36701f87b365b10ecf140d01f29c8cf7d618cfe422e701b93fe427722ad2f.jpg",
+          "sha256": "70f36701f87b365b10ecf140d01f29c8cf7d618cfe422e701b93fe427722ad2f",
+          "bytes": 174095,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1763,6 +1901,118 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-36bfa02f5e58e827",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：仓库、召唤招式与学招提示显示",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|poyon2-v014-three-new-consumer-sources",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：仓库、召唤招式与学招提示显示",
+          "feedback_summary": "普通8px v0.1.4新增仓库取出页图标上乱码、第二召唤兽固定招式词条错误，以及学敌技提示日文和已学招式名乱码。分别记录消费者，共同根因未知；当前v0.1.8的劈瓦修订不代表这些旧版报告已修，新版网盘仍待同步。",
+          "source_feedback_keys": [
+            "11092365551|154069982105",
+            "11092365551|154069998453",
+            "11092365551|154070170298"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-a437aca951f002a5",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：普通8px旧版文本越框",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154070171453"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|poyon2-v014-new-overflow-photo",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：普通8px旧版文本越框",
+          "feedback_summary": "玩家报告普通8px v0.1.4文本越框并附1图，补入集中排版记录；保持开放。不能当作当前v0.1.8回归，仓库或技能乱码仍与越框分开排查。",
+          "source_feedback_keys": [
+            "11092365551|154070171453"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -1773,13 +2023,14 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
-        "case-d5ed9d305b4e1449"
+        "case-d5ed9d305b4e1449",
+        "case-36bfa02f5e58e827"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -1817,7 +2068,10 @@
         "11092365551|154066475055",
         "11092365551|154066523183",
         "11092365551|154066531004",
-        "11092365551|154069297278"
+        "11092365551|154069297278",
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1876,7 +2130,8 @@
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
         "case-eab2c8ffe4f1ebad",
-        "case-ec0244e7436f6ab8"
+        "case-ec0244e7436f6ab8",
+        "case-a437aca951f002a5"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -1950,13 +2205,14 @@
         "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
-        "11097560613|154061939534"
+        "11097560613|154061939534",
+        "11092365551|154070171453"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -2105,9 +2361,38 @@
       "is_information_reply": false,
       "actual_public_full_body_verified": true,
       "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "public_reply_key": "reply-a83d6f2c83100807",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298",
+        "11092365551|154070171453"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154071813906",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071813906#154071813906",
+      "text": "仓库乱码、召唤招式词条、学招提示和文本越框这几处都收到，已合并补进原有记录，继续排查。",
+      "text_sha256": "0888f55f2c3ea900501a9469014eb6f9fbda40c4561384478ef1cfe42b91b08e",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:22:15.718529+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154069982105",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

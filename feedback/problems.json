@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "problem_count": 139,
-  "open_pure_BUG_count": 58,
+  "problem_count": 140,
+  "open_pure_BUG_count": 59,
   "open_requests_or_other_count": 22,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -242,7 +242,8 @@
         "case-e2f8617f838f1123",
         "case-e793e333242f0619",
         "case-eab2c8ffe4f1ebad",
-        "case-ec0244e7436f6ab8"
+        "case-ec0244e7436f6ab8",
+        "case-a437aca951f002a5"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -316,13 +317,14 @@
         "11092365551|154069350075",
         "11097560613|154043716841",
         "11097560613|154048988684",
-        "11097560613|154061939534"
+        "11097560613|154061939534",
+        "11092365551|154070171453"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -725,13 +727,14 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
-        "case-d5ed9d305b4e1449"
+        "case-d5ed9d305b4e1449",
+        "case-36bfa02f5e58e827"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -769,7 +772,10 @@
         "11092365551|154066475055",
         "11092365551|154066523183",
         "11092365551|154066531004",
-        "11092365551|154069297278"
+        "11092365551|154069297278",
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1818,7 +1824,8 @@
       "state": "closed",
       "classification": "BUG",
       "case_keys": [
-        "case-f1fff43df66ca1c8"
+        "case-f1fff43df66ca1c8",
+        "case-4f9e7a2742d02429"
       ],
       "public_feedback_keys": [
         "11092365551|154043129954",
@@ -1826,13 +1833,15 @@
         "11092365551|154045190365",
         "11092365551|154045579206",
         "11092365551|154047244311",
-        "11092365551|154048193305"
+        "11092365551|154048193305",
+        "11092365551|154070783866",
+        "11092365551|154070794105"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "fixed": true,
       "partially_fixed": false,
       "latest_bounded_repair": {
@@ -2488,23 +2497,27 @@
     {
       "public_problem_key": "problem-6172579ccd76d65f",
       "game_ids": [
-        "tokimeki-memorial-pocket-culture"
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
       ],
       "summary": "文化篇偷看洗澡事件对话/选项残留日文；公开照片可见日文选项。",
       "state": "open",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-733f46a2cb8a1c77"
+        "case-733f46a2cb8a1c77",
+        "case-ba27789f7732d2cc"
       ],
       "public_feedback_keys": [
         "11092365551|154046690982",
-        "11092365551|154048786590"
+        "11092365551|154048786590",
+        "11092365551|154071176740",
+        "11092365551|154070794105"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -3529,11 +3542,12 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae",
-        "case-a76995e5876b6d1d"
+        "case-a76995e5876b6d1d",
+        "case-87e766ad4e450ac5"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
@@ -3542,7 +3556,8 @@
         "11092365551|154065777243",
         "11092365551|154065827377",
         "11092365551|154068153590",
-        "11092365551|154069368179"
+        "11092365551|154069368179",
+        "11092365551|154071288799"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -4458,13 +4473,15 @@
       ],
       "summary": "[覆盖反馈] 庇护区区长：START后SELECT收藏品界面恢复英文",
       "state": "closed",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-5548a0af702d1591"
+        "case-5548a0af702d1591",
+        "case-f0f1715f245060ea"
       ],
       "public_feedback_keys": [
-        "11092365551|154063415679"
+        "11092365551|154063415679",
+        "11092365551|154071455046"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -5057,18 +5074,20 @@
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-42c0e1b0364ecfcf",
-        "case-be48f6ce597d9184"
+        "case-be48f6ce597d9184",
+        "case-d24b4c5ecc576fc5"
       ],
       "public_feedback_keys": [
         "11092365551|154065566924",
-        "11092365551|154069723421"
+        "11092365551|154069723421",
+        "11092365551|154071712006"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "fixed": false,
       "partially_fixed": true,
       "latest_bounded_repair": {
@@ -5459,17 +5478,19 @@
       "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
       "classification": "BUG",
       "case_keys": [
-        "case-56f0cf0403cae64c"
+        "case-56f0cf0403cae64c",
+        "case-952bb96c6bafdc35"
       ],
       "public_feedback_keys": [
-        "11092365551|154067485113"
+        "11092365551|154067485113",
+        "11092365551|154071453135"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -5521,13 +5542,33 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
+      "classification": "BUG",
+      "case_keys": [
+        "case-183b803062479c55"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

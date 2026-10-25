@@ -29,6 +29,22 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154071455046",
+      "parent_pid": "154040199569",
+      "floor": 117,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071455046#154071455046",
+      "created_at": "2026-10-26T00:49:33+08:00",
+      "quote": "已测试菜单已正常汉化了。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "5de6dfdbef0a3c24b3145718a37fcef9753de8b32e74cca1058d3e29dcf1ef68",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -139,6 +155,60 @@
           "original_script_tokens": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-f0f1715f245060ea",
+      "public_problem_key": "problem-04cccd019baeb936",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "summary": "庇护区区长：菜单玩家复测",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "closed",
+      "registration_issue_state": "closed",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071455046"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mayor-of-sanctuary",
+          "font": "8px",
+          "version": "v1.0.1",
+          "original_input_SHA256": "596915f0765f6b44fff680ce4b9fe0396696fdf4e7e46836a0c392af671bbd02",
+          "output_SHA256": "a754ecccf9ed492e3d77258697133613aaa321f7bbab7e1831f3719698a60778"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|mayor-player-menu-translated-report",
+          "game_ids": [
+            "mayor-of-sanctuary"
+          ],
+          "summary": "庇护区区长：菜单玩家复测",
+          "feedback_summary": "原报告者补充菜单已正常汉化；保留为菜单或收藏页的限定复测，原问题保持关闭。没有本次实际ROM版本或完整SHA，不外推全部藏品、音乐、支线或实机验收。",
+          "source_feedback_keys": [
+            "11092365551|154071455046"
+          ],
+          "issue_state": "closed",
+          "registration_issue_state": "closed",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -149,13 +219,15 @@
       ],
       "summary": "[覆盖反馈] 庇护区区长：START后SELECT收藏品界面恢复英文",
       "state": "closed",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-5548a0af702d1591"
+        "case-5548a0af702d1591",
+        "case-f0f1715f245060ea"
       ],
       "public_feedback_keys": [
-        "11092365551|154063415679"
+        "11092365551|154063415679",
+        "11092365551|154071455046"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -196,7 +268,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|mayor-collection-English",

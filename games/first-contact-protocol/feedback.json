@@ -130,6 +130,22 @@
           "original_preview_bytes_unmodified": true
         }
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154071453135",
+      "parent_pid": "154040128429",
+      "floor": 112,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071453135#154071453135",
+      "created_at": "2026-10-26T00:48:48+08:00",
+      "quote": "测了下，流程头像正常了。看了4个人物提示新日志的头像应都正常了，应该全部都正常了的。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "86348183e1da1209edb22adf96b5bc12da8c8c555c370334c7452b46aa362994",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -317,6 +333,60 @@
       ],
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-952bb96c6bafdc35",
+      "public_problem_key": "problem-089c35eec50e9f50",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：四人物新日志头像回报",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071453135"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "first-contact-protocol",
+          "font": "8px",
+          "version": "v0.1.1",
+          "original_input_SHA256": "51827d69b91acc26c0cc209182d53002ff0ececd019114884a16622d4cec7613",
+          "output_SHA256": "f483688611402ebec132cedcaaf9744318471a49a91b801025ae3480a0aecaf0"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|FCP-player-four-new-log-portrait-report",
+          "game_ids": [
+            "first-contact-protocol"
+          ],
+          "summary": "第一次接触协议：四人物新日志头像回报",
+          "feedback_summary": "原报告者称流程头像与看过的4人物新日志提示头像正常；“应该全部都正常”仍属玩家推测，不扩为六人物实测。实际版本与完整SHA未知，原问题继续开放。",
+          "source_feedback_keys": [
+            "11092365551|154071453135"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -328,17 +398,19 @@
       "summary": "[BUG待核版本] 第一次接触协议：头像区域字符与新文件提示时头像撕裂",
       "classification": "BUG",
       "case_keys": [
-        "case-56f0cf0403cae64c"
+        "case-56f0cf0403cae64c",
+        "case-952bb96c6bafdc35"
       ],
       "public_feedback_keys": [
-        "11092365551|154067485113"
+        "11092365551|154067485113",
+        "11092365551|154071453135"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -583,7 +655,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 2,
     "REQUEST_OR_OTHER": 0,

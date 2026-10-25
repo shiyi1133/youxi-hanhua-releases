@@ -3,8 +3,10 @@
   "game_id": "pokemon-soul-crystal",
   "game_name": "宝可梦 灵魂水晶42.0",
   "original_input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
-  "public_case_keys": [],
-  "case_count": 0,
+  "public_case_keys": [
+    "case-183b803062479c55"
+  ],
+  "case_count": 1,
   "state_checked_at": "2026-10-24T02:22:41.038280+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
@@ -142,7 +144,164 @@
           "independent_pixel_matched_cells": 9
         }
       ]
+    },
+    {
+      "public_reply_key": "reply-bbd8d5e71efcc072",
+      "game_id": "pokemon-soul-crystal",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057797302",
+      "floor": 215,
+      "pid": "154071815033",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071815033#154071815033",
+      "text": "攻击变色、地名、图鉴黑字和电话本这几处已记录，4张图都收到了。麻烦补一下实际ROM文件名或版本，方便逐项核对。",
+      "text_sha256": "eb65502246928ddff102d85b92dfd7e6bb3e0fafad55de6641adf2b5bd206bb4",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:24:09.707130+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071462318",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_maintainer_notice_export_at": "2026-10-24T03:00:43.137691+08:00"
+  "last_maintainer_notice_export_at": "2026-10-24T03:00:43.137691+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154071462318",
+      "parent_pid": "154057797302",
+      "floor": 215,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071462318#154071462318",
+      "created_at": "2026-10-26T00:52:36+08:00",
+      "quote": "统一的小问题，攻击变色，地址显示，不知道图鉴有没有问题，我得测试英文原版才知道，中文改版图鉴街上全是黑的，连下面的四个功能选项都看不见字，电话本根本看不明白，目前就这些    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "852d202b4dad48bf060c58c75b2409a5412c8dfda98e91609485924b8214fc95",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5c6172cb0a46f21f6e92f054b0246b600d33aebb.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154071462318-1-42df9557216be4b1bc3ffa0b7854f91dc72d2a9ced805e7786556d5d3158a376.jpg",
+          "sha256": "42df9557216be4b1bc3ffa0b7854f91dc72d2a9ced805e7786556d5d3158a376",
+          "bytes": 363791,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7ca8988fa0ec08faeda6bda01fee3d6d54fbdabb.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154071462318-2-52d06dd7935541909627f1ad491e9a99da5358b37bd2685cc2d00c329e4af55a.jpg",
+          "sha256": "52d06dd7935541909627f1ad491e9a99da5358b37bd2685cc2d00c329e4af55a",
+          "bytes": 131668,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0c3fadc27d1ed21b515480e2eb6eddc450da3f47.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154071462318-3-0ebdc77d8f5d6bd7d40c722acb56c37e66677b2e8fd734458d8ba5cb140d53d6.jpg",
+          "sha256": "0ebdc77d8f5d6bd7d40c722acb56c37e66677b2e8fd734458d8ba5cb140d53d6",
+          "bytes": 101784,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0db33f7adab44aedb5d110e3f51c8701a08bfb42.jpg",
+          "archived_public_path": "feedback/images/20261026-0419/154071462318-4-1f971f1fa96b5886822a8344ca53f86b4539693fbaed9fc9a6a1df6c0c2b7103.jpg",
+          "sha256": "1f971f1fa96b5886822a8344ca53f86b4539693fbaed9fc9a6a1df6c0c2b7103",
+          "bytes": 104223,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-183b803062479c55",
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-soul-crystal",
+          "font": "8px",
+          "version": "v0.1.0",
+          "original_input_SHA256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+          "output_SHA256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-0419|soul-crystal-four-independent-display-consumers",
+          "game_ids": [
+            "pokemon-soul-crystal"
+          ],
+          "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
+          "feedback_summary": "同一原反馈报告攻击变色、地址显示、图鉴黑字及底部选项不可读、电话本难读，附4图。四个消费者分别保留，共同根因未知；尚待实际ROM文件名或版本，英文原版对照也未完成，不能认定全由补丁新增。输入作品为英文改版Soul Crystal 42.0。",
+          "source_feedback_keys": [
+            "11092365551|154071462318"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
+      "classification": "BUG",
+      "case_keys": [
+        "case-183b803062479c55"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00"
+    }
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  },
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00"
 }

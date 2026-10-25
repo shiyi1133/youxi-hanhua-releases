@@ -1,0 +1,238 @@
+{
+  "schema": "public_hb26_actual_player_evidence_scoped_retests_and_ACK_increment_v1",
+  "run_id": "20261026-0419",
+  "generated_at": "2026-10-26T05:28:55.082457+08:00",
+  "bindings": {
+    "source_scan_SHA256": "dc43d32bbac15650799a47c677bad0609fc7d147be29d2230bbd0b275ce4485d",
+    "root_visual_SHA256": "1e16144ca87347784d23b0cc6ba4a324ebf865d02cacb8f4068068c3d0426056",
+    "actual_A_registration_SHA256": "edf19600a6495a7a557fcfd127355cbe08768cae8c06408a61fa93303de2b1f5",
+    "actual_A_plan_SHA256": "ff1013820eedbf3866b599306c6b9b59949c3d0f727f7932cc5fd1df88465827",
+    "source_evidence_Git_proof_SHA256": "0e140ba95b7d18e55f612d33e79f425121ba6e878d6fceec98fe9b68c67df10c",
+    "postA_Git_proof_SHA256": "c383fee1ebffc927db601520285c1c10d67be2dff14867248a94a487f4695053",
+    "ACK_Git_proof_SHA256": "cbdb7c7bbce1617ed52a0446ce3b9a7a10a2c268f8a7556cd84d37315a48e93f",
+    "Root_previous_type_review_SHA256": "63b65e90b17c4fdfdd70b9fece243faca4328a48958d64d64ab0b6eb4b8f36fa",
+    "Root_previous_type_gate_SHA256": "40205c5b7216edd09206f3a32dbccb33677b1bec1aca2a023be8b52202187308",
+    "current_Issue_signature_SHA256": "ba678b4763baf25f14e7d19410b08d83dfd6e47140a3e887462fa34c74afee3e",
+    "new_problem_type": "BUG"
+  },
+  "source_quote_count": 12,
+  "original_JPEG_positions": 24,
+  "feedback_scope_updates": 9,
+  "actual_ACKs": 4,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 59,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entry": 1,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261026-0419|culture-bath-new-seven-photos",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture",
+        "tokimeki-memorial-pocket-sport"
+      ],
+      "summary": "文艺篇：合宿事件日文残留",
+      "feedback_summary": "玩家报告文艺篇合宿洗澡事件仍有日文，附7图；另有玩家询问合宿修订。既有覆盖范围继续开放；本轮新图仅文艺篇，不表示运动篇新复现。最新编号、实际ROM文件和完整SHA未知，既有名单姓名或标题显示修订不代表这段事件已修。",
+      "source_feedback_keys": [
+        "11092365551|154071176740",
+        "11092365551|154070794105"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|culture-separator-limited-player-retest",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "心跳回忆：引号与间隔符玩家复测",
+      "feedback_summary": "两条玩家回复称网盘新版本的引号或间隔符已正常；保持原有关闭状态。未给精确游戏、ROM版本或完整SHA，仅保留所报对白消费者的限定复测；合宿未译仍单独开放。",
+      "source_feedback_keys": [
+        "11092365551|154070783866",
+        "11092365551|154070794105"
+      ],
+      "issue_state": "closed",
+      "registration_issue_state": "closed",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|poyon2-v014-three-new-consumer-sources",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：仓库、召唤招式与学招提示显示",
+      "feedback_summary": "普通8px v0.1.4新增仓库取出页图标上乱码、第二召唤兽固定招式词条错误，以及学敌技提示日文和已学招式名乱码。分别记录消费者，共同根因未知；当前v0.1.8的劈瓦修订不代表这些旧版报告已修，新版网盘仍待同步。",
+      "source_feedback_keys": [
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|poyon2-v014-new-overflow-photo",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：普通8px旧版文本越框",
+      "feedback_summary": "玩家报告普通8px v0.1.4文本越框并附1图，补入集中排版记录；保持开放。不能当作当前v0.1.8回归，仓库或技能乱码仍与越框分开排查。",
+      "source_feedback_keys": [
+        "11092365551|154070171453"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|koto-sundial-garden-untranslated",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：日晷庭园剧情未译",
+      "feedback_summary": "玩家补充龙背山日晷庭园击败反派后与另一言灵的对白未译，附1图。实际版本与完整SHA未知；当前v0.1.6镇和水道局部修订未覆盖这段剧情，不称新版回归。",
+      "source_feedback_keys": [
+        "11092365551|154071288799"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|soul-crystal-four-independent-display-consumers",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
+      "feedback_summary": "同一原反馈报告攻击变色、地址显示、图鉴黑字及底部选项不可读、电话本难读，附4图。四个消费者分别保留，共同根因未知；尚待实际ROM文件名或版本，英文原版对照也未完成，不能认定全由补丁新增。输入作品为英文改版Soul Crystal 42.0。",
+      "source_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|oni3-v013-player-completion-report",
+      "game_ids": [
+        "oni-iii"
+      ],
+      "summary": "ONIⅢ：v0.1.3玩家通关与地名回报",
+      "feedback_summary": "玩家自述ONI-III-v0.1.3普通8px手打通关、全装备、未遇BUG且地名已翻译，附2张状态或装备照片。保留为玩家该路线陈述；两图不独立证明全通或全装备，也不算当前v0.1.4验收，原覆盖问题继续开放。",
+      "source_feedback_keys": [
+        "11092365551|154071712006"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|FCP-player-four-new-log-portrait-report",
+      "game_ids": [
+        "first-contact-protocol"
+      ],
+      "summary": "第一次接触协议：四人物新日志头像回报",
+      "feedback_summary": "原报告者称流程头像与看过的4人物新日志提示头像正常；“应该全部都正常”仍属玩家推测，不扩为六人物实测。实际版本与完整SHA未知，原问题继续开放。",
+      "source_feedback_keys": [
+        "11092365551|154071453135"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-0419|mayor-player-menu-translated-report",
+      "game_ids": [
+        "mayor-of-sanctuary"
+      ],
+      "summary": "庇护区区长：菜单玩家复测",
+      "feedback_summary": "原报告者补充菜单已正常汉化；保留为菜单或收藏页的限定复测，原问题保持关闭。没有本次实际ROM版本或完整SHA，不外推全部藏品、音乐、支线或实机验收。",
+      "source_feedback_keys": [
+        "11092365551|154071455046"
+      ],
+      "issue_state": "closed",
+      "registration_issue_state": "closed",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    }
+  ]
+}

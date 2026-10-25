@@ -5332,8 +5332,115 @@
       "is_information_reply": true,
       "actual_public_full_body_verified": true,
       "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "public_reply_key": "reply-90f1660beb2a2dbd",
+      "game_id": "tokimeki-memorial-pocket-culture",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154071176740"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "pid": "154071813388",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071813388#154071813388",
+      "text": "合宿这段日文和7张截图已补进原问题，后续继续排查。",
+      "text_sha256": "f9587d09cb844fc7f1b5fb49778e0b0cd8c69d99cf3166772500cf4793045c97",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:21:15.803471+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-a83d6f2c83100807",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154069982105",
+        "11092365551|154069998453",
+        "11092365551|154070170298",
+        "11092365551|154070171453"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154071813906",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071813906#154071813906",
+      "text": "仓库乱码、召唤招式词条、学招提示和文本越框这几处都收到，已合并补进原有记录，继续排查。",
+      "text_sha256": "0888f55f2c3ea900501a9469014eb6f9fbda40c4561384478ef1cfe42b91b08e",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:22:15.718529+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154069982105",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-7ecf2448815823a9",
+      "game_id": "kotobattle",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154071288799"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "pid": "154071814484",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071814484#154071814484",
+      "text": "日晷庭园这段未译对白和截图已补充记录，后续继续排查。",
+      "text_sha256": "a820673405bbb640b45ca7e8661ab4d4f5fa4cdd687a28cbfc9041599724d512",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:23:16.064545+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071288799",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-bbd8d5e71efcc072",
+      "game_id": "pokemon-soul-crystal",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "kind": "BUG_ACK",
+      "source_feedback_keys": [
+        "11092365551|154071462318"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057797302",
+      "floor": 215,
+      "pid": "154071815033",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071815033#154071815033",
+      "text": "攻击变色、地名、图鉴黑字和电话本这几处已记录，4张图都收到了。麻烦补一下实际ROM文件名或版本，方便逐项核对。",
+      "text_sha256": "eb65502246928ddff102d85b92dfd7e6bb3e0fafad55de6641adf2b5bd206bb4",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-26T05:24:09.707130+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071462318",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 83,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00"
+  "row_count": 87,
+  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00"
 }

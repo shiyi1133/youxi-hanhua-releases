@@ -135,6 +135,143 @@
       "public_nicknames_recorded": [
         "凌凌风"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073388835",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073388835#154073388835",
+      "created_at": "2026-10-26T15:45:33+08:00",
+      "quote": "顺利创建完角色后，进入新界面。 图一，右下角显示多罗，不知含义。点击角色头像进入图二。 图二，按方向让光标在四项菜单中移动延迟很大。选择角色设定进入图三。 图三，光标在状态与球杆设定选项中移动很顺畅。   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "0f690f54820d65a1fcde54b0fd5ee76625c3285364c771065fca7440a6599c27",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0e9eecdde71190ef79ad05d8881b9d16fcfa608a.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073388835-1-ec9c0828b63f215bc7d14f2d2f8d98207eb60d1db51f9b48873c2a05af5b52e6.jpg",
+          "sha256": "ec9c0828b63f215bc7d14f2d2f8d98207eb60d1db51f9b48873c2a05af5b52e6",
+          "bytes": 112450,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c469dc628535e5ddea7a32d830c6a7efcf1b628a.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073388835-2-11be15ef32a3bdd554df37b36b17d5bea691acc22f7e794f1e3eb6cc0c1ea44d.jpg",
+          "sha256": "11be15ef32a3bdd554df37b36b17d5bea691acc22f7e794f1e3eb6cc0c1ea44d",
+          "bytes": 150028,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/47146581800a19d88d55130275fa828ba71e468a.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073388835-3-a3541135a2e938a9645f3d01154e04aa45385572dc36bfbbc5457269cbc07d19.jpg",
+          "sha256": "a3541135a2e938a9645f3d01154e04aa45385572dc36bfbbc5457269cbc07d19",
+          "bytes": 246679,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073410947",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073410947#154073410947",
+      "created_at": "2026-10-26T15:52:52+08:00",
+      "quote": "进入状态选项后，进入图一。 图一，光标在选项上移动延迟很大，选择角色进入图二。 图二，在最左边一列，高度，球路，击球区等内容左边残留日文或乱码字符。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ed72ca4365bb00d049173d8af404933351571fb483751a2a0b1aa7d61e8ec73f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/15840e0828381f3076a71aaeef014c086f06f0a3.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073410947-1-409cc4658ea1cc76e3c2dc0e576344a1871096bfc02138e7ac77ea4c23fb9705.jpg",
+          "sha256": "409cc4658ea1cc76e3c2dc0e576344a1871096bfc02138e7ac77ea4c23fb9705",
+          "bytes": 193462,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a3931630e924b8990882ee3f28061d950b7bf6a3.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073410947-2-4c8edc6b30b5667357860b9ecc723f4e1367b09f72c11f02abaef400a020a09f.jpg",
+          "sha256": "4c8edc6b30b5667357860b9ecc723f4e1367b09f72c11f02abaef400a020a09f",
+          "bytes": 138890,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073429610",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073429610#154073429610",
+      "created_at": "2026-10-26T15:59:02+08:00",
+      "quote": "更正一下，图一中光标移动很顺畅，无延迟",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3b93872c5e25504236632ab25d981e89587d50b04c348c6c94712c930456766f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073464400",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073464400#154073464400",
+      "created_at": "2026-10-26T16:10:19+08:00",
+      "quote": "选择锦标赛进入图一，图二。 图一，按方向下可以切到图二，按方向右可以切换到图三，图四，图五。 图二，在平均推杆和保什么率之间有乱码，按方向下无法进入下方界面。 图三，图四，出现跟图二一样的乱码。按方向下可以进入图五。 图五，感觉在图二按方向下也应该进入类似图五才对。     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ff1a688ab96fabed22ddbd7eb1603fa3e4efafbc303fb7b4fe3d3c84afd1160f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/566f58da81cb39dbe951f05196160924aa18304b.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073464400-1-724d5bc4fdea4b7902e77e160b94ae14fcfd7949e305eb0104b760831f64d20a.jpg",
+          "sha256": "724d5bc4fdea4b7902e77e160b94ae14fcfd7949e305eb0104b760831f64d20a",
+          "bytes": 110554,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4856f5039245d688879325a3e2c27d1ed31b244b.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073464400-2-1c8b77251180cf51245e2abd00d4042acba8b1a00c2c6b20e0d2cc9675cfda2b.jpg",
+          "sha256": "1c8b77251180cf51245e2abd00d4042acba8b1a00c2c6b20e0d2cc9675cfda2b",
+          "bytes": 111038,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/4865cafdfc03924584247608c194a4c27c1e254b.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073464400-3-44ba56230d3fd6c5d1d9dc2b556258bbe1f1491f6136af73a3f5e391bf121044.jpg",
+          "sha256": "44ba56230d3fd6c5d1d9dc2b556258bbe1f1491f6136af73a3f5e391bf121044",
+          "bytes": 109385,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/855f12d5ad6eddc40d7623fc7fdbb6fd5366334b.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073464400-4-45d49bc3cb94ed8653f428a47fd8988c27eb0e7d32419ca766ea3adb0b41bf89.jpg",
+          "sha256": "45d49bc3cb94ed8653f428a47fd8988c27eb0e7d32419ca766ea3adb0b41bf89",
+          "bytes": 105827,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/907ea46eddc451dadc679becf0fd5266d116324b.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154073464400-5-e53430c68b0b4cdeff81da956177fd910968b21446cd3f97cdc48186e450130c.jpg",
+          "sha256": "e53430c68b0b4cdeff81da956177fd910968b21446cd3f97cdc48186e450130c",
+          "bytes": 121782,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -196,6 +333,71 @@
           "original_script_tokens": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-11bab5429477b50e",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|mobile-golf-profile-status-tournament",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+          "feedback_summary": "保留角色页“多罗”含义待核、角色头像后的四项游戏菜单延迟、属性页左侧残字或乱码，以及锦标赛重复字形与下翻路径报告。玩家随后明确更正状态入口图一光标顺畅，应撤销这一页迟滞说法；四项游戏菜单延迟是另一处报告。速度及应有导航未由维护实测，不提前定因或承诺功能。",
+          "source_feedback_keys": [
+            "11092365551|154073388835",
+            "11092365551|154073410947",
+            "11092365551|154073429610",
+            "11092365551|154073464400"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -223,6 +425,29 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+      "classification": "BUG",
+      "case_keys": [
+        "case-11bab5429477b50e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -261,10 +486,43 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "reviewed_open_problem_counts": {
-    "BUG": 0,
+    "BUG": 1,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
-  }
+  },
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-e17748910d73f6f7",
+      "game_id": "mobile-golf",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "pid": "154075363524",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075363524#154075363524",
+      "text": "角色资料和锦标赛统计的问题已记录；状态页光标无延迟的更正也已注明。",
+      "text_sha256": "758600c54fb9a1da00454b0e47d196a4765a5735031353b53174043f18ddd2b6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:31:15.756730+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154073388835",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ]
 }

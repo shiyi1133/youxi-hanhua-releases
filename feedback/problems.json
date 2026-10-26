@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "problem_count": 140,
-  "open_pure_BUG_count": 59,
+  "problem_count": 144,
+  "open_pure_BUG_count": 63,
   "open_requests_or_other_count": 22,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -243,7 +243,8 @@
         "case-e793e333242f0619",
         "case-eab2c8ffe4f1ebad",
         "case-ec0244e7436f6ab8",
-        "case-a437aca951f002a5"
+        "case-a437aca951f002a5",
+        "case-1ea13a2985ec4995"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -318,13 +319,15 @@
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534",
-        "11092365551|154070171453"
+        "11092365551|154070171453",
+        "11092365551|154072094051",
+        "11092365551|154072608407"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -727,14 +730,15 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449",
-        "case-36bfa02f5e58e827"
+        "case-36bfa02f5e58e827",
+        "case-5edd78bd54d1ae5a"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -775,7 +779,11 @@
         "11092365551|154069297278",
         "11092365551|154069982105",
         "11092365551|154069998453",
-        "11092365551|154070170298"
+        "11092365551|154070170298",
+        "11092365551|154072000224",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2703,19 +2711,21 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-e81df281c2ddc5a0"
+        "case-e81df281c2ddc5a0",
+        "case-b467c0b64f792c72"
       ],
       "public_feedback_keys": [
         "11092365551|154050181591",
         "11092365551|154050195512",
         "11092365551|154054287773",
-        "11092365551|154054651661"
+        "11092365551|154054651661",
+        "11092365551|154072926383"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -4045,13 +4055,16 @@
       ],
       "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification": "BUG",
       "case_keys": [
-        "case-5d7d85365a90bf2f"
+        "case-5d7d85365a90bf2f",
+        "case-316bd3f8c1dc6a71"
       ],
       "public_feedback_keys": [
-        "11092365551|154062018024"
+        "11092365551|154062018024",
+        "11092365551|154071893013",
+        "11092365551|154071894136"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -5551,24 +5564,110 @@
       "summary": "灵魂水晶：战斗颜色、地点、图鉴与电话本显示",
       "classification": "BUG",
       "case_keys": [
-        "case-183b803062479c55"
+        "case-183b803062479c55",
+        "case-aa511796562268c3"
       ],
       "public_feedback_keys": [
-        "11092365551|154071462318"
+        "11092365551|154071462318",
+        "11092365551|154071871134"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00"
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    },
+    {
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+      "classification": "BUG",
+      "case_keys": [
+        "case-11bab5429477b50e"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    },
+    {
+      "public_problem_key": "problem-7acc3f4504657881",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-ac4433123c91f796"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    },
+    {
+      "public_problem_key": "problem-1899552544f12bb4",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-50569319861a3c82"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    },
+    {
+      "public_problem_key": "problem-66595f432a71d04a",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "summary": "口袋黄三主角分支：异常状态显示待核",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e73654ebd12a945d"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

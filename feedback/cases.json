@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 192,
+  "case_count": 201,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -11560,7 +11560,581 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-5edd78bd54d1ae5a",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的召唤、仓库与招式显示反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072000224",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025 / pending_native_20261025_",
+        "historical_upload_plan_version": "v0.1.7",
+        "historical_temp_remote_full_SHA_verified": false,
+        "filename_ID_is_ROM_SHA256": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|poyon2-reported-temp-three-displays",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：临时文件的召唤、仓库与招式显示反馈",
+          "feedback_summary": "玩家补充召唤状态小字与原生大字重叠、仓库取出图标异常、固定及替换招式名异常。所用pending_native_20261025_文件名对应历史v0.1.7上传计划，但临时文件和玩家实际字节均未核验，命名ID不是ROM哈希，不能称已验证v0.1.7或当前v0.1.8。保留原生大汉字仅为玩家建议，未实施。",
+          "source_feedback_keys": [
+            "11092365551|154072000224",
+            "11092365551|154072096626",
+            "11092365551|154072100439",
+            "11092365551|154072608407"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-1ea13a2985ec4995",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的文本越框",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072094051",
+        "11092365551|154072608407"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025 / pending_native_20261025_",
+        "historical_upload_plan_version": "v0.1.7",
+        "historical_temp_remote_full_SHA_verified": false,
+        "filename_ID_is_ROM_SHA256": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|poyon2-reported-temp-overflow",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：临时文件的文本越框",
+          "feedback_summary": "玩家补充文本超框及所用临时文件截图，合入集中排版反馈。文件名只对应历史v0.1.7上传计划，实际字节未知；不能标为v0.1.8回归，亦不把其它图块和招式问题预先认作同一根因。",
+          "source_feedback_keys": [
+            "11092365551|154072094051",
+            "11092365551|154072608407"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-11bab5429477b50e",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|mobile-golf-profile-status-tournament",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+          "feedback_summary": "保留角色页“多罗”含义待核、角色头像后的四项游戏菜单延迟、属性页左侧残字或乱码，以及锦标赛重复字形与下翻路径报告。玩家随后明确更正状态入口图一光标顺畅，应撤销这一页迟滞说法；四项游戏菜单延迟是另一处报告。速度及应有导航未由维护实测，不提前定因或承诺功能。",
+          "source_feedback_keys": [
+            "11092365551|154073388835",
+            "11092365551|154073410947",
+            "11092365551|154073429610",
+            "11092365551|154073464400"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ac4433123c91f796",
+      "public_problem_key": "problem-7acc3f4504657881",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v1.0.7",
+          "original_input_SHA256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "output_SHA256": "2d9fb637ae1affc26ab6f95a36c016825791e986134eff17bf443980991e3026"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v1.0.7",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaDX3-v107-music-magic-scroll",
+          "game_ids": [
+            "saga-3"
+          ],
+          "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+          "feedback_summary": "玩家报SaGa3-DX-zh-v1.0.7-8px-music魔法很多时下拉到底再上拉乱码，附2图并主动给出即时状态来源。黑白日版三列与DX单列只是玩家比较，不能据此断言翻译补丁改变了布局；没有下载或运行即时状态，玩家ROM完整SHA未知。",
+          "source_feedback_keys": [
+            "11092365551|154072906747",
+            "11092365551|154072909316"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-50569319861a3c82",
+      "public_problem_key": "problem-1899552544f12bb4",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v0.1.3",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaGB3-v013-music-item-magic-display",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+          "feedback_summary": "玩家报SaGa-gb3-zh-v0.1.3-8px-music道具及魔法页乱码，附2图和主动提供的即时状态来源。图中文字重叠可见，实际ROM字节、触发链和共同根因未核；即时状态未下载或运行，不并入彩色DX版。",
+          "source_feedback_keys": [
+            "11092365551|154072926383"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b467c0b64f792c72",
+      "public_problem_key": "problem-9dfd37bb76a0ccbb",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：菜单慢的版本补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v0.1.3",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaGB3-v013-music-menu-latency",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "summary": "沙加3 黑白GB：菜单慢的版本补充",
+          "feedback_summary": "同一玩家把菜单文字显示慢补充到普通8px音乐版v0.1.3上下文；这不代表旧版开篇加速、取名或战斗迟滞已重新复现或已修。速度仍为玩家报告，实际ROM完整SHA未知，原记录继续开放。",
+          "source_feedback_keys": [
+            "11092365551|154072926383"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-316bd3f8c1dc6a71",
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战姓名空白的版本与图片补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071893013",
+        "11092365551|154071894136"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "yuu-yuu-hakusho-4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70",
+          "output_SHA256": "715fffa9289efed9a7ea54a6de89670ccd78009b7c462eac76e982dd991a97e9"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.0",
+        "reported_font": "8px",
+        "reported_emulator": "GBC.EMU"
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|yuyu4-v010-filename-photo",
+          "game_ids": [
+            "yuu-yuu-hakusho-4"
+          ],
+          "summary": "幽游白书4：对战姓名空白的版本与图片补充",
+          "feedback_summary": "玩家明确文件名yuu-yuu-hakusho-4-v0.1.0-8px及GBC.EMU，并补一张VS人物图。虽回复在牧场物语混楼，归属按具体文件名和旧反馈，不能误记牧场。图片中姓名区域空白，实际ROM完整SHA及维护复现仍未核，不要求重复提供已有版本或截图。",
+          "source_feedback_keys": [
+            "11092365551|154071893013",
+            "11092365551|154071894136"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-aa511796562268c3",
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：游戏名补充仍未给出版本",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071871134"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-soul-crystal",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+          "output_SHA256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|soul-crystal-name-only-no-version",
+          "game_ids": [
+            "pokemon-soul-crystal"
+          ],
+          "summary": "灵魂水晶：游戏名补充仍未给出版本",
+          "feedback_summary": "玩家只回复“灵魂水晶”，没有补实际ROM文件名、版本或完整SHA。原四处显示反馈继续保持开放；本条不是版本已核或修复验收，也不重复催问。",
+          "source_feedback_keys": [
+            "11092365551|154071871134"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-e73654ebd12a945d",
+      "public_problem_key": "problem-66595f432a71d04a",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "summary": "口袋黄三主角分支：异常状态显示待核",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-yellow-three-protagonists",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "08707a21f3552f7d279d995cadb8b2cf47eaf8b4e6000e3125a19da3b9a05c4b",
+          "output_SHA256": "ec81df5c1512a06161e2b844d05613389ea70ec1038628c171dada3096cce93f"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "game_context_only": true,
+        "reported_version": null
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|yellow-three-protagonist-branch-status-identity-unverified",
+          "game_ids": [
+            "pokemon-yellow-three-protagonists"
+          ],
+          "summary": "口袋黄三主角分支：异常状态显示待核",
+          "feedback_summary": "按旧对话分支关联口袋黄三主角改版的异常状态显示报告，附1张初代宝可梦战斗图。截图不能独立确认精确ROM，实际文件名、版本和完整SHA仍未知；不并入卡洛斯水晶或灵魂水晶，不把玩家的“未更新”当作已核版本，也不作第三次惯例催问。",
+          "source_feedback_keys": [
+            "11097560613|154072472008"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00"
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
 }

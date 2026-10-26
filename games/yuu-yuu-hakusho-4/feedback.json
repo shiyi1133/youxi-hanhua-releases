@@ -18,6 +18,46 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154071893013",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "shangyewuming6",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071893013#154071893013",
+      "created_at": "2026-10-26T06:51:44+08:00",
+      "quote": "yuu-yuu-hakusho-4-v0.1.0-8px这个，我用的gbc.EMU",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7a6e9c2fa7c6ab41071d695c831e2fdab806105228818bc63d841104c430588c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154071894136",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "public_nickname": "shangyewuming6",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154071894136#154071894136",
+      "created_at": "2026-10-26T06:52:39+08:00",
+      "quote": " ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/de50bbfb43166d228d64bd93002309f79152d2d6.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154071894136-1-8def3581fe64cc7f941db3f4582b47bff864b7d088b480fc07154fd6524bebb6.jpg",
+          "sha256": "8def3581fe64cc7f941db3f4582b47bff864b7d088b480fc07154fd6524bebb6",
+          "bytes": 182419,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -87,6 +127,70 @@
       "latest_scoped_feedback_update_at": "2026-10-23T17:12:10.147024+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-316bd3f8c1dc6a71",
+      "public_problem_key": "problem-9ca82ac6911baab2",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战姓名空白的版本与图片补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154071893013",
+        "11092365551|154071894136"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "yuu-yuu-hakusho-4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "9b5dbe11021ce2ff458c182ef0c9eb2baab093c58a7c0d703674cf64fe70db70",
+          "output_SHA256": "715fffa9289efed9a7ea54a6de89670ccd78009b7c462eac76e982dd991a97e9"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.0",
+        "reported_font": "8px",
+        "reported_emulator": "GBC.EMU"
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|yuyu4-v010-filename-photo",
+          "game_ids": [
+            "yuu-yuu-hakusho-4"
+          ],
+          "summary": "幽游白书4：对战姓名空白的版本与图片补充",
+          "feedback_summary": "玩家明确文件名yuu-yuu-hakusho-4-v0.1.0-8px及GBC.EMU，并补一张VS人物图。虽回复在牧场物语混楼，归属按具体文件名和旧反馈，不能误记牧场。图片中姓名区域空白，实际ROM完整SHA及维护复现仍未核，不要求重复提供已有版本或截图。",
+          "source_feedback_keys": [
+            "11092365551|154071893013",
+            "11092365551|154071894136"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -97,13 +201,16 @@
       ],
       "summary": "幽游白书4：对战名字不显示（玩家称能正常通关）",
       "state": "open",
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification": "BUG",
       "case_keys": [
-        "case-5d7d85365a90bf2f"
+        "case-5d7d85365a90bf2f",
+        "case-316bd3f8c1dc6a71"
       ],
       "public_feedback_keys": [
-        "11092365551|154062018024"
+        "11092365551|154062018024",
+        "11092365551|154071893013",
+        "11092365551|154071894136"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -143,9 +250,38 @@
       "SDK_precise_nested_notification_claimed": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-0bbf0cb63b8ddfcf",
+      "game_id": "yuu-yuu-hakusho-4",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "kind": "INFORMATION_REPLY",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154071893013",
+        "11092365551|154071894136"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "pid": "154075365077",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075365077#154075365077",
+      "text": "v0.1.0普通8px、GBC.EMU和对战姓名截图已补进原问题，继续排查。",
+      "text_sha256": "a053a403cfde807415bfd7abbf2a275c831258a9ddeb3d12fd139fa393027569",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:33:47.154481+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071893013",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|yuu4-battle-name-missing",

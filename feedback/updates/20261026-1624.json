@@ -1,0 +1,245 @@
+{
+  "schema": "public_hb26_actual_player_evidence_scoped_retests_and_ACK_increment_v1",
+  "run_id": "20261026-1624",
+  "generated_at": "2026-10-27T04:36:47.822190+08:00",
+  "bindings": {
+    "source_scan_SHA256": "6d739b8bd783d51703ee27061fe7deb8757cf02299ae3e08f425da04a0e1bbf8",
+    "root_visual_SHA256": "bed65f0cdbf43cf3de6a506a9782cab93041b3e60fedc7f951792745e86136be",
+    "actual_A_registration_SHA256": "4b64feb2cdd2570d48a3d6d21d8f153bc7b238c152f4a5e87a56074d96ca2eac",
+    "actual_A_plan_SHA256": "bb53d7504cfe39c34d2ed90e3bebf84a58d6e56d2eef548583a292b8ee072064",
+    "source_evidence_Git_proof_SHA256": "73d8debcd65f94e9e7f9050f95c93fa2cddfaa0b4b493abd10b29e42b3f46bb2",
+    "postA_Git_proof_SHA256": "d073aec042490364bba80a2bebde281e4d27aa1bfda251a80568f4f2e1b41535",
+    "reply_Git_proof_SHA256": "2f4cff7b2f92e6bd04abf3e049fc1c1a7b9e21566e7a34c1549ecf7dbed910c4",
+    "current_Issue_signature_SHA256": "2f43f4324af83a37843ea98902de31dfc3830d774195d2b567b1aa1278400c71",
+    "prior_Root_type_snapshot_Git_proof_SHA256": "00c60066365ab55a05dac0dce18363ede76c398c1c78dc26890ec332f770e131",
+    "prior_Root_type_gate_SHA256": "9e9ce2f61a880a413b05abe17b33d419ff50e57561c61dd7cfa11cc8a8e81a3d",
+    "prior_actual_Issue_identity_snapshot_SHA256": "ba678b4763baf25f14e7d19410b08d83dfd6e47140a3e887462fa34c74afee3e",
+    "new_Root_type_review_SHA256": "98f31014ccdd99606c28d6055d58c7deb805cbab3b32d513efd1b2561eedeef5"
+  },
+  "source_quote_count": 16,
+  "original_JPEG_positions": 30,
+  "feedback_scope_updates": 9,
+  "actual_replies": 6,
+  "actual_ACKs": 5,
+  "actual_information_replies": 1,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 63,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entries": 4,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261026-1624|poyon2-reported-temp-three-displays",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的召唤、仓库与招式显示反馈",
+      "feedback_summary": "玩家补充召唤状态小字与原生大字重叠、仓库取出图标异常、固定及替换招式名异常。所用pending_native_20261025_文件名对应历史v0.1.7上传计划，但临时文件和玩家实际字节均未核验，命名ID不是ROM哈希，不能称已验证v0.1.7或当前v0.1.8。保留原生大汉字仅为玩家建议，未实施。",
+      "source_feedback_keys": [
+        "11092365551|154072000224",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|poyon2-reported-temp-overflow",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的文本越框",
+      "feedback_summary": "玩家补充文本超框及所用临时文件截图，合入集中排版反馈。文件名只对应历史v0.1.7上传计划，实际字节未知；不能标为v0.1.8回归，亦不把其它图块和招式问题预先认作同一根因。",
+      "source_feedback_keys": [
+        "11092365551|154072094051",
+        "11092365551|154072608407"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|mobile-golf-profile-status-tournament",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
+      "feedback_summary": "保留角色页“多罗”含义待核、角色头像后的四项游戏菜单延迟、属性页左侧残字或乱码，以及锦标赛重复字形与下翻路径报告。玩家随后明确更正状态入口图一光标顺畅，应撤销这一页迟滞说法；四项游戏菜单延迟是另一处报告。速度及应有导航未由维护实测，不提前定因或承诺功能。",
+      "source_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|sagaDX3-v107-music-magic-scroll",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+      "feedback_summary": "玩家报SaGa3-DX-zh-v1.0.7-8px-music魔法很多时下拉到底再上拉乱码，附2图并主动给出即时状态来源。黑白日版三列与DX单列只是玩家比较，不能据此断言翻译补丁改变了布局；没有下载或运行即时状态，玩家ROM完整SHA未知。",
+      "source_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|sagaGB3-v013-music-item-magic-display",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+      "feedback_summary": "玩家报SaGa-gb3-zh-v0.1.3-8px-music道具及魔法页乱码，附2图和主动提供的即时状态来源。图中文字重叠可见，实际ROM字节、触发链和共同根因未核；即时状态未下载或运行，不并入彩色DX版。",
+      "source_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|sagaGB3-v013-music-menu-latency",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：菜单慢的版本补充",
+      "feedback_summary": "同一玩家把菜单文字显示慢补充到普通8px音乐版v0.1.3上下文；这不代表旧版开篇加速、取名或战斗迟滞已重新复现或已修。速度仍为玩家报告，实际ROM完整SHA未知，原记录继续开放。",
+      "source_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|yuyu4-v010-filename-photo",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "summary": "幽游白书4：对战姓名空白的版本与图片补充",
+      "feedback_summary": "玩家明确文件名yuu-yuu-hakusho-4-v0.1.0-8px及GBC.EMU，并补一张VS人物图。虽回复在牧场物语混楼，归属按具体文件名和旧反馈，不能误记牧场。图片中姓名区域空白，实际ROM完整SHA及维护复现仍未核，不要求重复提供已有版本或截图。",
+      "source_feedback_keys": [
+        "11092365551|154071893013",
+        "11092365551|154071894136"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|soul-crystal-name-only-no-version",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：游戏名补充仍未给出版本",
+      "feedback_summary": "玩家只回复“灵魂水晶”，没有补实际ROM文件名、版本或完整SHA。原四处显示反馈继续保持开放；本条不是版本已核或修复验收，也不重复催问。",
+      "source_feedback_keys": [
+        "11092365551|154071871134"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261026-1624|yellow-three-protagonist-branch-status-identity-unverified",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "summary": "口袋黄三主角分支：异常状态显示待核",
+      "feedback_summary": "按旧对话分支关联口袋黄三主角改版的异常状态显示报告，附1张初代宝可梦战斗图。截图不能独立确认精确ROM，实际文件名、版本和完整SHA仍未知；不并入卡洛斯水晶或灵魂水晶，不把玩家的“未更新”当作已核版本，也不作第三次惯例催问。",
+      "source_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    }
+  ]
+}

@@ -212,6 +212,58 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072906747",
+      "parent_pid": "0",
+      "floor": 274,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072906747#154072906747",
+      "created_at": "2026-10-26T13:07:40+08:00",
+      "quote": "通过百度网盘分享的文件：SaGa3-DX....state9\n链接：￼网页链接\n复制这段内容打开「百度网盘APP 即可获取」\n时空霸者，如果魔法数量太多的话，魔法显示不全，日版黑白版魔法显示是横向一行 3 个魔法显示，彩色汉化版是单列纵向显示，下拉到底 后再上拉显示乱码。版本 SaGa3-DX-zh-v1.0.7-8px-music，附上即时存档，现在彩色版菜单显示速度正常.",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c6f1275062caf91069876cab332b67f8e152a130a4942c2605aa57ecd0efa675",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b89f5e7af84492442a7d8330e5d.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072906747-1-5c89e25e70f09187f2fb0ae4f5003a3ca1cb019e527d7297cd22c08a99eca712.jpg",
+          "sha256": "5c89e25e70f09187f2fb0ae4f5003a3ca1cb019e527d7297cd22c08a99eca712",
+          "bytes": 52012,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/8418062442a7d933b8237174eb4bd11372f0015d.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072906747-2-63d239fcac0185b7c7548bd76976a0c6950f9bb8ef2a3d49af67b181cb6fe120.jpg",
+          "sha256": "63d239fcac0185b7c7548bd76976a0c6950f9bb8ef2a3d49af67b181cb6fe120",
+          "bytes": 54692,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072909316",
+      "parent_pid": "154072906747",
+      "floor": 274,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072909316#154072909316",
+      "created_at": "2026-10-26T13:08:35+08:00",
+      "quote": "通过百度网盘分享的文件：SaGa3-DX....state9 链接：[下载链接已省略，见原帖定位] 复制这段内容打开「百度网盘APP 即可获取」",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "ca1773e7a025e55779cc51cdb2b65adc87393fa626602249cdcab0f9b4d55fd7",
+      "omission_notice": "下载地址与对应提取码以原帖定位替代；其余原话、空格、观点和标点保留，私库保存完整原文。",
+      "download_locator_redactions": [
+        {
+          "kind": "DOWNLOAD_URL_REPLACED_BY_ORIGINAL_POST_LOCATOR",
+          "original_URL_SHA256": "52c297d1293a9f5ab97d2795fbbd9851a45f6747ae83d37bedd4d7e9a7fee29b"
+        }
+      ],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -421,6 +473,71 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-ac4433123c91f796",
+      "public_problem_key": "problem-7acc3f4504657881",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v1.0.7",
+          "original_input_SHA256": "e54b808db9aa0722975226289415869a19ef5f11c40e7a205f6f2a634c4de565",
+          "output_SHA256": "2d9fb637ae1affc26ab6f95a36c016825791e986134eff17bf443980991e3026"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v1.0.7",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaDX3-v107-music-magic-scroll",
+          "game_ids": [
+            "saga-3"
+          ],
+          "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+          "feedback_summary": "玩家报SaGa3-DX-zh-v1.0.7-8px-music魔法很多时下拉到底再上拉乱码，附2图并主动给出即时状态来源。黑白日版三列与DX单列只是玩家比较，不能据此断言翻译补丁改变了布局；没有下载或运行即时状态，玩家ROM完整SHA未知。",
+          "source_feedback_keys": [
+            "11092365551|154072906747",
+            "11092365551|154072909316"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -520,6 +637,27 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-7acc3f4504657881",
+      "game_ids": [
+        "saga-3"
+      ],
+      "summary": "沙加3 DX：普通8px音乐版魔法列表回滚乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-ac4433123c91f796"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -575,9 +713,38 @@
       "is_information_reply": true,
       "actual_public_full_body_verified": true,
       "exact_nested_target_PID_publicly_verified": false
+    },
+    {
+      "public_reply_key": "reply-116fe523b21bbe7e",
+      "game_id": "saga-3",
+      "game_ids": [
+        "saga-3"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154072906747",
+      "floor": 274,
+      "pid": "154075364010",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075364010#154075364010",
+      "text": "v1.0.7普通8px音乐版的魔法列表回滚乱码已记录，截图和状态来源已收到，继续排查。",
+      "text_sha256": "1ea4ca1fbc16efb4f75b79b542c6cb47a3ad6076d530b4c1c3e7211923cbc0da",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:32:06.016400+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261025-0421|saga3-two-freeze-scenes",
@@ -627,7 +794,7 @@
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 4,
+    "BUG": 5,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   }

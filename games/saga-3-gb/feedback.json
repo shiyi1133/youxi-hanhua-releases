@@ -251,6 +251,42 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072926383",
+      "parent_pid": "0",
+      "floor": 275,
+      "public_nickname": "xfbb333",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072926383#154072926383",
+      "created_at": "2026-10-26T13:14:34+08:00",
+      "quote": "时空霸者黑白版呢道具魔法界面显示乱码字幕显示速度慢 版本 SaGa-gb3-zh-v0.1.3-8px-music\n通过百度网盘分享的文件：SaGa-gb3....state1\n链接：[下载链接已省略，见原帖定位]\n复制这段内容打开「百度网盘APP 即可获取」",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "8de0aba87084176731d6014e98e39c824f5aee1b457f9798b151ce3fff0f80b6",
+      "omission_notice": "下载地址与对应提取码以原帖定位替代；其余原话、空格、观点和标点保留，私库保存完整原文。",
+      "download_locator_redactions": [
+        {
+          "kind": "DOWNLOAD_URL_REPLACED_BY_ORIGINAL_POST_LOCATOR",
+          "original_URL_SHA256": "3aefdc6c9fff3091be815af69dcd22b66ec9e0f58d5c19ae9858859139ca16cf"
+        }
+      ],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f85b8b025aafa40f33335bdaed64034f79f0196f.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072926383-1-27ada4227750324c518ff13f53f520f270d265dfcba8690c48da8db12132ced7.jpg",
+          "sha256": "27ada4227750324c518ff13f53f520f270d265dfcba8690c48da8db12132ced7",
+          "bytes": 113227,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/246870310a55b319690c177205a98226cefc176f.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072926383-2-9b10a1af330b17ece2e1a501f9cac5ade83b6314794f2a15230333dab66659c9.jpg",
+          "sha256": "9b10a1af330b17ece2e1a501f9cac5ade83b6314794f2a15230333dab66659c9",
+          "bytes": 86016,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -423,6 +459,132 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-50569319861a3c82",
+      "public_problem_key": "problem-1899552544f12bb4",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v0.1.3",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaGB3-v013-music-item-magic-display",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+          "feedback_summary": "玩家报SaGa-gb3-zh-v0.1.3-8px-music道具及魔法页乱码，附2图和主动提供的即时状态来源。图中文字重叠可见，实际ROM字节、触发链和共同根因未核；即时状态未下载或运行，不并入彩色DX版。",
+          "source_feedback_keys": [
+            "11092365551|154072926383"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b467c0b64f792c72",
+      "public_problem_key": "problem-9dfd37bb76a0ccbb",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：菜单慢的版本补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "font": "8px",
+          "audio_variant": "music",
+          "version": "v0.1.3",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio": "music",
+        "diagnostic_state_downloaded": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|sagaGB3-v013-music-menu-latency",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "summary": "沙加3 黑白GB：菜单慢的版本补充",
+          "feedback_summary": "同一玩家把菜单文字显示慢补充到普通8px音乐版v0.1.3上下文；这不代表旧版开篇加速、取名或战斗迟滞已重新复现或已修。速度仍为玩家报告，实际ROM完整SHA未知，原记录继续开放。",
+          "source_feedback_keys": [
+            "11092365551|154072926383"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -589,19 +751,21 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-e81df281c2ddc5a0"
+        "case-e81df281c2ddc5a0",
+        "case-b467c0b64f792c72"
       ],
       "public_feedback_keys": [
         "11092365551|154050181591",
         "11092365551|154050195512",
         "11092365551|154054287773",
-        "11092365551|154054651661"
+        "11092365551|154054651661",
+        "11092365551|154072926383"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -626,13 +790,62 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-1899552544f12bb4",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-50569319861a3c82"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-ce9d467d118c1613",
+      "game_id": "saga-3-gb",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154072926383",
+      "floor": 275,
+      "pid": "154075364530",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075364530#154075364530",
+      "text": "v0.1.3普通8px音乐版的道具、魔法乱码和拖慢已记录，截图和状态来源已收到，继续排查。",
+      "text_sha256": "25c62ffbb281d37bf903a94c752d2afb9fe385d97ea440bd92fc6007cb00c76a",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:32:56.675328+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "scoped_public_feedback_events": [
     {
       "public_update_key": "20261025-1619|verified-fix|problem-ed42c4f4a0a0996b",
@@ -685,7 +898,7 @@
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 2,
+    "BUG": 3,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   }

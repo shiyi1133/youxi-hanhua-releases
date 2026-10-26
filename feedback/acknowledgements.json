@@ -5439,8 +5439,185 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-2b844bfccf9f2784",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072000224",
+        "11092365551|154072094051",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154075362879",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075362879#154075362879",
+      "text": "这份pending_native_20261025_临时文件的说明已收到，召唤状态叠字、仓库和招式异常、文本越框都已补充记录，继续排查。",
+      "text_sha256": "bae92e7b26b0d15c0bebd8cfc93f63b43aaa9dcc0dee4d681febdf048357556f",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:30:26.895653+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154072000224",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-e17748910d73f6f7",
+      "game_id": "mobile-golf",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154073388835",
+        "11092365551|154073410947",
+        "11092365551|154073429610",
+        "11092365551|154073464400"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "pid": "154075363524",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075363524#154075363524",
+      "text": "角色资料和锦标赛统计的问题已记录；状态页光标无延迟的更正也已注明。",
+      "text_sha256": "758600c54fb9a1da00454b0e47d196a4765a5735031353b53174043f18ddd2b6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:31:15.756730+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154073388835",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-116fe523b21bbe7e",
+      "game_id": "saga-3",
+      "game_ids": [
+        "saga-3"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072906747",
+        "11092365551|154072909316"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154072906747",
+      "floor": 274,
+      "pid": "154075364010",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075364010#154075364010",
+      "text": "v1.0.7普通8px音乐版的魔法列表回滚乱码已记录，截图和状态来源已收到，继续排查。",
+      "text_sha256": "1ea4ca1fbc16efb4f75b79b542c6cb47a3ad6076d530b4c1c3e7211923cbc0da",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:32:06.016400+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-ce9d467d118c1613",
+      "game_id": "saga-3-gb",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072926383"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154072926383",
+      "floor": 275,
+      "pid": "154075364530",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075364530#154075364530",
+      "text": "v0.1.3普通8px音乐版的道具、魔法乱码和拖慢已记录，截图和状态来源已收到，继续排查。",
+      "text_sha256": "25c62ffbb281d37bf903a94c752d2afb9fe385d97ea440bd92fc6007cb00c76a",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:32:56.675328+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-0bbf0cb63b8ddfcf",
+      "game_id": "yuu-yuu-hakusho-4",
+      "game_ids": [
+        "yuu-yuu-hakusho-4"
+      ],
+      "kind": "INFORMATION_REPLY",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154071893013",
+        "11092365551|154071894136"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154057246994",
+      "floor": 212,
+      "pid": "154075365077",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075365077#154075365077",
+      "text": "v0.1.0普通8px、GBC.EMU和对战姓名截图已补进原问题，继续排查。",
+      "text_sha256": "a053a403cfde807415bfd7abbf2a275c831258a9ddeb3d12fd139fa393027569",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:33:47.154481+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154071893013",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-88b18b7692f3060a",
+      "game_id": "pokemon-yellow-three-protagonists",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040376866",
+      "floor": 16,
+      "pid": "154075365599",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154075365599#154075365599",
+      "text": "异常状态显示和截图已补充记录，后续一起核对。",
+      "text_sha256": "e97846f1da6d830f2a19641520383fcb7c15d222f3df5cd87df0dc9b077d00f7",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:34:31.674841+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154072472008",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 87,
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00"
+  "row_count": 93,
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
 }

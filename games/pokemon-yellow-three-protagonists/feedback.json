@@ -3,10 +3,154 @@
   "game_id": "pokemon-yellow-three-protagonists",
   "game_name": "口袋黄：三主角改版",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11097560613",
+      "pid": "154072472008",
+      "parent_pid": "154040376866",
+      "floor": 16,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154072472008#154072472008",
+      "created_at": "2026-10-26T10:44:47+08:00",
+      "quote": "这版本都没更新，我会根据是哪个游戏，在哪个游戏的下面？发游戏截图，这版本没怎么测试，就异常状态显示异常 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fe4901c3f596cd5de74aa5ce5050e2f6bc428530386a5aa95978fc54fced5eb5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0589e2f0708283841117613fe99a9014c08f145.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072472008-1-1f523d608ec177b499584caa76e4616f59fd10cee9c42e395a75f0534f26d9c5.jpg",
+          "sha256": "1f523d608ec177b499584caa76e4616f59fd10cee9c42e395a75f0534f26d9c5",
+          "bytes": 84553,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-e73654ebd12a945d",
+      "public_problem_key": "problem-66595f432a71d04a",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "summary": "口袋黄三主角分支：异常状态显示待核",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-yellow-three-protagonists",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "08707a21f3552f7d279d995cadb8b2cf47eaf8b4e6000e3125a19da3b9a05c4b",
+          "output_SHA256": "ec81df5c1512a06161e2b844d05613389ea70ec1038628c171dada3096cce93f"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "game_context_only": true,
+        "reported_version": null
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|yellow-three-protagonist-branch-status-identity-unverified",
+          "game_ids": [
+            "pokemon-yellow-three-protagonists"
+          ],
+          "summary": "口袋黄三主角分支：异常状态显示待核",
+          "feedback_summary": "按旧对话分支关联口袋黄三主角改版的异常状态显示报告，附1张初代宝可梦战斗图。截图不能独立确认精确ROM，实际文件名、版本和完整SHA仍未知；不并入卡洛斯水晶或灵魂水晶，不把玩家的“未更新”当作已核版本，也不作第三次惯例催问。",
+          "source_feedback_keys": [
+            "11097560613|154072472008"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-66595f432a71d04a",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "summary": "口袋黄三主角分支：异常状态显示待核",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e73654ebd12a945d"
+      ],
+      "public_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-88b18b7692f3060a",
+      "game_id": "pokemon-yellow-three-protagonists",
+      "game_ids": [
+        "pokemon-yellow-three-protagonists"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11097560613|154072472008"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154040376866",
+      "floor": 16,
+      "pid": "154075365599",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154075365599#154075365599",
+      "text": "异常状态显示和截图已补充记录，后续一起核对。",
+      "text_sha256": "e97846f1da6d830f2a19641520383fcb7c15d222f3df5cd87df0dc9b077d00f7",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:34:31.674841+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154072472008",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  },
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
 }

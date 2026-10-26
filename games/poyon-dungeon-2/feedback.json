@@ -1334,6 +1334,189 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072000224",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072000224#154072000224",
+      "created_at": "2026-10-26T07:56:54+08:00",
+      "quote": "20261025版，菜单-召唤-查看，选项进入后的召唤兽状态页面，画面右上角显示出错，翻译后的中文小字与原本的日文汉字大字重叠（图1、图2右上角），此处建议只保留原本的日文汉字大字    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ac8f97712c6b93d1ec7899e51058fc0776020d4a1712499f28878e099409bd15",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/18b8b97eca806538fea90c14d1dda144ac3482a6.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072000224-1-6c0e7a6586482fac8a33c37ae72cfd0a6a520eb5d46a435c9c1a06f2b9e93393.jpg",
+          "sha256": "6c0e7a6586482fac8a33c37ae72cfd0a6a520eb5d46a435c9c1a06f2b9e93393",
+          "bytes": 165778,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7059bb119313b07e3afef80f4ad7912396dd8ca6.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072000224-2-bbd0780e3e8032dbf27aee4cda10fda9327a2f3c3bd5e8f3474d95225086b483.jpg",
+          "sha256": "bbd0780e3e8032dbf27aee4cda10fda9327a2f3c3bd5e8f3474d95225086b483",
+          "bytes": 171947,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d229bbb7d0a20cf4cad356d830094b36adaf99a6.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072000224-3-630779eef4aa9ccfdec1bcde2bbe78b464d7671d8fc2a15a709a25bab24837fd.jpg",
+          "sha256": "630779eef4aa9ccfdec1bcde2bbe78b464d7671d8fc2a15a709a25bab24837fd",
+          "bytes": 183379,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/39ba9a13b07eca80944691e0d72397dda04483a6.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072000224-4-6efe68ec041583b6cbfd62ca7c7e9079bd1d2cde5835c097f4056a1592d31f3c.jpg",
+          "sha256": "6efe68ec041583b6cbfd62ca7c7e9079bd1d2cde5835c097f4056a1592d31f3c",
+          "bytes": 178155,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072094051",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072094051#154072094051",
+      "created_at": "2026-10-26T08:36:45+08:00",
+      "quote": "20261025版，文本超过文本框 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c10565c268606a18641e634416e6fa2f8d9de36d02f2532bb324b15df17f35e2",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/3cee4aa98226cffc94c717b5ff014a90f703ea70.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072094051-1-3cea1e609cc560a50a0f2b08ca592f3c48f65d508f96e7d997af89e0ffc2919b.jpg",
+          "sha256": "3cea1e609cc560a50a0f2b08ca592f3c48f65d508f96e7d997af89e0ffc2919b",
+          "bytes": 183486,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072096626",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072096626#154072096626",
+      "created_at": "2026-10-26T08:37:42+08:00",
+      "quote": "20261025版，仓库-取出，道具图标乱码    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "716e042ceb43cfcb2a36109a957814f9bc3523aa9178341a761224afe6574cb3",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/95bc8382b9014a9078d1eebaef773912b21bee72.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072096626-1-46edbee53f2e42e99fcbe91b525596ff1a4401cf52c4961e5a16c27848110584.jpg",
+          "sha256": "46edbee53f2e42e99fcbe91b525596ff1a4401cf52c4961e5a16c27848110584",
+          "bytes": 171120,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0129b0014a90f603fc5f34407f12b31bb151ed72.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072096626-2-a95f3e95b22c38278797318f6a5d1f71deb506a7c20a29125b2ac9c67ceb0214.jpg",
+          "sha256": "a95f3e95b22c38278797318f6a5d1f71deb506a7c20a29125b2ac9c67ceb0214",
+          "bytes": 172296,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d95d01ca1b57dfa9ec8b13cd72.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072096626-3-a6ecbf0395087022b4e9c582c2a272581e6d34d542887264a93095ab0588e131.jpg",
+          "sha256": "a6ecbf0395087022b4e9c582c2a272581e6d34d542887264a93095ab0588e131",
+          "bytes": 168440,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/35a26263f6246b60dee11a73adf81a4c500fa272.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072096626-4-3553dd543a049cb45762e8518056e33853d2a262f452df4c7c438ba2577114f2.jpg",
+          "sha256": "3553dd543a049cb45762e8518056e33853d2a262f452df4c7c438ba2577114f2",
+          "bytes": 166691,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072100439",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072100439#154072100439",
+      "created_at": "2026-10-26T08:39:09+08:00",
+      "quote": "20261025版，召唤兽固定招式和替换招式，招式名异常，图1-3左侧，图4中间两行    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7a032428ee9fc5d5ea15cbb6d5c02e78413056b0658fb3a4b68d06102fe31de8",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1f45f91f3a292df5c12a0412fa315c6035a87373.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072100439-1-b4d82ef62e8cc528f4156d22654bc86473e53acf2dcb441aad350365888e23f5.jpg",
+          "sha256": "b4d82ef62e8cc528f4156d22654bc86473e53acf2dcb441aad350365888e23f5",
+          "bytes": 164844,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a65ee9fe9925bc3178b4a99f18df8db1ca137073.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072100439-2-a033b4ee56c372c14be58cc9b182b1a5af2487523275b90d0350cc18c58959f6.jpg",
+          "sha256": "a033b4ee56c372c14be58cc9b182b1a5af2487523275b90d0350cc18c58959f6",
+          "bytes": 174631,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/379a556034a85edfaa6556240f540923dc547573.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072100439-3-3f5022be6d9b236caddd1b1920e20e6b61093f7b0f909f0dc874cc262f6b7299.jpg",
+          "sha256": "3f5022be6d9b236caddd1b1920e20e6b61093f7b0f909f0dc874cc262f6b7299",
+          "bytes": 168557,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac21349540923f680cb79d458d109b2de4973.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072100439-4-80b21031537009c205054805e856bab5ec4c05d9b532c99234421ebff0810aa8.jpg",
+          "sha256": "80b21031537009c205054805e856bab5ec4c05d9b532c99234421ebff0810aa8",
+          "bytes": 152038,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154072608407",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154072608407#154072608407",
+      "created_at": "2026-10-26T11:27:31+08:00",
+      "quote": "20261025版是图中上面那个pending_native_20261025_的版本 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d2250e575a9321bf850c8c1bdf371037ded6985e59c00ecfa2084b1ba8198cfa",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/7d8f62600c3387443967857b170fd9f9d62aa047.jpg",
+          "archived_public_path": "feedback/images/20261026-1624/154072608407-1-d6bfb77e365066d493a6cb2e2f85d7054066cd83fdb319c21db9be09f7566316.jpg",
+          "sha256": "d6bfb77e365066d493a6cb2e2f85d7054066cd83fdb319c21db9be09f7566316",
+          "bytes": 84224,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -2013,6 +2196,140 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-5edd78bd54d1ae5a",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的召唤、仓库与招式显示反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072000224",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025 / pending_native_20261025_",
+        "historical_upload_plan_version": "v0.1.7",
+        "historical_temp_remote_full_SHA_verified": false,
+        "filename_ID_is_ROM_SHA256": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|poyon2-reported-temp-three-displays",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：临时文件的召唤、仓库与招式显示反馈",
+          "feedback_summary": "玩家补充召唤状态小字与原生大字重叠、仓库取出图标异常、固定及替换招式名异常。所用pending_native_20261025_文件名对应历史v0.1.7上传计划，但临时文件和玩家实际字节均未核验，命名ID不是ROM哈希，不能称已验证v0.1.7或当前v0.1.8。保留原生大汉字仅为玩家建议，未实施。",
+          "source_feedback_keys": [
+            "11092365551|154072000224",
+            "11092365551|154072096626",
+            "11092365551|154072100439",
+            "11092365551|154072608407"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-1ea13a2985ec4995",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：临时文件的文本越框",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "public_feedback_keys": [
+        "11092365551|154072094051",
+        "11092365551|154072608407"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025 / pending_native_20261025_",
+        "historical_upload_plan_version": "v0.1.7",
+        "historical_temp_remote_full_SHA_verified": false,
+        "filename_ID_is_ROM_SHA256": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261026-1624|poyon2-reported-temp-overflow",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：临时文件的文本越框",
+          "feedback_summary": "玩家补充文本超框及所用临时文件截图，合入集中排版反馈。文件名只对应历史v0.1.7上传计划，实际字节未知；不能标为v0.1.8回归，亦不把其它图块和招式问题预先认作同一根因。",
+          "source_feedback_keys": [
+            "11092365551|154072094051",
+            "11092365551|154072608407"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -2023,14 +2340,15 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
         "case-63a908948eb64951",
         "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449",
-        "case-36bfa02f5e58e827"
+        "case-36bfa02f5e58e827",
+        "case-5edd78bd54d1ae5a"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -2071,7 +2389,11 @@
         "11092365551|154069297278",
         "11092365551|154069982105",
         "11092365551|154069998453",
-        "11092365551|154070170298"
+        "11092365551|154070170298",
+        "11092365551|154072000224",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2131,7 +2453,8 @@
         "case-e793e333242f0619",
         "case-eab2c8ffe4f1ebad",
         "case-ec0244e7436f6ab8",
-        "case-a437aca951f002a5"
+        "case-a437aca951f002a5",
+        "case-1ea13a2985ec4995"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -2206,13 +2529,15 @@
         "11097560613|154043716841",
         "11097560613|154048988684",
         "11097560613|154061939534",
-        "11092365551|154070171453"
+        "11092365551|154070171453",
+        "11092365551|154072094051",
+        "11092365551|154072608407"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -2390,9 +2715,41 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-2b844bfccf9f2784",
+      "game_id": "poyon-dungeon-2",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154072000224",
+        "11092365551|154072094051",
+        "11092365551|154072096626",
+        "11092365551|154072100439",
+        "11092365551|154072608407"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "pid": "154075362879",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075362879#154075362879",
+      "text": "这份pending_native_20261025_临时文件的说明已收到，召唤状态叠字、仓库和招式异常、文本越框都已补充记录，继续排查。",
+      "text_sha256": "bae92e7b26b0d15c0bebd8cfc93f63b43aaa9dcc0dee4d681febdf048357556f",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:30:26.895653+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154072000224",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
+  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

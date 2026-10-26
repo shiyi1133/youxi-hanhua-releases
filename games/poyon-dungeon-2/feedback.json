@@ -1517,6 +1517,51 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074333182",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074333182#154074333182",
+      "created_at": "2026-10-26T20:51:57+08:00",
+      "quote": "20261025版，两个不同的招式，显示一样的招式名称（图1、图2，连发拳）。且在转职待确定页面（图3），右上角“告别”“连发”应该是显示错误，显示成了其他选项的部分文字，图3右上角两个招式推测应该为图4右侧的三个招式中的两个。请排查问题    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c4e7cd56a85e57dade056b716d8aecf8bf463aa1928b95065f97e2dc661fe901",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/9273b53eb13533fab3660329eed3fd1f40345b14.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074333182-1-491a73312982f7eb0b357e1b74c4be5332e34698fedd49d468165350e1427f68.jpg",
+          "sha256": "491a73312982f7eb0b357e1b74c4be5332e34698fedd49d468165350e1427f68",
+          "bytes": 165943,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/0ba110d8bc3eb135031727bce01ea8d3fc1f4414.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074333182-2-c649327869c93f1125fc0eb74ecb18a1d3cdb8a57783682185a3f1ecb0d76e38.jpg",
+          "sha256": "c649327869c93f1125fc0eb74ecb18a1d3cdb8a57783682185a3f1ecb0d76e38",
+          "bytes": 170473,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22478313632762d059ed34b8e6ec08fa503dc616.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074333182-3-565b981d4a9cbba9a2c4ef6560e494a7dcaf4a9dbdcaaa1814c33c2a39abc13f.jpg",
+          "sha256": "565b981d4a9cbba9a2c4ef6560e494a7dcaf4a9dbdcaaa1814c33c2a39abc13f",
+          "bytes": 176237,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5c816959252dd42afcda91ac453b5bb5c8eab816.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074333182-4-bf2cbd45239d450c5ed3d4e4d01fe3010274974928bc69a791bf4f0d00c45387.jpg",
+          "sha256": "bf2cbd45239d450c5ed3d4e4d01fe3010274974928bc69a791bf4f0d00c45387",
+          "bytes": 158879,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -2330,6 +2375,69 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-a90640c4083d55b6",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：招式同名与转职预览残字补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154074333182"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025",
+        "historical_upload_plan_version": "v0.1.7",
+        "filename_ID_is_ROM_SHA256": false,
+        "historical_temp_remote_full_SHA_verified": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|poyon2-temp-reported-move-alias-and-job-preview",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：招式同名与转职预览残字补充",
+          "feedback_summary": "同一玩家新四图报告不同招式均显示“连发拳”，转职待确定页右上混入“告别”“连发”等片段；玩家推测的正确招式对应仍待核。20261025临时文件名只关联历史v0.1.7上传计划，随机叶名不是ROM哈希，临时对象及玩家实际字节未回读；不能称已核v0.1.7或当前v0.1.8复现，不预判与其它消费者同根因。",
+          "source_feedback_keys": [
+            "11092365551|154074333182"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -2340,7 +2448,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -2348,7 +2456,8 @@
         "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449",
         "case-36bfa02f5e58e827",
-        "case-5edd78bd54d1ae5a"
+        "case-5edd78bd54d1ae5a",
+        "case-a90640c4083d55b6"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -2393,7 +2502,8 @@
         "11092365551|154072000224",
         "11092365551|154072096626",
         "11092365551|154072100439",
-        "11092365551|154072608407"
+        "11092365551|154072608407",
+        "11092365551|154074333182"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2749,7 +2859,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

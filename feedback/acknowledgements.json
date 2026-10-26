@@ -5616,8 +5616,36 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-b6804150a3592386",
+      "game_id": "selection-1-and-2-gb",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040766356",
+      "floor": 125,
+      "pid": "154075376216",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075376216#154075376216",
+      "text": "一代通关反馈收到。二代开场末页、第二同伴战斗栏、雕像文字和属性页的问题已记录，6张图都收到了，后续排查。",
+      "text_sha256": "37a331fa546b23a38c222c99910d9bee3de8298a200ed9602bac3a4bf29f64b1",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:51:28.554276+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154073922037",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 93,
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
+  "row_count": 94,
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
 }

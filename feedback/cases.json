@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 201,
+  "case_count": 205,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -12134,7 +12134,273 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-a90640c4083d55b6",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永2：招式同名与转职预览残字补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154074333182"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_label": "20261025",
+        "historical_upload_plan_version": "v0.1.7",
+        "filename_ID_is_ROM_SHA256": false,
+        "historical_temp_remote_full_SHA_verified": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|poyon2-temp-reported-move-alias-and-job-preview",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永2：招式同名与转职预览残字补充",
+          "feedback_summary": "同一玩家新四图报告不同招式均显示“连发拳”，转职待确定页右上混入“告别”“连发”等片段；玩家推测的正确招式对应仍待核。20261025临时文件名只关联历史v0.1.7上传计划，随机叶名不是ROM哈希，临时对象及玩家实际字节未回读；不能称已核v0.1.7或当前v0.1.8复现，不预判与其它消费者同根因。",
+          "source_feedback_keys": [
+            "11092365551|154074333182"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-c22816e525600b12",
+      "public_problem_key": "problem-ba4ab16cd2f8d6cf",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "selection-1-and-2-gb",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v0.1.0",
+          "original_input_SHA256": "3eeaa33a6e9741f5aece3beeaddf13101f52f22e8901d8af51d7bfc48ee2b642",
+          "output_SHA256": "1add81b5da0678720b398e22d35271ae2fffc01d305ab79f7a00023b8ebb5d5a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": null,
+        "reported_font": null,
+        "player_reported_first_game_cleared": true,
+        "maintainer_hardware_or_all_scenes_accepted": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|selection2-opening-party-battle-statue-stats",
+          "game_ids": [
+            "selection-1-and-2-gb"
+          ],
+          "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+          "feedback_summary": "玩家报告第二作开场末页仍日文、出现第二同伴时战斗命令栏不齐、首神殿雕像一字未译及属性页对齐疑问，六张掌机屏幕照片保留；雕像具体哪字、实际文件名、版本、字号与完整SHA仍未知。玩家自报“一代通关没问题”只代表该玩家经历，不能当维护实机、全场景或第二作通关验收；不预归对白分页共同根因。",
+          "source_feedback_keys": [
+            "11092365551|154073922037"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-d53c9292788ea77d",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：更多菜单反馈与限定正向报告",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073553921",
+        "11092365551|154073563938",
+        "11092365551|154073582264",
+        "11092365551|154073591272",
+        "11092365551|154074577646",
+        "11092365551|154074600364",
+        "11092365551|154074606362",
+        "11092365551|154074610622",
+        "11092365551|154074619725",
+        "11092365551|154074625041"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|mobile-golf-more-menu-consumers-and-positive-retests",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：更多菜单反馈与限定正向报告",
+          "feedback_summary": "分别保留比洞赛/对战榜及美洲球场译名疑问、竞速赛日文、穿门标签和列表迟滞、小游戏尾字1、球杆切换迟滞、数据入口标签及词典假名索引。两个同文选项报告的首图不同，全部来源和图片保留；共用黑底图不证明卡死、删除成功或丢档，静态图不能测时。词典拼音索引仅是建议，未获实施结论。回放、差点数据、移动密码无问题仅限玩家此次场景；旧状态图1无延迟更正不抹去其它列表/球杆迟滞，旧限定修复状态保留。",
+          "source_feedback_keys": [
+            "11092365551|154073553921",
+            "11092365551|154073563938",
+            "11092365551|154073582264",
+            "11092365551|154073591272",
+            "11092365551|154074577646",
+            "11092365551|154074600364",
+            "11092365551|154074606362",
+            "11092365551|154074610622",
+            "11092365551|154074619725",
+            "11092365551|154074625041"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-96dad0c38db84544",
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：字幕迟缓与八倍速使用情况",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073778440"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-soul-crystal",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+          "output_SHA256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": null,
+        "reported_font": null,
+        "player_reported_speed_multiplier": 8,
+        "standard_speed_performance_test": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|soul-crystal-text-latency-eight-times",
+          "game_ids": [
+            "pokemon-soul-crystal"
+          ],
+          "summary": "灵魂水晶：字幕迟缓与八倍速使用情况",
+          "feedback_summary": "同一玩家补充字幕慢、卡并称开了八倍速，作为独立消费者线索保留；八倍速不是标准速度性能测量，不预判补丁因果或与原四处显示问题同根因。作品名已确认，实际文件名、版本、字号及完整SHA仍未知，已有询问不重复催问。",
+          "source_feedback_keys": [
+            "11092365551|154073778440"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
 }

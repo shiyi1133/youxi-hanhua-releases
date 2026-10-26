@@ -3,10 +3,191 @@
   "game_id": "selection-1-and-2-gb",
   "game_name": "抉择一、二代合集",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154073922037",
+      "parent_pid": "154040766356",
+      "floor": 125,
+      "public_nickname": "星星人1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073922037#154073922037",
+      "created_at": "2026-10-26T18:39:16+08:00",
+      "quote": "一代通关没问题。 二代开始剧情介绍，最后一页没翻译。战斗画面有第二名同伴的时候，战斗时选第二名同伴时，画面变得不对齐。在第一个神殿里面，调查雕像时有一个字没翻译。查询自己属性的界面，好像没对端。      ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fe7fe2c3104ea256a5bdceb64b701a9194922506e20083cbfeaad79b00bd27ff",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5298c195d143ad4bbe74d7c7c4025aafa50f068e.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-1-963ac8bd53cd6aad03b7066e138fdd5334e6587402bdde3801b86cbe96cfec05.jpg",
+          "sha256": "963ac8bd53cd6aad03b7066e138fdd5334e6587402bdde3801b86cbe96cfec05",
+          "bytes": 227303,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22478313632762d0586935b8e6ec08fa503dc68a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-2-e851e3f09978485154dc04c8055a2bb4a981ebeedfb0b0ecd1c52304a638303e.jpg",
+          "sha256": "e851e3f09978485154dc04c8055a2bb4a981ebeedfb0b0ecd1c52304a638303e",
+          "bytes": 160369,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/89a372f40ad162d95ab9f31b57dfa9ec8b13cd8a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-3-bd6141a1fd8bf76c7085ae55ed834ecde17ebef2db3d9f4c5b3201e7bd8cb5a7.jpg",
+          "sha256": "bd6141a1fd8bf76c7085ae55ed834ecde17ebef2db3d9f4c5b3201e7bd8cb5a7",
+          "bytes": 169326,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/fda24236acaf2edd59a0d8eecb1001e938019394.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-4-98cde67ea6798450fe56ea3c125784767968f5824601b434c13fc8e0bfdbcc86.jpg",
+          "sha256": "98cde67ea6798450fe56ea3c125784767968f5824601b434c13fc8e0bfdbcc86",
+          "bytes": 152328,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/e5ad14950a7b0208de9baee624d9f2d3562cc897.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-5-bd2db0f339cc75daf6ddc33b392677fcef28816b8d386301e3359e50f6ade7f6.jpg",
+          "sha256": "bd2db0f339cc75daf6ddc33b392677fcef28816b8d386301e3359e50f6ade7f6",
+          "bytes": 175852,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/79785e2c11dfa9ec267cc71024d0f703908fc197.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073922037-6-d812e06446b89abf51378e6027f5ac6effe561da7f31ecae95b68495e330184d.jpg",
+          "sha256": "d812e06446b89abf51378e6027f5ac6effe561da7f31ecae95b68495e330184d",
+          "bytes": 107929,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-c22816e525600b12",
+      "public_problem_key": "problem-ba4ab16cd2f8d6cf",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "selection-1-and-2-gb",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v0.1.0",
+          "original_input_SHA256": "3eeaa33a6e9741f5aece3beeaddf13101f52f22e8901d8af51d7bfc48ee2b642",
+          "output_SHA256": "1add81b5da0678720b398e22d35271ae2fffc01d305ab79f7a00023b8ebb5d5a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": null,
+        "reported_font": null,
+        "player_reported_first_game_cleared": true,
+        "maintainer_hardware_or_all_scenes_accepted": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|selection2-opening-party-battle-statue-stats",
+          "game_ids": [
+            "selection-1-and-2-gb"
+          ],
+          "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+          "feedback_summary": "玩家报告第二作开场末页仍日文、出现第二同伴时战斗命令栏不齐、首神殿雕像一字未译及属性页对齐疑问，六张掌机屏幕照片保留；雕像具体哪字、实际文件名、版本、字号与完整SHA仍未知。玩家自报“一代通关没问题”只代表该玩家经历，不能当维护实机、全场景或第二作通关验收；不预归对白分页共同根因。",
+          "source_feedback_keys": [
+            "11092365551|154073922037"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-ba4ab16cd2f8d6cf",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+      "classification": "BUG",
+      "case_keys": [
+        "case-c22816e525600b12"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-b6804150a3592386",
+      "game_id": "selection-1-and-2-gb",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154040766356",
+      "floor": 125,
+      "pid": "154075376216",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075376216#154075376216",
+      "text": "一代通关反馈收到。二代开场末页、第二同伴战斗栏、雕像文字和属性页的问题已记录，6张图都收到了，后续排查。",
+      "text_sha256": "37a331fa546b23a38c222c99910d9bee3de8298a200ed9602bac3a4bf29f64b1",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T04:51:28.554276+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154073922037",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "reviewed_open_problem_counts": {
+    "BUG": 1,
+    "REQUEST_OR_OTHER": 0,
+    "UNCLASSIFIED": 0
+  },
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
 }

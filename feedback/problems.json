@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "problem_count": 144,
-  "open_pure_BUG_count": 63,
+  "problem_count": 145,
+  "open_pure_BUG_count": 64,
   "open_requests_or_other_count": 22,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -730,7 +730,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -738,7 +738,8 @@
         "case-7709e9b584b204e8",
         "case-d5ed9d305b4e1449",
         "case-36bfa02f5e58e827",
-        "case-5edd78bd54d1ae5a"
+        "case-5edd78bd54d1ae5a",
+        "case-a90640c4083d55b6"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -783,7 +784,8 @@
         "11092365551|154072000224",
         "11092365551|154072096626",
         "11092365551|154072100439",
-        "11092365551|154072608407"
+        "11092365551|154072608407",
+        "11092365551|154074333182"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -5565,18 +5567,20 @@
       "classification": "BUG",
       "case_keys": [
         "case-183b803062479c55",
-        "case-aa511796562268c3"
+        "case-aa511796562268c3",
+        "case-96dad0c38db84544"
       ],
       "public_feedback_keys": [
         "11092365551|154071462318",
-        "11092365551|154071871134"
+        "11092365551|154071871134",
+        "11092365551|154073778440"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
     },
     {
       "public_problem_key": "problem-a533a956b266e3b6",
@@ -5586,20 +5590,31 @@
       "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
       "classification": "BUG",
       "case_keys": [
-        "case-11bab5429477b50e"
+        "case-11bab5429477b50e",
+        "case-d53c9292788ea77d"
       ],
       "public_feedback_keys": [
         "11092365551|154073388835",
         "11092365551|154073410947",
         "11092365551|154073429610",
-        "11092365551|154073464400"
+        "11092365551|154073464400",
+        "11092365551|154073553921",
+        "11092365551|154073563938",
+        "11092365551|154073582264",
+        "11092365551|154073591272",
+        "11092365551|154074577646",
+        "11092365551|154074600364",
+        "11092365551|154074606362",
+        "11092365551|154074610622",
+        "11092365551|154074619725",
+        "11092365551|154074625041"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
     },
     {
       "public_problem_key": "problem-7acc3f4504657881",
@@ -5661,13 +5676,33 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
       "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+    },
+    {
+      "public_problem_key": "problem-ba4ab16cd2f8d6cf",
+      "game_ids": [
+        "selection-1-and-2-gb"
+      ],
+      "summary": "抉择一、二代合集：第二作四处显示与漏译反馈",
+      "classification": "BUG",
+      "case_keys": [
+        "case-c22816e525600b12"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154073922037"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

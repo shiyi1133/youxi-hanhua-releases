@@ -5,9 +5,10 @@
   "original_input_sha256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
   "public_case_keys": [
     "case-183b803062479c55",
-    "case-aa511796562268c3"
+    "case-aa511796562268c3",
+    "case-96dad0c38db84544"
   ],
-  "case_count": 2,
+  "case_count": 3,
   "state_checked_at": "2026-10-24T02:22:41.038280+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
@@ -235,6 +236,22 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073778440",
+      "parent_pid": "154057797302",
+      "floor": 215,
+      "public_nickname": "fgjxchtd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073778440#154073778440",
+      "created_at": "2026-10-26T17:49:29+08:00",
+      "quote": "灵魂水晶字幕应该是有点慢的卡，我开了八倍速",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "20437fca5ed4bb280458dce2aff9280237b19805ac6b5da39830ca03171f2b36",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -350,6 +367,69 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-96dad0c38db84544",
+      "public_problem_key": "problem-97bfc6471abd1be1",
+      "game_ids": [
+        "pokemon-soul-crystal"
+      ],
+      "summary": "灵魂水晶：字幕迟缓与八倍速使用情况",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073778440"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pokemon-soul-crystal",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "75625593baeb55241379ecc410fdf65372ef6753a0902e785cb1e52a66b62dc9",
+          "output_SHA256": "1dec06b6e1f41be705fe3066d360c1d9b701b8f6593b8998db1e28289c36f26a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": null,
+        "reported_font": null,
+        "player_reported_speed_multiplier": 8,
+        "standard_speed_performance_test": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|soul-crystal-text-latency-eight-times",
+          "game_ids": [
+            "pokemon-soul-crystal"
+          ],
+          "summary": "灵魂水晶：字幕迟缓与八倍速使用情况",
+          "feedback_summary": "同一玩家补充字幕慢、卡并称开了八倍速，作为独立消费者线索保留；八倍速不是标准速度性能测量，不预判补丁因果或与原四处显示问题同根因。作品名已确认，实际文件名、版本、字号及完整SHA仍未知，已有询问不重复催问。",
+          "source_feedback_keys": [
+            "11092365551|154073778440"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -362,18 +442,20 @@
       "classification": "BUG",
       "case_keys": [
         "case-183b803062479c55",
-        "case-aa511796562268c3"
+        "case-aa511796562268c3",
+        "case-96dad0c38db84544"
       ],
       "public_feedback_keys": [
         "11092365551|154071462318",
-        "11092365551|154071871134"
+        "11092365551|154071871134",
+        "11092365551|154073778440"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
     }
   ],
   "reviewed_open_problem_counts": {
@@ -381,5 +463,5 @@
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   },
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00"
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
 }

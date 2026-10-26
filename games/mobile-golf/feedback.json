@@ -272,6 +272,330 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073553921",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073553921#154073553921",
+      "created_at": "2026-10-26T16:38:18+08:00",
+      "quote": "图一选择比洞赛，进入图二。 图二，标题叫对战榜，开始怀疑比洞赛名称的正确性  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "adde9fb9880c8d17023e74a64644ba41eeb62ee1215b1887093cae80762715c6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d3fd3fb2e8efec8a136327cc33.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073553921-1-55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905.jpg",
+          "sha256": "55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905",
+          "bytes": 192223,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/c8bd64224f4a20a4f830aac0d6529822720ed033.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073553921-2-e790edad07b18eddaa17561e039bde4d945946c6f22e9c050d830f0d130f2ee6.jpg",
+          "sha256": "e790edad07b18eddaa17561e039bde4d945946c6f22e9c050d830f0d130f2ee6",
+          "bytes": 141343,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073563938",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073563938#154073563938",
+      "created_at": "2026-10-26T16:41:26+08:00",
+      "quote": "图一选择竞速赛，进入图二。 图二，有未翻译的日文。再看这个“美洲球场”名字怪怪的，可能没有准确翻译。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e8d01f66a20aa3dcd06a46d978c767446bdd0bf83de0ca7575e4ecd48cbd6a86",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d3fd3fb2e8efec8a136327cc33.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073563938-1-55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905.jpg",
+          "sha256": "55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905",
+          "bytes": 192223,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/42411cce36d3d539681b99c47c87e950352ab03b.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073563938-2-d983056d4ab7588b79376a8072bcb8663b2af96a2a324d56995afd5b27d376cc.jpg",
+          "sha256": "d983056d4ab7588b79376a8072bcb8663b2af96a2a324d56995afd5b27d376cc",
+          "bytes": 151313,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073582264",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073582264#154073582264",
+      "created_at": "2026-10-26T16:47:13+08:00",
+      "quote": "图一选择穿门击球，光标移动上去变成了穿门。选择后进入图二，图三。 图二，图三，按方向上下可以纵向移动列表，但是有很大延迟。翻译后的内容看起来不是太懂，无法判断对不对。   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8f8f0bcb3998e7a130fe7235797016a33eb284e63cdb901fea59ab06a6c6a16b",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d3fd3fb2e8efec8a136327cc33.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073582264-1-55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905.jpg",
+          "sha256": "55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905",
+          "bytes": 192223,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/df4c3fd12f2eb9389c77ecf593628535e4dd6fce.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073582264-2-88191b0cbf253a122099dd927718c5b26214ded8e6bc049ce9e5f2f5251f326e.jpg",
+          "sha256": "88191b0cbf253a122099dd927718c5b26214ded8e6bc049ce9e5f2f5251f326e",
+          "bytes": 142216,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f0475de736d12f2ebf1f386709c2d562843568ce.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073582264-3-7ccb2f4980fa491c4be52bba2423bf05188018bf5964164f0bcf6fe78fe19591.jpg",
+          "sha256": "7ccb2f4980fa491c4be52bba2423bf05188018bf5964164f0bcf6fe78fe19591",
+          "bytes": 138429,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154073591272",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154073591272#154073591272",
+      "created_at": "2026-10-26T16:50:07+08:00",
+      "quote": "图一选择小游戏进入图二。 图二，按方向上下可纵向移动列表，有很大延迟。列表中的内容后面都有一个数字“1”的字符，应该是有问题。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8a1e069428b4622ad24e0bc109a326109402ea7a00abef1ff65d8ca2cb30d52f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f05f03d162d9f2d3fd3fb2e8efec8a136327cc33.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073591272-1-55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905.jpg",
+          "sha256": "55df35ddceca40b270e370709923a9fbd914bb5b06ee87d3445de482f79bd905",
+          "bytes": 192223,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/907ea46eddc451daddfe9aecf0fd5266d11632dc.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154073591272-2-5261f5d62b7e2daee1ad34faa41aa215d6bb789484738810ddc6f6008aab4f27.jpg",
+          "sha256": "5261f5d62b7e2daee1ad34faa41aa215d6bb789484738810ddc6f6008aab4f27",
+          "bytes": 129244,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074577646",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074577646#154074577646",
+      "created_at": "2026-10-26T22:09:37+08:00",
+      "quote": "图一选择球杆设定进入图二。 图二，按方向上下，光标在三种球杆间移动延迟很大。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "794c6240199eaa3ccc704a5deae625bc998512510e07232d7852307a217c6a7e",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/22478313632762d05ad937b8e6ec08fa503dc67a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074577646-1-68a88f9433a148dee0a8a7bd65f255a53f23ff9bf936412f7d3d5a418e5b20e6.jpg",
+          "sha256": "68a88f9433a148dee0a8a7bd65f255a53f23ff9bf936412f7d3d5a418e5b20e6",
+          "bytes": 245239,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/628fb199a9014c08f1dcbba24c7b02087af4f47a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074577646-2-f93c4259f122d1cd35b1cc7b321a95e9ea3c891396a0b7f9f9855c8a59bf4f25.jpg",
+          "sha256": "f93c4259f122d1cd35b1cc7b321a95e9ea3c891396a0b7f9f9855c8a59bf4f25",
+          "bytes": 186497,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074600364",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074600364#154074600364",
+      "created_at": "2026-10-26T22:16:51+08:00",
+      "quote": "图一选择选项进入图二。 图二，左下角应为删除数据。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a19d6ede3819866142daa5da9555d1e540323096db12cb2b04096c5ac9d196b5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f7905226cdd4394af3d7ca7acbd517.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074600364-1-efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921.jpg",
+          "sha256": "efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921",
+          "bytes": 232272,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbc9a95428f8096b63f724a817.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074600364-2-3ab5d72ad80ed1d62de82d9882544d2fb2603684edaa597bf296c773163e165b.jpg",
+          "sha256": "3ab5d72ad80ed1d62de82d9882544d2fb2603684edaa597bf296c773163e165b",
+          "bytes": 61248,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074606362",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074606362#154074606362",
+      "created_at": "2026-10-26T22:18:41+08:00",
+      "quote": "图一选择选项进入图二。 图二，左下角应为删除数据。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a19d6ede3819866142daa5da9555d1e540323096db12cb2b04096c5ac9d196b5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b89fbaaa984492442a7d8330e1a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074606362-1-3bd3888ccdfe2482ba5df9dd257156c37238e26ce58bcf9c014607456bb69b67.jpg",
+          "sha256": "3bd3888ccdfe2482ba5df9dd257156c37238e26ce58bcf9c014607456bb69b67",
+          "bytes": 111734,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/f9a505f3d7ca7bcbc9a95428f8096b63f724a817.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074606362-2-3ab5d72ad80ed1d62de82d9882544d2fb2603684edaa597bf296c773163e165b.jpg",
+          "sha256": "3ab5d72ad80ed1d62de82d9882544d2fb2603684edaa597bf296c773163e165b",
+          "bytes": 61248,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074610622",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074610622#154074610622",
+      "created_at": "2026-10-26T22:19:58+08:00",
+      "quote": "图一选择回放，进入图二。 图二，无问题。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "448da7ab925d9e7126f3cb4489afe7c194476db57dd122ff5db5cb04c399c379",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f7905226cdd4394af3d7ca7acbd517.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074610622-1-efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921.jpg",
+          "sha256": "efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921",
+          "bytes": 232272,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/32b9c1fcc3cec3fdb0fd34729088d43f86942725.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074610622-2-f6dede39ba8e009dbaab2dc992e3dda94b756c1056b0d76351951dbdc832171b.jpg",
+          "sha256": "f6dede39ba8e009dbaab2dc992e3dda94b756c1056b0d76351951dbdc832171b",
+          "bytes": 113735,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074619725",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074619725#154074619725",
+      "created_at": "2026-10-26T22:22:51+08:00",
+      "quote": "图一选择高尔夫词典进入图二。 图二，右侧索引部分为日文。最好能做成拼音首字母。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e2d31a12c0622292b37867e3fc75ddae0ca515b8ff5fd79d28cb4f269db760d6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f7905226cdd4394af3d7ca7acbd517.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074619725-1-efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921.jpg",
+          "sha256": "efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921",
+          "bytes": 232272,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/061ac21349540923fc55f179d458d109b3de4920.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074619725-2-83fbe6c2eb01afdd06036e84e16582d5e7e5250e42ffa23c14009c4a48993f54.jpg",
+          "sha256": "83fbe6c2eb01afdd06036e84e16582d5e7e5250e42ffa23c14009c4a48993f54",
+          "bytes": 123801,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154074625041",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154074625041#154074625041",
+      "created_at": "2026-10-26T22:24:32+08:00",
+      "quote": "图一选择差点数据进入图二，选择移动密码进入图三。 图二，图三无问题   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4f914743888561f31d069c41196454f3c4633285fe3df3fb847597d5080250e1",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/ab0f4f2309f7905226cdd4394af3d7ca7acbd517.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074625041-1-efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921.jpg",
+          "sha256": "efaebc628ad492a265f81737c9b4d5d7be1c0003518d88b462d49ae684cf2921",
+          "bytes": 232272,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/5fac3cfae6cd7b89fbaaa984492442a7d8330e1a.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074625041-2-3bd3888ccdfe2482ba5df9dd257156c37238e26ce58bcf9c014607456bb69b67.jpg",
+          "sha256": "3bd3888ccdfe2482ba5df9dd257156c37238e26ce58bcf9c014607456bb69b67",
+          "bytes": 111734,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1a889edda144ad34b48b158096a20cf431ad8529.jpg",
+          "archived_public_path": "feedback/images/20261027-0422/154074625041-3-ec919dee71c08e2e66898360551fbebdec6595fc6d96691c52af1db62564bddd.jpg",
+          "sha256": "ec919dee71c08e2e66898360551fbebdec6595fc6d96691c52af1db62564bddd",
+          "bytes": 158746,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -398,6 +722,83 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-d53c9292788ea77d",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：更多菜单反馈与限定正向报告",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "public_feedback_keys": [
+        "11092365551|154073553921",
+        "11092365551|154073563938",
+        "11092365551|154073582264",
+        "11092365551|154073591272",
+        "11092365551|154074577646",
+        "11092365551|154074600364",
+        "11092365551|154074606362",
+        "11092365551|154074610622",
+        "11092365551|154074619725",
+        "11092365551|154074625041"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-0422|mobile-golf-more-menu-consumers-and-positive-retests",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：更多菜单反馈与限定正向报告",
+          "feedback_summary": "分别保留比洞赛/对战榜及美洲球场译名疑问、竞速赛日文、穿门标签和列表迟滞、小游戏尾字1、球杆切换迟滞、数据入口标签及词典假名索引。两个同文选项报告的首图不同，全部来源和图片保留；共用黑底图不证明卡死、删除成功或丢档，静态图不能测时。词典拼音索引仅是建议，未获实施结论。回放、差点数据、移动密码无问题仅限玩家此次场景；旧状态图1无延迟更正不抹去其它列表/球杆迟滞，旧限定修复状态保留。",
+          "source_feedback_keys": [
+            "11092365551|154073553921",
+            "11092365551|154073563938",
+            "11092365551|154073582264",
+            "11092365551|154073591272",
+            "11092365551|154074577646",
+            "11092365551|154074600364",
+            "11092365551|154074606362",
+            "11092365551|154074610622",
+            "11092365551|154074619725",
+            "11092365551|154074625041"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -434,20 +835,31 @@
       "summary": "迷你高尔夫：菜单、属性与锦标赛显示反馈",
       "classification": "BUG",
       "case_keys": [
-        "case-11bab5429477b50e"
+        "case-11bab5429477b50e",
+        "case-d53c9292788ea77d"
       ],
       "public_feedback_keys": [
         "11092365551|154073388835",
         "11092365551|154073410947",
         "11092365551|154073429610",
-        "11092365551|154073464400"
+        "11092365551|154073464400",
+        "11092365551|154073553921",
+        "11092365551|154073563938",
+        "11092365551|154073582264",
+        "11092365551|154073591272",
+        "11092365551|154074577646",
+        "11092365551|154074600364",
+        "11092365551|154074606362",
+        "11092365551|154074610622",
+        "11092365551|154074619725",
+        "11092365551|154074625041"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -486,7 +898,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:36:47.822190+08:00",
+  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,

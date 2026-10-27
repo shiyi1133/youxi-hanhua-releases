@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 208,
+  "case_count": 212,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -12594,7 +12594,314 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-e3f34758bbfd4d8c",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：拾取提示越框补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154077412797",
+        "11092365551|154078059214"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_date_labels": [
+          "20261025"
+        ],
+        "actual_version": null,
+        "actual_font": null,
+        "actual_ROM_SHA256": null,
+        "date_or_screenshot_filename_is_not_ROM_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|poyon2-reported-20261025-three-pickup-overflow-photos",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2：拾取提示越框补充",
+          "feedback_summary": "同一反馈组的两条来源、三张照片分别保留拾取提示靠右越框或裁切的可见线索，归既有排版集中范围。玩家字面日期标签不能确认ROM版本、字号或完整SHA，当前v0.1.8普通8px仅作发布参考；未运行、复现或新增修复。",
+          "source_feedback_keys": [
+            "11092365551|154077412797",
+            "11092365551|154078059214"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ee765e7f6e0fb0e3",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：学敌技日文和手动石头菜单补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078060981"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_date_labels": [
+          "20261025",
+          "202610125"
+        ],
+        "actual_version": null,
+        "actual_font": null,
+        "actual_ROM_SHA256": null,
+        "date_or_screenshot_filename_is_not_ROM_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|poyon2-reported-20261025-enemy-learn-Japanese-and-manual-stone",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2：学敌技日文和手动石头菜单补充",
+          "feedback_summary": "学敌技两张照片保留不同技能名称的日文与中文提示并存；手动石头菜单六图保留标签、片段重叠或位置变化的静态线索。未确认随机数据损坏、存档受损或共同根因。保留玩家原写20261025与202610125，不将日期或截图文件名替代实际ROM身份，也不把当前v0.1.8当玩家已测版本。",
+          "source_feedback_keys": [
+            "11092365551|154077414545",
+            "11092365551|154077978874",
+            "11092365551|154078060981"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-9410b8521f5f1572",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-aka",
+        "devil-children-shiro"
+      ],
+      "summary": "恶魔之子三书：新作者报告施法花屏",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154078077752"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b"
+        },
+        {
+          "game_id": "devil-children-kuro",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "9770b8accd70d8849a24f5ae2a18c95979f2d1186e5fcd02d0edd3b08553a2e1"
+        },
+        {
+          "game_id": "devil-children-aka",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "output_SHA256": "57f00d02102ad58e1efea30c44dd43a4d8bd1306b115a9fd59a72fab7edf503d"
+        },
+        {
+          "game_id": "devil-children-aka",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "output_SHA256": "b1ba13697119913cb470d7bf40811ade8687c74ca0a02728a55daac0fa795a7f"
+        },
+        {
+          "game_id": "devil-children-shiro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "output_SHA256": "8d7390b77946642c410e1e236cd295dc15586261d2c5f76bf0bd57fa81cc19ec"
+        },
+        {
+          "game_id": "devil-children-shiro",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "output_SHA256": "de78131f3b4e13baeb58411efcf44b269eb1f5f3b801cc183b1ac1743122a3da"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_games": [
+          "黑之书",
+          "赤之书",
+          "白之书"
+        ],
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reporter_is_independent_new_source_not_prior_author": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|devil-three-books-reported-spell-full-screen-corruption",
+          "game_ids": [
+            "devil-children-kuro",
+            "devil-children-aka",
+            "devil-children-shiro"
+          ],
+          "summary": "恶魔之子三书：新作者报告施法花屏",
+          "feedback_summary": "新作者泛指黑、赤、白三书施法后满屏花屏，尚未提供各自实际版本、字号、文件和完整SHA，也未给具体魔法或画面。保留为同一旧问题的独立新来源；旧作者黑之书反馈与已记录修复范围保持，不能把新报告倒填为旧来源身份确认或三作当前目标已复现。",
+          "source_feedback_keys": [
+            "11092365551|154078077752"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-8910affceb31994e",
+      "public_problem_key": "problem-bc2a5521fb75a760",
+      "game_ids": [
+        "pocket-king"
+      ],
+      "summary": "口袋国王：原报告人补充文件来源",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154077512089"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "pocket-king",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "e4b58f6f2b645155258e043c271f4c8b7a765235861870ac373b48177523e7ba",
+          "output_SHA256": "3e8b0004f70c1ce45df0b0aca5a4c83e6abde97da27c106e44b717fb367728db"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_filename_literal": "Pocket_K....gbc",
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "share_locator_is_not_downloaded_byte_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|pocket-king-existing-movement-report-new-shared-file-locator",
+          "game_ids": [
+            "pocket-king"
+          ],
+          "summary": "口袋国王：原报告人补充文件来源",
+          "feedback_summary": "同一原报告人补充文件分享定位；公开镜像省略下载地址及提取码，保留原帖和原话哈希。所提供文件的字节尚未下载核验，不能据截短文件名确认版本、字号或完整SHA；仍不代表移动乱码已复现或修复。",
+          "source_feedback_keys": [
+            "11092365551|154077512089"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00"
+  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
 }

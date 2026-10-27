@@ -1562,6 +1562,190 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154077412797",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154077412797#154077412797",
+      "created_at": "2026-10-27T17:52:53+08:00",
+      "quote": "20261025版，文本超出文本框 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "eb0bfe878ee3533a3c683161ce29d4b1b2a8ef2db71f57f21457f290ad0cfa15",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "9b9c24fab146e8a7ae54e33f7295b0ae201371099727c31a3182bda2061885f1",
+          "bytes": 199072,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077412797#154077412797",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154077414545",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154077414545#154077414545",
+      "created_at": "2026-10-27T17:53:28+08:00",
+      "quote": "20261025版，在战斗中学会敌人技能时，有日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "de0b7423805733175f5c8c89ae5fc0213e4950511bd4d84ae9029eedc2fa5f89",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "62dd1be77d1b85f0baef66ea515af3e2e45fb9153df637988ee6c7e19881cc1b",
+          "bytes": 180658,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077414545#154077414545",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154077978874",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+      "created_at": "2026-10-27T20:56:47+08:00",
+      "quote": "20261025版，菜单-石头界面，使用石头时会有文字显示错乱和乱码的情况，在菜单-设置-石头-手动使用时      ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "39706f7320866f278469cb9b9a00e90b5cbf182852d7c55fdcf1aeae8a91311c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "b5557429863bbe091d5a3e032f971ba1577e9de373cd2fdd5dcfef7c8b444831",
+          "bytes": 202346,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 2,
+          "sha256": "9b10e1a76778efb64996a3dd9932c117ab9d48e3ed276d76cdb8430235c8a045",
+          "bytes": 156492,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 3,
+          "sha256": "7b5c2ba77f1ff2d7821a1630d0f6bacedae85796853b9c3f55845d99aa21d6b9",
+          "bytes": 156655,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 4,
+          "sha256": "5cd5888d94f66fa3ca21fb0fb29c467393c336cf8809f937c0fd7e1c655cd2cd",
+          "bytes": 149753,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 5,
+          "sha256": "abb6787ac19f1b709aeeb55a29cb2516e6ae77567824f3f679dc53c1980801d5",
+          "bytes": 151002,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 6,
+          "sha256": "f09028aa986a788fa5d41d2d0c93a4e4f3be23d39fe47f74f47cf50273465ab0",
+          "bytes": 157347,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154077978874#154077978874",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154078059214",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154078059214#154078059214",
+      "created_at": "2026-10-27T21:21:37+08:00",
+      "quote": "20261025版，文本超出文本框  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "303b5cf9a2b19278fb59161eb6261075c7f83639894da316dada90d928263eee",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "e162af33cfcde4393fab5d259f93727366167f0dd777b0e6c44d96b5c5653c7c",
+          "bytes": 201334,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154078059214#154078059214",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        },
+        {
+          "image_index": 2,
+          "sha256": "0f5fcad0234800198cc993006224ec02693f44b9ccb45171d28834f1686e3029",
+          "bytes": 201747,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154078059214#154078059214",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154078060981",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154078060981#154078060981",
+      "created_at": "2026-10-27T21:22:09+08:00",
+      "quote": "202610125版，学会敌人招式时日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3da768d6954d371dcae00d8825e40afc3c0b46d79efa568456bc6c61472b57ef",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "18fd4537632fecb25c4d9b465ca36a5a7227adfde818a5697594730f178b5497",
+          "bytes": 184467,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154078060981#154078060981",
+          "classification": "PLAYER_PUBLIC_GALLERY_IMAGE_STATIC_EVIDENCE_NOT_RUNTIME_ACCEPTANCE",
+          "public_rehosted": false,
+          "omission_notice": "原图含可见设备相册路径，公开镜像不重托管或裁改图片；原帖定位与原字节哈希保留。"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -2438,6 +2622,141 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-e3f34758bbfd4d8c",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：拾取提示越框补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154077412797",
+        "11092365551|154078059214"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_date_labels": [
+          "20261025"
+        ],
+        "actual_version": null,
+        "actual_font": null,
+        "actual_ROM_SHA256": null,
+        "date_or_screenshot_filename_is_not_ROM_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|poyon2-reported-20261025-three-pickup-overflow-photos",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2：拾取提示越框补充",
+          "feedback_summary": "同一反馈组的两条来源、三张照片分别保留拾取提示靠右越框或裁切的可见线索，归既有排版集中范围。玩家字面日期标签不能确认ROM版本、字号或完整SHA，当前v0.1.8普通8px仅作发布参考；未运行、复现或新增修复。",
+          "source_feedback_keys": [
+            "11092365551|154077412797",
+            "11092365551|154078059214"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ee765e7f6e0fb0e3",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：学敌技日文和手动石头菜单补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "public_feedback_keys": [
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078060981"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.8",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_date_labels": [
+          "20261025",
+          "202610125"
+        ],
+        "actual_version": null,
+        "actual_font": null,
+        "actual_ROM_SHA256": null,
+        "date_or_screenshot_filename_is_not_ROM_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-0426|poyon2-reported-20261025-enemy-learn-Japanese-and-manual-stone",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "summary": "波永的迷宫2：学敌技日文和手动石头菜单补充",
+          "feedback_summary": "学敌技两张照片保留不同技能名称的日文与中文提示并存；手动石头菜单六图保留标签、片段重叠或位置变化的静态线索。未确认随机数据损坏、存档受损或共同根因。保留玩家原写20261025与202610125，不将日期或截图文件名替代实际ROM身份，也不把当前v0.1.8当玩家已测版本。",
+          "source_feedback_keys": [
+            "11092365551|154077414545",
+            "11092365551|154077978874",
+            "11092365551|154078060981"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -2448,7 +2767,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-27T04:54:46.022967+08:00",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -2457,7 +2776,8 @@
         "case-d5ed9d305b4e1449",
         "case-36bfa02f5e58e827",
         "case-5edd78bd54d1ae5a",
-        "case-a90640c4083d55b6"
+        "case-a90640c4083d55b6",
+        "case-ee765e7f6e0fb0e3"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -2503,7 +2823,10 @@
         "11092365551|154072096626",
         "11092365551|154072100439",
         "11092365551|154072608407",
-        "11092365551|154074333182"
+        "11092365551|154074333182",
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078060981"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2564,7 +2887,8 @@
         "case-eab2c8ffe4f1ebad",
         "case-ec0244e7436f6ab8",
         "case-a437aca951f002a5",
-        "case-1ea13a2985ec4995"
+        "case-1ea13a2985ec4995",
+        "case-e3f34758bbfd4d8c"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -2641,13 +2965,15 @@
         "11097560613|154061939534",
         "11092365551|154070171453",
         "11092365551|154072094051",
-        "11092365551|154072608407"
+        "11092365551|154072608407",
+        "11092365551|154077412797",
+        "11092365551|154078059214"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -2857,9 +3183,39 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-b0d36f72736c686e",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154077412797",
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078059214",
+        "11092365551|154078060981"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "pid": "154079011259",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154079011259#154079011259",
+      "text": "这五条越框、学招日文和石头手动使用显示异常都已补进原有记录，后续排查。",
+      "text_sha256": "8cc33dbb339eabb6cb920d89ae75200aa5b0bfa51c074b17d527c8fc76ad3285",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-28T04:43:36.875119+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154078060981",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
+  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

@@ -1,0 +1,145 @@
+{
+  "schema": "public_hb280426_actual_seven_quotes_four_existing_scopes_two_reply_text_only_increment_v1",
+  "run_id": "20261028-0426",
+  "generated_at": "2026-10-28T04:46:56.296991+08:00",
+  "bindings": {
+    "source_scan_SHA256": "9c0bedbaa3e882e61ad88d80b5e14f67f2319cb68ad59ffaa8312049538fc46e",
+    "root_visual_SHA256": "e46824853d9172cf08badadfefc2c00fa7fbeffe6bec95cb25a1b6d83c54dc68",
+    "actual_registration_SHA256": "04e30939d68cafc87fca6a33fa43459637fe0ebd9760639e39e21e291409386e",
+    "actual_comment_plan_SHA256": "5040f83ddb0524a43f031e4aedbb3b1b50eb62b60d63a0d0cb24a9c710852ccb",
+    "source_evidence_Git_proof_SHA256": "d7972a313cb62bdf26da7dcf2b18979bfa0e80bc7002c9755f7a9198b299d9c0",
+    "postA_Git_proof_SHA256": "22671df484a037f2f54cd431481b0d4fa51bc57c63ab32cf330bb154442f819e",
+    "reply_Git_proof_SHA256": "5ab2288956e287d6b748521fe6e622e332b1e9d24d6e9591602425bc36725690",
+    "actual_reply_receipt_SHA256s": [
+      "3bb611a6408e49cb0a2a836b772592f457246ff777e4c761eb54e7f1b17efd45",
+      "ffe1a96bb3ed65cd61fa12d8e1a38b86aed9ede1074112144bfa045844e80cc0"
+    ],
+    "current_Issue_signature_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a",
+    "prior_Root_type_snapshot_Git_proof_SHA256": "fcce9d3e95adb53ccf45c0f993202ae554b5d7af6e668fe58c026e8e28f79038",
+    "prior_Root_type_gate_SHA256": "d21bdd772ea31fcca38b5da551aa348aa655fc62a1807211b74088e873dcfe81",
+    "prior_actual_Issue_identity_snapshot_SHA256": "98bf5b28232a586f88732ad998b633535a133941af9e8a284adebca147f09da1"
+  },
+  "source_quote_count": 7,
+  "original_image_hash_positions": 11,
+  "original_JPEG_positions": 11,
+  "original_JPEG_files_uploaded": 0,
+  "public_image_files": 0,
+  "derived_image_files": 0,
+  "private_gallery_path_images_not_rehosted": true,
+  "feedback_scope_updates": 4,
+  "source_only_unverified_new_games_exported": 0,
+  "actual_replies": 2,
+  "actual_ACKs": 2,
+  "actual_information_replies": 1,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 64,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entries": 0,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261028-0426|poyon2-reported-20261025-three-pickup-overflow-photos",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：拾取提示越框补充",
+      "feedback_summary": "同一反馈组的两条来源、三张照片分别保留拾取提示靠右越框或裁切的可见线索，归既有排版集中范围。玩家字面日期标签不能确认ROM版本、字号或完整SHA，当前v0.1.8普通8px仅作发布参考；未运行、复现或新增修复。",
+      "source_feedback_keys": [
+        "11092365551|154077412797",
+        "11092365551|154078059214"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261028-0426|poyon2-reported-20261025-enemy-learn-Japanese-and-manual-stone",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：学敌技日文和手动石头菜单补充",
+      "feedback_summary": "学敌技两张照片保留不同技能名称的日文与中文提示并存；手动石头菜单六图保留标签、片段重叠或位置变化的静态线索。未确认随机数据损坏、存档受损或共同根因。保留玩家原写20261025与202610125，不将日期或截图文件名替代实际ROM身份，也不把当前v0.1.8当玩家已测版本。",
+      "source_feedback_keys": [
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078060981"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261028-0426|devil-three-books-reported-spell-full-screen-corruption",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-aka",
+        "devil-children-shiro"
+      ],
+      "summary": "恶魔之子三书：新作者报告施法花屏",
+      "feedback_summary": "新作者泛指黑、赤、白三书施法后满屏花屏，尚未提供各自实际版本、字号、文件和完整SHA，也未给具体魔法或画面。保留为同一旧问题的独立新来源；旧作者黑之书反馈与已记录修复范围保持，不能把新报告倒填为旧来源身份确认或三作当前目标已复现。",
+      "source_feedback_keys": [
+        "11092365551|154078077752"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261028-0426|pocket-king-existing-movement-report-new-shared-file-locator",
+      "game_ids": [
+        "pocket-king"
+      ],
+      "summary": "口袋国王：原报告人补充文件来源",
+      "feedback_summary": "同一原报告人补充文件分享定位；公开镜像省略下载地址及提取码，保留原帖和原话哈希。所提供文件的字节尚未下载核验，不能据截短文件名确认版本、字号或完整SHA；仍不代表移动乱码已复现或修复。",
+      "source_feedback_keys": [
+        "11092365551|154077512089"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    }
+  ]
+}

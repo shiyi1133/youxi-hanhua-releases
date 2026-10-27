@@ -5672,8 +5672,66 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-b0d36f72736c686e",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154077412797",
+        "11092365551|154077414545",
+        "11092365551|154077978874",
+        "11092365551|154078059214",
+        "11092365551|154078060981"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026720257",
+      "pid": "154079011259",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154079011259#154079011259",
+      "text": "这五条越框、学招日文和石头手动使用显示异常都已补进原有记录，后续排查。",
+      "text_sha256": "8cc33dbb339eabb6cb920d89ae75200aa5b0bfa51c074b17d527c8fc76ad3285",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-28T04:43:36.875119+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154078060981",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-34d47f1b28de2a57",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-aka",
+        "devil-children-shiro"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK_AND_INFORMATION_QUESTION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154078077752"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154078077752",
+      "pid": "154079011808",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154079011808#154079011808",
+      "text": "三作施法花屏已记录。请补各自ROM文件名或版本、字号，以及在哪个画面用哪招魔法触发。",
+      "text_sha256": "93f09e150826924fe26935d8d12aca520601f49a8d7e7972032d17180ec18637",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-28T04:44:14.911089+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 95,
-  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00"
+  "row_count": 97,
+  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
 }

@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 606,
+  "count": 610,
   "rows": [
     {
       "tid": "11092365551",
@@ -13974,9 +13974,124 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075517058",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075517058#154075517058",
+      "created_at": "2026-10-27T07:16:43+08:00",
+      "quote": "感谢汉化，一周目通关，就是未译的还有不少部分，但是有攻略加持，不影响通关 其他的问题就是前几天提的能解决就好了，最后还是再催一下大字体   ",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "9996b0a487060b2895f459c7673d848630c524737d362df9f8d3b777333df7c5",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb51aaebff970d3d539b700bcec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-1-e6b2c30bb169343fb6289091951394bb1572100054c2c48d50e618d6ec785d86.jpg",
+          "sha256": "e6b2c30bb169343fb6289091951394bb1572100054c2c48d50e618d6ec785d86",
+          "bytes": 180059,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/889052b5c9ea15cee3977f0ef0003af33b87b2ec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-2-cbe1bfe509be7b7884b2c67a7eb1ee30932ffda1f61c7c0f65c03e5a07fe82eb.jpg",
+          "sha256": "cbe1bfe509be7b7884b2c67a7eb1ee30932ffda1f61c7c0f65c03e5a07fe82eb",
+          "bytes": 127219,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3037d1c377cf33a87e850b1ec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-3-3993a54dfc9d3dec4abf7539937be9f9e6703d61f4b113a014eefaeb3465a6ec.jpg",
+          "sha256": "3993a54dfc9d3dec4abf7539937be9f9e6703d61f4b113a014eefaeb3465a6ec",
+          "bytes": 227801,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075519257",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075519257#154075519257",
+      "created_at": "2026-10-27T07:17:55+08:00",
+      "quote": "日常催大字体",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "1e5a991e3f1447b7ead09062b4b3cc4c570e7be21259b6448289800e2c2b418a",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075948430",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075948430#154075948430",
+      "created_at": "2026-10-27T10:00:40+08:00",
+      "quote": "补充一下。 图一，标题未汉化 图二，选择差点数据进入图三，实际应该是删除数据。 图三，选择全部删除，进入图四。 图四，内容未翻译。    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c3cde9668d1488cc76210673d64c4957b14d6bcc1bdb4e4c4d0c3d4cab35bd5e",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d57484b1cb13495415bf7663104e9258d0094abb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-1-5e3f992b7128e2310236c51ba0a4c123957e98be2673a83398d3ea530960cb76.jpg",
+          "sha256": "5e3f992b7128e2310236c51ba0a4c123957e98be2673a83398d3ea530960cb76",
+          "bytes": 152443,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/379a556034a85edf942d60240f540923dc5475bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-2-fbacc27c7b282bf0e06a587e79ce3e09bf0ec6bd2cf914d90b9298d0cd2be5d8.jpg",
+          "sha256": "fbacc27c7b282bf0e06a587e79ce3e09bf0ec6bd2cf914d90b9298d0cd2be5d8",
+          "bytes": 231981,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1729d858ccbf6c81a696b2effa3eb13532fa40bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-3-596618a97568876d4f12638cf78ccf8cd31ff85029b258dabae7a2c528293b71.jpg",
+          "sha256": "596618a97568876d4f12638cf78ccf8cd31ff85029b258dabae7a2c528293b71",
+          "bytes": 110875,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/128eb5315c6034a8464326868d134954082376bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-4-aa8870eb728f0a53a38d1761a1cf4fa82abb76f91bf86d8710dd19509b2fefd2.jpg",
+          "sha256": "aa8870eb728f0a53a38d1761a1cf4fa82abb76f91bf86d8710dd19509b2fefd2",
+          "bytes": 101488,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154076247121",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "public_nickname": "foofoofoo",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154076247121#154076247121",
+      "created_at": "2026-10-27T11:31:20+08:00",
+      "quote": "v1.0.2-10px 第三关boss变身必定死机",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2d4f8f814a016105a52110551abef16ecc0b60372bc38499354207c98cab19e6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00"
 }

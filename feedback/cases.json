@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 205,
+  "case_count": 208,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -12400,7 +12400,201 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-18e7aed966dd703a",
+      "public_problem_key": "problem-0d4651cabcf37571",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：第三关Boss变身死机补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154076247121"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "gegege-kitarou",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "output_SHA256": "587c4c0f6e6392d0f71b9fb0d657c396dc333a63063eb553b4280d3f365c3551"
+        },
+        {
+          "game_id": "gegege-kitarou",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "output_SHA256": "48817cd179761d95f279781c585a170085a8a58f1ca79e02c29717b0e03a5af7"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": "v1.0.2",
+        "reported_font": "10px",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "old_169_floor_file_label_not_reinterpreted": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|gegege-v102-10px-third-boss-transformation-crash",
+          "game_ids": [
+            "gegege-kitarou"
+          ],
+          "summary": "鬼太郎：第三关Boss变身死机补充",
+          "feedback_summary": "玩家明确报告v1.0.2-10px第三关Boss变身必定死机，作为独立消费者登记。原有首个Boss、山洞出招及第二关人鱼报告各自保留；未证明共同根因。当前v1.0.2图鉴限定修复不代表Boss已修，第三关变身未由维护运行或复现。",
+          "source_feedback_keys": [
+            "11092365551|154076247121"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-8ae357b923bb8f4d",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：标题与数据管理确认页四图补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154075948430"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|mobile-golf-title-data-delete-Japanese-warning-evidence",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：标题与数据管理确认页四图补充",
+          "feedback_summary": "四张照片分别保留标题logo、差点数据入口、存档数据页面及选择“全部删除”选项后出现的日文确认警告。玩家“实际应该是删除数据”的解释仍是语义线索；静态图不证明删除执行、数据丢失或卡死。当前v0.1.1普通8px仅作参考，旧限定修复范围保持。",
+          "source_feedback_keys": [
+            "11092365551|154075948430"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-2108f5d290518783",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：玩家一周目通关及覆盖范围补充",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154075517058"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "kotobattle",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.6",
+          "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "player_reported_first_game_clear": true,
+        "current_build_full_acceptance": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|kotobattle-player-first-clear-Japanese-credits-bigfont-scope",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle：玩家一周目通关及覆盖范围补充",
+          "feedback_summary": "玩家自报一周目通关并称仍有未译内容、再次请求大字。图1和图3对白为中文，图2为日文制作人员credits，姓名是否需翻译待核，不能说三图均未译。玩家实际版本与完整SHA未知，不称当前v0.1.6通过全流程；大字只延续旧字号请求，本轮未安排、认领或实现，当前Git未见已交付大字目标。",
+          "source_feedback_keys": [
+            "11092365551|154075517058"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00"
 }

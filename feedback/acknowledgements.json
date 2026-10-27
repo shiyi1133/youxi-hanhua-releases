@@ -5644,8 +5644,36 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-035c238092061bf7",
+      "game_id": "gegege-kitarou",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154076247121"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "pid": "154077274261",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154077274261#154077274261",
+      "text": "《鬼太郎》v1.0.2 大字版第三关 Boss 变身死机已记录，后续排查。",
+      "text_sha256": "e535c5075e52c427b5c83c5e7b4a8b2c1ed5bdc9d77e07afa116390656a19640",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T17:07:27.967227+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154076247121",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 94,
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00"
+  "row_count": 95,
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00"
 }

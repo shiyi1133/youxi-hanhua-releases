@@ -1,0 +1,125 @@
+{
+  "schema": "public_hb271628_actual_evidence_existing_scope_ACK_and_source_only_increment_v1",
+  "run_id": "20261027-1628",
+  "generated_at": "2026-10-27T17:09:39.489204+08:00",
+  "bindings": {
+    "source_scan_SHA256": "5727ea6656bf9f9209495262400059ab44abd30a30175aaa6bc8c1b0a032dbd2",
+    "root_visual_SHA256": "657a612658d2d994438339eddc81f3d2c8d79417a274ffcdde9572da33918e05",
+    "actual_registration_SHA256": "80da2cb1711dc4f7a512e2807b8b8e12abea1b8ea29c5cfa0bc69ef823a8e5bb",
+    "actual_comment_plan_SHA256": "732c6c45e4d9477380674144b2525a53f2baefbb9cfb39aeba6a4e8d287e7242",
+    "source_evidence_Git_proof_SHA256": "e2980acb24d3c805d9a8969cccc50d014546966fe2ca52008a9d8ab710773d15",
+    "postA_Git_proof_SHA256": "3c054f91f2075e29bc08481c8ec7996a93ff330b5006c515ee56b70c98490c46",
+    "reply_Git_proof_SHA256": "bcc86dff84887d1333271bbbfed17d8f234bad0e1d61fd101ad65a586f290539",
+    "actual_kitarou_reply_receipt_SHA256": "9f32edea81d184cd404365c0f3ab85b6f2f7f2d3db05e89c077483f321b6fd99",
+    "current_Issue_signature_SHA256": "98bf5b28232a586f88732ad998b633535a133941af9e8a284adebca147f09da1",
+    "prior_Root_type_snapshot_Git_proof_SHA256": "d183d5e64a971e814f35674bb257aa0f8dd22c211c6d9450c40d3edc1b2dfbab",
+    "prior_Root_type_gate_SHA256": "0d4968676beed1ba0eae6f72b0d55ea84c684e9f528250244617d79ec654430f",
+    "prior_actual_Issue_identity_snapshot_SHA256": "98bf5b28232a586f88732ad998b633535a133941af9e8a284adebca147f09da1"
+  },
+  "source_quote_count": 4,
+  "original_JPEG_positions": 7,
+  "feedback_scope_updates": 3,
+  "source_only_request_updates": [
+    {
+      "public_update_key": "20261027-1628|prism-repeat-large-font-wish",
+      "source_feedback_key": "11092365551|154075519257",
+      "kind": "EXISTING_FUTURE_EDITION_REQUEST_REPEAT",
+      "work_started": false,
+      "new_Issue_created": false,
+      "new_case_created": false,
+      "new_problem_created": false,
+      "new_ACK_sent": false,
+      "new_untranslated_game": false,
+      "claim_created": false,
+      "previous_ACK_PID": "154059404791"
+    }
+  ],
+  "actual_replies": 1,
+  "actual_ACKs": 1,
+  "actual_information_replies": 0,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 64,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entries": 0,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261027-1628|gegege-v102-10px-third-boss-transformation-crash",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：第三关Boss变身死机补充",
+      "feedback_summary": "玩家明确报告v1.0.2-10px第三关Boss变身必定死机，作为独立消费者登记。原有首个Boss、山洞出招及第二关人鱼报告各自保留；未证明共同根因。当前v1.0.2图鉴限定修复不代表Boss已修，第三关变身未由维护运行或复现。",
+      "source_feedback_keys": [
+        "11092365551|154076247121"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261027-1628|mobile-golf-title-data-delete-Japanese-warning-evidence",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：标题与数据管理确认页四图补充",
+      "feedback_summary": "四张照片分别保留标题logo、差点数据入口、存档数据页面及选择“全部删除”选项后出现的日文确认警告。玩家“实际应该是删除数据”的解释仍是语义线索；静态图不证明删除执行、数据丢失或卡死。当前v0.1.1普通8px仅作参考，旧限定修复范围保持。",
+      "source_feedback_keys": [
+        "11092365551|154075948430"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    },
+    {
+      "public_update_key": "20261027-1628|kotobattle-player-first-clear-Japanese-credits-bigfont-scope",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：玩家一周目通关及覆盖范围补充",
+      "feedback_summary": "玩家自报一周目通关并称仍有未译内容、再次请求大字。图1和图3对白为中文，图2为日文制作人员credits，姓名是否需翻译待核，不能说三图均未译。玩家实际版本与完整SHA未知，不称当前v0.1.6通过全流程；大字只延续旧字号请求，本轮未安排、认领或实现，当前Git未见已交付大字目标。",
+      "source_feedback_keys": [
+        "11092365551|154075517058"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    }
+  ]
+}

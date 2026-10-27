@@ -263,6 +263,22 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154076247121",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "public_nickname": "foofoofoo",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154076247121#154076247121",
+      "created_at": "2026-10-27T11:31:20+08:00",
+      "quote": "v1.0.2-10px 第三关boss变身必定死机",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2d4f8f814a016105a52110551abef16ecc0b60372bc38499354207c98cab19e6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -348,6 +364,76 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-18e7aed966dd703a",
+      "public_problem_key": "problem-0d4651cabcf37571",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：第三关Boss变身死机补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154076247121"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "gegege-kitarou",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "output_SHA256": "587c4c0f6e6392d0f71b9fb0d657c396dc333a63063eb553b4280d3f365c3551"
+        },
+        {
+          "game_id": "gegege-kitarou",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "output_SHA256": "48817cd179761d95f279781c585a170085a8a58f1ca79e02c29717b0e03a5af7"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": "v1.0.2",
+        "reported_font": "10px",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "old_169_floor_file_label_not_reinterpreted": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|gegege-v102-10px-third-boss-transformation-crash",
+          "game_ids": [
+            "gegege-kitarou"
+          ],
+          "summary": "鬼太郎：第三关Boss变身死机补充",
+          "feedback_summary": "玩家明确报告v1.0.2-10px第三关Boss变身必定死机，作为独立消费者登记。原有首个Boss、山洞出招及第二关人鱼报告各自保留；未证明共同根因。当前v1.0.2图鉴限定修复不代表Boss已修，第三关变身未由维护运行或复现。",
+          "source_feedback_keys": [
+            "11092365551|154076247121"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -494,7 +580,8 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-c0098be54a4388ad"
+        "case-c0098be54a4388ad",
+        "case-18e7aed966dd703a"
       ],
       "public_feedback_keys": [
         "11092365551|154038646518",
@@ -507,13 +594,14 @@
         "11092365551|154047264745",
         "11092365551|154047267650",
         "11092365551|154049060232",
-        "11092365551|154051472175"
+        "11092365551|154051472175",
+        "11092365551|154076247121"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     }
@@ -521,10 +609,40 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 2,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
-  }
+  },
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-035c238092061bf7",
+      "game_id": "gegege-kitarou",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154076247121"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "pid": "154077274261",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154077274261#154077274261",
+      "text": "《鬼太郎》v1.0.2 大字版第三关 Boss 变身死机已记录，后续排查。",
+      "text_sha256": "e535c5075e52c427b5c83c5e7b4a8b2c1ed5bdc9d77e07afa116390656a19640",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-27T17:07:27.967227+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154076247121",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ]
 }

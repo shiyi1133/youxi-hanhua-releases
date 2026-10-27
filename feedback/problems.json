@@ -1333,7 +1333,8 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-c0098be54a4388ad"
+        "case-c0098be54a4388ad",
+        "case-18e7aed966dd703a"
       ],
       "public_feedback_keys": [
         "11092365551|154038646518",
@@ -1346,13 +1347,14 @@
         "11092365551|154047264745",
         "11092365551|154047267650",
         "11092365551|154049060232",
-        "11092365551|154051472175"
+        "11092365551|154051472175",
+        "11092365551|154076247121"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -3554,12 +3556,13 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae",
         "case-a76995e5876b6d1d",
-        "case-87e766ad4e450ac5"
+        "case-87e766ad4e450ac5",
+        "case-2108f5d290518783"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
@@ -3569,7 +3572,8 @@
         "11092365551|154065827377",
         "11092365551|154068153590",
         "11092365551|154069368179",
-        "11092365551|154071288799"
+        "11092365551|154071288799",
+        "11092365551|154075517058"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -5591,7 +5595,8 @@
       "classification": "BUG",
       "case_keys": [
         "case-11bab5429477b50e",
-        "case-d53c9292788ea77d"
+        "case-d53c9292788ea77d",
+        "case-8ae357b923bb8f4d"
       ],
       "public_feedback_keys": [
         "11092365551|154073388835",
@@ -5607,14 +5612,15 @@
         "11092365551|154074606362",
         "11092365551|154074610622",
         "11092365551|154074619725",
-        "11092365551|154074625041"
+        "11092365551|154074625041",
+        "11092365551|154075948430"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00"
     },
     {
       "public_problem_key": "problem-7acc3f4504657881",
@@ -5702,7 +5708,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

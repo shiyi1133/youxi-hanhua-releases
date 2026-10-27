@@ -596,6 +596,51 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075948430",
+      "parent_pid": "154045583842",
+      "floor": 152,
+      "public_nickname": "凌凌风",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075948430#154075948430",
+      "created_at": "2026-10-27T10:00:40+08:00",
+      "quote": "补充一下。 图一，标题未汉化 图二，选择差点数据进入图三，实际应该是删除数据。 图三，选择全部删除，进入图四。 图四，内容未翻译。    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c3cde9668d1488cc76210673d64c4957b14d6bcc1bdb4e4c4d0c3d4cab35bd5e",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d57484b1cb13495415bf7663104e9258d0094abb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-1-5e3f992b7128e2310236c51ba0a4c123957e98be2673a83398d3ea530960cb76.jpg",
+          "sha256": "5e3f992b7128e2310236c51ba0a4c123957e98be2673a83398d3ea530960cb76",
+          "bytes": 152443,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/379a556034a85edf942d60240f540923dc5475bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-2-fbacc27c7b282bf0e06a587e79ce3e09bf0ec6bd2cf914d90b9298d0cd2be5d8.jpg",
+          "sha256": "fbacc27c7b282bf0e06a587e79ce3e09bf0ec6bd2cf914d90b9298d0cd2be5d8",
+          "bytes": 231981,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/1729d858ccbf6c81a696b2effa3eb13532fa40bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-3-596618a97568876d4f12638cf78ccf8cd31ff85029b258dabae7a2c528293b71.jpg",
+          "sha256": "596618a97568876d4f12638cf78ccf8cd31ff85029b258dabae7a2c528293b71",
+          "bytes": 110875,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/128eb5315c6034a8464326868d134954082376bb.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075948430-4-aa8870eb728f0a53a38d1761a1cf4fa82abb76f91bf86d8710dd19509b2fefd2.jpg",
+          "sha256": "aa8870eb728f0a53a38d1761a1cf4fa82abb76f91bf86d8710dd19509b2fefd2",
+          "bytes": 101488,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -799,6 +844,67 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-8ae357b923bb8f4d",
+      "public_problem_key": "problem-a533a956b266e3b6",
+      "game_ids": [
+        "mobile-golf"
+      ],
+      "summary": "迷你高尔夫：标题与数据管理确认页四图补充",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154075948430"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "mobile-golf",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.1",
+          "original_input_SHA256": "8990e1ca43048b3f0d19954850e67ecfa549e5b050d0816f2135f9a582fbd3b2",
+          "output_SHA256": "de677c8fc90114858f5a34182a9f63042bf0f042111e3070bf7ebc38b6281e94"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|mobile-golf-title-data-delete-Japanese-warning-evidence",
+          "game_ids": [
+            "mobile-golf"
+          ],
+          "summary": "迷你高尔夫：标题与数据管理确认页四图补充",
+          "feedback_summary": "四张照片分别保留标题logo、差点数据入口、存档数据页面及选择“全部删除”选项后出现的日文确认警告。玩家“实际应该是删除数据”的解释仍是语义线索；静态图不证明删除执行、数据丢失或卡死。当前v0.1.1普通8px仅作参考，旧限定修复范围保持。",
+          "source_feedback_keys": [
+            "11092365551|154075948430"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -836,7 +942,8 @@
       "classification": "BUG",
       "case_keys": [
         "case-11bab5429477b50e",
-        "case-d53c9292788ea77d"
+        "case-d53c9292788ea77d",
+        "case-8ae357b923bb8f4d"
       ],
       "public_feedback_keys": [
         "11092365551|154073388835",
@@ -852,14 +959,15 @@
         "11092365551|154074606362",
         "11092365551|154074610622",
         "11092365551|154074619725",
-        "11092365551|154074625041"
+        "11092365551|154074625041",
+        "11092365551|154075948430"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -898,7 +1006,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-27T04:54:46.022967+08:00",
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,

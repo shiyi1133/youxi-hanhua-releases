@@ -819,6 +819,44 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075517058",
+      "parent_pid": "154049228213",
+      "floor": 170,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075517058#154075517058",
+      "created_at": "2026-10-27T07:16:43+08:00",
+      "quote": "感谢汉化，一周目通关，就是未译的还有不少部分，但是有攻略加持，不影响通关 其他的问题就是前几天提的能解决就好了，最后还是再催一下大字体   ",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "9996b0a487060b2895f459c7673d848630c524737d362df9f8d3b777333df7c5",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/a39f3d9b033b5bb51aaebff970d3d539b700bcec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-1-e6b2c30bb169343fb6289091951394bb1572100054c2c48d50e618d6ec785d86.jpg",
+          "sha256": "e6b2c30bb169343fb6289091951394bb1572100054c2c48d50e618d6ec785d86",
+          "bytes": 180059,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/889052b5c9ea15cee3977f0ef0003af33b87b2ec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-2-cbe1bfe509be7b7884b2c67a7eb1ee30932ffda1f61c7c0f65c03e5a07fe82eb.jpg",
+          "sha256": "cbe1bfe509be7b7884b2c67a7eb1ee30932ffda1f61c7c0f65c03e5a07fe82eb",
+          "bytes": 127219,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        },
+        {
+          "public_url": "https://tiebapic.baidu.com/forum/pic/item/d01ec0ea15ce36d3037d1c377cf33a87e850b1ec.jpg",
+          "archived_public_path": "feedback/images/20261027-1628/154075517058-3-3993a54dfc9d3dec4abf7539937be9f9e6703d61f4b113a014eefaeb3465a6ec.jpg",
+          "sha256": "3993a54dfc9d3dec4abf7539937be9f9e6703d61f4b113a014eefaeb3465a6ec",
+          "bytes": 227801,
+          "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -2029,6 +2067,69 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-2108f5d290518783",
+      "public_problem_key": "problem-ee7a1b312549370e",
+      "game_ids": [
+        "kotobattle"
+      ],
+      "summary": "Koto Battle：玩家一周目通关及覆盖范围补充",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+      "public_feedback_keys": [
+        "11092365551|154075517058"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "kotobattle",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.6",
+          "original_input_SHA256": "08190dc9eaf82f213caddd21174391f0cd2a3907ef1a679b5271c95f555ef676",
+          "output_SHA256": "e3c40e472f9c5ae965e4b759bab72e37f98d5d2c097914e2488e87c18810d8da"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "player_reported_first_game_clear": true,
+        "current_build_full_acceptance": false
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261027-1628|kotobattle-player-first-clear-Japanese-credits-bigfont-scope",
+          "game_ids": [
+            "kotobattle"
+          ],
+          "summary": "Koto Battle：玩家一周目通关及覆盖范围补充",
+          "feedback_summary": "玩家自报一周目通关并称仍有未译内容、再次请求大字。图1和图3对白为中文，图2为日文制作人员credits，姓名是否需翻译待核，不能说三图均未译。玩家实际版本与完整SHA未知，不称当前v0.1.6通过全流程；大字只延续旧字号请求，本轮未安排、认领或实现，当前Git未见已交付大字目标。",
+          "source_feedback_keys": [
+            "11092365551|154075517058"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_OR_SCOPED_RETEST_NOT_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
   "problems": [
@@ -2115,12 +2216,13 @@
       ],
       "summary": "[覆盖反馈] Koto Battle v0.1.0普通8px：设置、石碑/老师对白及战斗多处日文",
       "state": "open",
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-2328f13bf64f2bae",
         "case-a76995e5876b6d1d",
-        "case-87e766ad4e450ac5"
+        "case-87e766ad4e450ac5",
+        "case-2108f5d290518783"
       ],
       "public_feedback_keys": [
         "11092365551|154060891225",
@@ -2130,7 +2232,8 @@
         "11092365551|154065827377",
         "11092365551|154068153590",
         "11092365551|154069368179",
-        "11092365551|154071288799"
+        "11092365551|154071288799",
+        "11092365551|154075517058"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
@@ -3013,7 +3116,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-0416|koto-v010-8px-dialogue-mirrored-glyph",

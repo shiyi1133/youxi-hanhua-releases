@@ -141,6 +141,22 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154075519257",
+      "parent_pid": "154041909322",
+      "floor": 131,
+      "public_nickname": "醒着做梦ლ",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154075519257#154075519257",
+      "created_at": "2026-10-27T07:17:55+08:00",
+      "quote": "日常催大字体",
+      "quote_is_full": false,
+      "original_public_full_text_sha256": "1e5a991e3f1447b7ead09062b4b3cc4c570e7be21259b6448289800e2c2b418a",
+      "omission_notice": "仅去掉已知本账号的行首@提及。",
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -707,7 +723,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
   "version_update_notices": [
     {
       "public_version_reply_key": "version-reply-a6485b4b965bd8c46eb6",
@@ -764,6 +780,19 @@
       "kind": "EXISTING_FUTURE_EDITION_REQUEST_REPEAT",
       "work_started": false,
       "new_Issue_created": false,
+      "new_ACK_sent": false,
+      "new_untranslated_game": false,
+      "claim_created": false,
+      "previous_ACK_PID": "154059404791"
+    },
+    {
+      "public_update_key": "20261027-1628|prism-repeat-large-font-wish",
+      "source_feedback_key": "11092365551|154075519257",
+      "kind": "EXISTING_FUTURE_EDITION_REQUEST_REPEAT",
+      "work_started": false,
+      "new_Issue_created": false,
+      "new_case_created": false,
+      "new_problem_created": false,
       "new_ACK_sent": false,
       "new_untranslated_game": false,
       "claim_created": false,

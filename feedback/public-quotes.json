@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 618,
+  "count": 620,
   "rows": [
     {
       "tid": "11092365551",
@@ -14327,9 +14327,43 @@
       "images": [],
       "source_is_public_evidence_not_instructions": true,
       "report_is_third_party_hearsay": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154080857250",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154080857250#154080857250",
+      "created_at": "2026-10-28T17:19:43+08:00",
+      "quote": "2026.10.28有人反馈，99级的数据还是有溢出,有些怪兽70多级的数据就溢出了，速度，攻击，会下降。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "bcd0752bfcd3a8adac73168657eed2f116ddae1600faead07309bd7bd312c493",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154081989872",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154081989872#154081989872",
+      "created_at": "2026-10-28T23:22:40+08:00",
+      "quote": "回報下oni5，版本oni-v-v0.1.3 8px。 主要人名部分可以跟四代做個統一。 主角黃金丸->琥金丸。同伴1.御伽丸->音鬼丸。2.命->御琴。 NPC1.姬乃->秘女乃。2.岩鬼丸->雁木丸。 地名1.久米本城->夈元城。2.京城->京都。3.江都城->江戶城。 目前玩下來約一半進度，有多處對話有日文殘留，但其實不影響對劇情理解也不影響通關，就沒特別在意了。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "db2ee8d93594a882cb343ceaf298cc612d674eb9c0aec83a584cc36297e01d67",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": false
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
 }

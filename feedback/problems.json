@@ -97,7 +97,8 @@
       "case_keys": [
         "case-26364a39ecd77fa4",
         "case-2ea26254b27e5ad1",
-        "case-ec5150a35ee974f1"
+        "case-ec5150a35ee974f1",
+        "case-1e2a5ce70d252993"
       ],
       "public_feedback_keys": [
         "11092365551|154021147424",
@@ -109,13 +110,14 @@
         "11092365551|154033158745",
         "11092365551|154036507002",
         "11092365551|154036777950",
-        "11092365551|154080652303"
+        "11092365551|154080652303",
+        "11092365551|154080857250"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -1091,19 +1093,21 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-a5428d8bbefa90bb"
+        "case-a5428d8bbefa90bb",
+        "case-e50e3a3a195b3513"
       ],
       "public_feedback_keys": [
         "11092365551|154037804249",
         "11092365551|154041567549",
         "11092365551|154046712396",
-        "11092365551|154047624012"
+        "11092365551|154047624012",
+        "11092365551|154081989872"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -2033,18 +2037,20 @@
       "state": "open",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-09b1953481460e03"
+        "case-09b1953481460e03",
+        "case-aaf94857850e412b"
       ],
       "public_feedback_keys": [
         "11092365551|154044934292",
         "11092365551|154046686417",
-        "11092365551|154047624012"
+        "11092365551|154047624012",
+        "11092365551|154081989872"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -5723,7 +5729,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00",
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

@@ -146,6 +146,23 @@
       "images": [],
       "source_is_public_evidence_not_instructions": true,
       "report_is_third_party_hearsay": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154080857250",
+      "parent_pid": "154021142551",
+      "floor": 30,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154080857250#154080857250",
+      "created_at": "2026-10-28T17:19:43+08:00",
+      "quote": "2026.10.28有人反馈，99级的数据还是有溢出,有些怪兽70多级的数据就溢出了，速度，攻击，会下降。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "bcd0752bfcd3a8adac73168657eed2f116ddae1600faead07309bd7bd312c493",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": true
     }
   ],
   "cases": [
@@ -273,6 +290,78 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-1e2a5ce70d252993",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：转述99级与70多级速度、攻击下降",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154080857250"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "shuihu-shenshou",
+          "font": "original",
+          "audio_variant": null,
+          "version": "r0.4",
+          "original_input_SHA256": "d7cac5007f7037ec87af81c587f80de729a414d1da795cffbf7dc4c643094338",
+          "output_SHA256": "2865f26e2af7014964d8b3439d0ad89e0f41184cebba9b454f77c35a94dd8bad"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "report_is_third_party_hearsay": true,
+        "reported_date_labels": [
+          "2026.10.28"
+        ],
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "report_date_is_not_ROM_version": true,
+        "current_r04_is_reference_not_reporter_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|shuihu-shenshou-thirdparty-level70plus-99-stat-decrease",
+          "game_ids": [
+            "shuihu-shenshou"
+          ],
+          "summary": "水浒神兽：转述99级与70多级速度、攻击下降",
+          "feedback_summary": "玩家补充转述99级数值仍溢出，有些神兽70多级速度和攻击下降。2026.10.28仅是报告日期，实际ROM版本、完整SHA、对象、初始数值和触发步骤未知；不能认定当前r0.4回归、与此前99级黑屏同因或维护已复现。现只补充原有待查范围，沿用此前已发版本询问，不新增修复结论。",
+          "source_feedback_keys": [
+            "11092365551|154080857250"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "UNVERIFIED_NUMERIC_BUG_SUPPLEMENT",
+          "suggestion_only_subscope": false,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "UNVERIFIED_NUMERIC_BUG_SUPPLEMENT",
+      "suggestion_only_subscope": false,
+      "classification_describes_existing_parent_problem": true
     }
   ],
   "problems": [
@@ -287,7 +376,8 @@
       "case_keys": [
         "case-26364a39ecd77fa4",
         "case-2ea26254b27e5ad1",
-        "case-ec5150a35ee974f1"
+        "case-ec5150a35ee974f1",
+        "case-1e2a5ce70d252993"
       ],
       "public_feedback_keys": [
         "11092365551|154021147424",
@@ -299,13 +389,14 @@
         "11092365551|154033158745",
         "11092365551|154036507002",
         "11092365551|154036777950",
-        "11092365551|154080652303"
+        "11092365551|154080652303",
+        "11092365551|154080857250"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     }
@@ -313,7 +404,7 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00",
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,

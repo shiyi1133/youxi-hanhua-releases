@@ -260,6 +260,23 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154081989872",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154081989872#154081989872",
+      "created_at": "2026-10-28T23:22:40+08:00",
+      "quote": "回報下oni5，版本oni-v-v0.1.3 8px。 主要人名部分可以跟四代做個統一。 主角黃金丸->琥金丸。同伴1.御伽丸->音鬼丸。2.命->御琴。 NPC1.姬乃->秘女乃。2.岩鬼丸->雁木丸。 地名1.久米本城->夈元城。2.京城->京都。3.江都城->江戶城。 目前玩下來約一半進度，有多處對話有日文殘留，但其實不影響對劇情理解也不影響通關，就沒特別在意了。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "db2ee8d93594a882cb343ceaf298cc612d674eb9c0aec83a584cc36297e01d67",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": false
     }
   ],
   "cases": [
@@ -555,6 +572,180 @@
           }
         }
       ]
+    },
+    {
+      "public_case_key": "case-e50e3a3a195b3513",
+      "public_problem_key": "problem-8ac01031a1a8ba87",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：v0.1.3普通8px人名、地名八项统一建议",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "oni-v",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.3",
+          "original_input_SHA256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "output_SHA256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_ROM_label_literal": "oni-v-v0.1.3 8px",
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "actual_ROM_SHA256": null,
+        "suggestion_subscope_not_whole_problem_reclassification": true,
+        "terminology_suggestions": [
+          {
+            "from": "黃金丸",
+            "to": "琥金丸"
+          },
+          {
+            "from": "御伽丸",
+            "to": "音鬼丸"
+          },
+          {
+            "from": "命",
+            "to": "御琴"
+          },
+          {
+            "from": "姬乃",
+            "to": "秘女乃"
+          },
+          {
+            "from": "岩鬼丸",
+            "to": "雁木丸"
+          },
+          {
+            "from": "久米本城",
+            "to": "夈元城"
+          },
+          {
+            "from": "京城",
+            "to": "京都"
+          },
+          {
+            "from": "江都城",
+            "to": "江戶城"
+          }
+        ],
+        "suggestions_not_confirmed_translation_errors": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|oni5-v013-eight-name-place-calibration-request",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ：v0.1.3普通8px人名、地名八项统一建议",
+          "feedback_summary": "玩家明确自报oni-v-v0.1.3 8px，提出主角、同伴、NPC和地名八项译名统一建议。黄金丸改琥金丸是既有建议的补充，其余保留为本作待校准建议；尚未核原作字证及实际ROM全文SHA，不认定全部为已证译错，不把ONIⅣ的历史有限术语进展当成本作已修。既有默认名与拖慢问题分类和状态保持。",
+          "source_feedback_keys": [
+            "11092365551|154081989872"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "NAME_PLACE_CALIBRATION_REQUEST",
+          "suggestion_only_subscope": true,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "NAME_PLACE_CALIBRATION_REQUEST",
+      "suggestion_only_subscope": true,
+      "classification_describes_existing_parent_problem": true
+    },
+    {
+      "public_case_key": "case-aaf94857850e412b",
+      "public_problem_key": "problem-bd13b3df0460bdd0",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：新作者自报v0.1.3普通8px多处日文残留",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "oni-v",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.3",
+          "original_input_SHA256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "output_SHA256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_ROM_label_literal": "oni-v-v0.1.3 8px",
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_progress_literal": "約一半進度",
+        "actual_ROM_SHA256": null,
+        "exact_untranslated_line_or_scene_unknown": true,
+        "other_authors_identity_not_reassigned": true,
+        "player_opinion_not_whole_game_acceptance": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|oni5-v013-8px-midgame-Japanese-residual-new-reporter",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ：新作者自报v0.1.3普通8px多处日文残留",
+          "feedback_summary": "新作者明确自报oni-v-v0.1.3 8px，称目前约一半流程有多处对话日文残留，但尚无一处具体场景、原句或新图；已按新作者子范围登记，不替早期另一作者确认代数。其不影响理解或通关的表述是玩家判断，不能认证完整流程或漏译已解决。未由维护运行复现或新增修复。",
+          "source_feedback_keys": [
+            "11092365551|154081989872"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
+          "suggestion_only_subscope": false,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
+      "suggestion_only_subscope": false,
+      "classification_describes_existing_parent_problem": true
     }
   ],
   "problems": [
@@ -567,19 +758,21 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-a5428d8bbefa90bb"
+        "case-a5428d8bbefa90bb",
+        "case-e50e3a3a195b3513"
       ],
       "public_feedback_keys": [
         "11092365551|154037804249",
         "11092365551|154041567549",
         "11092365551|154046712396",
-        "11092365551|154047624012"
+        "11092365551|154047624012",
+        "11092365551|154081989872"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -594,18 +787,20 @@
       "state": "open",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-09b1953481460e03"
+        "case-09b1953481460e03",
+        "case-aaf94857850e412b"
       ],
       "public_feedback_keys": [
         "11092365551|154044934292",
         "11092365551|154046686417",
-        "11092365551|154047624012"
+        "11092365551|154047624012",
+        "11092365551|154081989872"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -799,8 +994,35 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-e1c5c02461883b42",
+      "game_ids": [
+        "oni-v"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK_AND_INFORMATION_QUESTION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "pid": "154082536218",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154082536218#154082536218",
+      "text": "ONIⅤ v0.1.3普通8px的八项人地名建议和日文残留已登记。方便时补一处日文所在位置、原句或截图，便于定位；已有版本和字号不用再补。",
+      "text_sha256": "ccdaf043954909e267579672175f3fc4d638aa40e7c0d078b135fdc2a3023a44",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-29T04:47:45.435655+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154081989872",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-1615|oni5-status-corruption-frequency",

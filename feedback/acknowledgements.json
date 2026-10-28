@@ -5756,8 +5756,34 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-e1c5c02461883b42",
+      "game_ids": [
+        "oni-v"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK_AND_INFORMATION_QUESTION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026947659",
+      "pid": "154082536218",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154082536218#154082536218",
+      "text": "ONIⅤ v0.1.3普通8px的八项人地名建议和日文残留已登记。方便时补一处日文所在位置、原句或截图，便于定位；已有版本和字号不用再补。",
+      "text_sha256": "ccdaf043954909e267579672175f3fc4d638aa40e7c0d078b135fdc2a3023a44",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-29T04:47:45.435655+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154081989872",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 98,
-  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
+  "row_count": 99,
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
 }

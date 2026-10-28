@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 213,
+  "case_count": 216,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -12969,7 +12969,253 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-1e2a5ce70d252993",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：转述99级与70多级速度、攻击下降",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154080857250"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "shuihu-shenshou",
+          "font": "original",
+          "audio_variant": null,
+          "version": "r0.4",
+          "original_input_SHA256": "d7cac5007f7037ec87af81c587f80de729a414d1da795cffbf7dc4c643094338",
+          "output_SHA256": "2865f26e2af7014964d8b3439d0ad89e0f41184cebba9b454f77c35a94dd8bad"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "report_is_third_party_hearsay": true,
+        "reported_date_labels": [
+          "2026.10.28"
+        ],
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "report_date_is_not_ROM_version": true,
+        "current_r04_is_reference_not_reporter_identity": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|shuihu-shenshou-thirdparty-level70plus-99-stat-decrease",
+          "game_ids": [
+            "shuihu-shenshou"
+          ],
+          "summary": "水浒神兽：转述99级与70多级速度、攻击下降",
+          "feedback_summary": "玩家补充转述99级数值仍溢出，有些神兽70多级速度和攻击下降。2026.10.28仅是报告日期，实际ROM版本、完整SHA、对象、初始数值和触发步骤未知；不能认定当前r0.4回归、与此前99级黑屏同因或维护已复现。现只补充原有待查范围，沿用此前已发版本询问，不新增修复结论。",
+          "source_feedback_keys": [
+            "11092365551|154080857250"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "UNVERIFIED_NUMERIC_BUG_SUPPLEMENT",
+          "suggestion_only_subscope": false,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "UNVERIFIED_NUMERIC_BUG_SUPPLEMENT",
+      "suggestion_only_subscope": false,
+      "classification_describes_existing_parent_problem": true
+    },
+    {
+      "public_case_key": "case-e50e3a3a195b3513",
+      "public_problem_key": "problem-8ac01031a1a8ba87",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：v0.1.3普通8px人名、地名八项统一建议",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "oni-v",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.3",
+          "original_input_SHA256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "output_SHA256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_ROM_label_literal": "oni-v-v0.1.3 8px",
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "actual_ROM_SHA256": null,
+        "suggestion_subscope_not_whole_problem_reclassification": true,
+        "terminology_suggestions": [
+          {
+            "from": "黃金丸",
+            "to": "琥金丸"
+          },
+          {
+            "from": "御伽丸",
+            "to": "音鬼丸"
+          },
+          {
+            "from": "命",
+            "to": "御琴"
+          },
+          {
+            "from": "姬乃",
+            "to": "秘女乃"
+          },
+          {
+            "from": "岩鬼丸",
+            "to": "雁木丸"
+          },
+          {
+            "from": "久米本城",
+            "to": "夈元城"
+          },
+          {
+            "from": "京城",
+            "to": "京都"
+          },
+          {
+            "from": "江都城",
+            "to": "江戶城"
+          }
+        ],
+        "suggestions_not_confirmed_translation_errors": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|oni5-v013-eight-name-place-calibration-request",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ：v0.1.3普通8px人名、地名八项统一建议",
+          "feedback_summary": "玩家明确自报oni-v-v0.1.3 8px，提出主角、同伴、NPC和地名八项译名统一建议。黄金丸改琥金丸是既有建议的补充，其余保留为本作待校准建议；尚未核原作字证及实际ROM全文SHA，不认定全部为已证译错，不把ONIⅣ的历史有限术语进展当成本作已修。既有默认名与拖慢问题分类和状态保持。",
+          "source_feedback_keys": [
+            "11092365551|154081989872"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "NAME_PLACE_CALIBRATION_REQUEST",
+          "suggestion_only_subscope": true,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "NAME_PLACE_CALIBRATION_REQUEST",
+      "suggestion_only_subscope": true,
+      "classification_describes_existing_parent_problem": true
+    },
+    {
+      "public_case_key": "case-aaf94857850e412b",
+      "public_problem_key": "problem-bd13b3df0460bdd0",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：新作者自报v0.1.3普通8px多处日文残留",
+      "classification": "REQUEST_OR_OTHER",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "public_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "oni-v",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.3",
+          "original_input_SHA256": "870f83f781c103925f206f35b71cdda6a0493e5b4c70d70b49cade145c35f127",
+          "output_SHA256": "553ffe52bc594ea49ada9a8ad83dac3f7b2529754ac503799fa5f44da5da336b"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "reported_ROM_label_literal": "oni-v-v0.1.3 8px",
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_progress_literal": "約一半進度",
+        "actual_ROM_SHA256": null,
+        "exact_untranslated_line_or_scene_unknown": true,
+        "other_authors_identity_not_reassigned": true,
+        "player_opinion_not_whole_game_acceptance": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261029-0431|oni5-v013-8px-midgame-Japanese-residual-new-reporter",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ：新作者自报v0.1.3普通8px多处日文残留",
+          "feedback_summary": "新作者明确自报oni-v-v0.1.3 8px，称目前约一半流程有多处对话日文残留，但尚无一处具体场景、原句或新图；已按新作者子范围登记，不替早期另一作者确认代数。其不影响理解或通关的表述是玩家判断，不能认证完整流程或漏译已解决。未由维护运行复现或新增修复。",
+          "source_feedback_keys": [
+            "11092365551|154081989872"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
+          "suggestion_only_subscope": false,
+          "parent_problem_classification_preserved": true
+        }
+      ],
+      "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
+      "suggestion_only_subscope": false,
+      "classification_describes_existing_parent_problem": true
     }
   ],
-  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
+  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
 }

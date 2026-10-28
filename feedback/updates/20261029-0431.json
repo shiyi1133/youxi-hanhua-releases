@@ -1,0 +1,128 @@
+{
+  "schema": "public_hb290431_actual_two_quotes_three_existing_scopes_one_ACK_text_only_increment_v1",
+  "run_id": "20261029-0431",
+  "generated_at": "2026-10-29T04:50:52.670771+08:00",
+  "bindings": {
+    "source_scan_SHA256": "49be8b98775a3117e6ae7b31d0e736bc6e0c545df212ebdc711f46269bcbd461",
+    "root_visual_SHA256": "be7cb16b0375c91f2a77b190c229e7dde40700e2a62fbe61552a4e542edb548f",
+    "actual_registration_SHA256": "f8375bac313e05fffef67b7816170734904a034d18f30cc0e808385b235cd518",
+    "actual_comment_plan_SHA256": "c8ceca5705fa91dbfc5240062be7b84118b51d00586ffcdc44ed084d0e3cac5d",
+    "source_evidence_Git_proof_SHA256": "2c60c88cdf589eb997ba02858cc57d69db50500db68ef25000b40bea1626cb8b",
+    "postA_Git_proof_SHA256": "c072db8cdeb0dcb7095c6e8d4a1c478f19df3b68759cc740d65bfa90965c3340",
+    "reply_Git_proof_SHA256": "cc42e2ed64b795ea9288efdfbd49a6cab73dd44619168014d0f37495b15094e3",
+    "actual_reply_receipt_SHA256s": [
+      "3d69e85098f0c48d68fbfbe598c8c6f613a885dd8a38bd136b8fa519fae8ab4e"
+    ],
+    "current_Issue_signature_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a",
+    "prior_Root_type_snapshot_Git_proof_SHA256": "8e9cd8bc83ceff72f97a023b5836cdc3feeea6ac6b825171b9086852c018925b",
+    "prior_Root_type_gate_SHA256": "168dcb5f825cf74f98d536583cd5b9fda00364d639849262178bee4beae114e5",
+    "prior_actual_Issue_identity_snapshot_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a"
+  },
+  "source_quote_count": 2,
+  "original_image_hash_positions": 0,
+  "original_JPEG_positions": 0,
+  "original_JPEG_files_uploaded": 0,
+  "public_image_files": 0,
+  "derived_image_files": 0,
+  "private_gallery_path_images_not_rehosted": true,
+  "feedback_scope_updates": 3,
+  "source_only_unverified_new_games_exported": 0,
+  "actual_replies": 1,
+  "actual_ACKs": 1,
+  "actual_information_replies": 1,
+  "reply_role_counts_overlap_not_additional_sends": true,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 64,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entries": 0,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261029-0431|shuihu-shenshou-thirdparty-level70plus-99-stat-decrease",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：转述99级与70多级速度、攻击下降",
+      "feedback_summary": "玩家补充转述99级数值仍溢出，有些神兽70多级速度和攻击下降。2026.10.28仅是报告日期，实际ROM版本、完整SHA、对象、初始数值和触发步骤未知；不能认定当前r0.4回归、与此前99级黑屏同因或维护已复现。现只补充原有待查范围，沿用此前已发版本询问，不新增修复结论。",
+      "source_feedback_keys": [
+        "11092365551|154080857250"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "feedback_subscope_kind": "UNVERIFIED_NUMERIC_BUG_SUPPLEMENT",
+      "suggestion_only_subscope": false,
+      "parent_problem_classification_preserved": true
+    },
+    {
+      "public_update_key": "20261029-0431|oni5-v013-eight-name-place-calibration-request",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：v0.1.3普通8px人名、地名八项统一建议",
+      "feedback_summary": "玩家明确自报oni-v-v0.1.3 8px，提出主角、同伴、NPC和地名八项译名统一建议。黄金丸改琥金丸是既有建议的补充，其余保留为本作待校准建议；尚未核原作字证及实际ROM全文SHA，不认定全部为已证译错，不把ONIⅣ的历史有限术语进展当成本作已修。既有默认名与拖慢问题分类和状态保持。",
+      "source_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "feedback_subscope_kind": "NAME_PLACE_CALIBRATION_REQUEST",
+      "suggestion_only_subscope": true,
+      "parent_problem_classification_preserved": true
+    },
+    {
+      "public_update_key": "20261029-0431|oni5-v013-8px-midgame-Japanese-residual-new-reporter",
+      "game_ids": [
+        "oni-v"
+      ],
+      "summary": "ONIⅤ：新作者自报v0.1.3普通8px多处日文残留",
+      "feedback_summary": "新作者明确自报oni-v-v0.1.3 8px，称目前约一半流程有多处对话日文残留，但尚无一处具体场景、原句或新图；已按新作者子范围登记，不替早期另一作者确认代数。其不影响理解或通关的表述是玩家判断，不能认证完整流程或漏译已解决。未由维护运行复现或新增修复。",
+      "source_feedback_keys": [
+        "11092365551|154081989872"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
+      "suggestion_only_subscope": false,
+      "parent_problem_classification_preserved": true
+    }
+  ]
+}

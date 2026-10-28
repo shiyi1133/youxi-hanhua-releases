@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 617,
+  "count": 618,
   "rows": [
     {
       "tid": "11092365551",
@@ -14310,9 +14310,26 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154080652303",
+      "parent_pid": "154020058027",
+      "floor": 21,
+      "public_nickname": "caochunyuan1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154080652303#154080652303",
+      "created_at": "2026-10-28T16:11:14+08:00",
+      "quote": "2026.10.28有人反映，水浒神兽 汉化修复版，用天山雪莲升级到99级会黑屏，其它暂时还没发现。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a64cf5c9a8458e6885d877a9dd54acb28cc07bff64defb0a4672dcc68f31cc79",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
+  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
 }

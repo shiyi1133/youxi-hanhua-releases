@@ -5730,8 +5730,34 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-a6b4cea3b1e27fc0",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "kind": "ISSUE_REGISTERED_FEEDBACK_ACK_AND_INFORMATION_QUESTION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154080652303"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154020058027",
+      "pid": "154080770537",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154080770537#154080770537",
+      "text": "天山雪莲升到99级黑屏的情况已补进原有记录。请补一下实际ROM文件名或版本，以及给哪只神兽、从几级升到99时出现，方便继续排查。",
+      "text_sha256": "af0b651e491fc663b0e8e666fcd8d88179a027b0ab68b22e307694920c38bc8b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-28T16:51:03.124115+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154080652303",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 97,
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
+  "row_count": 98,
+  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
 }

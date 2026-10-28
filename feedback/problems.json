@@ -96,7 +96,8 @@
       "classification": "BUG",
       "case_keys": [
         "case-26364a39ecd77fa4",
-        "case-2ea26254b27e5ad1"
+        "case-2ea26254b27e5ad1",
+        "case-ec5150a35ee974f1"
       ],
       "public_feedback_keys": [
         "11092365551|154021147424",
@@ -107,13 +108,14 @@
         "11092365551|154033155756",
         "11092365551|154033158745",
         "11092365551|154036507002",
-        "11092365551|154036777950"
+        "11092365551|154036777950",
+        "11092365551|154080652303"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -5721,7 +5723,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00",
+  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

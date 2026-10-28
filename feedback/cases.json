@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
   "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "case_count": 212,
+  "case_count": 213,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -12901,7 +12901,75 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-ec5150a35ee974f1",
+      "public_problem_key": "problem-7b8ffde9f03c31de",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：转述天山雪莲升至99级黑屏",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
+      "public_feedback_keys": [
+        "11092365551|154080652303"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "shuihu-shenshou",
+          "font": "original",
+          "audio_variant": null,
+          "version": "r0.4",
+          "original_input_SHA256": "d7cac5007f7037ec87af81c587f80de729a414d1da795cffbf7dc4c643094338",
+          "output_SHA256": "2865f26e2af7014964d8b3439d0ad89e0f41184cebba9b454f77c35a94dd8bad"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "report_is_third_party_hearsay": true,
+        "reported_date_labels": [
+          "2026.10.28"
+        ],
+        "reported_filename_literal": null,
+        "actual_version": null,
+        "actual_font": null,
+        "actual_ROM_SHA256": null,
+        "report_date_is_not_ROM_version": true,
+        "current_r04_is_reference_not_reporter_identity": true,
+        "upgrade_target_and_initial_level_and_steps_unknown": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261028-1631|shuihu-shenshou-thirdparty-snowlotus-99-level-black-screen",
+          "game_ids": [
+            "shuihu-shenshou"
+          ],
+          "summary": "水浒神兽：转述天山雪莲升至99级黑屏",
+          "feedback_summary": "玩家转述有人使用天山雪莲升至99级会黑屏，尚无实际ROM文件名、版本、字号、完整SHA或触发步骤，没有新截图。日期2026.10.28只是报告日期；当前r0.4原16px字号对白分页修订测试版仅为发布参考，不能据此确认玩家版本、最新版回归或旧100级溢出同因。现仅登记新来源，未复现、修复或宣称该路径通过。",
+          "source_feedback_keys": [
+            "11092365551|154080652303"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+          "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
+  "last_incremental_update_at": "2026-10-28T16:53:39.029852+08:00"
 }

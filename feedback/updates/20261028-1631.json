@@ -1,0 +1,77 @@
+{
+  "schema": "public_hb281631_actual_one_hearsay_quote_one_existing_scope_one_ACK_text_only_increment_v1",
+  "run_id": "20261028-1631",
+  "generated_at": "2026-10-28T16:53:39.029852+08:00",
+  "bindings": {
+    "source_scan_SHA256": "17e1b0db7050a74374f72bf06599399da7f69b26c764e0f1739ed240feeebb92",
+    "root_visual_SHA256": "2757fdf742cfd1d575c428bd31af406f6ac9474ce335cd4eb6417afc70691dcb",
+    "actual_registration_SHA256": "b87991cb1e8731d31951af9a0880e7e12a0474738a4f9e5f1f4c2fad3bd58fcb",
+    "actual_comment_plan_SHA256": "f126e000d0cab30ebde6bd02f495d0a093c8596ec38836703468ab804605dff9",
+    "source_evidence_Git_proof_SHA256": "68b1719283332cf4e27aa7e2ffbedf61c81b451cbd62bf3d29712859a1ff0986",
+    "postA_Git_proof_SHA256": "2f0039a8df2329cccf3656f06a02847d8aa30323b3f2189b63cdd6f8f55bde76",
+    "reply_Git_proof_SHA256": "7bace28c56a05e962354f94b922aacb6f360428b6c054d62d8af7fca8e917b45",
+    "actual_reply_receipt_SHA256s": [
+      "67fc31572e8339fc1ca29590afea60032a7d041680f5bd694731cd6e4ff6159a"
+    ],
+    "current_Issue_signature_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a",
+    "prior_Root_type_snapshot_Git_proof_SHA256": "8ab7df50a3913ac514f1e2bd59831b76ba299b7ea77036f50c0a21a0de05602f",
+    "prior_Root_type_gate_SHA256": "4cd301a050093e952ee78f9940f8bc51c87fa56d8a16967e5afed6091ddad978",
+    "prior_actual_Issue_identity_snapshot_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a"
+  },
+  "source_quote_count": 1,
+  "original_image_hash_positions": 0,
+  "original_JPEG_positions": 0,
+  "original_JPEG_files_uploaded": 0,
+  "public_image_files": 0,
+  "derived_image_files": 0,
+  "private_gallery_path_images_not_rehosted": true,
+  "feedback_scope_updates": 1,
+  "source_only_unverified_new_games_exported": 0,
+  "actual_replies": 1,
+  "actual_ACKs": 1,
+  "actual_information_replies": 1,
+  "reply_role_counts_overlap_not_additional_sends": true,
+  "current_classification_counts": {
+    "open_pure_BUG_count": 64,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "new_anonymous_problem_entries": 0,
+  "public_Issue_creations": 0,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "forum_sends": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261028-1631|shuihu-shenshou-thirdparty-snowlotus-99-level-black-screen",
+      "game_ids": [
+        "shuihu-shenshou"
+      ],
+      "summary": "水浒神兽：转述天山雪莲升至99级黑屏",
+      "feedback_summary": "玩家转述有人使用天山雪莲升至99级会黑屏，尚无实际ROM文件名、版本、字号、完整SHA或触发步骤，没有新截图。日期2026.10.28只是报告日期；当前r0.4原16px字号对白分页修订测试版仅为发布参考，不能据此确认玩家版本、最新版回归或旧100级溢出同因。现仅登记新来源，未复现、修复或宣称该路径通过。",
+      "source_feedback_keys": [
+        "11092365551|154080652303"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "feedback_summary_scope": "PLAYER_REPORT_ONLY_NOT_MAINTAINER_RUNTIME_OR_WHOLE_GAME_ACCEPTANCE",
+      "state_checked_at": "2026-10-28T16:53:39.029852+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null
+    }
+  ]
+}

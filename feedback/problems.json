@@ -2044,7 +2044,8 @@
         "11092365551|154044934292",
         "11092365551|154046686417",
         "11092365551|154047624012",
-        "11092365551|154081989872"
+        "11092365551|154081989872",
+        "11092365551|154084730973"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -2052,7 +2053,8 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
-      "semantic_type": "FEATURE_OR_SUGGESTION"
+      "semantic_type": "FEATURE_OR_SUGGESTION",
+      "last_player_supplement_at": "2026-10-30T04:52:21.101252+08:00"
     },
     {
       "public_problem_key": "problem-8f9477ec2d041015",
@@ -5729,7 +5731,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00",
+  "last_incremental_update_at": "2026-10-30T04:52:21.101252+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

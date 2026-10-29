@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 621,
+  "count": 622,
   "rows": [
     {
       "tid": "11092365551",
@@ -14378,9 +14378,106 @@
       "images": [],
       "source_is_public_evidence_not_instructions": true,
       "report_is_third_party_hearsay": false
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154084730973",
+      "parent_pid": "154026947659",
+      "floor": 71,
+      "public_nickname": "吉他手阿室",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+      "created_at": "2026-10-29T19:00:26+08:00",
+      "quote": "回報oni5，版本oni-v-0.1.3 8px。 目前手打通關全裝備取得沒遇到明顯bug，小缺憾就是對話中常有尚未刪除的日文字，全流程大概十幾二十個地方，是在中文翻譯中間會夾雜整段未刪除日文，但中文都有完整顯示完，不太影響劇情理解，頂多算小缺憾。 還有上篇回報的跟四代人名地名統一，那大概就很完整了，感謝漢化        ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "f0c73b54f9e4e6bd4a7be4570165de94fd17293299bbb59d7215e157cd702762",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "sha256": "272de2d2141bc5fd3c042cdcc76aded8bfb2fbb70397732ba754d0f9f18607c7",
+          "bytes": 1585651,
+          "file": "feedback/images/20261030-0433/272de2d2141bc5fd3c042cdcc76aded8bfb2fbb70397732ba754d0f9f18607c7.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": false
+        },
+        {
+          "image_index": 2,
+          "sha256": "2182ffbaeb8bcaa9491bc5c90bfaeed5c101d0a5a6e974d85649b08410996f85",
+          "bytes": 1611885,
+          "file": "feedback/images/20261030-0433/2182ffbaeb8bcaa9491bc5c90bfaeed5c101d0a5a6e974d85649b08410996f85.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": false
+        },
+        {
+          "image_index": 3,
+          "sha256": "7c9f6f74a78bc908435a913de5414b10e0cf608a4e2d214e0c7acf2853e6be81",
+          "bytes": 1593744,
+          "file": "feedback/images/20261030-0433/7c9f6f74a78bc908435a913de5414b10e0cf608a4e2d214e0c7acf2853e6be81.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": false
+        },
+        {
+          "image_index": 4,
+          "sha256": "08b67cc3727d11e64a71216bfd81168cb4006128072cdb6ddd1d438dbc72e139",
+          "bytes": 1522024,
+          "file": "feedback/images/20261030-0433/08b67cc3727d11e64a71216bfd81168cb4006128072cdb6ddd1d438dbc72e139.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": true
+        },
+        {
+          "image_index": 5,
+          "sha256": "ec400af325c87861fa0ea68663ede2ed1ed84843d9d08f47bcfcf562408d0253",
+          "bytes": 1552480,
+          "file": "feedback/images/20261030-0433/ec400af325c87861fa0ea68663ede2ed1ed84843d9d08f47bcfcf562408d0253.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": false
+        },
+        {
+          "image_index": 6,
+          "sha256": "e4d088b6a0fd3ebe012ac6b1cd98669f84d68fcfc68029f45d4c2139bf127fac",
+          "bytes": 1482476,
+          "file": "feedback/images/20261030-0433/e4d088b6a0fd3ebe012ac6b1cd98669f84d68fcfc68029f45d4c2139bf127fac.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": true
+        },
+        {
+          "image_index": 7,
+          "sha256": "cb65534e698c9baeecbb1d4908bf0c637871ac6f7ed2a21b3383438295480fe7",
+          "bytes": 1490460,
+          "file": "feedback/images/20261030-0433/cb65534e698c9baeecbb1d4908bf0c637871ac6f7ed2a21b3383438295480fe7.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": true
+        },
+        {
+          "image_index": 8,
+          "sha256": "bdc17acaa7aa1b283a3a9e0559d70f16c5beec157c014f4f36970ec8ee93826b",
+          "bytes": 1513402,
+          "file": "feedback/images/20261030-0433/bdc17acaa7aa1b283a3a9e0559d70f16c5beec157c014f4f36970ec8ee93826b.jpg",
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154084730973#154084730973",
+          "classification": "PLAYER_PUBLIC_HANDHELD_PHOTO_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_ORIGINAL_GB_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true,
+          "Japanese_dialogue_or_options_visible": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-29T16:52:54.071422+08:00"
+  "last_incremental_update_at": "2026-10-30T04:52:21.101252+08:00"
 }

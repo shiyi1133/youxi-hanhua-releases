@@ -13157,7 +13157,8 @@
       "registration_issue_state": "open",
       "state_checked_at": "2026-10-29T04:50:52.670771+08:00",
       "public_feedback_keys": [
-        "11092365551|154081989872"
+        "11092365551|154081989872",
+        "11092365551|154084730973"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_NEW_PUBLIC_ISSUE_THIS_SYNC",
@@ -13210,12 +13211,55 @@
           "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
           "suggestion_only_subscope": false,
           "parent_problem_classification_preserved": true
+        },
+        {
+          "public_update_key": "20261030-0433|oni5-v013-Japanese-residual-screenshot-followup",
+          "game_ids": [
+            "oni-v"
+          ],
+          "summary": "ONIⅤ：v0.1.3普通8px日文残留追加八张公开照片",
+          "feedback_summary": "同一玩家续报手打通关并取得全装备、未遇到明显BUG，同时称中文之间仍夹有约十几至二十处整段日文，附八张照片。四张可见日文对白或选项，其余含结尾、中文对白及装备页；八图不等于八个缺陷。通关与全装备仅玩家自述，未由维护运行或核玩家完整ROM。此前人地名建议保持待校准，未据此确认任何修复。",
+          "source_feedback_keys": [
+            "11092365551|154084730973"
+          ],
+          "related_previous_source_feedback_keys": [
+            "11092365551|154081989872"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "state_checked_at": "2026-10-30T04:52:21.101252+08:00",
+          "reported_ROM_label_literal": "oni-v-0.1.3 8px",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "player_self_reported_completion": true,
+          "player_self_reported_all_equipment": true,
+          "player_completion_is_maintainer_verified": false,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "game_acceptance_changed": false,
+          "source_original_image_count": 8,
+          "visible_Japanese_dialogue_or_options_image_indexes": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "all8_images_are_eight_distinct_defects": false,
+          "hardware_is_modern_handheld_not_original_GB_acceptance": true,
+          "other_authors_identity_not_reassigned": true,
+          "parent_problem_classification_preserved": true
         }
       ],
       "feedback_subscope_kind": "UNTRANSLATED_TEXT_NEW_REPORTER_SCOPE",
       "suggestion_only_subscope": false,
-      "classification_describes_existing_parent_problem": true
+      "classification_describes_existing_parent_problem": true,
+      "latest_player_supplement_at": "2026-10-30T04:52:21.101252+08:00",
+      "latest_player_supplement_summary": "ONIⅤ：v0.1.3普通8px日文残留追加八张公开照片"
     }
   ],
-  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
+  "last_incremental_update_at": "2026-10-30T04:52:21.101252+08:00"
 }

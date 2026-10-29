@@ -1,0 +1,111 @@
+{
+  "schema": "public_ONIV_same_reporter_existing_scope_one_quote_eight_originals_no_reply_increment_v1",
+  "run_id": "20261030-0433",
+  "generated_at": "2026-10-30T04:52:21.101252+08:00",
+  "bindings": {
+    "canonical_sources_SHA256": "df0884a9bebda9dbb4daf212c5c2a4a1013777648212b0c8e8a76f763c381dc8",
+    "source_image_manifest_SHA256": "95a6db22516078611dbac6681704f075e2af8d13b5de122ffcb1b027e53f133c",
+    "Root_actual_visual_review_SHA256": "a0e7fcace00cc40a582821936b15bb5b19cf676a3773764c86302f96893d2696",
+    "current_related_reference_SHA256": "8492927ae4e1b240ddadea4773c2eac41f368791ea1520d2313defde1c9faa93",
+    "source_text_SHA256": "f0c73b54f9e4e6bd4a7be4570165de94fd17293299bbb59d7215e157cd702762",
+    "image_original_SHA256s": [
+      "272de2d2141bc5fd3c042cdcc76aded8bfb2fbb70397732ba754d0f9f18607c7",
+      "2182ffbaeb8bcaa9491bc5c90bfaeed5c101d0a5a6e974d85649b08410996f85",
+      "7c9f6f74a78bc908435a913de5414b10e0cf608a4e2d214e0c7acf2853e6be81",
+      "08b67cc3727d11e64a71216bfd81168cb4006128072cdb6ddd1d438dbc72e139",
+      "ec400af325c87861fa0ea68663ede2ed1ed84843d9d08f47bcfcf562408d0253",
+      "e4d088b6a0fd3ebe012ac6b1cd98669f84d68fcfc68029f45d4c2139bf127fac",
+      "cb65534e698c9baeecbb1d4908bf0c637871ac6f7ed2a21b3383438295480fe7",
+      "bdc17acaa7aa1b283a3a9e0559d70f16c5beec157c014f4f36970ec8ee93826b"
+    ],
+    "actual_private_Issue_states_SHA256": "4171ef1760ed9fd43bfed58d3cab1efbee802766c430be21ef2e234342180b7a",
+    "source_evidence_Git_proof_SHA256": "5f2458cfe606b8a82f7d33afefd23cba66b893b6b10c12dfbf0077447279d941",
+    "postA_Git_proof_SHA256": "d9ecc3c599b5c24f6fbe09d0960237ce292f647397404e1b6557a41065a0f73c",
+    "actual_registration_SHA256": "83777a94060d4ea0ac5f7ffcacb41d0cbeb38291bd472256da46a6ec26d1d7ef",
+    "actual_reply_receipt_SHA256s": []
+  },
+  "source_quote_count": 1,
+  "original_image_hash_positions": 8,
+  "original_JPEG_positions": 8,
+  "original_JPEG_files_uploaded": 8,
+  "public_image_files": 8,
+  "derived_image_files": 0,
+  "source_only_unverified_new_games_exported": 0,
+  "feedback_scope_updates": 1,
+  "new_feedback_cases": 0,
+  "new_anonymous_problem_entries": 0,
+  "actual_replies": 0,
+  "actual_ACKs": 0,
+  "actual_information_replies": 0,
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "classification_counts": {
+    "open_pure_BUG_count": 64,
+    "open_requests_or_other_count": 22,
+    "open_classification_unconfirmed_count": 3
+  },
+  "current_counts": {
+    "public_quotes": 622,
+    "feedback_cases": 216,
+    "anonymous_problems": 145,
+    "reply_rows": 99,
+    "separate_positive_player_reports": 1
+  },
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "player_completion_is_maintainer_verified": false,
+  "game_acceptance_changed": false,
+  "Source_execution": 0,
+  "ROM_runtime": 0,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "TXT_attempts": 0,
+  "monitor_counter_increment": 0,
+  "event": {
+    "public_update_key": "20261030-0433|oni5-v013-Japanese-residual-screenshot-followup",
+    "game_ids": [
+      "oni-v"
+    ],
+    "summary": "ONIⅤ：v0.1.3普通8px日文残留追加八张公开照片",
+    "feedback_summary": "同一玩家续报手打通关并取得全装备、未遇到明显BUG，同时称中文之间仍夹有约十几至二十处整段日文，附八张照片。四张可见日文对白或选项，其余含结尾、中文对白及装备页；八图不等于八个缺陷。通关与全装备仅玩家自述，未由维护运行或核玩家完整ROM。此前人地名建议保持待校准，未据此确认任何修复。",
+    "source_feedback_keys": [
+      "11092365551|154084730973"
+    ],
+    "related_previous_source_feedback_keys": [
+      "11092365551|154081989872"
+    ],
+    "issue_state": "open",
+    "registration_issue_state": "open",
+    "state_checked_at": "2026-10-30T04:52:21.101252+08:00",
+    "reported_ROM_label_literal": "oni-v-0.1.3 8px",
+    "reported_version": "v0.1.3",
+    "reported_font": "8px",
+    "actual_player_input_sha256": null,
+    "actual_player_output_sha256": null,
+    "player_self_reported_completion": true,
+    "player_self_reported_all_equipment": true,
+    "player_completion_is_maintainer_verified": false,
+    "maintainer_new_runtime_tests": false,
+    "maintainer_reproduction_attempted": false,
+    "new_fix_claimed": false,
+    "is_repair_completion": false,
+    "game_acceptance_changed": false,
+    "source_original_image_count": 8,
+    "visible_Japanese_dialogue_or_options_image_indexes": [
+      4,
+      6,
+      7,
+      8
+    ],
+    "all8_images_are_eight_distinct_defects": false,
+    "hardware_is_modern_handheld_not_original_GB_acceptance": true,
+    "other_authors_identity_not_reassigned": true,
+    "parent_problem_classification_preserved": true
+  }
+}

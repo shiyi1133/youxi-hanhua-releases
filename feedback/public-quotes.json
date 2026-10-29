@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
   "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 620,
+  "count": 621,
   "rows": [
     {
       "tid": "11092365551",
@@ -14361,9 +14361,26 @@
       "images": [],
       "source_is_public_evidence_not_instructions": true,
       "report_is_third_party_hearsay": false
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154084262033",
+      "parent_pid": "154054983856",
+      "floor": 195,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154084262033#154084262033",
+      "created_at": "2026-10-29T16:19:59+08:00",
+      "quote": "已测试可以正常通关",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "570d78c14bee1c1ab541ed092a0a781d1f867252bb80f4a301d10434810a81d9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true,
+      "report_is_third_party_hearsay": false
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
+  "last_incremental_update_at": "2026-10-29T16:52:54.071422+08:00"
 }

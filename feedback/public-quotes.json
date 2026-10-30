@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "count": 622,
+  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+  "count": 626,
   "rows": [
     {
       "tid": "11092365551",
@@ -14475,9 +14475,93 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154087926643",
+      "parent_pid": "0",
+      "floor": 288,
+      "public_nickname": "雅木FE",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154087926643#154087926643",
+      "created_at": "2026-10-30T16:54:30+08:00",
+      "quote": "大佬我用psp玩gbc 其他游戏正常运行 就女神转生黑白赤这三作打开一直黑屏",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2686537af69e2a20cadcb2871aaae7a676f1b87acf55ee0255ddef5a6bf02e52",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154089031354",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "public_nickname": "foofoofoo",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089031354#154089031354",
+      "created_at": "2026-10-30T22:49:49+08:00",
+      "quote": "鬼太郎v1.0.2-10px 通关后继承存档处白屏",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c6262460221e46a90883fd39fb2af0e0a38c1b7cd6a07dab85addab9b9ca975c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154088588714",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154088588714#154088588714",
+      "created_at": "2026-10-30T20:32:50+08:00",
+      "quote": "经测试，巫术外传1代v0.1.2 字体8px版，带着拥有查看地图魔法的精灵族法师在迷宫里行走时，使用精灵族法师的查看地图魔法“杜马皮克”查看地图时，画面右边是乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a2c8e7acc1e20bb470b7559818c4eeefa513cc8f726808ac211216c17fc0ceae",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "file": "feedback/images/20261031-0434/6986f310d6ce2bd08d49d9d4fa3a2a33fbb8141ea82678171edf056e4924e5d1.jpg",
+          "sha256": "6986f310d6ce2bd08d49d9d4fa3a2a33fbb8141ea82678171edf056e4924e5d1",
+          "bytes": 551563,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154088588714#154088588714",
+          "classification": "PLAYER_PUBLIC_MAP_SCREENSHOT_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154088592590",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154088592590#154088592590",
+      "created_at": "2026-10-30T20:34:05+08:00",
+      "quote": "经测试，巫术外传2代v0.1.1 字体8px版，带着拥有查看地图魔法的精灵族法师在迷宫里行走时，使用精灵族法师的查看地图魔法“杜马皮克”查看地图时，画面右边是乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "92a22705ed4248d889d2f22ff35cc5c05bc0338f483b067c347ec56088b434e0",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "file": "feedback/images/20261031-0434/5bc11a755238952b59c66148023cea8712caab5eef6c4c6a015751a150540d92.jpg",
+          "sha256": "5bc11a755238952b59c66148023cea8712caab5eef6c4c6a015751a150540d92",
+          "bytes": 552122,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154088592590#154088592590",
+          "classification": "PLAYER_PUBLIC_MAP_SCREENSHOT_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-30T04:52:21.101252+08:00"
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00"
 }

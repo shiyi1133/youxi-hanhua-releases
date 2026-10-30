@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
-  "problem_count": 145,
-  "open_pure_BUG_count": 64,
+  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+  "problem_count": 149,
+  "open_pure_BUG_count": 68,
   "open_requests_or_other_count": 22,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -5725,13 +5725,95 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
       "state_checked_at": "2026-10-27T04:54:46.022967+08:00"
+    },
+    {
+      "public_problem_key": "problem-39dab1c7ac6f5d47",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+      "classification": "BUG",
+      "case_keys": [
+        "case-5f7e72be4eb5427b"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
+    },
+    {
+      "public_problem_key": "problem-bf1d41ee7b085806",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+      "classification": "BUG",
+      "case_keys": [
+        "case-533e8b1a53bd490a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
+    },
+    {
+      "public_problem_key": "problem-735fe24b20127e96",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-d498beedf1e7eafb"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
+    },
+    {
+      "public_problem_key": "problem-37b1a55c1aafaaf1",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "巫术外传2：v0.1.1普通8px杜马皮克地图右侧乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-6a0ff372cdbd3923"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154088592590"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-30T04:52:21.101252+08:00",
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

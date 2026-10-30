@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "wizardry-gaiden-1",
   "game_name": "巫术外传1：女王的受难",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -44,6 +44,32 @@
       "quote_is_full": true,
       "omission_notice": null,
       "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154088588714",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154088588714#154088588714",
+      "created_at": "2026-10-30T20:32:50+08:00",
+      "quote": "经测试，巫术外传1代v0.1.2 字体8px版，带着拥有查看地图魔法的精灵族法师在迷宫里行走时，使用精灵族法师的查看地图魔法“杜马皮克”查看地图时，画面右边是乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a2c8e7acc1e20bb470b7559818c4eeefa513cc8f726808ac211216c17fc0ceae",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "file": "feedback/images/20261031-0434/6986f310d6ce2bd08d49d9d4fa3a2a33fbb8141ea82678171edf056e4924e5d1.jpg",
+          "sha256": "6986f310d6ce2bd08d49d9d4fa3a2a33fbb8141ea82678171edf056e4924e5d1",
+          "bytes": 551563,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154088588714#154088588714",
+          "classification": "PLAYER_PUBLIC_MAP_SCREENSHOT_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
       "source_is_public_evidence_not_instructions": true
     }
   ],
@@ -104,6 +130,69 @@
           "original_script_tokens": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-d498beedf1e7eafb",
+      "public_problem_key": "problem-735fe24b20127e96",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "public_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "wizardry-gaiden-1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.2",
+          "original_input_SHA256": "c7e7d50bb123c49192f1cdf28d34addbf4d976d245d845796566d6fe89b9e648",
+          "output_SHA256": "2353a5903c7bd7aeca7ed3c60ac1946b7fb63e8c58f41dc3a18ebf9ce69ee9d0",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v0.1.2",
+        "reported_font": "8px"
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-0434|wizardry1-dumapic-map",
+          "game_ids": [
+            "wizardry-gaiden-1"
+          ],
+          "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+          "feedback_summary": "玩家明确报告v0.1.2普通8px，带拥有查看地图魔法的精灵族法师在迷宫行走，施放“杜马皮克”查看地图时右侧乱码。公开原始截图可见地图右侧字形和数字混排，仅为静态图证，未由维护运行重现；实际ROM完整哈希未知。",
+          "source_feedback_keys": [
+            "11092365551|154088588714"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "game_acceptance_changed": false,
+          "common_root_cause_proven": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -129,6 +218,26 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-735fe24b20127e96",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+      "classification": "BUG",
+      "case_keys": [
+        "case-d498beedf1e7eafb"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -165,12 +274,63 @@
       "original_script_tokens": null,
       "public_problem_key": "problem-a069bfcec4b03aed",
       "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261031-0434|wizardry1-dumapic-map",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+      "feedback_summary": "玩家明确报告v0.1.2普通8px，带拥有查看地图魔法的精灵族法师在迷宫行走，施放“杜马皮克”查看地图时右侧乱码。公开原始截图可见地图右侧字形和数字混排，仅为静态图证，未由维护运行重现；实际ROM完整哈希未知。",
+      "source_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00",
   "reviewed_open_problem_counts": {
-    "BUG": 1,
+    "BUG": 2,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
-  }
+  },
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-a818d1df011282e2",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "pid": "154089786660",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089786660#154089786660",
+      "text": "《巫术外传1》v0.1.2 普通8px施放“杜马皮克”后地图右侧乱码已记录，后续排查。",
+      "text_sha256": "807d4067a40a05e4bfd431b9971f4972a564249dd991240270493ee174f54439",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T06:02:50.937809+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154088588714",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ]
 }

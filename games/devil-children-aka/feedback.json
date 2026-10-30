@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "devil-children-aka",
   "game_name": "真·女神转生 恶魔之子 赤之书",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
+  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -15,6 +15,22 @@
       "quote": "真女神转生黑之书、赤之书、白之书，只要一用魔法，就满屏花屏bug",
       "quote_is_full": true,
       "original_public_full_text_sha256": "f72198be60c419dc657da5dbf5d42441a7a5875da264fd661bb9b80b77c590b9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154087926643",
+      "parent_pid": "0",
+      "floor": 288,
+      "public_nickname": "雅木FE",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154087926643#154087926643",
+      "created_at": "2026-10-30T16:54:30+08:00",
+      "quote": "大佬我用psp玩gbc 其他游戏正常运行 就女神转生黑白赤这三作打开一直黑屏",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2686537af69e2a20cadcb2871aaae7a676f1b87acf55ee0255ddef5a6bf02e52",
       "omission_notice": null,
       "download_locator_redactions": [],
       "images": [],
@@ -131,6 +147,118 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-5f7e72be4eb5427b",
+      "public_problem_key": "problem-39dab1c7ac6f5d47",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "public_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b",
+          "output_bytes": 4194304
+        },
+        {
+          "game_id": "devil-children-kuro",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "9770b8accd70d8849a24f5ae2a18c95979f2d1186e5fcd02d0edd3b08553a2e1",
+          "output_bytes": 4194304
+        },
+        {
+          "game_id": "devil-children-shiro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "output_SHA256": "8d7390b77946642c410e1e236cd295dc15586261d2c5f76bf0bd57fa81cc19ec",
+          "output_bytes": 4194304
+        },
+        {
+          "game_id": "devil-children-shiro",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "867c88cb1a44881cdfc574b4b0c67701bc77f753eb1d2f5c6c8f5343bbd5b048",
+          "output_SHA256": "de78131f3b4e13baeb58411efcf44b269eb1f5f3b801cc183b1ac1743122a3da",
+          "output_bytes": 4194304
+        },
+        {
+          "game_id": "devil-children-aka",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "output_SHA256": "57f00d02102ad58e1efea30c44dd43a4d8bd1306b115a9fd59a72fab7edf503d",
+          "output_bytes": 4194304
+        },
+        {
+          "game_id": "devil-children-aka",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "6924c9276b29322f6a4ef5c33c115f82489206e102fc3585e90568ccb58328cb",
+          "output_SHA256": "b1ba13697119913cb470d7bf40811ade8687c74ca0a02728a55daac0fa795a7f",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": null,
+        "reported_font": null
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-0434|devil-three-psp-boot",
+          "game_ids": [
+            "devil-children-kuro",
+            "devil-children-shiro",
+            "devil-children-aka"
+          ],
+          "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+          "feedback_summary": "玩家称PSP上其他GBC游戏正常，但恶魔之子黑、白、赤三作启动一直黑屏。尚缺实际ROM文件名或版本、字号，实际完整输入输出SHA未知。另一玩家建议更换模拟器仅为第三方说法，不能证明原报告已解决或通过PSP兼容验收。",
+          "source_feedback_keys": [
+            "11092365551|154087926643"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "game_acceptance_changed": false,
+          "common_root_cause_proven": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -187,6 +315,28 @@
       "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-39dab1c7ac6f5d47",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+      "classification": "BUG",
+      "case_keys": [
+        "case-5f7e72be4eb5427b"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -220,12 +370,67 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-76782a70f6a9c7db",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "kind": "BUG_ACK_AND_INFORMATION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "pid": "154089778642",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089778642#154089778642",
+      "text": "黑、白、赤三作在 PSP 启动黑屏的问题已记录。请补三份 ROM 的实际文件名或版本、字号，便于核对。",
+      "text_sha256": "e067528e75297a73cfa23aacf4a18364613e0cc14c2e38310f47bb6dcdafc807",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T05:51:49.303380+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 1,
+    "BUG": 2,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   },
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00"
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00",
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261031-0434|devil-three-psp-boot",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+      "feedback_summary": "玩家称PSP上其他GBC游戏正常，但恶魔之子黑、白、赤三作启动一直黑屏。尚缺实际ROM文件名或版本、字号，实际完整输入输出SHA未知。另一玩家建议更换模拟器仅为第三方说法，不能证明原报告已解决或通过PSP兼容验收。",
+      "source_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
+    }
+  ]
 }

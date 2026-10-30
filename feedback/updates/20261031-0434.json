@@ -1,0 +1,156 @@
+{
+  "schema": "public_four_actual_new_BUG_consumers_4quotes_4ACKs_2originals_increment_v1",
+  "run_id": "20261031-0434",
+  "generated_at": "2026-10-31T06:14:12.203269+08:00",
+  "bindings": {
+    "source_evidence_Git_proof_SHA256": "8ffe2e842fd36de272cb35aab724eabab3658cfc67802cf84e79d44e121bf5b6",
+    "postA_Git_proof_SHA256": "4e6570ebbd9c06760673b1680d23970b0c4ec9123684caded586ab50e63febc6",
+    "reply_Git_proof_SHA256": "97ddc454bb516d73b1c6807b207d4bc6e8012f55710f6d5aedb237762fe56c10",
+    "actual_registration_SHA256": "342ccb58eec823c65a6a708bac0c65db5476d873fb0355467c255ad91a0f3379",
+    "actual_reply_receipt_SHA256s": [
+      "5fb4fd4624a0042bcb9d4d60a660cc4d8152d7c029999df5f8987d2052edc177",
+      "184960cd09fbb3843db59a9df27af3a0abe6420fe40ca001f2ddf05565020e1b",
+      "f00f3f50eb31d51634a92226db48ee9c68c811baa885a6c13a1ac7ffe14aba29",
+      "1b79f0a7c87ac9e17f88457a52d7f297abb318a06bfc7b308ab519661f38a43a"
+    ],
+    "actual_actor_binding_SHA256s": {
+      "r3": {
+        "root_gate_SHA256": "b183d6d14718642bcbe2e089b03f8dfb909ce9b68bd2b149b32c290cb9c45267",
+        "freeze_SHA256": "59332bcac294041b22bb0b74b4f00bb0c1efb045cd4448b831a1c28cb8456be1",
+        "actor_code_SHA256": "04c21276c7649a09d622f2c236711ab86ca90fcf5b20c9a8f250e7ca4d83f7ea",
+        "contract_SHA256": "f01042c455c3591fe324ebcd9cb8380487168bd6cca197008197dd39186f55d7"
+      },
+      "r4": {
+        "root_gate_SHA256": "0ad8288be59ba5a0e33cdfad5ccb7d5f799c82e9ed35350a75d19ca3de4821f5",
+        "freeze_SHA256": "6ac9f7e2d61a2eb3f364f739fd907ac2a532e335b68767238b29505c698c62ce",
+        "actor_code_SHA256": "77d24200eec7f67e0479b870fa5f9f4428e805682acd9e1d44d56ff8aaedca8c",
+        "contract_SHA256": "10397b7fc52261894927d3d86420f0fb9048a94c18f7ee48ac86dab0ee46ab55"
+      }
+    },
+    "Root_new_Issue_type_review_SHA256": "a9cfb7d34c7772f099cbdcc16221dd056502ad6a47c893b7edfb24ae9075d3d8",
+    "canonical_sources_SHA256": "c165342c0d636086956a230a06b1fe3b718e74a9d0d2e0039a4dc2a4c958fed1",
+    "source_images_SHA256": "93b6964062c7aa79337fec3cdc32fdc03efc770f832cf8d85515455807bfaf3d",
+    "Root_actual_visual_review_SHA256": "21c787862b0f9bae5e456274145ba573ba4f0c90188b714f911686bf4db91d5f"
+  },
+  "source_quote_count": 4,
+  "new_feedback_cases": 4,
+  "new_anonymous_problem_entries": 4,
+  "original_JPEG_files_uploaded": 2,
+  "actual_replies": 4,
+  "actual_ACKs": 4,
+  "actual_information_replies": 1,
+  "current_counts": {
+    "public_quotes": 626,
+    "feedback_cases": 220,
+    "anonymous_problems": 149,
+    "reply_rows": 103,
+    "open_pure_BUG": 68,
+    "open_other": 22,
+    "unclassified": 3
+  },
+  "all_prior_quotes_cases_problem_keys_and_history_preserved": true,
+  "all_existing_Issue_states_preserved": true,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261031-0434|devil-three-psp-boot",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "summary": "恶魔之子三书：PSP启动黑屏，版本与字号待确认",
+      "feedback_summary": "玩家称PSP上其他GBC游戏正常，但恶魔之子黑、白、赤三作启动一直黑屏。尚缺实际ROM文件名或版本、字号，实际完整输入输出SHA未知。另一玩家建议更换模拟器仅为第三方说法，不能证明原报告已解决或通过PSP兼容验收。",
+      "source_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
+    },
+    {
+      "public_update_key": "20261031-0434|gegege-postclear-inherit",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+      "feedback_summary": "玩家明确报告v1.0.2大字10px通关后继承存档处白屏；该消费者与同作者之前第三关Boss变身死机分别保留，未证相同根因。通关仅为玩家叙述，不是维护通关验收；实际ROM完整哈希未知。",
+      "source_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
+    },
+    {
+      "public_update_key": "20261031-0434|wizardry1-dumapic-map",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "summary": "巫术外传1：v0.1.2普通8px杜马皮克地图右侧乱码",
+      "feedback_summary": "玩家明确报告v0.1.2普通8px，带拥有查看地图魔法的精灵族法师在迷宫行走，施放“杜马皮克”查看地图时右侧乱码。公开原始截图可见地图右侧字形和数字混排，仅为静态图证，未由维护运行重现；实际ROM完整哈希未知。",
+      "source_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
+    },
+    {
+      "public_update_key": "20261031-0434|wizardry2-dumapic-map",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "summary": "巫术外传2：v0.1.1普通8px杜马皮克地图右侧乱码",
+      "feedback_summary": "玩家明确报告v0.1.1普通8px，带拥有查看地图魔法的精灵族法师在迷宫行走，施放“杜马皮克”查看地图时右侧乱码。公开原始截图可见地图右侧字形和数字混排，仅为静态图证，未由维护运行重现；不把两作同表象推为同根因，实际ROM完整哈希未知。",
+      "source_feedback_keys": [
+        "11092365551|154088592590"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
+    }
+  ]
+}

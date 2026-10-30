@@ -5782,8 +5782,118 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-76782a70f6a9c7db",
+      "game_ids": [
+        "devil-children-kuro",
+        "devil-children-shiro",
+        "devil-children-aka"
+      ],
+      "kind": "BUG_ACK_AND_INFORMATION",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154087926643"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "pid": "154089778642",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089778642#154089778642",
+      "text": "黑、白、赤三作在 PSP 启动黑屏的问题已记录。请补三份 ROM 的实际文件名或版本、字号，便于核对。",
+      "text_sha256": "e067528e75297a73cfa23aacf4a18364613e0cc14c2e38310f47bb6dcdafc807",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T05:51:49.303380+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-852e86dad1d76ebc",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "pid": "154089786244",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089786244#154089786244",
+      "text": "《鬼太郎》v1.0.2 大字10px通关后继承存档白屏已记录，后续排查。",
+      "text_sha256": "b8a265df1a7afb9d0eef76ca979b60fd19aad59b9d844f95aec026a61f356588",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T06:02:15.456188+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154089031354",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-a818d1df011282e2",
+      "game_ids": [
+        "wizardry-gaiden-1"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154088588714"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026897700",
+      "floor": 63,
+      "pid": "154089786660",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089786660#154089786660",
+      "text": "《巫术外传1》v0.1.2 普通8px施放“杜马皮克”后地图右侧乱码已记录，后续排查。",
+      "text_sha256": "807d4067a40a05e4bfd431b9971f4972a564249dd991240270493ee174f54439",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T06:02:50.937809+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154088588714",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-58a106bdd08ea901",
+      "game_ids": [
+        "wizardry-gaiden-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154088592590"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154026901051",
+      "floor": 64,
+      "pid": "154089780907",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089780907#154089780907",
+      "text": "《巫术外传2》v0.1.1 普通8px施放“杜马皮克”后地图右侧乱码已记录，后续排查。",
+      "text_sha256": "a6d9ab5f065b6cee3d9e3efff1d9baa8a765409517dd02ce999c4e6a6ef9c25b",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T05:55:05.045188+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154088592590",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 99,
-  "last_incremental_update_at": "2026-10-29T04:50:52.670771+08:00"
+  "row_count": 103,
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00"
 }

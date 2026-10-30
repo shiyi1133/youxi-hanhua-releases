@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "gegege-kitarou",
   "game_name": "鬼太郎：妖怪创造主现身！",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -279,6 +279,22 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154089031354",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "public_nickname": "foofoofoo",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089031354#154089031354",
+      "created_at": "2026-10-30T22:49:49+08:00",
+      "quote": "鬼太郎v1.0.2-10px 通关后继承存档处白屏",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c6262460221e46a90883fd39fb2af0e0a38c1b7cd6a07dab85addab9b9ca975c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -432,6 +448,69 @@
           "is_repair_completion": false,
           "actual_player_input_sha256": null,
           "actual_player_output_sha256": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-533e8b1a53bd490a",
+      "public_problem_key": "problem-bf1d41ee7b085806",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+      "classification": "BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "public_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "current_published_reference": [
+        {
+          "game_id": "gegege-kitarou",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "version": "v1.0.2",
+          "original_input_SHA256": "e5df85b5aa7dd7ddf7f3f7660126e06a12ae7ae1886cf15e514776e81ef04ad7",
+          "output_SHA256": "48817cd179761d95f279781c585a170085a8a58f1ca79e02c29717b0e03a5af7",
+          "output_bytes": 262144
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "reported_identity": {
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "reported_version": "v1.0.2",
+        "reported_font": "10px"
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-0434|gegege-postclear-inherit",
+          "game_ids": [
+            "gegege-kitarou"
+          ],
+          "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+          "feedback_summary": "玩家明确报告v1.0.2大字10px通关后继承存档处白屏；该消费者与同作者之前第三关Boss变身死机分别保留，未证相同根因。通关仅为玩家叙述，不是维护通关验收；实际ROM完整哈希未知。",
+          "source_feedback_keys": [
+            "11092365551|154089031354"
+          ],
+          "issue_state": "open",
+          "registration_issue_state": "open",
+          "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+          "actual_player_input_sha256": null,
+          "actual_player_output_sha256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "game_acceptance_changed": false,
+          "common_root_cause_proven": false
         }
       ]
     }
@@ -604,14 +683,34 @@
       "state_checked_at": "2026-10-27T17:09:39.489204+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-bf1d41ee7b085806",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+      "classification": "BUG",
+      "case_keys": [
+        "case-533e8b1a53bd490a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PUBLIC_BUG_ENTRY_AVAILABLE_NO_PUBLIC_ISSUE_CREATED_THIS_SYNC",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-27T17:09:39.489204+08:00",
+  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00",
   "reviewed_open_problem_counts": {
-    "BUG": 2,
+    "BUG": 3,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   },
@@ -643,6 +742,57 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-852e86dad1d76ebc",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154023342643",
+      "floor": 41,
+      "pid": "154089786244",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089786244#154089786244",
+      "text": "《鬼太郎》v1.0.2 大字10px通关后继承存档白屏已记录，后续排查。",
+      "text_sha256": "b8a265df1a7afb9d0eef76ca979b60fd19aad59b9d844f95aec026a61f356588",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T06:02:15.456188+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154089031354",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261031-0434|gegege-postclear-inherit",
+      "game_ids": [
+        "gegege-kitarou"
+      ],
+      "summary": "鬼太郎：v1.0.2大字10px通关后继承存档白屏",
+      "feedback_summary": "玩家明确报告v1.0.2大字10px通关后继承存档处白屏；该消费者与同作者之前第三关Boss变身死机分别保留，未证相同根因。通关仅为玩家叙述，不是维护通关验收；实际ROM完整哈希未知。",
+      "source_feedback_keys": [
+        "11092365551|154089031354"
+      ],
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
+      "actual_player_input_sha256": null,
+      "actual_player_output_sha256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "game_acceptance_changed": false,
+      "common_root_cause_proven": false
     }
   ]
 }

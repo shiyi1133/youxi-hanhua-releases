@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
-  "count": 626,
+  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+  "count": 631,
   "rows": [
     {
       "tid": "11092365551",
@@ -14559,9 +14559,107 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154089830289",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089830289#154089830289",
+      "created_at": "2026-10-31T06:53:08+08:00",
+      "quote": "楼主大佬，又过了好些天了，有新的修正版本心跳回忆了吗，大伙一直等着",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "5bfb7ef5f71a3c5df3257076d664fa20f3998cdfd1e2ecc1fab5d9063dcdd769",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154091341909",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091341909#154091341909",
+      "created_at": "2026-10-31T16:32:33+08:00",
+      "quote": "周哥的RG ROTATE，俗称周转或者转转机。我也是用这个在测试玩。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "00f80a280664588a8e44b1cefd0bddd7ee8d189b91363d758279e7872eece3f4",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154089863307",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "public_nickname": "明诚王淼",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089863307#154089863307",
+      "created_at": "2026-10-31T07:19:22+08:00",
+      "quote": "用pizza boy c pro模拟器玩真女神转生黑之书（v1.0.3小字版），战斗遇到了这种乱码（？），虽然不会卡死，不过完全看不清啊",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c0874127dac8bc01bc888fc668f6a65d224f88c6c1ee4a84015ec9014b521e15",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261031-1639/5ae9dad3b37b37ba1ea1743816665568bf6c7bc5f1fafe947d06314b451dea4b.jpg",
+          "sha256": "5ae9dad3b37b37ba1ea1743816665568bf6c7bc5f1fafe947d06314b451dea4b",
+          "bytes": 259719,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154089863307#154089863307",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154090255146",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "public_nickname": "明诚王淼",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154090255146#154090255146",
+      "created_at": "2026-10-31T10:11:41+08:00",
+      "quote": "my oldboy模拟器也会出现这种情况，或许真不是模拟器的问题",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "72b1095cf2762c88d1e1485543aad296daab8f08949f7d48e60324cb5dc8c964",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261031-1639/26b270b42bfee5a3ace0dbaa5700e2c2a467989c591e48ebbcb1c15facd35b97.jpg",
+          "sha256": "26b270b42bfee5a3ace0dbaa5700e2c2a467989c591e48ebbcb1c15facd35b97",
+          "bytes": 669065,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154090255146#154090255146",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154091192166",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "public_nickname": "雅木FE",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091192166#154091192166",
+      "created_at": "2026-10-31T15:40:05+08:00",
+      "quote": "原版 D商汉化都能玩 应该损坏了",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e566aeadddcf4d7fc5f9f97088b334ae71ef4bb39f688e544df7f48e12c58d00",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00"
+  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00"
 }

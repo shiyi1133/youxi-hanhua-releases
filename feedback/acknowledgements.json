@@ -5892,8 +5892,63 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-75ed11453a8b9e4c",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154089863307",
+        "11092365551|154090255146"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "pid": "154091453907",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091453907#154091453907",
+      "text": "《黑之书》v1.0.3 小字版战斗满屏乱码的两次反馈和截图，已补进已有问题，后续继续排查。",
+      "text_sha256": "0e6abd0d9bf7d0423e89b5d7242f12a3d1508664842d207eab8c8b3210abd859",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T17:13:23.685333+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154089863307",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-d3f7bbe4af29200b",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "kind": "INFORMATION",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154089830289"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "pid": "154091455328",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091455328#154091455328",
+      "text": "文艺篇目前最新是 v0.1.7 测试版；你说的社团活动洗澡事件日文残留，尚无已核验的修复版。",
+      "text_sha256": "67e74284dd50a35421ca08ce7b1bac9e3342326974aa503f94f4542ac7aa1609",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T17:13:52.034601+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154089830289",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 103,
-  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00"
+  "row_count": 105,
+  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00"
 }

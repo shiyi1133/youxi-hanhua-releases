@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-10-31T06:14:12.203269+08:00",
-  "case_count": 220,
+  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+  "case_count": 222,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -13560,7 +13560,156 @@
           "common_root_cause_proven": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-8131ae89ea4e59b2",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书当前小字版战斗满屏乱码补充反馈",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_BUG_ADDITIONAL_EVIDENCE",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "public_feedback_keys": [
+        "11092365551|154089863307",
+        "11092365551|154090255146",
+        "11092365551|154091192166"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154089863307",
+        "11092365551|154090255146"
+      ],
+      "context_feedback_keys": [
+        "11092365551|154091192166"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.3",
+        "reported_font": "小字版 / 8px reference",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-1639|black-v103-battle-zeros-followup",
+          "game_ids": [
+            "devil-children-kuro"
+          ],
+          "summary": "黑之书当前小字版战斗满屏乱码补充反馈",
+          "feedback_summary": "玩家报告《黑之书》v1.0.3小字版在战斗中满屏乱码但未卡死，随后补充my oldboy也出现同一现象；两张公开原图作为同一问题的补充证据。另一位玩家回复“应该损坏了”属于未核实猜测，不证明ROM损坏，也不证明原PSP启动黑屏已解决。实际玩家ROM完整哈希未知，维护未运行重现或确认共同根因。",
+          "source_feedback_keys": [
+            "11092365551|154089863307",
+            "11092365551|154090255146",
+            "11092365551|154091192166"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "ROM_damage_proven": false,
+          "PSP_startup_resolution_proven": false,
+          "hardware_acceptance": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ddcb7da5ae428617",
+      "public_problem_key": "problem-6172579ccd76d65f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "CURRENT_VERSION_STATUS_QUESTION_NOT_NEW_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "public_feedback_keys": [
+        "11092365551|154089830289",
+        "11092365551|154091341909"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154089830289"
+      ],
+      "context_feedback_keys": [
+        "11092365551|154091341909"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "tokimeki-memorial-pocket-culture",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.7",
+          "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1",
+          "output_bytes": 8388608
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-1639|culture-bath-version-information",
+          "game_ids": [
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+          "feedback_summary": "玩家询问文艺篇是否有新的修正版本；当前最新版为v0.1.7测试版，社团活动洗澡事件日文残留尚无已核验修复版。另一玩家对RG ROTATE设备的说明仅为上下文，不能作为维护硬件验收。此条为版本信息问答，不是新BUG或修复完成。",
+          "source_feedback_keys": [
+            "11092365551|154089830289",
+            "11092365551|154091341909"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "ROM_damage_proven": false,
+          "PSP_startup_resolution_proven": false,
+          "hardware_acceptance": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-10-31T06:14:12.203269+08:00"
+  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00"
 }

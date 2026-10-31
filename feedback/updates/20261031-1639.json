@@ -1,0 +1,102 @@
+{
+  "schema": "public_existing_two_problems_five_quotes_two_actual_replies_two_originals_increment_v1",
+  "run_id": "20261031-1639",
+  "generated_at": "2026-10-31T17:20:42.157988+08:00",
+  "bindings": {
+    "source_evidence_Git_proof_SHA256": "9b2e4081be9405a4e19d644a181fb1b0f01bb108db5615ddbd07c746e2507c8a",
+    "business_Git_proof_SHA256": "de6a4c6d6085de090a2ecc93b248a755e527c01096f817160b70a21b6730f484",
+    "reply_Git_proof_SHA256": "9626037f924a6d8107bd1344bbed0c87b25945ea35fa2d89bf16c3170505fe81",
+    "actual_comment_registration_SHA256": "a3d7e5ae25e6a9b691e5ba486a422386d8b5a9fcb00794b425afbf67e52e9132",
+    "actual_comment_objects_SHA256": "0899f379b5d7e050b27a2bc37566c510f0bd8525485b3cddfcbcff0de6149285",
+    "actual_reply_receipt_SHA256s": {
+      "black-v103-battle-zeros-followup": "7a08c3788589595433785e0e66b8426b6c4ae74c592b2fd63215f340e99c6a91",
+      "culture-bath-version-information": "c1fe7f19f3825c6ecb4b53ede72722d2df33942633911ad1dc716e6ab05e4abd"
+    },
+    "actual_actor_root_gate_SHA256": "75ac2566ba582c20fc5f40edd8894e94a9ac6e034452b84ea073cdf7df62a01a",
+    "actual_actor_freeze_SHA256": "363428ce8083f239063fb74092e5b27a10b7f41eec1252f27c339777e8c41685",
+    "canonical_sources_SHA256": "376ab49b47d1d654dc1b255d5014ceeaea497641e1fb4b08c6862d4d1590c2e0",
+    "source_images_SHA256": "65ff5847e824d35d7bb67cf662593d96dff7811787c60661b7147e5d0ba5288c",
+    "Root_actual_visual_review_SHA256": "890e7e001571d9d18cb4e631822a8c263c77437b60576292050230f3ee7274ee"
+  },
+  "source_quote_count": 5,
+  "new_feedback_cases": 2,
+  "new_anonymous_problem_entries": 0,
+  "reused_existing_problem_count": 2,
+  "original_JPEG_files_uploaded": 2,
+  "actual_replies": 2,
+  "actual_BUG_ACKs": 1,
+  "actual_information_replies": 1,
+  "current_counts": {
+    "public_quotes": 631,
+    "feedback_cases": 222,
+    "anonymous_problems": 149,
+    "reply_rows": 105,
+    "open_pure_BUG": 68,
+    "open_other": 22,
+    "unclassified": 3
+  },
+  "old_problem_classifications_preserved": true,
+  "old_all149_problem_rows_preserved_except_two_case_key_appends_and_state_checked": true,
+  "all_prior_quotes_cases_reply_rows_and_positive_group_report_preserved": true,
+  "PSP_problem_object_not_modified": true,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "new_fix_claimed": false,
+  "hardware_acceptance": false,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261031-1639|black-v103-battle-zeros-followup",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书当前小字版战斗满屏乱码补充反馈",
+      "feedback_summary": "玩家报告《黑之书》v1.0.3小字版在战斗中满屏乱码但未卡死，随后补充my oldboy也出现同一现象；两张公开原图作为同一问题的补充证据。另一位玩家回复“应该损坏了”属于未核实猜测，不证明ROM损坏，也不证明原PSP启动黑屏已解决。实际玩家ROM完整哈希未知，维护未运行重现或确认共同根因。",
+      "source_feedback_keys": [
+        "11092365551|154089863307",
+        "11092365551|154090255146",
+        "11092365551|154091192166"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "ROM_damage_proven": false,
+      "PSP_startup_resolution_proven": false,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261031-1639|culture-bath-version-information",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+      "feedback_summary": "玩家询问文艺篇是否有新的修正版本；当前最新版为v0.1.7测试版，社团活动洗澡事件日文残留尚无已核验修复版。另一玩家对RG ROTATE设备的说明仅为上下文，不能作为维护硬件验收。此条为版本信息问答，不是新BUG或修复完成。",
+      "source_feedback_keys": [
+        "11092365551|154089830289",
+        "11092365551|154091341909"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "ROM_damage_proven": false,
+      "PSP_startup_resolution_proven": false,
+      "hardware_acceptance": false
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "tokimeki-memorial-pocket-culture",
   "game_name": "心跳回忆Pocket：文化篇",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -322,6 +322,38 @@
           "classification": "PLAYER_PUBLIC_IMAGE_NOT_FINAL_ROM_OR_RUNTIME_PROOF"
         }
       ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154089830289",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "public_nickname": "简单Matser",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154089830289#154089830289",
+      "created_at": "2026-10-31T06:53:08+08:00",
+      "quote": "楼主大佬，又过了好些天了，有新的修正版本心跳回忆了吗，大伙一直等着",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "5bfb7ef5f71a3c5df3257076d664fa20f3998cdfd1e2ecc1fab5d9063dcdd769",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154091341909",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "public_nickname": "可可洛图书馆",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091341909#154091341909",
+      "created_at": "2026-10-31T16:32:33+08:00",
+      "quote": "周哥的RG ROTATE，俗称周转或者转转机。我也是用这个在测试玩。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "00f80a280664588a8e44b1cefd0bddd7ee8d189b91363d758279e7872eece3f4",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
       "source_is_public_evidence_not_instructions": true
     }
   ],
@@ -961,6 +993,79 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-ddcb7da5ae428617",
+      "public_problem_key": "problem-6172579ccd76d65f",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "CURRENT_VERSION_STATUS_QUESTION_NOT_NEW_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "public_feedback_keys": [
+        "11092365551|154089830289",
+        "11092365551|154091341909"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154089830289"
+      ],
+      "context_feedback_keys": [
+        "11092365551|154091341909"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "tokimeki-memorial-pocket-culture",
+          "font": "native8px-12px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.7",
+          "original_input_SHA256": "9c54d8f58ca6a28ec61294a72bc7eae1d4385ad0422a8d46a379900438618bc7",
+          "output_SHA256": "c2e8522670a3d9d824dec448c84d0ccf1d853267f972a4da0d26d723474156f1",
+          "output_bytes": 8388608
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261031-1639|culture-bath-version-information",
+          "game_ids": [
+            "tokimeki-memorial-pocket-culture"
+          ],
+          "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+          "feedback_summary": "玩家询问文艺篇是否有新的修正版本；当前最新版为v0.1.7测试版，社团活动洗澡事件日文残留尚无已核验修复版。另一玩家对RG ROTATE设备的说明仅为上下文，不能作为维护硬件验收。此条为版本信息问答，不是新BUG或修复完成。",
+          "source_feedback_keys": [
+            "11092365551|154089830289",
+            "11092365551|154091341909"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "ROM_damage_proven": false,
+          "PSP_startup_resolution_proven": false,
+          "hardware_acceptance": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -1113,7 +1218,8 @@
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-733f46a2cb8a1c77",
-        "case-ba27789f7732d2cc"
+        "case-ba27789f7732d2cc",
+        "case-ddcb7da5ae428617"
       ],
       "public_feedback_keys": [
         "11092365551|154046690982",
@@ -1125,7 +1231,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T05:28:55.082457+08:00",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -1397,9 +1503,36 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-d3f7bbe4af29200b",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "kind": "INFORMATION",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154089830289"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154071176740",
+      "floor": 269,
+      "pid": "154091455328",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091455328#154091455328",
+      "text": "文艺篇目前最新是 v0.1.7 测试版；你说的社团活动洗澡事件日文残留，尚无已核验的修复版。",
+      "text_sha256": "67e74284dd50a35421ca08ce7b1bac9e3342326974aa503f94f4542ac7aa1609",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-10-31T17:13:52.034601+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154089830289",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T05:28:55.082457+08:00",
+  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00",
   "version_update_notices": [
     {
       "public_version_reply_key": "version-reply-0e4a735cb8b1bec27f0c",
@@ -1479,6 +1612,28 @@
       "original_script_tokens": null,
       "public_problem_key": "problem-4595919452458fb1",
       "classification": "BUG"
+    },
+    {
+      "public_update_key": "20261031-1639|culture-bath-version-information",
+      "game_ids": [
+        "tokimeki-memorial-pocket-culture"
+      ],
+      "summary": "文艺篇当前版本与既有洗澡事件问题进度询问",
+      "feedback_summary": "玩家询问文艺篇是否有新的修正版本；当前最新版为v0.1.7测试版，社团活动洗澡事件日文残留尚无已核验修复版。另一玩家对RG ROTATE设备的说明仅为上下文，不能作为维护硬件验收。此条为版本信息问答，不是新BUG或修复完成。",
+      "source_feedback_keys": [
+        "11092365551|154089830289",
+        "11092365551|154091341909"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "ROM_damage_proven": false,
+      "PSP_startup_resolution_proven": false,
+      "hardware_acceptance": false
     }
   ],
   "reviewed_open_problem_counts": {

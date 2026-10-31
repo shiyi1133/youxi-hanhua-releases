@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
-  "case_count": 222,
+  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+  "case_count": 225,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -13709,7 +13709,220 @@
           "hardware_acceptance": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-c87d6a2e2a8d9b75",
+      "public_problem_key": "problem-1997335c43bb8de3",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "drururuaga",
+          "font": "10px-limited-menu",
+          "audio_variant": null,
+          "version": "v1.0.5 有限菜单10px已接入正文排版修订",
+          "original_input_SHA256": "c0e86d6e6d3c2bf6f7b823a2d99e97fb5a8f7ec333eb6f755d62defd90b565b5",
+          "output_SHA256": "15039822b4ab57cfbffb48fc0f49f63a2e18219584c6a929595f8a0d1737a504",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.5",
+        "reported_font": "有限菜单10px",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|drururu-v105-menu10-new-card-garbage",
+          "game_ids": [
+            "drururuaga"
+          ],
+          "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+          "feedback_summary": "玩家报告《攻防迷宫 德鲁鲁阿加》v1.0.5有限菜单10px版在过关结算获得新卡牌时出现乱码，并补充GBC和GB模拟器均发生；四张公开原图作为同一问题的证据。该问题已单独登记，不把历史正文排版验收当作新卡牌界面已通过。玩家实际ROM完整哈希未知，维护未运行重现或确认根因。",
+          "source_feedback_keys": [
+            "11092365551|154091966443",
+            "11092365551|154092005172"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-4223d9dc9356be04",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_BUG_TRIGGER_STEPS_SUPPLEMENT",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.3",
+        "reported_font": "小字版 / 8px reference",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|black-v103-change-demon-trigger",
+          "game_ids": [
+            "devil-children-kuro"
+          ],
+          "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+          "feedback_summary": "同一玩家为此前《黑之书》v1.0.3小字版战斗乱码补充触发步骤：“战斗得久一点，然后更换仲魔就会这样子”。沿用已有战斗乱码问题，不增加独立BUG；保留之前已公开的确认答复，本次不重复确认，也不把旧PID冒充这条步骤的新发送回执。未运行重现或确认共同根因。",
+          "source_feedback_keys": [
+            "11092365551|154091391019"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ],
+      "previous_same_report_confirmation_reply_PID": "154091453907",
+      "confirmation_repeated_this_increment": false,
+      "previous_reply_not_new_receipt_for_this_source": true
+    },
+    {
+      "public_case_key": "case-7e0f3a6d4bfd4ef2",
+      "public_problem_key": "problem-70754952ce4d42fb",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "summary": "J联赛2002大师杯赛选队等界面日文残留",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_BUG_UI_COVERAGE_SUPPLEMENT_VERSION_UNKNOWN",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "primary_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "j-league-winning-eleven-advance-2002",
+          "font": "native8-12",
+          "audio_variant": "unchanged",
+          "version": "v0.1.4",
+          "original_input_SHA256": "ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5",
+          "output_SHA256": "a24931eb5d51461ef9b857a9f8008ace62ca05d43d7c1c6a264b25e2b014d0c3",
+          "output_bytes": 16777216
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|jleague2002-mastercup-japanese",
+          "game_ids": [
+            "j-league-winning-eleven-advance-2002"
+          ],
+          "summary": "J联赛2002大师杯赛选队等界面日文残留",
+          "feedback_summary": "玩家报告《J联赛2002》主菜单→模式选择→大师杯赛→选队等界面的日文残留，并补充三张公开原图。已补充到已有问题，合并确认并仅补问实际ROM文件名或版本。玩家版本、字号和完整ROM哈希尚未知；当前v0.1.4仅作参考，不代表玩家所用字节，也不把旧版局部修复冒称此界面已验收。",
+          "source_feedback_keys": [
+            "11097560613|154092190308",
+            "11097560613|154092199842"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ],
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本",
+      "new_info_reply_created": false
     }
   ],
-  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00"
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00"
 }

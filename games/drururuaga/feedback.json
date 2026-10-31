@@ -2,11 +2,228 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "drururuaga",
   "game_name": "攻防迷宫 德鲁鲁阿加",
-  "state_checked_at": "2026-10-22T03:20:28.693698+08:00",
-  "rows": [],
-  "cases": [],
-  "problems": [],
+  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154091966443",
+      "parent_pid": "0",
+      "floor": 289,
+      "public_nickname": "我叫º小鹿",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091966443#154091966443",
+      "created_at": "2026-10-31T20:08:47+08:00",
+      "quote": "楼主，反应一个问题《攻防迷宫 德鲁鲁阿加》在过关结算后得到新卡牌时会出现乱码，如图所示@哇你是谁怎么傻乎乎 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6d7227e0cc0a6219f85fb96058f588259863b2bbcb52b2beea28d8d8b3e8e322",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261101-0442/19cba34540279e4487a939e6a61ebe7be4c0b680c823b911b439a46ceddc32c7.jpg",
+          "sha256": "19cba34540279e4487a939e6a61ebe7be4c0b680c823b911b439a46ceddc32c7",
+          "bytes": 851461,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154091966443#154091966443",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261101-0442/5f82fb6850e11014141993206263caa79c0a6bb1390507f68b3051f49c1ad350.jpg",
+          "sha256": "5f82fb6850e11014141993206263caa79c0a6bb1390507f68b3051f49c1ad350",
+          "bytes": 886320,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154091966443#154091966443",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261101-0442/09601489363903abb3b40cb402e60aa322208f42dacd1b78c79d36f820f92d39.jpg",
+          "sha256": "09601489363903abb3b40cb402e60aa322208f42dacd1b78c79d36f820f92d39",
+          "bytes": 782288,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154091966443#154091966443",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261101-0442/c3a91eeb8b2be95f8c9b340da0299d70714d437394d923433d86828354556a6b.jpg",
+          "sha256": "c3a91eeb8b2be95f8c9b340da0299d70714d437394d923433d86828354556a6b",
+          "bytes": 768632,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154091966443#154091966443",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154092005172",
+      "parent_pid": "154091966443",
+      "floor": 289,
+      "public_nickname": "我叫º小鹿",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154092005172#154092005172",
+      "created_at": "2026-10-31T20:21:47+08:00",
+      "quote": "版本为《攻防迷宫_v1.0.5_有限菜单10px_已接入正文排版修订》，GBC和GB模拟器我都试了，都会出现乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "02397ee76b3c54db28994b300f32a0bf2db7411cc8aec8664fe9fb1b6b74463c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "cases": [
+    {
+      "public_case_key": "case-c87d6a2e2a8d9b75",
+      "public_problem_key": "problem-1997335c43bb8de3",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "drururuaga",
+          "font": "10px-limited-menu",
+          "audio_variant": null,
+          "version": "v1.0.5 有限菜单10px已接入正文排版修订",
+          "original_input_SHA256": "c0e86d6e6d3c2bf6f7b823a2d99e97fb5a8f7ec333eb6f755d62defd90b565b5",
+          "output_SHA256": "15039822b4ab57cfbffb48fc0f49f63a2e18219584c6a929595f8a0d1737a504",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.5",
+        "reported_font": "有限菜单10px",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|drururu-v105-menu10-new-card-garbage",
+          "game_ids": [
+            "drururuaga"
+          ],
+          "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+          "feedback_summary": "玩家报告《攻防迷宫 德鲁鲁阿加》v1.0.5有限菜单10px版在过关结算获得新卡牌时出现乱码，并补充GBC和GB模拟器均发生；四张公开原图作为同一问题的证据。该问题已单独登记，不把历史正文排版验收当作新卡牌界面已通过。玩家实际ROM完整哈希未知，维护未运行重现或确认根因。",
+          "source_feedback_keys": [
+            "11092365551|154091966443",
+            "11092365551|154092005172"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-1997335c43bb8de3",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-c87d6a2e2a8d9b75"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "classification_basis": "PUBLIC_PLAYER_SOURCE_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    }
+  ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
-  "public_issues_created": 0
+  "public_issues_created": 0,
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261101-0442|drururu-v105-menu10-new-card-garbage",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "feedback_summary": "玩家报告《攻防迷宫 德鲁鲁阿加》v1.0.5有限菜单10px版在过关结算获得新卡牌时出现乱码，并补充GBC和GB模拟器均发生；四张公开原图作为同一问题的证据。该问题已单独登记，不把历史正文排版验收当作新卡牌界面已通过。玩家实际ROM完整哈希未知，维护未运行重现或确认根因。",
+      "source_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "hardware_acceptance": false
+    }
+  ],
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-65618f35f20b4e1a",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154091966443",
+      "floor": 289,
+      "pid": "154093241184",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154093241184#154093241184",
+      "text": "《攻防迷宫》v1.0.5 有限菜单10px版，过关获新卡牌后的乱码和四张图已记录，后续排查。",
+      "text_sha256": "f369cd2dae79bf7219cf1346263ce186b485386bbc596b20af8a517566ba35aa",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-01T05:18:08.000088+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ],
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00"
 }

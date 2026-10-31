@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "devil-children-kuro",
   "game_name": "真·女神转生 恶魔之子 黑之书",
-  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -793,6 +793,22 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154091391019",
+      "parent_pid": "154087926643",
+      "floor": 288,
+      "public_nickname": "明诚王淼",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154091391019#154091391019",
+      "created_at": "2026-10-31T16:50:18+08:00",
+      "quote": "战斗得久一点，然后更换仲魔就会这样子",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "92454375c1acf25e9164725c13806ae10498ad663518d77902e96af815f19b40",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1259,6 +1275,76 @@
           "hardware_acceptance": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-4223d9dc9356be04",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_BUG_TRIGGER_STEPS_SUPPLEMENT",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v1.0.3",
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "8daf02c518a95499bd7da3c966e7ca6536394aabef65b88a0af0cc531e60c70b",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.3",
+        "reported_font": "小字版 / 8px reference",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|black-v103-change-demon-trigger",
+          "game_ids": [
+            "devil-children-kuro"
+          ],
+          "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+          "feedback_summary": "同一玩家为此前《黑之书》v1.0.3小字版战斗乱码补充触发步骤：“战斗得久一点，然后更换仲魔就会这样子”。沿用已有战斗乱码问题，不增加独立BUG；保留之前已公开的确认答复，本次不重复确认，也不把旧PID冒充这条步骤的新发送回执。未运行重现或确认共同根因。",
+          "source_feedback_keys": [
+            "11092365551|154091391019"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ],
+      "previous_same_report_confirmation_reply_PID": "154091453907",
+      "confirmation_repeated_this_increment": false,
+      "previous_reply_not_new_receipt_for_this_source": true
     }
   ],
   "problems": [
@@ -1409,7 +1495,8 @@
       "case_keys": [
         "case-421cc52e095e8b26",
         "case-9410b8521f5f1572",
-        "case-8131ae89ea4e59b2"
+        "case-8131ae89ea4e59b2",
+        "case-4223d9dc9356be04"
       ],
       "public_feedback_keys": [
         "11092365551|154024013324",
@@ -1447,7 +1534,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -1477,7 +1564,7 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00",
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 3,
     "REQUEST_OR_OTHER": 0,
@@ -1616,6 +1703,25 @@
       "common_root_cause_proven": false,
       "ROM_damage_proven": false,
       "PSP_startup_resolution_proven": false,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261101-0442|black-v103-change-demon-trigger",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+      "feedback_summary": "同一玩家为此前《黑之书》v1.0.3小字版战斗乱码补充触发步骤：“战斗得久一点，然后更换仲魔就会这样子”。沿用已有战斗乱码问题，不增加独立BUG；保留之前已公开的确认答复，本次不重复确认，也不把旧PID冒充这条步骤的新发送回执。未运行重现或确认共同根因。",
+      "source_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
       "hardware_acceptance": false
     }
   ]

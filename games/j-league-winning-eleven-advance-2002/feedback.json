@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "j-league-winning-eleven-advance-2002",
   "game_name": "J联赛胜利十一人Advance2002",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
   "rows": [
     {
       "tid": "11097560613",
@@ -48,6 +48,64 @@
       "public_nicknames_recorded": [
         "une21"
       ]
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154092190308",
+      "parent_pid": "154026786505",
+      "floor": 7,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154092190308#154092190308",
+      "created_at": "2026-10-31T21:20:39+08:00",
+      "quote": "@哇你是谁怎么傻乎乎 刚刚在运行j联赛2002的时候又发现一处漏翻，在主菜单-模式选择-大师杯赛里，选择球队的界面没有汉化，包含球队实力条的描述以及右上方的日文字样 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6ff3edf1ff9f556fd0b6d15eb67e43d8d97044e205fed07d0aeaabe2f67bca27",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261101-0442/b0a9bf61e5fddec75d48be70e9ae597143d07b3e0d28c46a5b8d15a9e250062b.jpg",
+          "sha256": "b0a9bf61e5fddec75d48be70e9ae597143d07b3e0d28c46a5b8d15a9e250062b",
+          "bytes": 143996,
+          "public_post_url": "https://tieba.baidu.com/p/11097560613?pid=154092190308#154092190308",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11097560613",
+      "pid": "154092199842",
+      "parent_pid": "154026786505",
+      "floor": 7,
+      "public_nickname": "une21",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154092199842#154092199842",
+      "created_at": "2026-10-31T21:23:35+08:00",
+      "quote": "再补充两张图  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a42279f2b47a556da30c332a290be152bd469198389bde69cbd9ee7018d1d1ed",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261101-0442/04ae50f13b481addc16e7695db8f5a454f9932a2a68f07f03efeb1d898dc9b17.jpg",
+          "sha256": "04ae50f13b481addc16e7695db8f5a454f9932a2a68f07f03efeb1d898dc9b17",
+          "bytes": 89482,
+          "public_post_url": "https://tieba.baidu.com/p/11097560613?pid=154092199842#154092199842",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261101-0442/feda45085467dec6375093edd1fb4e31a528daa8794f3de53fa4a0aa0c1d8f06.jpg",
+          "sha256": "feda45085467dec6375093edd1fb4e31a528daa8794f3de53fa4a0aa0c1d8f06",
+          "bytes": 90889,
+          "public_post_url": "https://tieba.baidu.com/p/11097560613?pid=154092199842#154092199842",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME_OR_HARDWARE_ACCEPTANCE",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -77,6 +135,79 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-7e0f3a6d4bfd4ef2",
+      "public_problem_key": "problem-70754952ce4d42fb",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "summary": "J联赛2002大师杯赛选队等界面日文残留",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_BUG_UI_COVERAGE_SUPPLEMENT_VERSION_UNKNOWN",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "public_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "primary_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "j-league-winning-eleven-advance-2002",
+          "font": "native8-12",
+          "audio_variant": "unchanged",
+          "version": "v0.1.4",
+          "original_input_SHA256": "ec01def0119790dfe7ad0dcc11f31e41e6f289a0b3d028a8fac94437f5b311f5",
+          "output_SHA256": "a24931eb5d51461ef9b857a9f8008ace62ca05d43d7c1c6a264b25e2b014d0c3",
+          "output_bytes": 16777216
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261101-0442|jleague2002-mastercup-japanese",
+          "game_ids": [
+            "j-league-winning-eleven-advance-2002"
+          ],
+          "summary": "J联赛2002大师杯赛选队等界面日文残留",
+          "feedback_summary": "玩家报告《J联赛2002》主菜单→模式选择→大师杯赛→选队等界面的日文残留，并补充三张公开原图。已补充到已有问题，合并确认并仅补问实际ROM文件名或版本。玩家版本、字号和完整ROM哈希尚未知；当前v0.1.4仅作参考，不代表玩家所用字节，也不把旧版局部修复冒称此界面已验收。",
+          "source_feedback_keys": [
+            "11097560613|154092190308",
+            "11097560613|154092199842"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "hardware_acceptance": false
+        }
+      ],
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本",
+      "new_info_reply_created": false
     }
   ],
   "problems": [
@@ -89,7 +220,8 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-76d0ef9a88758210"
+        "case-76d0ef9a88758210",
+        "case-7e0f3a6d4bfd4ef2"
       ],
       "public_feedback_keys": [
         "11097560613|154038536282",
@@ -100,7 +232,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     }
@@ -108,10 +240,65 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
-  }
+  },
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261101-0442|jleague2002-mastercup-japanese",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "summary": "J联赛2002大师杯赛选队等界面日文残留",
+      "feedback_summary": "玩家报告《J联赛2002》主菜单→模式选择→大师杯赛→选队等界面的日文残留，并补充三张公开原图。已补充到已有问题，合并确认并仅补问实际ROM文件名或版本。玩家版本、字号和完整ROM哈希尚未知；当前v0.1.4仅作参考，不代表玩家所用字节，也不把旧版局部修复冒称此界面已验收。",
+      "source_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "hardware_acceptance": false
+    }
+  ],
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-30ce7586e4f044ea",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154026786505",
+      "floor": 7,
+      "pid": "154093241594",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154093241594#154093241594",
+      "text": "《J联赛2002》大师杯赛选队等界面的日文残留和三张图已记录。请补一下正在用的 ROM 文件名或版本，方便对应排查。",
+      "text_sha256": "369e56650c1ccac7bd872f401a168ccec1d51c60e5d2150d562ac17fed7ce3ea",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-01T05:18:40.676466+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154092190308",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ]
 }

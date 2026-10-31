@@ -1,0 +1,118 @@
+{
+  "schema": "public_one_new_problem_two_existing_problems_five_quotes_three_cases_two_actual_ACKs_seven_originals_increment_v1",
+  "run_id": "20261101-0442",
+  "generated_at": "2026-11-01T05:26:35.321140+08:00",
+  "bindings": {
+    "source_evidence_Git_proof_SHA256": "d7251a732d9a6d9e246d97b39a0bc7091a08748d6caa3f426850aa4b9208f9c5",
+    "business_Git_proof_SHA256": "25e743dac97675c61a49111f17b269756776b488f8407c5f95a9becedb5fba24",
+    "reply_Git_proof_SHA256": "41013722477246247eae8660f9041be198467b71500354ba073a4f869a0b8433",
+    "actual_registration_SHA256": "6a572d4246939bfe965b956a5017158298056cb1ee6e130ca1ed23017f40ef85",
+    "actual_registration_objects_SHA256": "356f4772a0c27c58c6877de9f7a8879522b22df18b058f402868b50189051500",
+    "actual_reply_receipt_SHA256s": {
+      "drururu-new-card-result-v105-menu10-ack": "bb4d8e29fc20f48c05e6ad8484228b5fdbfc9b3fed5d3f0062670730a076651d",
+      "jleague2002-mastercup-japanese-ack": "c811ac617b3b9987f189d5125f0d51a5673305d8d29c42721c5ee28b21fe6e4f"
+    },
+    "actual_actor_contract_SHA256": "969348cfe97537ac66e48204471e072e5747d26b755631cab523cc2b6718e22f",
+    "actual_actor_root_gate_SHA256": "d744837f45310483d7b05ccc0accb15149b74a9381d8f71999d5e1222e3609af",
+    "actual_actor_freeze_SHA256": "e8e7600fe24365da2025082a6344bb828e8b52d970077d0167c2385e1e712833",
+    "canonical_sources_SHA256": "d667f6d85a221fdc3dd6b38874f9e2f2c766b05562ce6c71e18b3fd87f5016ec",
+    "source_images_SHA256": "91bc45c1c455d97670180a3c04cc500c953c38fa443a54fbdfd694fab4631177",
+    "Root_actual_visual_review_SHA256": "c154da42c780dbb295bd6f6928e8cf71325597513b701c69a151d7a73a5d2fa3"
+  },
+  "source_quote_count": 5,
+  "new_feedback_cases": 3,
+  "new_anonymous_problem_entries": 1,
+  "reused_existing_problem_count": 2,
+  "original_JPEG_files_uploaded": 7,
+  "actual_replies": 2,
+  "actual_BUG_ACKs": 2,
+  "actual_information_replies": 0,
+  "current_counts": {
+    "public_quotes": 636,
+    "feedback_cases": 225,
+    "anonymous_problems": 150,
+    "reply_rows": 107,
+    "open_pure_BUG": 69,
+    "open_other": 22,
+    "unclassified": 3
+  },
+  "old_two_problem_classifications_preserved": true,
+  "all_other147_old_problem_rows_raw_preserved": true,
+  "all_prior_quotes_cases_reply_rows_and_positive_group_report_preserved": true,
+  "old_black_confirmation_not_relabelled_as_new_reply": true,
+  "PSP_problem_object_not_modified": true,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "new_fix_claimed": false,
+  "hardware_acceptance": false,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261101-0442|drururu-v105-menu10-new-card-garbage",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "feedback_summary": "玩家报告《攻防迷宫 德鲁鲁阿加》v1.0.5有限菜单10px版在过关结算获得新卡牌时出现乱码，并补充GBC和GB模拟器均发生；四张公开原图作为同一问题的证据。该问题已单独登记，不把历史正文排版验收当作新卡牌界面已通过。玩家实际ROM完整哈希未知，维护未运行重现或确认根因。",
+      "source_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261101-0442|black-v103-change-demon-trigger",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "黑之书战斗乱码补充更换仲魔触发步骤",
+      "feedback_summary": "同一玩家为此前《黑之书》v1.0.3小字版战斗乱码补充触发步骤：“战斗得久一点，然后更换仲魔就会这样子”。沿用已有战斗乱码问题，不增加独立BUG；保留之前已公开的确认答复，本次不重复确认，也不把旧PID冒充这条步骤的新发送回执。未运行重现或确认共同根因。",
+      "source_feedback_keys": [
+        "11092365551|154091391019"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261101-0442|jleague2002-mastercup-japanese",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "summary": "J联赛2002大师杯赛选队等界面日文残留",
+      "feedback_summary": "玩家报告《J联赛2002》主菜单→模式选择→大师杯赛→选队等界面的日文残留，并补充三张公开原图。已补充到已有问题，合并确认并仅补问实际ROM文件名或版本。玩家版本、字号和完整ROM哈希尚未知；当前v0.1.4仅作参考，不代表玩家所用字节，也不把旧版局部修复冒称此界面已验收。",
+      "source_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "hardware_acceptance": false
+    }
+  ]
+}

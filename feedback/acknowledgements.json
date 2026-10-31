@@ -5947,8 +5947,70 @@
       "exact_nested_target_PID_publicly_verified": false,
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-65618f35f20b4e1a",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154091966443",
+      "floor": 289,
+      "pid": "154093241184",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154093241184#154093241184",
+      "text": "《攻防迷宫》v1.0.5 有限菜单10px版，过关获新卡牌后的乱码和四张图已记录，后续排查。",
+      "text_sha256": "f369cd2dae79bf7219cf1346263ce186b485386bbc596b20af8a517566ba35aa",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-01T05:18:08.000088+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "0",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-30ce7586e4f044ea",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11097560613|154092190308",
+        "11097560613|154092199842"
+      ],
+      "tid": "11097560613",
+      "parent_pid": "154026786505",
+      "floor": 7,
+      "pid": "154093241594",
+      "public_url": "https://tieba.baidu.com/p/11097560613?pid=154093241594#154093241594",
+      "text": "《J联赛2002》大师杯赛选队等界面的日文残留和三张图已记录。请补一下正在用的 ROM 文件名或版本，方便对应排查。",
+      "text_sha256": "369e56650c1ccac7bd872f401a168ccec1d51c60e5d2150d562ac17fed7ce3ea",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-01T05:18:40.676466+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154092190308",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 105,
-  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00"
+  "row_count": 107,
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00"
 }

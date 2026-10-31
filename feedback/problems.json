@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
-  "problem_count": 149,
-  "open_pure_BUG_count": 68,
+  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+  "problem_count": 150,
+  "open_pure_BUG_count": 69,
   "open_requests_or_other_count": 22,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -408,7 +408,8 @@
       "case_keys": [
         "case-421cc52e095e8b26",
         "case-9410b8521f5f1572",
-        "case-8131ae89ea4e59b2"
+        "case-8131ae89ea4e59b2",
+        "case-4223d9dc9356be04"
       ],
       "public_feedback_keys": [
         "11092365551|154024013324",
@@ -446,7 +447,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-31T17:20:42.157988+08:00",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -1385,7 +1386,8 @@
       "state": "open",
       "classification": "BUG",
       "case_keys": [
-        "case-76d0ef9a88758210"
+        "case-76d0ef9a88758210",
+        "case-7e0f3a6d4bfd4ef2"
       ],
       "public_feedback_keys": [
         "11097560613|154038536282",
@@ -1396,7 +1398,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -5809,13 +5811,36 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
       "state_checked_at": "2026-10-31T06:14:12.203269+08:00"
+    },
+    {
+      "public_problem_key": "problem-1997335c43bb8de3",
+      "game_ids": [
+        "drururuaga"
+      ],
+      "summary": "攻防迷宫获得新卡牌后的乱码反馈",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-c87d6a2e2a8d9b75"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154091966443",
+        "11092365551|154092005172"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "classification_basis": "PUBLIC_PLAYER_SOURCE_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-10-31T17:20:42.157988+08:00",
+  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

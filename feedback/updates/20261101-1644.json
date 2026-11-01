@@ -1,0 +1,78 @@
+{
+  "schema": "public_two_quotes_one_existing_case_version_followup_and_unverified_source_observation_v1",
+  "run_id": "20261101-1644",
+  "generated_at": "2026-11-01T17:17:31.490556+08:00",
+  "bindings": {
+    "source_evidence_Git_proof_SHA256": "e3dc3f74cf67ee2c71f3a07146a787574bf7c18f4d60ba183b80eec2c0cbde3c",
+    "business_Git_proof_SHA256": "caaf19b91c14b38caa322ad04267d1616cbab2aceb1de0bde790aa080ca035ac",
+    "actual_registration_SHA256": "b5e2a31cb6d01c8aa0f1ece28458bfda4f9fddcc4293fac15ada1c46ebf78f6e",
+    "actual_registration_objects_SHA256": "10d211420a26601dface7a388c7ca74db0158ba9cf74fc6ce4b8f499892404bd",
+    "canonical_sources_SHA256": "ca4dd26158f52c6400cae91c79d0c4b8de5403afadb333458e60efe85cab8330",
+    "current_related_refs_SHA256": "4b6093c60458071b0cdaaabb5c8d69e7305382e4b090d294b807b07399e6f4af",
+    "actual_baseline_Issue_inventory_SHA256": "289d59c8edacff95853be4c5db0f02d2a4bf070a8f7193c69e18557e084f4a25",
+    "actual_baseline383_comments_SHA256": "cce4cdaca703d196d6ebfa775b9bad9d8057e494c79087d12935adadcba4c5d6"
+  },
+  "source_quote_count": 2,
+  "new_feedback_cases": 0,
+  "new_anonymous_problem_entries": 0,
+  "existing_case_version_updates": 1,
+  "actual_replies": 0,
+  "original_images_uploaded": 0,
+  "current_counts": {
+    "public_quotes": 638,
+    "feedback_cases": 225,
+    "anonymous_problems": 150,
+    "reply_rows": 107,
+    "open_pure_BUG": 69,
+    "open_other": 22,
+    "unclassified": 3
+  },
+  "original_case_unknown_identity_historical_fields_raw_preserved": true,
+  "all_other_old_case_quote_problem_ACK_and_nested_history_raw_preserved": true,
+  "global_problems_and_ACK_files_not_modified": true,
+  "old_five_game_bundle_not_accepted": true,
+  "Bobobo_source_is_unverified_observation_not_game_release_or_case": true,
+  "Bobobo_download_locator_and_extraction_code_omitted": true,
+  "two_praise_sources_not_exported_as_BUG": true,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "new_fix_claimed": false,
+  "hardware_acceptance": false,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261101-1644|jleague-v014-player-version-clarification",
+      "game_ids": [
+        "j-league-winning-eleven-advance-2002"
+      ],
+      "kind": "PLAYER_REPORTED_VERSION_CLARIFICATION_EXISTING_CASE",
+      "summary": "J联赛2002报告版本补充为0.1.4",
+      "feedback_summary": "玩家补充《J联赛2002》使用0.1.4版，并称此前问题均基于所分享的各游戏最新版。本条仅确认此处报告版本；字号、实际输入及输出ROM哈希仍未知，也未据此验收此前五游戏附件。已补充到原问题，尚未复现或修复。",
+      "source_feedback_keys": [
+        "11097560613|154094607643"
+      ],
+      "reported_version": "v0.1.4",
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "reported_identity_is_not_byte_verification": true,
+      "issue_state": "open",
+      "state_checked_at": "2026-11-01T17:17:31.490556+08:00",
+      "broader_latest_shared_statement_not_other_game_byte_identity": true,
+      "old_five_game_bundle_remains_unread_or_unaccepted": true,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "hardware_acceptance": false
+    }
+  ]
+}

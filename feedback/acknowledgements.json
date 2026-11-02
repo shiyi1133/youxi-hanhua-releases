@@ -6009,8 +6009,77 @@
       "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
       "is_new_ROM_delivery": false,
       "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-236bc615d20b4ac0",
+      "game_ids": [
+        "magic-knight-rayearth",
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154095031992",
+        "11092365551|154095555317"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154054777028",
+      "floor": 184,
+      "pid": "154097628619",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154097628619#154097628619",
+      "text": "《魔法骑士雷阿斯》1代的NPC台词，以及2代的台词和战斗菜单图标问题已记录。请补一下两份ROM的文件名或版本号，方便对应排查。",
+      "text_sha256": "5412b2de0f4a1a20bd1be6e2e06716cff64666ee7acdae4ea329aed39dc9a8b6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-02T12:02:51.882573+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154095031992",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "public_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOOR",
+      "direct_UID_notification_confirmed": false,
+      "all_API_reported_totals_equal_unique": true,
+      "alternative_live_main_visible_count_basis_used": false,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    },
+    {
+      "public_reply_key": "reply-b950bc295a9802c3",
+      "game_ids": [
+        "double-dragon-2",
+        "bishoujo-senshi-sailor-moon"
+      ],
+      "kind": "INFORMATION_REPLY",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154096089871"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154031028333",
+      "floor": 82,
+      "pid": "154097630197",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154097630197#154097630197",
+      "text": "目前《双截龙2》v1.0.1和《美少女战士》v0.1.0都只有普通8px测试版，大字版尚未发布，暂时没有确定时间。",
+      "text_sha256": "18c922c4151c9a77c82a52c65a652df1a198332c4d3dbf84592cf27b5be286d8",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-02T12:03:25.805130+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154096089871",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "public_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOOR",
+      "direct_UID_notification_confirmed": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "row_count": 107,
-  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00"
+  "row_count": 109,
+  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00"
 }

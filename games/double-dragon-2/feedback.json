@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "double-dragon-2",
   "game_name": "双截龙2（美国版）",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -32,6 +32,22 @@
       "quote": "双截龙美版v1.0.0",
       "quote_is_full": true,
       "omission_notice": null,
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154096089871",
+      "parent_pid": "154031028333",
+      "floor": 82,
+      "public_nickname": "动摇天秤",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154096089871#154096089871",
+      "created_at": "2026-11-01T22:58:38+08:00",
+      "quote": "双截龙跟美少女战士现在试过没问题，什么时候有大字版？",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "0b25291d118489cc1731079ea69aacb1813172ba23096d3c87ccd57dc31e1eed",
+      "omission_notice": null,
+      "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
     }
@@ -92,10 +108,84 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
-  }
+  },
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261102-1113|double-dragon-2-large-font-request-followup",
+      "game_ids": [
+        "double-dragon-2"
+      ],
+      "kind": "EXISTING_LARGE_FONT_REQUEST_FOLLOWUP_AND_BOUNDED_PLAYER_REPORT",
+      "summary": "普通8px版个人测试反馈及大字状态追问",
+      "feedback_summary": "同一玩家称双截龙和美少女战士目前试过没有问题，并追问大字版；未说明本次测试版本、字号或ROM哈希。这是个人有限体验，不是全流程验收或旧问题关闭。两作当前仍仅普通8px测试版，大字需求沿用已有记录，没有已发布大字版或确定时间。",
+      "source_feedback_keys": [
+        "11092365551|154096089871"
+      ],
+      "current_published_reference": [
+        {
+          "game_id": "double-dragon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v1.0.1",
+          "original_input_SHA256": "21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878",
+          "output_SHA256": "eb8cd3bb6d8e4ff7d2d10108664998ec66146964213198a614c53e42487e13c0",
+          "output_bytes": 524288
+        }
+      ],
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "player_report_is_not_full_acceptance": true,
+      "existing_font_request_status": "REQUEST_RECORDED_NOT_CLAIMED",
+      "new_BUG_created": false,
+      "new_translation_or_repair_claim": false,
+      "large_font_published": false,
+      "scheduled_completion_date": null,
+      "old_BUG_closure_claimed": false,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00"
+    }
+  ],
+  "acknowledgements": [
+    {
+      "public_reply_key": "reply-b950bc295a9802c3",
+      "game_ids": [
+        "double-dragon-2",
+        "bishoujo-senshi-sailor-moon"
+      ],
+      "kind": "INFORMATION_REPLY",
+      "is_bug_acknowledgement": false,
+      "is_information_reply": true,
+      "source_feedback_keys": [
+        "11092365551|154096089871"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154031028333",
+      "floor": 82,
+      "pid": "154097630197",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154097630197#154097630197",
+      "text": "目前《双截龙2》v1.0.1和《美少女战士》v0.1.0都只有普通8px测试版，大字版尚未发布，暂时没有确定时间。",
+      "text_sha256": "18c922c4151c9a77c82a52c65a652df1a198332c4d3dbf84592cf27b5be286d8",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-02T12:03:25.805130+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154096089871",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "public_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOOR",
+      "direct_UID_notification_confirmed": false,
+      "all_API_reported_totals_equal_unique": false,
+      "alternative_live_main_visible_count_basis_used": true,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
+    }
+  ]
 }

@@ -1,0 +1,232 @@
+{
+  "schema": "public_three_new_BUGs_three_quotes_nine_originals_one_grouped_BUG_ACK_one_font_INFO_followup_v1",
+  "run_id": "20261102-1113",
+  "generated_at": "2026-11-02T12:18:13.408450+08:00",
+  "bindings": {
+    "source_evidence_Git_proof_SHA256": "afd877c659309f63d1c989615f9c51eb6fe940da8595c672ac85667a86ceb781",
+    "business_Git_proof_SHA256": "4e4ce12d81d87cedc82d55587317d7364da44cbb86a7be786d3b32c89f893256",
+    "reply_Git_proof_SHA256": "c32e1cb5e6e4707c730b4afd0ce03fb500738486174224e8ddf03eb02d7bad4a",
+    "actual_registration_SHA256": "8b2c4b4ee86a3304b008eddef888ecc6ee1625c1d8a4e234b2e7882de28481c7",
+    "actual_registration_objects_SHA256": "c321d7d97429cb3673d6650ba41ab1079cc557ac63020e1e491a71b10fbe8a71",
+    "actual_reply_receipt_SHA256s": {
+      "rayearth-two-reports-three-BUGs-ack": "27ea902f38d66754128671d6c9f8a6e409e651a9e9e0a6bbc793ba53c056fa25",
+      "double-dragon2-sailor-moon-font-status-info": "06e684dc66dd894f9c8eae23f6243e6dc7ca4a5881580763fb6c7d5207bb658c"
+    },
+    "actual_actor_contract_SHA256": "19a25f25b182a6111029960c803abc07205a152c635ac2e2c31667acd0bda01a",
+    "actual_actor_root_gate_SHA256": "8efcdf3e952734c7f2c85a9f5eda09928daa8de3c46bafd093580c3dd6f139f6",
+    "actual_actor_freeze_SHA256": "cd92d7a32f3b13aba60b4dc4e0279970daa5a21b9735df45646a9d0963c63a37",
+    "actual_ACK_content_gate_SHA256": "47ce6c3eb601f3a380b18db488f86d2c6d65bc6e1c4e4f8d6e58774d7739f6d8",
+    "durable_ACK_projection_SHA256": "f483fda1cbde0aa0a8f7ce3bf1f13ffd2228b8c14a2dcefae286e8564082244a",
+    "durable_ACK_registry_proof_SHA256": "56b49541dba11e98df732822e3af244f4fbbdb4baade7ea18327905aad84ee3e",
+    "durable_ACK_checkpoint_SHA256": "4da43451928d155d519d58ce0832ac856404b7a0195793915e594f1885118d2c",
+    "canonical_sources_SHA256": "4980ede88c1a6bbd83ed4814f8fa5455eda3c1bd62725ff40c90acbd1e03ac5d",
+    "source_images_SHA256": "7b88d667b161689772bcdd345d8663c34ad5af85cceeae1c28a782c43d76f5d6",
+    "Root_actual_visual_review_SHA256": "ed9582d81c487c432854d22f133019ebbe5ccd0e820cf7565ba42fff861b92d3",
+    "current_related_refs_SHA256": "cae44f61bd9bb25d7ec89140a64826d75f95bc3e0a262e2b5491ea8fa8b0b334"
+  },
+  "source_quote_count": 3,
+  "new_feedback_cases": 3,
+  "new_anonymous_problem_entries": 3,
+  "existing_font_followup_events": 2,
+  "original_JPEG_files_uploaded": 9,
+  "actual_replies": 2,
+  "actual_BUG_ACKs": 1,
+  "actual_information_replies": 1,
+  "both_actual_public_reply_to_id_zero": true,
+  "direct_recipient_UID_or_exact_nested_PID_notification_claimed": false,
+  "reply_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOORS_WITH_EXACT_OWNER_FULLTEXT_ALL_PAGES",
+  "current_counts": {
+    "public_quotes": 641,
+    "feedback_cases": 228,
+    "anonymous_problems": 153,
+    "reply_rows": 109,
+    "open_pure_BUG": 72,
+    "open_other": 22,
+    "unclassified": 3
+  },
+  "all150_old_problem_rows_and225_old_case_rows_raw_preserved": true,
+  "all638_old_quotes107_reply_rows_and_nested_history_raw_preserved": true,
+  "old_DoubleDragon_open_problem_not_closed_or_overwritten": true,
+  "existing_future_font_requests_not_new_BUG_or_claim": true,
+  "fourth_external_video_progress_remark_not_exported": true,
+  "player_actual_version_font_and_input_output_SHA_unknown": true,
+  "private_Issue_bodies_copied": false,
+  "private_Issue_numbers_or_URLs_exported": false,
+  "maintainer_new_runtime_tests": false,
+  "new_fix_claimed": false,
+  "hardware_acceptance": false,
+  "ROM_files": 0,
+  "Source_ZIPs": 0,
+  "Release_mutations": 0,
+  "private_Git_writes": 0,
+  "public_Issue_creations": 0,
+  "forum_sends": 0,
+  "Cloud_operations": 0,
+  "monitor_counter_increment": 0,
+  "events": [
+    {
+      "public_update_key": "20261102-1113|rayearth2-dialogue-save-anomalous-text",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯2：对白、保存提示及选项的异常汉字",
+      "feedback_summary": "玩家报告2代部分文字不通顺或疑似乱码；中日版对照图1—4可见对白、保存提示及选项的异常汉字组合。玩家未说明完整触发路线或ROM文件名、版本、字号及完整哈希。已分别登记，不把当前发布参考身份当作玩家ROM，也未运行复现或确认根因。",
+      "source_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "image_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261102-1113|rayearth2-battle-icons-as-hanzi",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯2：战斗命令小图标显示为汉字",
+      "feedback_summary": "同一反馈的图5—6对照显示中文版战斗命令栏为连续汉字，日版为小图标。此项与对白和保存选项异常分别登记；玩家实际ROM身份未知，未运行复现或确认具体图块、字库根因。",
+      "source_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "image_indices": [
+        5,
+        6
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261102-1113|rayearth1-light-post-firstboss-npc",
+      "game_ids": [
+        "magic-knight-rayearth"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯：光篇首个Boss后NPC对白异常",
+      "feedback_summary": "玩家报告1代光篇打完首个Boss后，一段NPC对白异常，并提供三张截图。光篇及首个Boss后是玩家给定步骤，NPC名称及地图位置未明确。玩家实际ROM版本、字号和完整哈希未知；未运行复现或修复。",
+      "source_feedback_keys": [
+        "11092365551|154095555317"
+      ],
+      "image_indices": [
+        1,
+        2,
+        3
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    }
+  ],
+  "future_font_followups": [
+    {
+      "public_update_key": "20261102-1113|double-dragon-2-large-font-request-followup",
+      "game_ids": [
+        "double-dragon-2"
+      ],
+      "kind": "EXISTING_LARGE_FONT_REQUEST_FOLLOWUP_AND_BOUNDED_PLAYER_REPORT",
+      "summary": "普通8px版个人测试反馈及大字状态追问",
+      "feedback_summary": "同一玩家称双截龙和美少女战士目前试过没有问题，并追问大字版；未说明本次测试版本、字号或ROM哈希。这是个人有限体验，不是全流程验收或旧问题关闭。两作当前仍仅普通8px测试版，大字需求沿用已有记录，没有已发布大字版或确定时间。",
+      "source_feedback_keys": [
+        "11092365551|154096089871"
+      ],
+      "current_published_reference": [
+        {
+          "game_id": "double-dragon-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v1.0.1",
+          "original_input_SHA256": "21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878",
+          "output_SHA256": "eb8cd3bb6d8e4ff7d2d10108664998ec66146964213198a614c53e42487e13c0",
+          "output_bytes": 524288
+        }
+      ],
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "player_report_is_not_full_acceptance": true,
+      "existing_font_request_status": "REQUEST_RECORDED_NOT_CLAIMED",
+      "new_BUG_created": false,
+      "new_translation_or_repair_claim": false,
+      "large_font_published": false,
+      "scheduled_completion_date": null,
+      "old_BUG_closure_claimed": false,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00"
+    },
+    {
+      "public_update_key": "20261102-1113|bishoujo-senshi-sailor-moon-large-font-request-followup",
+      "game_ids": [
+        "bishoujo-senshi-sailor-moon"
+      ],
+      "kind": "EXISTING_LARGE_FONT_REQUEST_FOLLOWUP_AND_BOUNDED_PLAYER_REPORT",
+      "summary": "普通8px版个人测试反馈及大字状态追问",
+      "feedback_summary": "同一玩家称双截龙和美少女战士目前试过没有问题，并追问大字版；未说明本次测试版本、字号或ROM哈希。这是个人有限体验，不是全流程验收或旧问题关闭。两作当前仍仅普通8px测试版，大字需求沿用已有记录，没有已发布大字版或确定时间。",
+      "source_feedback_keys": [
+        "11092365551|154096089871"
+      ],
+      "current_published_reference": [
+        {
+          "game_id": "bishoujo-senshi-sailor-moon",
+          "font": "8px",
+          "audio_variant": null,
+          "version": "v0.1.0限定验证测试版",
+          "original_input_SHA256": "b1090ad4909f8222e4c325d8f939cb8b80de6430f80343fda501edc9166ce847",
+          "output_SHA256": "36338d2f3b2591bac77b969b08f7afd3e27a503847657334e6fe0ff4ba07eeee",
+          "output_bytes": 524288
+        }
+      ],
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "player_report_is_not_full_acceptance": true,
+      "existing_font_request_status": "REQUEST_RECORDED_NOT_CLAIMED",
+      "new_BUG_created": false,
+      "new_translation_or_repair_claim": false,
+      "large_font_published": false,
+      "scheduled_completion_date": null,
+      "old_BUG_closure_claimed": false,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00"
+    }
+  ]
+}

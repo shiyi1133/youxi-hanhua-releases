@@ -3,9 +3,12 @@
   "game_id": "magic-knight-rayearth-2",
   "game_name": "魔法骑士雷阿斯2：遗失的色彩",
   "original_input_sha256": "ffeb6c8433f8d2bacceb833ec33d146ca0c2ddcd5980c2839a9c5416516c2c71",
-  "public_case_keys": [],
-  "case_count": 0,
-  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "public_case_keys": [
+    "case-e036f522cc8d3f4f",
+    "case-aa4ac30124631457"
+  ],
+  "case_count": 2,
+  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
   "acknowledgements": [
@@ -131,7 +134,396 @@
           "independent_pixel_matched_cells": 9
         }
       ]
+    },
+    {
+      "public_reply_key": "reply-236bc615d20b4ac0",
+      "game_ids": [
+        "magic-knight-rayearth",
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154095031992",
+        "11092365551|154095555317"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154054777028",
+      "floor": 184,
+      "pid": "154097628619",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154097628619#154097628619",
+      "text": "《魔法骑士雷阿斯》1代的NPC台词，以及2代的台词和战斗菜单图标问题已记录。请补一下两份ROM的文件名或版本号，方便对应排查。",
+      "text_sha256": "5412b2de0f4a1a20bd1be6e2e06716cff64666ee7acdae4ea329aed39dc9a8b6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-02T12:02:51.882573+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154095031992",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "public_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOOR",
+      "direct_UID_notification_confirmed": false,
+      "all_API_reported_totals_equal_unique": true,
+      "alternative_live_main_visible_count_basis_used": false,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00",
+  "cases": [
+    {
+      "public_case_key": "case-e036f522cc8d3f4f",
+      "public_problem_key": "problem-3329747f9cf29a69",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "summary": "魔法骑士雷阿斯2：对白、保存提示及选项的异常汉字",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "public_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "magic-knight-rayearth-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "ffeb6c8433f8d2bacceb833ec33d146ca0c2ddcd5980c2839a9c5416516c2c71",
+          "output_SHA256": "ee00aa86c4a59ed79629dad9ea6adfb61f7aec3fe664d44fabf5c22b1d7863fe",
+          "output_bytes": 262144
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本",
+      "source_image_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261102-1113|rayearth2-dialogue-save-anomalous-text",
+          "game_ids": [
+            "magic-knight-rayearth-2"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "魔法骑士雷阿斯2：对白、保存提示及选项的异常汉字",
+          "feedback_summary": "玩家报告2代部分文字不通顺或疑似乱码；中日版对照图1—4可见对白、保存提示及选项的异常汉字组合。玩家未说明完整触发路线或ROM文件名、版本、字号及完整哈希。已分别登记，不把当前发布参考身份当作玩家ROM，也未运行复现或确认根因。",
+          "source_feedback_keys": [
+            "11092365551|154095031992"
+          ],
+          "image_indices": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "not_assumed_text_layout_batch": true,
+          "hardware_acceptance": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-aa4ac30124631457",
+      "public_problem_key": "problem-28f40ed6e7661578",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "summary": "魔法骑士雷阿斯2：战斗命令小图标显示为汉字",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "public_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "magic-knight-rayearth-2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "ffeb6c8433f8d2bacceb833ec33d146ca0c2ddcd5980c2839a9c5416516c2c71",
+          "output_SHA256": "ee00aa86c4a59ed79629dad9ea6adfb61f7aec3fe664d44fabf5c22b1d7863fe",
+          "output_bytes": 262144
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本",
+      "source_image_indices": [
+        5,
+        6
+      ],
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261102-1113|rayearth2-battle-icons-as-hanzi",
+          "game_ids": [
+            "magic-knight-rayearth-2"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "魔法骑士雷阿斯2：战斗命令小图标显示为汉字",
+          "feedback_summary": "同一反馈的图5—6对照显示中文版战斗命令栏为连续汉字，日版为小图标。此项与对白和保存选项异常分别登记；玩家实际ROM身份未知，未运行复现或确认具体图块、字库根因。",
+          "source_feedback_keys": [
+            "11092365551|154095031992"
+          ],
+          "image_indices": [
+            5,
+            6
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "not_assumed_text_layout_batch": true,
+          "hardware_acceptance": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-3329747f9cf29a69",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "summary": "魔法骑士雷阿斯2：对白、保存提示及选项的异常汉字",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-e036f522cc8d3f4f"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "classification_basis": "PUBLIC_LITERAL_PLAYER_REPORT_ROOT_VIEWED_ORIGINALS_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-28f40ed6e7661578",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "summary": "魔法骑士雷阿斯2：战斗命令小图标显示为汉字",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-aa4ac30124631457"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "classification_basis": "PUBLIC_LITERAL_PLAYER_REPORT_ROOT_VIEWED_ORIGINALS_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    }
+  ],
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261102-1113|rayearth2-dialogue-save-anomalous-text",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯2：对白、保存提示及选项的异常汉字",
+      "feedback_summary": "玩家报告2代部分文字不通顺或疑似乱码；中日版对照图1—4可见对白、保存提示及选项的异常汉字组合。玩家未说明完整触发路线或ROM文件名、版本、字号及完整哈希。已分别登记，不把当前发布参考身份当作玩家ROM，也未运行复现或确认根因。",
+      "source_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "image_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    },
+    {
+      "public_update_key": "20261102-1113|rayearth2-battle-icons-as-hanzi",
+      "game_ids": [
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯2：战斗命令小图标显示为汉字",
+      "feedback_summary": "同一反馈的图5—6对照显示中文版战斗命令栏为连续汉字，日版为小图标。此项与对白和保存选项异常分别登记；玩家实际ROM身份未知，未运行复现或确认具体图块、字库根因。",
+      "source_feedback_keys": [
+        "11092365551|154095031992"
+      ],
+      "image_indices": [
+        5,
+        6
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    }
+  ],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154095031992",
+      "parent_pid": "154054777028",
+      "floor": 184,
+      "public_nickname": "明诚王淼",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+      "created_at": "2026-11-01T17:22:38+08:00",
+      "quote": "（附日版对比）楼主这版2代有些地方……不太通顺？不知道算不算乱码。然后就是战斗菜单原本的小图标也变成了一串汉字      ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8ead48aad2af01c8c9302f9bbc28703d9a4278fe21a9c9b4e55eb96ee869ffbc",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261102-1113/30a555063c399ae2d619a2ff52a82a103f17853493ae143fc798489675a14a21.jpg",
+          "sha256": "30a555063c399ae2d619a2ff52a82a103f17853493ae143fc798489675a14a21",
+          "bytes": 296320,
+          "source_image_index": 1,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/bae8384831d1399de845b50a39de4c940f334879c043623e2d0b107ded71a43b.jpg",
+          "sha256": "bae8384831d1399de845b50a39de4c940f334879c043623e2d0b107ded71a43b",
+          "bytes": 295852,
+          "source_image_index": 2,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/956ea40d796888aec6c9de56cdda4278b79b5c8db1d22c675f4f86c97440f794.jpg",
+          "sha256": "956ea40d796888aec6c9de56cdda4278b79b5c8db1d22c675f4f86c97440f794",
+          "bytes": 270813,
+          "source_image_index": 3,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/f0569d5d69de5643f07bb06b8bf31bf596d7ff787152c5a274fbe9d863cf70a7.jpg",
+          "sha256": "f0569d5d69de5643f07bb06b8bf31bf596d7ff787152c5a274fbe9d863cf70a7",
+          "bytes": 271554,
+          "source_image_index": 4,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/08ce92fb8508ab5376866754b452f5942e079b97e39b2d46705017e59486b6d5.jpg",
+          "sha256": "08ce92fb8508ab5376866754b452f5942e079b97e39b2d46705017e59486b6d5",
+          "bytes": 221017,
+          "source_image_index": 5,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/dfa569bdcbfd23157f75284fa0c5b3b88eaec80d1c609f3a717cf1a1904e4022.jpg",
+          "sha256": "dfa569bdcbfd23157f75284fa0c5b3b88eaec80d1c609f3a717cf1a1904e4022",
+          "bytes": 217885,
+          "source_image_index": 6,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095031992#154095031992",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00"
 }

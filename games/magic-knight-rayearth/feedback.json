@@ -3,9 +3,11 @@
   "game_id": "magic-knight-rayearth",
   "game_name": "魔法骑士雷阿斯",
   "original_input_sha256": "3be897438e69a22c64be12ab1d5ed41f9f35a54e40a1ce909f9fe080734d7fa4",
-  "public_case_keys": [],
-  "case_count": 0,
-  "state_checked_at": "2026-10-24T01:50:22.293986+08:00",
+  "public_case_keys": [
+    "case-c2c80490bbfd5d6a"
+  ],
+  "case_count": 1,
+  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
   "absence_is_not_bug_free_acceptance": true,
   "public_issue_entry": "https://github.com/shiyi1133/youxi-hanhua-releases/issues/new?template=bug_report.md",
   "acknowledgements": [
@@ -131,7 +133,232 @@
           "independent_pixel_matched_cells": 9
         }
       ]
+    },
+    {
+      "public_reply_key": "reply-236bc615d20b4ac0",
+      "game_ids": [
+        "magic-knight-rayearth",
+        "magic-knight-rayearth-2"
+      ],
+      "kind": "BUG_ACK",
+      "is_bug_acknowledgement": true,
+      "is_information_reply": false,
+      "source_feedback_keys": [
+        "11092365551|154095031992",
+        "11092365551|154095555317"
+      ],
+      "tid": "11092365551",
+      "parent_pid": "154054777028",
+      "floor": 184,
+      "pid": "154097628619",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154097628619#154097628619",
+      "text": "《魔法骑士雷阿斯》1代的NPC台词，以及2代的台词和战斗菜单图标问题已记录。请补一下两份ROM的文件名或版本号，方便对应排查。",
+      "text_sha256": "5412b2de0f4a1a20bd1be6e2e06716cff64666ee7acdae4ea329aed39dc9a8b6",
+      "actual_public_full_text_verified": true,
+      "verified_at": "2026-11-02T12:02:51.882573+08:00",
+      "actual_public_reply_to_id": "0",
+      "intended_reply_to_comment_pid": "154095031992",
+      "public_recipient_UID_matches_intended": false,
+      "exact_nested_target_PID_publicly_verified": false,
+      "SDK_precise_nested_notification_claimed": false,
+      "public_delivery_scope": "VISIBLE_REPLY_IN_ORIGINAL_PARENT_FLOOR",
+      "direct_UID_notification_confirmed": false,
+      "all_API_reported_totals_equal_unique": true,
+      "alternative_live_main_visible_count_basis_used": false,
+      "public_visible_exhaustiveness_basis": "ALL_API_PAGES_AND_LIVE_MAIN_VISIBLE_REPLY_COUNT",
+      "is_new_ROM_delivery": false,
+      "is_repair_completion": false
     }
   ],
-  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00"
+  "last_maintainer_notice_export_at": "2026-10-24T02:30:44.394200+08:00",
+  "cases": [
+    {
+      "public_case_key": "case-c2c80490bbfd5d6a",
+      "public_problem_key": "problem-35fa4b5cad7a72f3",
+      "game_ids": [
+        "magic-knight-rayearth"
+      ],
+      "summary": "魔法骑士雷阿斯：光篇首个Boss后NPC对白异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "public_feedback_keys": [
+        "11092365551|154095555317"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154095555317"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "magic-knight-rayearth",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.0",
+          "original_input_SHA256": "3be897438e69a22c64be12ab1d5ed41f9f35a54e40a1ce909f9fe080734d7fa4",
+          "output_SHA256": "0e4ee943c1a1115c091fbccfa167b6615f5c396bcf587622015993a27870bcde",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本",
+      "source_image_indices": [
+        1,
+        2,
+        3
+      ],
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261102-1113|rayearth1-light-post-firstboss-npc",
+          "game_ids": [
+            "magic-knight-rayearth"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "魔法骑士雷阿斯：光篇首个Boss后NPC对白异常",
+          "feedback_summary": "玩家报告1代光篇打完首个Boss后，一段NPC对白异常，并提供三张截图。光篇及首个Boss后是玩家给定步骤，NPC名称及地图位置未明确。玩家实际ROM版本、字号和完整哈希未知；未运行复现或修复。",
+          "source_feedback_keys": [
+            "11092365551|154095555317"
+          ],
+          "image_indices": [
+            1,
+            2,
+            3
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+          "reported_version": null,
+          "reported_font": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false,
+          "common_root_cause_proven": false,
+          "not_assumed_text_layout_batch": true,
+          "hardware_acceptance": false
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "public_problem_key": "problem-35fa4b5cad7a72f3",
+      "game_ids": [
+        "magic-knight-rayearth"
+      ],
+      "summary": "魔法骑士雷阿斯：光篇首个Boss后NPC对白异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-c2c80490bbfd5d6a"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154095555317"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "classification_basis": "PUBLIC_LITERAL_PLAYER_REPORT_ROOT_VIEWED_ORIGINALS_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
+      "semantic_type": "PURE_BUG"
+    }
+  ],
+  "scoped_public_feedback_events": [
+    {
+      "public_update_key": "20261102-1113|rayearth1-light-post-firstboss-npc",
+      "game_ids": [
+        "magic-knight-rayearth"
+      ],
+      "kind": "NEW_INDEPENDENT_BUG",
+      "summary": "魔法骑士雷阿斯：光篇首个Boss后NPC对白异常",
+      "feedback_summary": "玩家报告1代光篇打完首个Boss后，一段NPC对白异常，并提供三张截图。光篇及首个Boss后是玩家给定步骤，NPC名称及地图位置未明确。玩家实际ROM版本、字号和完整哈希未知；未运行复现或修复。",
+      "source_feedback_keys": [
+        "11092365551|154095555317"
+      ],
+      "image_indices": [
+        1,
+        2,
+        3
+      ],
+      "issue_state": "open",
+      "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
+      "reported_version": null,
+      "reported_font": null,
+      "actual_player_input_SHA256": null,
+      "actual_player_output_SHA256": null,
+      "maintainer_new_runtime_tests": false,
+      "maintainer_reproduction_attempted": false,
+      "new_fix_claimed": false,
+      "is_repair_completion": false,
+      "common_root_cause_proven": false,
+      "not_assumed_text_layout_batch": true,
+      "hardware_acceptance": false
+    }
+  ],
+  "rows": [
+    {
+      "tid": "11092365551",
+      "pid": "154095555317",
+      "parent_pid": "154054777028",
+      "floor": 184,
+      "public_nickname": "明诚王淼",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154095555317#154095555317",
+      "created_at": "2026-11-01T20:15:03+08:00",
+      "quote": "1代，光篇打完第一个boss后，npc有段台词怪怪的   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3d85b070c60c0973779a546d6756e0c5afe6cbf8cbc99b1dbc458043b822c7f9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "file": "feedback/images/20261102-1113/66c5a862d5df12c8c87e98d27979c43ca040d506ded7cb2618f9b393cf809268.jpg",
+          "sha256": "66c5a862d5df12c8c87e98d27979c43ca040d506ded7cb2618f9b393cf809268",
+          "bytes": 315492,
+          "source_image_index": 1,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095555317#154095555317",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/b64c800808978e6e298b81164ba573b1b73482e944969667b076c441da01e906.jpg",
+          "sha256": "b64c800808978e6e298b81164ba573b1b73482e944969667b076c441da01e906",
+          "bytes": 316446,
+          "source_image_index": 2,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095555317#154095555317",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        },
+        {
+          "file": "feedback/images/20261102-1113/551868629b638c9c6345be79ca754dd01b2e5772057e12d6b2f4e3196e37e456.jpg",
+          "sha256": "551868629b638c9c6345be79ca754dd01b2e5772057e12d6b2f4e3196e37e456",
+          "bytes": 311492,
+          "source_image_index": 3,
+          "public_post_url": "https://tieba.baidu.com/p/11092365551?pid=154095555317#154095555317",
+          "classification": "PLAYER_PUBLIC_ORIGINAL_PREVIEW_STATIC_EVIDENCE_NOT_MAINTAINER_RUNTIME",
+          "public_rehosted": true
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    }
+  ],
+  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00"
 }

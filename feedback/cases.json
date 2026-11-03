@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
-  "case_count": 228,
+  "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+  "case_count": 230,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -14203,7 +14203,163 @@
           "hardware_acceptance": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-75a00b0b1f785888",
+      "public_problem_key": "problem-a2314417061b90be",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：对白10px的“了”和“旧”字右缘像素缺失",
+      "classification": "BUG",
+      "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+      "public_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "primary_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "context_feedback_keys": [],
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "harry-potter-chamber",
+          "font": "10px-dialogue",
+          "audio_variant": "unchanged",
+          "version": "v1.0.4",
+          "original_input_SHA256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "output_SHA256": "18f42d86fc899e55652a5434fecf2354e1aeb72700c6b847a217ad852f941271",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "10px-dialogue",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_indices": [
+        1
+      ],
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261103-2320|glyph-right-column",
+          "game_ids": [
+            "harry-potter-chamber"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "哈利波特与密室：对白10px的“了”和“旧”字右缘像素缺失",
+          "feedback_summary": "玩家报告两个字各缺最右一列像素，提供同一张游戏画面照片。字形数据和显示路径有待排查。",
+          "source_feedback_keys": [
+            "11092365551|154099945812"
+          ],
+          "image_indices": [
+            1
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "10px-dialogue",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "player_reported_completed_playthrough": true,
+          "maintainer_reproduction_attempted": false,
+          "maintainer_new_runtime_tests": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-7a47d451e6c9afbd",
+      "public_problem_key": "problem-a50dc503484d887d",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：一段对白的人称与原意待核",
+      "classification": "REQUEST_OR_OTHER",
+      "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+      "public_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "feedback_kind": "TRANSLATION_REVIEW",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "primary_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "context_feedback_keys": [],
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "harry-potter-chamber",
+          "font": "10px-dialogue",
+          "audio_variant": "unchanged",
+          "version": "v1.0.4",
+          "original_input_SHA256": "2788df60fc6373bdf7c9fa241a4409da14726f23017953adc1121bb90ad6b99a",
+          "output_SHA256": "18f42d86fc899e55652a5434fecf2354e1aeb72700c6b847a217ad852f941271",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "10px-dialogue",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_indices": [
+        1
+      ],
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261103-2320|dialogue-pronoun-review",
+          "game_ids": [
+            "harry-potter-chamber"
+          ],
+          "kind": "TRANSLATION_REVIEW",
+          "summary": "哈利波特与密室：一段对白的人称与原意待核",
+          "feedback_summary": "玩家根据语境提出另一种人称理解，请核对原文及说话者。现阶段登记译文核对，误译尚待确认。",
+          "source_feedback_keys": [
+            "11092365551|154099945812"
+          ],
+          "image_indices": [
+            1
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "10px-dialogue",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "player_reported_completed_playthrough": true,
+          "maintainer_reproduction_attempted": false,
+          "maintainer_new_runtime_tests": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00"
+  "last_incremental_update_at": "2026-11-03T15:25:45.212788+00:00"
 }

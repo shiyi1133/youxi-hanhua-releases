@@ -1,9 +1,9 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
-  "problem_count": 153,
-  "open_pure_BUG_count": 72,
-  "open_requests_or_other_count": 22,
+  "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+  "problem_count": 155,
+  "open_pure_BUG_count": 73,
+  "open_requests_or_other_count": 23,
   "open_classification_unconfirmed_count": 3,
   "problems": [
     {
@@ -5900,13 +5900,57 @@
       "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
       "classification_basis": "PUBLIC_LITERAL_PLAYER_REPORT_ROOT_VIEWED_ORIGINALS_AND_ACTUAL_REGISTERED_NEW_BUG_SCOPE_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-a2314417061b90be",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：对白10px的“了”和“旧”字右缘像素缺失",
+      "classification": "BUG",
+      "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+      "public_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "case_keys": [
+        "case-75a00b0b1f785888"
+      ],
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-a50dc503484d887d",
+      "game_ids": [
+        "harry-potter-chamber"
+      ],
+      "summary": "哈利波特与密室：一段对白的人称与原意待核",
+      "classification": "REQUEST_OR_OTHER",
+      "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+      "public_feedback_keys": [
+        "11092365551|154099945812"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state": "open",
+      "case_keys": [
+        "case-7a47d451e6c9afbd"
+      ],
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "TRANSLATION_REVIEW"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00",
+  "last_incremental_update_at": "2026-11-03T15:25:45.212788+00:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

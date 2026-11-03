@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-11-02T12:18:13.408450+08:00",
-  "count": 641,
+  "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
+  "count": 642,
   "rows": [
     {
       "tid": "11092365551",
@@ -14971,9 +14971,36 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154099945812",
+      "parent_pid": "154019285562",
+      "floor": 15,
+      "public_nickname": "ggggfrbd",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154099945812#154099945812",
+      "created_at": "2026-11-03T00:32:47+08:00",
+      "quote": "哈利波特与密室大字版（哈利波特与密室_简体中文_v1.0.4_仅对白10px_标题与字修复测试版）已顺利通关，报告一个字体问题 “了”字和“旧”字少了最右侧一列的像素。另外还有一个翻译问题，这里我按语境推测，似乎应该是“我天生就够倒霉了，你再下咒也添不了多少”，但是不确定是不是我理解错了，请核对下翻译是否正确。两个问题都可以在这个截图中体现。",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "81f81a4e2c6ebd0e03324b0c2a07ded4ed95a1b7a1a33561d4054fb7fb6548e9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154099945812#154099945812",
+          "sha256": "0a3c1d0d1d31b0807575d5de9e7543c1a562a2f416208534f35e447ea9e52486",
+          "bytes": 319409,
+          "width": 1080,
+          "height": 1440,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-11-02T12:18:13.408450+08:00"
+  "last_incremental_update_at": "2026-11-03T15:25:45.212788+00:00"
 }

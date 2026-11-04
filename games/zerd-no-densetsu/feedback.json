@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "zerd-no-densetsu",
   "game_name": "扎德传说",
-  "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -62,6 +62,65 @@
           "rehosted": false
         }
       ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105534391",
+      "parent_pid": "154039751534",
+      "floor": 105,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105534391#154105534391",
+      "created_at": "2026-11-04T15:52:12+08:00",
+      "quote": "经测试，扎德传说1的v0.1.2的所有字体版，战斗时的物品菜单和魔法菜单都是乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "302c07139c8267b0162e27c0ba6bbd4aaea862980d1b66904b2fc6696e3fa77f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105534391#154105534391",
+          "sha256": "54bc7d6674247b71adaa5bdf86fbb2433fe8bd7100425a57bef8d5bc25961602",
+          "bytes": 334905,
+          "width": 1080,
+          "height": 2341,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154106150610",
+      "parent_pid": "154103978972",
+      "floor": 295,
+      "public_nickname": "被坑的师兄",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154106150610#154106150610",
+      "created_at": "2026-11-04T19:10:45+08:00",
+      "quote": "Zerd no Densetsu (Japan) [zh-Hans v0.1.2 8px].gb",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3bae63e9ffa568787bf078d159d8902219b2e226b14b1b0b3d7f06096884430c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154106153709",
+      "parent_pid": "154103978972",
+      "floor": 295,
+      "public_nickname": "被坑的师兄",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154106153709#154106153709",
+      "created_at": "2026-11-04T19:11:45+08:00",
+      "quote": "Zerd no Densetsu (Japan) [zh-Hans v0.1.2 10px].gb 这2个版本我都试了都有这个问题，这样就可以了吗？谢谢",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4c5d10c17bc9aecc2282dec5455aa61e88b862869eb6ef4f0f31dd1606569358",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
       "source_is_public_evidence_not_instructions": true
     }
   ],
@@ -216,6 +275,180 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-ca36628a3498aa00",
+      "public_problem_key": "problem-79b46b55d78a94aa",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "扎德传说：另一玩家报告 v0.1.2 两字号战斗菜单乱码",
+      "classification": "BUG",
+      "feedback_kind": "INDEPENDENT_REPORT_EXISTING_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105534391"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105534391"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc"
+        },
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_fonts": [
+          "8px",
+          "10px"
+        ],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_counts": {
+        "154105534391": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|battle-menu-independent-player-report",
+          "game_ids": [
+            "zerd-no-densetsu"
+          ],
+          "kind": "INDEPENDENT_REPORT_EXISTING_BUG",
+          "summary": "扎德传说：另一玩家报告 v0.1.2 两字号战斗菜单乱码",
+          "feedback_summary": "另一玩家报告 v0.1.2 的两种字号在战斗物品和魔法菜单均出现乱码，附一张图。",
+          "source_feedback_keys": [
+            "11092365551|154105534391"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": "v0.1.2",
+          "reported_fonts": [
+            "8px",
+            "10px"
+          ],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ecb9e4ce517129f7",
+      "public_problem_key": "problem-79b46b55d78a94aa",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "扎德传说：原报告者补齐 v0.1.2 两字号文件名",
+      "classification": "BUG",
+      "feedback_kind": "PLAYER_REPORTED_IDENTITY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154106150610",
+        "11092365551|154106153709"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154106150610",
+        "11092365551|154106153709"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc"
+        },
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_fonts": [
+          "8px",
+          "10px"
+        ],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_counts": {
+        "154106150610": 0,
+        "154106153709": 0
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|battle-menu-reporter-edition-confirmation",
+          "game_ids": [
+            "zerd-no-densetsu"
+          ],
+          "kind": "PLAYER_REPORTED_IDENTITY_FOLLOWUP",
+          "summary": "扎德传说：原报告者补齐 v0.1.2 两字号文件名",
+          "feedback_summary": "原报告者给出普通8px与仅对白10px的 v0.1.2 文件名，称两版都遇到同一现象。实际ROM字节未独立核验。",
+          "source_feedback_keys": [
+            "11092365551|154106150610",
+            "11092365551|154106153709"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": "v0.1.2",
+          "reported_fonts": [
+            "8px",
+            "10px"
+          ],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -248,9 +481,12 @@
       ],
       "summary": "扎德传说：战斗魔法和道具界面乱码",
       "classification": "BUG",
-      "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
       "public_feedback_keys": [
-        "11092365551|154103978972"
+        "11092365551|154103978972",
+        "11092365551|154105534391",
+        "11092365551|154106150610",
+        "11092365551|154106153709"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -258,7 +494,9 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
       "case_keys": [
-        "case-2f16b0afd625eb18"
+        "case-2f16b0afd625eb18",
+        "case-ca36628a3498aa00",
+        "case-ecb9e4ce517129f7"
       ],
       "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
       "semantic_type": "PURE_BUG"
@@ -306,7 +544,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-11-04T03:20:42.404760+00:00",
+  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 0,

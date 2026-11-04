@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "poyon-dungeon-2",
   "game_name": "波永的迷宫2",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -1746,6 +1746,217 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105373340",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+      "created_at": "2026-11-04T15:03:30+08:00",
+      "quote": "20261025版，日文选项未翻译，位置在初始村庄上方左边数起第四间房（图4），召唤兽服务馆，进去后的选项菜单未翻译（图1）    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e947eb4739f0e3c47f21184cec52365d324f77fc38b8409b7e05f45f355430d9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "36b694bac3fe7d90ecd5ba52cdad7edf5dd6e9d48237e52bc2907dd40d16ec2a",
+          "bytes": 166991,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "027fae85488316217f932248379c0d7ea842e7ec00c0a1d99aaef869d92c97d5",
+          "bytes": 163986,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "affa0157d22b9327200d9a361916da09e99176b17d96765d1e61ea3e130480d3",
+          "bytes": 165765,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "16c40ec918ca658afa87c8249ae93546cf9b9d03365b5ea253783fb467fddb5a",
+          "bytes": 195857,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105410019",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+      "created_at": "2026-11-04T15:14:42+08:00",
+      "quote": "20261025版，文字显示乱码。第一个迷宫，气龙迷宫，这个房间（图1）里面玩骰子游戏。图4中间“个买入”“对少纸”，图5右下方“减召具”，图5中间“个买入”“对少纸”     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "de8f92f54041c283f81a3f1e0947d015998fc5ec59cb13b03f59c4f843ae698d",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "9d7541d84f0f162c82297bfac5de99d286310e492e6fbcad9649b158091450d2",
+          "bytes": 224605,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "9d62bd1339c13ffd03980923a727e483b839e60ffbd90b38d173c58fa3aad71b",
+          "bytes": 171092,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "be14edf8b0d2615bc995d83cc768281b8d408174a107da76d7fd06960771e7df",
+          "bytes": 170959,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "acebe8bfd4253b27a4f6c7856d0a8d74df207de92b0940c7a9b581ffbf022639",
+          "bytes": 153664,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "f54b37acffc75006e711fb65704dfa8d9c6ac54f5e32838086e7e5ccbf2a5f6f",
+          "bytes": 167115,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105448692",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+      "created_at": "2026-11-04T15:25:47+08:00",
+      "quote": "20261025版，在初始村庄的上方左一房间里（图1），仓库取出物品的页面，物品名称显示不全（图4、图5“缩小饮”“解毒疫”），且物品图标上面显示乱码（图6、图7）       ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d39bbbab039f3c6208322448e22524641eddf2d7575a21fcc21eac2b799d32ac",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "2f4e77a2c56db906653e5f817e458b0cbf9d11a3efa82751652550feec74a414",
+          "bytes": 195635,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "57e0109401207b5639df348f5be59d90226557e263217ad90b07a94ed311d89d",
+          "bytes": 172762,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "0fe8b86e0fe35ab079b486db4dce49bb3465c4a008e4fbad08b17794fe386393",
+          "bytes": 166518,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "94e66b9bcc14b62b5433675628a7b2f3645d382fe352643f18e123c8a1ef4539",
+          "bytes": 169731,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "39d7c8a4eecddac4d92db01d0c84beefd391a5738b21ee921fa2ba8444b15bd1",
+          "bytes": 169867,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "c941cbc6a04cce09a19b8dfdeec2750bda0365dbeb8ba4dd7378fc3bdfd5c87c",
+          "bytes": 173177,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 7,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "43f5fab4789ee9e0e8067c1cf9f4f21644f6459c6af2feeabde154237797e530",
+          "bytes": 172237,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -2757,6 +2968,225 @@
           "actual_player_output_sha256": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-85d54877938339d8",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：初村召唤兽服务馆选项日文",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_COVERAGE_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105373340"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105373340"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105373340": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|summon-service-untranslated",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_COVERAGE_FOLLOWUP",
+          "summary": "波永的迷宫2：初村召唤兽服务馆选项日文",
+          "feedback_summary": "玩家报告初始村庄上方从左数第四间房的召唤兽服务馆内，选项菜单仍显示日文。",
+          "source_feedback_keys": [
+            "11092365551|154105373340"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b7ce67bca3c8d132",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：气龙迷宫骰子游戏词条异常",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_DISPLAY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105410019"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105410019"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105410019": 5
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|first-dungeon-dice-display",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_DISPLAY_FOLLOWUP",
+          "summary": "波永的迷宫2：气龙迷宫骰子游戏词条异常",
+          "feedback_summary": "玩家报告首个迷宫的骰子游戏中出现“个买入”“对少纸”“减召具”等异常文字。",
+          "source_feedback_keys": [
+            "11092365551|154105410019"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-7089346d0e6867dc",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：仓库取出菜单名称及图标显示补充",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_DISPLAY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105448692"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105448692"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105448692": 7
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|withdraw-item-display-followup",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_DISPLAY_FOLLOWUP",
+          "summary": "波永的迷宫2：仓库取出菜单名称及图标显示补充",
+          "feedback_summary": "玩家补充初始村庄上方左一房间仓库取出菜单的道具名不全，且物品图标上方显示异常。",
+          "source_feedback_keys": [
+            "11092365551|154105448692"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -2767,7 +3197,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -2777,7 +3207,10 @@
         "case-36bfa02f5e58e827",
         "case-5edd78bd54d1ae5a",
         "case-a90640c4083d55b6",
-        "case-ee765e7f6e0fb0e3"
+        "case-ee765e7f6e0fb0e3",
+        "case-85d54877938339d8",
+        "case-b7ce67bca3c8d132",
+        "case-7089346d0e6867dc"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -2826,7 +3259,10 @@
         "11092365551|154074333182",
         "11092365551|154077414545",
         "11092365551|154077978874",
-        "11092365551|154078060981"
+        "11092365551|154078060981",
+        "11092365551|154105373340",
+        "11092365551|154105410019",
+        "11092365551|154105448692"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -3215,7 +3651,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-28T04:46:56.296991+08:00",
+  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

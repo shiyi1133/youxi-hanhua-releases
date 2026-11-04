@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
-  "case_count": 231,
+  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+  "case_count": 236,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -14448,7 +14448,400 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-85d54877938339d8",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：初村召唤兽服务馆选项日文",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_COVERAGE_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105373340"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105373340"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105373340": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|summon-service-untranslated",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_COVERAGE_FOLLOWUP",
+          "summary": "波永的迷宫2：初村召唤兽服务馆选项日文",
+          "feedback_summary": "玩家报告初始村庄上方从左数第四间房的召唤兽服务馆内，选项菜单仍显示日文。",
+          "source_feedback_keys": [
+            "11092365551|154105373340"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b7ce67bca3c8d132",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：气龙迷宫骰子游戏词条异常",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_DISPLAY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105410019"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105410019"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105410019": 5
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|first-dungeon-dice-display",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_DISPLAY_FOLLOWUP",
+          "summary": "波永的迷宫2：气龙迷宫骰子游戏词条异常",
+          "feedback_summary": "玩家报告首个迷宫的骰子游戏中出现“个买入”“对少纸”“减召具”等异常文字。",
+          "source_feedback_keys": [
+            "11092365551|154105410019"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-7089346d0e6867dc",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "波永的迷宫2：仓库取出菜单名称及图标显示补充",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_DISPLAY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105448692"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105448692"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_fonts": [],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true,
+        "literal_player_version_label": "20261025版",
+        "literal_label_does_not_identify_exact_published_ROM": true
+      },
+      "player_version_information_pending": true,
+      "source_image_counts": {
+        "154105448692": 7
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|withdraw-item-display-followup",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "SCOPED_DISPLAY_FOLLOWUP",
+          "summary": "波永的迷宫2：仓库取出菜单名称及图标显示补充",
+          "feedback_summary": "玩家补充初始村庄上方左一房间仓库取出菜单的道具名不全，且物品图标上方显示异常。",
+          "source_feedback_keys": [
+            "11092365551|154105448692"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": null,
+          "reported_fonts": [],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ca36628a3498aa00",
+      "public_problem_key": "problem-79b46b55d78a94aa",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "扎德传说：另一玩家报告 v0.1.2 两字号战斗菜单乱码",
+      "classification": "BUG",
+      "feedback_kind": "INDEPENDENT_REPORT_EXISTING_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154105534391"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154105534391"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc"
+        },
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_fonts": [
+          "8px",
+          "10px"
+        ],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_counts": {
+        "154105534391": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|battle-menu-independent-player-report",
+          "game_ids": [
+            "zerd-no-densetsu"
+          ],
+          "kind": "INDEPENDENT_REPORT_EXISTING_BUG",
+          "summary": "扎德传说：另一玩家报告 v0.1.2 两字号战斗菜单乱码",
+          "feedback_summary": "另一玩家报告 v0.1.2 的两种字号在战斗物品和魔法菜单均出现乱码，附一张图。",
+          "source_feedback_keys": [
+            "11092365551|154105534391"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": "v0.1.2",
+          "reported_fonts": [
+            "8px",
+            "10px"
+          ],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ecb9e4ce517129f7",
+      "public_problem_key": "problem-79b46b55d78a94aa",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "扎德传说：原报告者补齐 v0.1.2 两字号文件名",
+      "classification": "BUG",
+      "feedback_kind": "PLAYER_REPORTED_IDENTITY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "public_feedback_keys": [
+        "11092365551|154106150610",
+        "11092365551|154106153709"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154106150610",
+        "11092365551|154106153709"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc"
+        },
+        {
+          "game_id": "zerd-no-densetsu",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_fonts": [
+          "8px",
+          "10px"
+        ],
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": false,
+      "source_image_counts": {
+        "154106150610": 0,
+        "154106153709": 0
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-2322|battle-menu-reporter-edition-confirmation",
+          "game_ids": [
+            "zerd-no-densetsu"
+          ],
+          "kind": "PLAYER_REPORTED_IDENTITY_FOLLOWUP",
+          "summary": "扎德传说：原报告者补齐 v0.1.2 两字号文件名",
+          "feedback_summary": "原报告者给出普通8px与仅对白10px的 v0.1.2 文件名，称两版都遇到同一现象。实际ROM字节未独立核验。",
+          "source_feedback_keys": [
+            "11092365551|154106150610",
+            "11092365551|154106153709"
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+          "reported_version": "v0.1.2",
+          "reported_fonts": [
+            "8px",
+            "10px"
+          ],
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-04T03:20:42.404760+00:00"
+  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00"
 }

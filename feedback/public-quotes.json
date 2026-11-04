@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
-  "count": 643,
+  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+  "count": 649,
   "rows": [
     {
       "tid": "11092365551",
@@ -15035,9 +15035,279 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105373340",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+      "created_at": "2026-11-04T15:03:30+08:00",
+      "quote": "20261025版，日文选项未翻译，位置在初始村庄上方左边数起第四间房（图4），召唤兽服务馆，进去后的选项菜单未翻译（图1）    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e947eb4739f0e3c47f21184cec52365d324f77fc38b8409b7e05f45f355430d9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "36b694bac3fe7d90ecd5ba52cdad7edf5dd6e9d48237e52bc2907dd40d16ec2a",
+          "bytes": 166991,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "027fae85488316217f932248379c0d7ea842e7ec00c0a1d99aaef869d92c97d5",
+          "bytes": 163986,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "affa0157d22b9327200d9a361916da09e99176b17d96765d1e61ea3e130480d3",
+          "bytes": 165765,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105373340#154105373340",
+          "sha256": "16c40ec918ca658afa87c8249ae93546cf9b9d03365b5ea253783fb467fddb5a",
+          "bytes": 195857,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105410019",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+      "created_at": "2026-11-04T15:14:42+08:00",
+      "quote": "20261025版，文字显示乱码。第一个迷宫，气龙迷宫，这个房间（图1）里面玩骰子游戏。图4中间“个买入”“对少纸”，图5右下方“减召具”，图5中间“个买入”“对少纸”     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "de8f92f54041c283f81a3f1e0947d015998fc5ec59cb13b03f59c4f843ae698d",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "9d7541d84f0f162c82297bfac5de99d286310e492e6fbcad9649b158091450d2",
+          "bytes": 224605,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "9d62bd1339c13ffd03980923a727e483b839e60ffbd90b38d173c58fa3aad71b",
+          "bytes": 171092,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "be14edf8b0d2615bc995d83cc768281b8d408174a107da76d7fd06960771e7df",
+          "bytes": 170959,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "acebe8bfd4253b27a4f6c7856d0a8d74df207de92b0940c7a9b581ffbf022639",
+          "bytes": 153664,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105410019#154105410019",
+          "sha256": "f54b37acffc75006e711fb65704dfa8d9c6ac54f5e32838086e7e5ccbf2a5f6f",
+          "bytes": 167115,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105448692",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+      "created_at": "2026-11-04T15:25:47+08:00",
+      "quote": "20261025版，在初始村庄的上方左一房间里（图1），仓库取出物品的页面，物品名称显示不全（图4、图5“缩小饮”“解毒疫”），且物品图标上面显示乱码（图6、图7）       ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d39bbbab039f3c6208322448e22524641eddf2d7575a21fcc21eac2b799d32ac",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "2f4e77a2c56db906653e5f817e458b0cbf9d11a3efa82751652550feec74a414",
+          "bytes": 195635,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "57e0109401207b5639df348f5be59d90226557e263217ad90b07a94ed311d89d",
+          "bytes": 172762,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "0fe8b86e0fe35ab079b486db4dce49bb3465c4a008e4fbad08b17794fe386393",
+          "bytes": 166518,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "94e66b9bcc14b62b5433675628a7b2f3645d382fe352643f18e123c8a1ef4539",
+          "bytes": 169731,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "39d7c8a4eecddac4d92db01d0c84beefd391a5738b21ee921fa2ba8444b15bd1",
+          "bytes": 169867,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "c941cbc6a04cce09a19b8dfdeec2750bda0365dbeb8ba4dd7378fc3bdfd5c87c",
+          "bytes": 173177,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 7,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105448692#154105448692",
+          "sha256": "43f5fab4789ee9e0e8067c1cf9f4f21644f6459c6af2feeabde154237797e530",
+          "bytes": 172237,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154105534391",
+      "parent_pid": "154039751534",
+      "floor": 105,
+      "public_nickname": "♬肚皮吸碗🎶",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154105534391#154105534391",
+      "created_at": "2026-11-04T15:52:12+08:00",
+      "quote": "经测试，扎德传说1的v0.1.2的所有字体版，战斗时的物品菜单和魔法菜单都是乱码",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "302c07139c8267b0162e27c0ba6bbd4aaea862980d1b66904b2fc6696e3fa77f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154105534391#154105534391",
+          "sha256": "54bc7d6674247b71adaa5bdf86fbb2433fe8bd7100425a57bef8d5bc25961602",
+          "bytes": 334905,
+          "width": 1080,
+          "height": 2341,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154106150610",
+      "parent_pid": "154103978972",
+      "floor": 295,
+      "public_nickname": "被坑的师兄",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154106150610#154106150610",
+      "created_at": "2026-11-04T19:10:45+08:00",
+      "quote": "Zerd no Densetsu (Japan) [zh-Hans v0.1.2 8px].gb",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3bae63e9ffa568787bf078d159d8902219b2e226b14b1b0b3d7f06096884430c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154106153709",
+      "parent_pid": "154103978972",
+      "floor": 295,
+      "public_nickname": "被坑的师兄",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154106153709#154106153709",
+      "created_at": "2026-11-04T19:11:45+08:00",
+      "quote": "Zerd no Densetsu (Japan) [zh-Hans v0.1.2 10px].gb 这2个版本我都试了都有这个问题，这样就可以了吗？谢谢",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "4c5d10c17bc9aecc2282dec5455aa61e88b862869eb6ef4f0f31dd1606569358",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-11-04T03:20:42.404760+00:00"
+  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00"
 }

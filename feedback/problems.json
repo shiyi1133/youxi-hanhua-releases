@@ -1,6 +1,6 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
   "problem_count": 156,
   "open_pure_BUG_count": 74,
   "open_requests_or_other_count": 23,
@@ -743,7 +743,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -753,7 +753,10 @@
         "case-36bfa02f5e58e827",
         "case-5edd78bd54d1ae5a",
         "case-a90640c4083d55b6",
-        "case-ee765e7f6e0fb0e3"
+        "case-ee765e7f6e0fb0e3",
+        "case-85d54877938339d8",
+        "case-b7ce67bca3c8d132",
+        "case-7089346d0e6867dc"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -802,7 +805,10 @@
         "11092365551|154074333182",
         "11092365551|154077414545",
         "11092365551|154077978874",
-        "11092365551|154078060981"
+        "11092365551|154078060981",
+        "11092365551|154105373340",
+        "11092365551|154105410019",
+        "11092365551|154105448692"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -5952,9 +5958,12 @@
       ],
       "summary": "扎德传说：战斗魔法和道具界面乱码",
       "classification": "BUG",
-      "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
       "public_feedback_keys": [
-        "11092365551|154103978972"
+        "11092365551|154103978972",
+        "11092365551|154105534391",
+        "11092365551|154106150610",
+        "11092365551|154106153709"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -5962,7 +5971,9 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
       "case_keys": [
-        "case-2f16b0afd625eb18"
+        "case-2f16b0afd625eb18",
+        "case-ca36628a3498aa00",
+        "case-ecb9e4ce517129f7"
       ],
       "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
       "semantic_type": "PURE_BUG"
@@ -5972,7 +5983,7 @@
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-11-04T03:20:42.404760+00:00",
+  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

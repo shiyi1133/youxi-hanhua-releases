@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-03T15:25:45.212788+00:00",
-  "case_count": 230,
+  "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+  "case_count": 231,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -14359,7 +14359,96 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-2f16b0afd625eb18",
+      "public_problem_key": "problem-79b46b55d78a94aa",
+      "game_ids": [
+        "zerd-no-densetsu"
+      ],
+      "summary": "扎德传说：战斗魔法和道具界面乱码",
+      "classification": "BUG",
+      "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+      "public_feedback_keys": [
+        "11092365551|154103978972"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "registration_issue_state": "open",
+      "primary_feedback_keys": [
+        "11092365551|154103978972"
+      ],
+      "context_feedback_keys": [],
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "zerd-no-densetsu",
+          "font": "10px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.2",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "3bb969f0337ccb8e93bd037a7dd07b24cc179d435b12403adcebebe10173a5bc",
+          "output_bytes": 524288
+        },
+        {
+          "game_id": "zerd-no-densetsu",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "version": "v0.1.2",
+          "original_input_SHA256": "f987cd983a124651dd880dcb62a550555abac0f7f1312c311f9d91b7598ce2a3",
+          "output_SHA256": "070abf43941614e0d57576c185d0b307eaa8fd3037a35e6bdb8bbb9dd295f539",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": null,
+        "reported_font": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "player_version_information_pending": true,
+      "requested_identity_information": "实际ROM文件名或版本及字号",
+      "source_image_indices": [
+        1,
+        2
+      ],
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261104-1115|zerd-battle-menu-garble",
+          "game_ids": [
+            "zerd-no-densetsu"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "扎德传说：战斗魔法和道具界面乱码",
+          "feedback_summary": "玩家报告战斗中打开魔法和道具界面出现乱码，两张图均可见窗口内重复异常符号。实际使用的ROM版本、字号及字节待核。",
+          "source_feedback_keys": [
+            "11092365551|154103978972"
+          ],
+          "image_indices": [
+            1,
+            2
+          ],
+          "issue_state": "open",
+          "state_checked_at": "2026-11-04T03:20:42.404760+00:00",
+          "reported_version": null,
+          "reported_font": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_reproduction_attempted": false,
+          "maintainer_new_runtime_tests": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-03T15:25:45.212788+00:00"
+  "last_incremental_update_at": "2026-11-04T03:20:42.404760+00:00"
 }

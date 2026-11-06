@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "soul-getter",
   "game_name": "放课后冒险RPG",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -98,6 +98,285 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112948591",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112948591#154112948591",
+      "created_at": "2026-11-06T17:17:16+08:00",
+      "quote": "8px 0.9.1，开始游戏时，取名界面确认后，日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "1a3f52fd453f3c39a337e3fe7cb0e9a80e0d45518306fdd32799092fc6f13cb6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112948591#154112948591",
+          "sha256": "767081a50c994043ca0e570110291966b08b29301b65eeabcae0ed35a66c4cf3",
+          "bytes": 152446,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112951824",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+      "created_at": "2026-11-06T17:18:23+08:00",
+      "quote": "8px 0.9.1，开始游戏后，简单文本显示后，调查雕塑保存记录时，日文残留  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fb8e2a18dd1de5c17493b23342f73fa857a0d58e540fafb7c49fe44a7e86c92a",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+          "sha256": "7e6f56e5a8d970f5684df7b6b6dd43c4d66b336bb1104ab1219f06813f86dbfe",
+          "bytes": 211293,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+          "sha256": "c5a34cd27b815a6edf842e9fae5350cd08ce8cfe134e6c7e0d9ba9b1cf2d28ea",
+          "bytes": 213120,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112985404",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+      "created_at": "2026-11-06T17:29:31+08:00",
+      "quote": "8px 0.9.1，游戏开始不久，捉迷藏附近，图1文本前后，分别各有一处日文残留，图2、图3   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "757bbd1feaba03dc9db9a830f4f4458dd5a6932767d915a2b8be3b2484fd19e2",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "bcc317beac6e40d3966b1a66652a47ec9d0ccba7c4325aa37ede29c361739106",
+          "bytes": 214177,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "4299283b0f71fd00bec4b7d813b0c8c304c2ba6f0288b9705f44b4e9ead07532",
+          "bytes": 209254,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "24f9b4f887c278cefd2028d58332b9daa88112f34eb22bc7a02a0e5c6fcefbec",
+          "bytes": 209577,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112987907",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112987907#154112987907",
+      "created_at": "2026-11-06T17:30:22+08:00",
+      "quote": "8px 0.9.1，游戏开始不久，捉完迷藏，回到家睡觉时提示保存进度，日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "00b28926c371fd6864d68ec977d62c9f2d0f1a423bf35039e8345536d75a9d0b",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112987907#154112987907",
+          "sha256": "781619f886ff85fa6e26ba916d0e679540df55e75a3324eed7f25912e97745d7",
+          "bytes": 112930,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112992634",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+      "created_at": "2026-11-06T17:31:59+08:00",
+      "quote": "8px 0.9.1，初始村庄，回家后文本有日文残留   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7658cdc9a246f550a405afcaa8dc9b6420164c6ebc8e6cbcc3a6f833cb885ac0",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "4ac6c01f212766c968361f312e9a313fff6e966137a3306f1ffc97a1b0b2338d",
+          "bytes": 215292,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "41f7623f70511fe5776fbea8d4cc2887c5c287b76977b4df54956e98474b7854",
+          "bytes": 218820,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "3a4b485c260711474f63ff148c5fa214f27fcf78332d218657bc3aeadd19656e",
+          "bytes": 215467,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154113004825",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+      "created_at": "2026-11-06T17:36:05+08:00",
+      "quote": "8px 0.9.1，菜单-吊坠，选择蓝色方块时有日文残留，图1、图2、图3下方    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ff979b0ed2df0d5500a7ca912384ac0fefc84a9cd6a5b2835b6bad898f74db71",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "63f025499e680ac56ac069c1de6d7553fb8680fbdc396d855f5b448e69370270",
+          "bytes": 162068,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "0e000b1e7a4713bbfe37a6ba3ddcc9b822371b57b76d8ab55eb1cba4598510dc",
+          "bytes": 129707,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "89a3ef9ee6482b8c6c4f7521f922c89a239d94926c75c6f84d581f08c95b3668",
+          "bytes": 130203,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "9dbe94e7533b42c1f185773aea62a6ab675261bc769417edde137853c663b617",
+          "bytes": 169484,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154113007714",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+      "created_at": "2026-11-06T17:37:06+08:00",
+      "quote": "8px 0.9.1，打开菜单-吊坠，选项有日文残留。图2画面中间两个日文选项  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "239a84129fa3035dd2399280f5a2a0f74b9d9e2054df72a82526a5b69dfaf015",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+          "sha256": "9dbe94e7533b42c1f185773aea62a6ab675261bc769417edde137853c663b617",
+          "bytes": 169484,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+          "sha256": "3950a951b6f60c03aacea2329950920bea25bf916b96a8234eebc512681279ec",
+          "bytes": 168962,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -166,6 +445,102 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
+    },
+    {
+      "public_case_key": "case-ae9c000e25a9e33d",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "放课后冒险RPG：七条初期日文残留反馈",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "SCOPED_COVERAGE_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112948591": 1,
+        "154112951824": 2,
+        "154112985404": 3,
+        "154112987907": 1,
+        "154112992634": 3,
+        "154113004825": 4,
+        "154113007714": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|soul-getter-early-japanese-coverage",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "SCOPED_COVERAGE_FOLLOWUP",
+          "summary": "放课后冒险RPG：七条初期日文残留反馈",
+          "feedback_summary": "七条原反馈覆盖取名确认、雕塑保存、捉迷藏前后、睡觉保存、回家对白、吊坠蓝色方块提示和吊坠菜单选项。",
+          "source_feedback_keys": [
+            "11092365551|154112948591",
+            "11092365551|154112951824",
+            "11092365551|154112985404",
+            "11092365551|154112987907",
+            "11092365551|154112992634",
+            "11092365551|154113004825",
+            "11092365551|154113007714"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -199,18 +574,26 @@
       "state": "open",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-5d18817a84d0581e"
+        "case-5d18817a84d0581e",
+        "case-ae9c000e25a9e33d"
       ],
       "public_feedback_keys": [
         "11092365551|154046043369",
         "11092365551|154047324998",
-        "11092365551|154047327875"
+        "11092365551|154047327875",
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     }
@@ -219,7 +602,7 @@
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
   "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00",
   "scoped_public_feedback_events": [],
   "metadata_state_alignment_history": [
     {

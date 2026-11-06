@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "miracle-of-the-zone-2",
   "game_name": "大贝兽物语外传 奇迹地带2",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -249,6 +249,137 @@
       "omission_notice": null,
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112883687",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+      "created_at": "2026-11-06T16:55:56+08:00",
+      "quote": "8px 0.1.6，启动游戏，标题画面选择“游戏说明”，之后有个界面（图2）的右上角“洗牌结”，是否显示不全，少了字？  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e49027b33048e84f2108ba98f9617203609b33e652e396c156f9ddd6b5684464",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+          "sha256": "f85fe8f8ed7070408843a34da92c242d0ee0a7ad5623edaf8dc917b110ee1e47",
+          "bytes": 126228,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+          "sha256": "bd66d3a88a07f2017df21eac413c479c7a2a7a50d368139037d0ac3357cc9ed6",
+          "bytes": 154745,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112900662",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+      "created_at": "2026-11-06T17:01:30+08:00",
+      "quote": "8px 0.1.6，开始新游戏，简单文本显示后，进行选项选择，在图1界面选择指令时，右下方的主角名字“杨咩咩家”显示位置靠左，光标移动到此选项时，显示“咩咩家”（图2），“杨”字未显示   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cbdb55811e488f91512983883753389103ee049291891225193221159d1f5b89",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "26e619d74240c455079af5d76d900b132680ef64fd99c2829b0a020ac412935a",
+          "bytes": 181867,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "ece79ed5f284791563c9dcc6721835090c3fe2aa6e78200856a1e7c15b093b7b",
+          "bytes": 181642,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "e333678d9bb9bb4a495e867f674b2c435a87cfb4176f4a075badf25de7fa7b78",
+          "bytes": 182548,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112890224",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+      "created_at": "2026-11-06T16:58:05+08:00",
+      "quote": "8px 0.1.6，开始新游戏后，简单文本显示后，操作指令进行地图移动，点“世界移动”后，画面下方出现不明含义的选项“*柴又”。   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "093d363e39414c4e1bda208f2c6f30a84d39c3ddd6999b039b584d3f97f5e2d6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "7d3f817a026e51e1db0e07fa109d7648d97bb71c38655d53951864adafa31478",
+          "bytes": 177354,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "e333678d9bb9bb4a495e867f674b2c435a87cfb4176f4a075badf25de7fa7b78",
+          "bytes": 182548,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "18e9a5aa4985319c647b2d2cfd485976ee8e4570ee98bccb1d21a2d9b7b3f56f",
+          "bytes": 177260,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -400,6 +531,154 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-50e541bd6a29dae2",
+      "public_problem_key": "problem-b15688668fb1f53e",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "miracle-of-the-zone-2",
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
+          "output_SHA256": "08f9f3ee75f17ae6929ff123783e265679e9c2aa589691398e0888727a16843c",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.6",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112883687": 2,
+        "154112900662": 3
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|miracle2-tutorial-and-world-menu-display",
+          "game_ids": [
+            "miracle-of-the-zone-2"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+          "feedback_summary": "游戏说明洗牌页面右上显示“洗牌结”，提示原文和是否截断待核。地图选项原先显示“杨咩咩家”，移动光标到该项时首字“杨”不可见。两处分别保留。",
+          "source_feedback_keys": [
+            "11092365551|154112883687",
+            "11092365551|154112900662"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.6",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-8d180d28b287086b",
+      "public_problem_key": null,
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：世界移动“*柴又”选项释义",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "TERMINOLOGY_REVIEW",
+      "issue_state": null,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112890224"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112890224"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "STANDALONE_REVIEW",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "miracle-of-the-zone-2",
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
+          "output_SHA256": "08f9f3ee75f17ae6929ff123783e265679e9c2aa589691398e0888727a16843c",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.6",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112890224": 3
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|miracle2-shibamata-name-review",
+          "game_ids": [
+            "miracle-of-the-zone-2"
+          ],
+          "kind": "TERMINOLOGY_REVIEW",
+          "summary": "奇迹地带2：世界移动“*柴又”选项释义",
+          "feedback_summary": "玩家询问世界移动菜单中的“*柴又”含义。图中可见完整选项，实际原文和星号意义待核。",
+          "source_feedback_keys": [
+            "11092365551|154112890224"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.6",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -627,14 +906,37 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b15688668fb1f53e",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-50e541bd6a29dae2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00",
   "reviewed_open_problem_counts": {
-    "BUG": 3,
+    "BUG": 4,
     "REQUEST_OR_OTHER": 1,
     "UNCLASSIFIED": 0
   }

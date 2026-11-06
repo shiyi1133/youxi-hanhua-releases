@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
-  "case_count": 236,
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+  "case_count": 244,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -14841,7 +14841,615 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-b6d5619a2f5a8645",
+      "public_problem_key": "problem-b29adea3311463c8",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：道具说明属性符号异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-1",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112796947": 7
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|poyon1-item-attribute-glyphs",
+          "game_ids": [
+            "poyon-dungeon-1"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "波永的迷宫1：道具说明属性符号异常",
+          "feedback_summary": "玩家在红色屏障、蓝色屏障、黄金屏障的说明中看到异常属性符号，提供角色状态属性符号作对照。火、水、大地、大气、爆炸五项按图和原话保留。",
+          "source_feedback_keys": [
+            "11092365551|154112796947"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-003155c5c6937f0e",
+      "public_problem_key": null,
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：召唤兽招式名核对",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "TERMINOLOGY_REVIEW",
+      "issue_state": null,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112808061"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112808061"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "STANDALONE_REVIEW",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-1",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112808061": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|poyon1-summon-names-review",
+          "game_ids": [
+            "poyon-dungeon-1"
+          ],
+          "kind": "TERMINOLOGY_REVIEW",
+          "summary": "波永的迷宫1：召唤兽招式名核对",
+          "feedback_summary": "玩家询问“梅嘎”“古拉”“邦”“哈多”四个招式名是否准确，术语原文及译意待核。",
+          "source_feedback_keys": [
+            "11092365551|154112808061"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-ae9c000e25a9e33d",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "放课后冒险RPG：七条初期日文残留反馈",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "SCOPED_COVERAGE_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112948591": 1,
+        "154112951824": 2,
+        "154112985404": 3,
+        "154112987907": 1,
+        "154112992634": 3,
+        "154113004825": 4,
+        "154113007714": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|soul-getter-early-japanese-coverage",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "SCOPED_COVERAGE_FOLLOWUP",
+          "summary": "放课后冒险RPG：七条初期日文残留反馈",
+          "feedback_summary": "七条原反馈覆盖取名确认、雕塑保存、捉迷藏前后、睡觉保存、回家对白、吊坠蓝色方块提示和吊坠菜单选项。",
+          "source_feedback_keys": [
+            "11092365551|154112948591",
+            "11092365551|154112951824",
+            "11092365551|154112985404",
+            "11092365551|154112987907",
+            "11092365551|154112992634",
+            "11092365551|154113004825",
+            "11092365551|154113007714"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-50e541bd6a29dae2",
+      "public_problem_key": "problem-b15688668fb1f53e",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "miracle-of-the-zone-2",
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
+          "output_SHA256": "08f9f3ee75f17ae6929ff123783e265679e9c2aa589691398e0888727a16843c",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.6",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112883687": 2,
+        "154112900662": 3
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|miracle2-tutorial-and-world-menu-display",
+          "game_ids": [
+            "miracle-of-the-zone-2"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+          "feedback_summary": "游戏说明洗牌页面右上显示“洗牌结”，提示原文和是否截断待核。地图选项原先显示“杨咩咩家”，移动光标到该项时首字“杨”不可见。两处分别保留。",
+          "source_feedback_keys": [
+            "11092365551|154112883687",
+            "11092365551|154112900662"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.6",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-8d180d28b287086b",
+      "public_problem_key": null,
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：世界移动“*柴又”选项释义",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "TERMINOLOGY_REVIEW",
+      "issue_state": null,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112890224"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112890224"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "STANDALONE_REVIEW",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "miracle-of-the-zone-2",
+          "version": "v0.1.6",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9d9af105172d5b72d9c1e7ca09fc56cde33c607d840932b465ae2a5221c2f4a8",
+          "output_SHA256": "08f9f3ee75f17ae6929ff123783e265679e9c2aa589691398e0888727a16843c",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.6",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112890224": 3
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|miracle2-shibamata-name-review",
+          "game_ids": [
+            "miracle-of-the-zone-2"
+          ],
+          "kind": "TERMINOLOGY_REVIEW",
+          "summary": "奇迹地带2：世界移动“*柴又”选项释义",
+          "feedback_summary": "玩家询问世界移动菜单中的“*柴又”含义。图中可见完整选项，实际原文和星号意义待核。",
+          "source_feedback_keys": [
+            "11092365551|154112890224"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.6",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b98c7d051bccf39d",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3黑白GB：普通8px音乐版对白姓名空隙",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_LAYOUT_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112836595"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112836595"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "version": "v0.1.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio_variant": "music",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112836595": 9
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|saga3gb-dialogue-name-spacing",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "kind": "EXISTING_LAYOUT_FOLLOWUP",
+          "summary": "沙加3黑白GB：普通8px音乐版对白姓名空隙",
+          "feedback_summary": "玩家补充该版本对白的姓名和后续文字之间有明显空隙，沿用既有对白排版问题。",
+          "source_feedback_keys": [
+            "11092365551|154112836595"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "reported_audio_variant": "music",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-bf8f2df0723eaf39",
+      "public_problem_key": "problem-3048d181b4235b0d",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3黑白GB：战斗主指令区及我方HP周边乱码",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112841084",
+        "11092365551|154112851698"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112841084",
+        "11092365551|154112851698"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "version": "v0.1.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio_variant": "music",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112841084": 3,
+        "154112851698": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|saga3gb-battle-main-hud-display",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "沙加3黑白GB：战斗主指令区及我方HP周边乱码",
+          "feedback_summary": "玩家报告战斗主指令选择时左下怪物栏出现乱码，以及我方HP下方和右侧出现异常文字。两个显示位置分别跟踪。",
+          "source_feedback_keys": [
+            "11092365551|154112841084",
+            "11092365551|154112851698"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "reported_audio_variant": "music",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-2bd8d3890e824c5c",
+      "public_problem_key": "problem-1899552544f12bb4",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3黑白GB：能力、魔法、道具子菜单乱码补充",
+      "classification": "BUG",
+      "feedback_kind": "SCOPED_DISPLAY_FOLLOWUP",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112845388"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112845388"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "saga-3-gb",
+          "version": "v0.1.3",
+          "font": "8px",
+          "audio_variant": "music",
+          "original_input_SHA256": "3f54fab4d0c4c6b0128f4ce9e9f6d05b36e854566eefc689fd7272cabe5a1596",
+          "output_SHA256": "4601e7167d9e2b06529fd5a5cf5c38e2aefea14ed3755c2525cb27b0a77c2815",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.3",
+        "reported_font": "8px",
+        "reported_audio_variant": "music",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112845388": 5
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|saga3gb-battle-submenu-display",
+          "game_ids": [
+            "saga-3-gb"
+          ],
+          "kind": "SCOPED_DISPLAY_FOLLOWUP",
+          "summary": "沙加3黑白GB：能力、魔法、道具子菜单乱码补充",
+          "feedback_summary": "玩家补充战斗中选择能力、魔法、道具后大面积乱码，沿用既有魔法、道具界面反馈范围，并独立记下能力菜单。",
+          "source_feedback_keys": [
+            "11092365551|154112845388"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v0.1.3",
+          "reported_font": "8px",
+          "reported_audio_variant": "music",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00"
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00"
 }

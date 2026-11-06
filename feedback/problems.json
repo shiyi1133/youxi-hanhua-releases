@@ -1,8 +1,8 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
-  "problem_count": 156,
-  "open_pure_BUG_count": 74,
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+  "problem_count": 159,
+  "open_pure_BUG_count": 77,
   "open_requests_or_other_count": 23,
   "open_classification_unconfirmed_count": 3,
   "problems": [
@@ -249,7 +249,8 @@
         "case-ec0244e7436f6ab8",
         "case-a437aca951f002a5",
         "case-1ea13a2985ec4995",
-        "case-e3f34758bbfd4d8c"
+        "case-e3f34758bbfd4d8c",
+        "case-b98c7d051bccf39d"
       ],
       "public_feedback_keys": [
         "11092365551|154021071566",
@@ -328,13 +329,14 @@
         "11092365551|154072094051",
         "11092365551|154072608407",
         "11092365551|154077412797",
-        "11092365551|154078059214"
+        "11092365551|154078059214",
+        "11092365551|154112836595"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-28T04:46:56.296991+08:00",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
       "previous_public_classification": "UNCLASSIFIED",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
@@ -2452,18 +2454,26 @@
       "state": "open",
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
-        "case-5d18817a84d0581e"
+        "case-5d18817a84d0581e",
+        "case-ae9c000e25a9e33d"
       ],
       "public_feedback_keys": [
         "11092365551|154046043369",
         "11092365551|154047324998",
-        "11092365551|154047327875"
+        "11092365551|154047327875",
+        "11092365551|154112948591",
+        "11092365551|154112951824",
+        "11092365551|154112985404",
+        "11092365551|154112987907",
+        "11092365551|154112992634",
+        "11092365551|154113004825",
+        "11092365551|154113007714"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -5684,17 +5694,19 @@
       "summary": "沙加3 黑白GB：普通8px音乐版道具与魔法乱码",
       "classification": "BUG",
       "case_keys": [
-        "case-50569319861a3c82"
+        "case-50569319861a3c82",
+        "case-2bd8d3890e824c5c"
       ],
       "public_feedback_keys": [
-        "11092365551|154072926383"
+        "11092365551|154072926383",
+        "11092365551|154112845388"
       ],
       "public_issue_url": null,
       "public_issue_sync": "NOT_CREATED_THIS_SYNC_PUBLIC_BUG_ENTRY_AVAILABLE",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state": "open",
-      "state_checked_at": "2026-10-27T04:36:47.822190+08:00"
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00"
     },
     {
       "public_problem_key": "problem-66595f432a71d04a",
@@ -5977,13 +5989,81 @@
       ],
       "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b29adea3311463c8",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：道具说明属性符号异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-b6d5619a2f5a8645"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b15688668fb1f53e",
+      "game_ids": [
+        "miracle-of-the-zone-2"
+      ],
+      "summary": "奇迹地带2：洗牌提示和地图菜单动态名称显示异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-50e541bd6a29dae2"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154112883687",
+        "11092365551|154112900662"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-3048d181b4235b0d",
+      "game_ids": [
+        "saga-3-gb"
+      ],
+      "summary": "沙加3黑白GB：战斗主指令区及我方HP周边乱码",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-bf8f2df0723eaf39"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154112841084",
+        "11092365551|154112851698"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00",
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
-  "count": 649,
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+  "count": 665,
   "rows": [
     {
       "tid": "11092365551",
@@ -15305,9 +15305,841 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112796947",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+      "created_at": "2026-11-06T16:28:19+08:00",
+      "quote": "8px 1.04，请确认这几个道具“红色屏障”“蓝色屏障”“黄金屏障”的说明文本中，属性符号的显示（图2、图4、图6的画面下方）是否正确，参考角色状态界面的属性符号：图7。属性符号在道具的说明文本中，“火”“水”“大地”“大气”“爆炸”这五个属性符号的显示都不对，显示异常符号       ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "28dc4a003a667f82c7d72a6d9ee00e45604e7a329ea79fa2c29325334de1d412",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "6e4599ef9b4729f03b6622fd431f9a0caf6f8fbe104939cd3ff851bd363c7976",
+          "bytes": 192101,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "07d639d24bdb002cddaf7632c11ed3a37c1ba23800ef26a98ae50c8e306ac064",
+          "bytes": 189711,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "8da9b39ad8f8bc857d8980e9ea5c61ce2dff8ee9e35a4de28c5a53eca8b335ba",
+          "bytes": 192034,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "01fb426b24d1d56686ecbf474131402e3ba86cdebe996eb9b55b546f1a347890",
+          "bytes": 190003,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "0da89299c7dcd4c4f157e284e0bf73c60edd8f02f1846afbe8bcb62c3cc4d7d7",
+          "bytes": 191877,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "98f000caca1d921134a15b11867cbc6cb7259069334c9465263658f8f1ace302",
+          "bytes": 192594,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 7,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "6676878deaa452dbc75e2c250881c48e55c1066051e8b3b1d60f170dde70aed8",
+          "bytes": 192415,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112808061",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+      "created_at": "2026-11-06T16:31:52+08:00",
+      "quote": "8px 1.04，请确认召唤兽的招式名称，翻译是否正确。各截图右侧，“梅嘎”“古拉”“邦”“哈多”，这几个招式名是否翻译正确，请确认    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "493cdb85d8e354146065bd47606e78ab1917a142f05c0872ef3ca7ef1405997c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "b59535202f06a1013e4754e8de3f0cdea5d43ba6111539f1de84a87e31abdaae",
+          "bytes": 165939,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "7977683ce3d0972f67b4b59c33bf2be4e190478eedf96f6cc5bc8b3896f06406",
+          "bytes": 172298,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "25d46b342da2909edf13f88fbfe2b67ea4a4265263788a73b08633c0daf39192",
+          "bytes": 179394,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "63bb63d0d62a058849cba169486f21cd7ba6fac9f3bacf1cd70ea0a5e406bf36",
+          "bytes": 177714,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112948591",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112948591#154112948591",
+      "created_at": "2026-11-06T17:17:16+08:00",
+      "quote": "8px 0.9.1，开始游戏时，取名界面确认后，日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "1a3f52fd453f3c39a337e3fe7cb0e9a80e0d45518306fdd32799092fc6f13cb6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112948591#154112948591",
+          "sha256": "767081a50c994043ca0e570110291966b08b29301b65eeabcae0ed35a66c4cf3",
+          "bytes": 152446,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112951824",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+      "created_at": "2026-11-06T17:18:23+08:00",
+      "quote": "8px 0.9.1，开始游戏后，简单文本显示后，调查雕塑保存记录时，日文残留  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fb8e2a18dd1de5c17493b23342f73fa857a0d58e540fafb7c49fe44a7e86c92a",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+          "sha256": "7e6f56e5a8d970f5684df7b6b6dd43c4d66b336bb1104ab1219f06813f86dbfe",
+          "bytes": 211293,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112951824#154112951824",
+          "sha256": "c5a34cd27b815a6edf842e9fae5350cd08ce8cfe134e6c7e0d9ba9b1cf2d28ea",
+          "bytes": 213120,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112985404",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+      "created_at": "2026-11-06T17:29:31+08:00",
+      "quote": "8px 0.9.1，游戏开始不久，捉迷藏附近，图1文本前后，分别各有一处日文残留，图2、图3   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "757bbd1feaba03dc9db9a830f4f4458dd5a6932767d915a2b8be3b2484fd19e2",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "bcc317beac6e40d3966b1a66652a47ec9d0ccba7c4325aa37ede29c361739106",
+          "bytes": 214177,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "4299283b0f71fd00bec4b7d813b0c8c304c2ba6f0288b9705f44b4e9ead07532",
+          "bytes": 209254,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112985404#154112985404",
+          "sha256": "24f9b4f887c278cefd2028d58332b9daa88112f34eb22bc7a02a0e5c6fcefbec",
+          "bytes": 209577,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112987907",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112987907#154112987907",
+      "created_at": "2026-11-06T17:30:22+08:00",
+      "quote": "8px 0.9.1，游戏开始不久，捉完迷藏，回到家睡觉时提示保存进度，日文残留 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "00b28926c371fd6864d68ec977d62c9f2d0f1a423bf35039e8345536d75a9d0b",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112987907#154112987907",
+          "sha256": "781619f886ff85fa6e26ba916d0e679540df55e75a3324eed7f25912e97745d7",
+          "bytes": 112930,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112992634",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+      "created_at": "2026-11-06T17:31:59+08:00",
+      "quote": "8px 0.9.1，初始村庄，回家后文本有日文残留   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7658cdc9a246f550a405afcaa8dc9b6420164c6ebc8e6cbcc3a6f833cb885ac0",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "4ac6c01f212766c968361f312e9a313fff6e966137a3306f1ffc97a1b0b2338d",
+          "bytes": 215292,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "41f7623f70511fe5776fbea8d4cc2887c5c287b76977b4df54956e98474b7854",
+          "bytes": 218820,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112992634#154112992634",
+          "sha256": "3a4b485c260711474f63ff148c5fa214f27fcf78332d218657bc3aeadd19656e",
+          "bytes": 215467,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154113004825",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+      "created_at": "2026-11-06T17:36:05+08:00",
+      "quote": "8px 0.9.1，菜单-吊坠，选择蓝色方块时有日文残留，图1、图2、图3下方    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ff979b0ed2df0d5500a7ca912384ac0fefc84a9cd6a5b2835b6bad898f74db71",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "63f025499e680ac56ac069c1de6d7553fb8680fbdc396d855f5b448e69370270",
+          "bytes": 162068,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "0e000b1e7a4713bbfe37a6ba3ddcc9b822371b57b76d8ab55eb1cba4598510dc",
+          "bytes": 129707,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "89a3ef9ee6482b8c6c4f7521f922c89a239d94926c75c6f84d581f08c95b3668",
+          "bytes": 130203,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113004825#154113004825",
+          "sha256": "9dbe94e7533b42c1f185773aea62a6ab675261bc769417edde137853c663b617",
+          "bytes": 169484,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154113007714",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+      "created_at": "2026-11-06T17:37:06+08:00",
+      "quote": "8px 0.9.1，打开菜单-吊坠，选项有日文残留。图2画面中间两个日文选项  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "239a84129fa3035dd2399280f5a2a0f74b9d9e2054df72a82526a5b69dfaf015",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+          "sha256": "9dbe94e7533b42c1f185773aea62a6ab675261bc769417edde137853c663b617",
+          "bytes": 169484,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154113007714#154113007714",
+          "sha256": "3950a951b6f60c03aacea2329950920bea25bf916b96a8234eebc512681279ec",
+          "bytes": 168962,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112883687",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+      "created_at": "2026-11-06T16:55:56+08:00",
+      "quote": "8px 0.1.6，启动游戏，标题画面选择“游戏说明”，之后有个界面（图2）的右上角“洗牌结”，是否显示不全，少了字？  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "e49027b33048e84f2108ba98f9617203609b33e652e396c156f9ddd6b5684464",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+          "sha256": "f85fe8f8ed7070408843a34da92c242d0ee0a7ad5623edaf8dc917b110ee1e47",
+          "bytes": 126228,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112883687#154112883687",
+          "sha256": "bd66d3a88a07f2017df21eac413c479c7a2a7a50d368139037d0ac3357cc9ed6",
+          "bytes": 154745,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112900662",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+      "created_at": "2026-11-06T17:01:30+08:00",
+      "quote": "8px 0.1.6，开始新游戏，简单文本显示后，进行选项选择，在图1界面选择指令时，右下方的主角名字“杨咩咩家”显示位置靠左，光标移动到此选项时，显示“咩咩家”（图2），“杨”字未显示   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cbdb55811e488f91512983883753389103ee049291891225193221159d1f5b89",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "26e619d74240c455079af5d76d900b132680ef64fd99c2829b0a020ac412935a",
+          "bytes": 181867,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "ece79ed5f284791563c9dcc6721835090c3fe2aa6e78200856a1e7c15b093b7b",
+          "bytes": 181642,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112900662#154112900662",
+          "sha256": "e333678d9bb9bb4a495e867f674b2c435a87cfb4176f4a075badf25de7fa7b78",
+          "bytes": 182548,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112890224",
+      "parent_pid": "154029435638",
+      "floor": 76,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+      "created_at": "2026-11-06T16:58:05+08:00",
+      "quote": "8px 0.1.6，开始新游戏后，简单文本显示后，操作指令进行地图移动，点“世界移动”后，画面下方出现不明含义的选项“*柴又”。   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "093d363e39414c4e1bda208f2c6f30a84d39c3ddd6999b039b584d3f97f5e2d6",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "7d3f817a026e51e1db0e07fa109d7648d97bb71c38655d53951864adafa31478",
+          "bytes": 177354,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "e333678d9bb9bb4a495e867f674b2c435a87cfb4176f4a075badf25de7fa7b78",
+          "bytes": 182548,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112890224#154112890224",
+          "sha256": "18e9a5aa4985319c647b2d2cfd485976ee8e4570ee98bccb1d21a2d9b7b3f56f",
+          "bytes": 177260,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112836595",
+      "parent_pid": "154045038567",
+      "floor": 148,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+      "created_at": "2026-11-06T16:40:51+08:00",
+      "quote": "8px 0.1.3音乐版，对话文本中，角色名字和后续文本之间有多余的空格         ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6f01e9da9cab71853809eb013bc38a11584fd141e960377c7fc8593700a74893",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "8a9cf7ab8b2004bdd0e5f5efc77bc18599ee26c8771035e6b3aa0182a7c3e64a",
+          "bytes": 192247,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "155b209925a81e6240f3f73bb2153b7bfc699c1e915e273a03d4001bb3064be4",
+          "bytes": 210451,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "6ffbe8991b5286d99fd36f6fb28780d5cc1bd3d2fd3efbc143da93d2d7e4c459",
+          "bytes": 210531,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "7472fbaf393519b147274fd4814b67c059a3651254f211639d1d2bbd46764e5b",
+          "bytes": 211102,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "33a354508c30bb7edde1e1d1a3b9fa978e31b655211c2eb3282a63d21c934434",
+          "bytes": 187432,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "c5e6fe36585b7f061eda10a654ba73633dd215d61edbc24bf807cefbf709af07",
+          "bytes": 178457,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 7,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "b978eca724b86ee00e23640b69e6049b7582f282d2187165b6150a7769676320",
+          "bytes": 193557,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 8,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "95ed6ce3825a9d2feefa23c940055c5c82d2d7cbf621d9d360caa055784802c7",
+          "bytes": 201709,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 9,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112836595#154112836595",
+          "sha256": "5d47dd2514e068df482691ca18b66d119041392847961b07dc2c403f89d6fe8e",
+          "bytes": 204130,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112841084",
+      "parent_pid": "154045038567",
+      "floor": 148,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112841084#154112841084",
+      "created_at": "2026-11-06T16:42:19+08:00",
+      "quote": "8px 0.1.3音乐版，战斗界面，选择指令时的界面，画面下方左侧，显示异常乱码   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "ed272c78b0147951f814778c1c3f95fbd6818a64d3ed153627f30c80bbd60980",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112841084#154112841084",
+          "sha256": "feb474a336d21125acf80faf4121ba11e754a4025467ab5bd1ab2cb8293332eb",
+          "bytes": 179495,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112841084#154112841084",
+          "sha256": "a239841feb43032940740edcfdfc7a3b8fb32294b2e263b844c0dc3565b95ab4",
+          "bytes": 154315,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112841084#154112841084",
+          "sha256": "394053e7fcfbef2d50e25e9a557211e24d640c758ddd61d8b18191d682ffdfeb",
+          "bytes": 146454,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112851698",
+      "parent_pid": "154045038567",
+      "floor": 148,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112851698#154112851698",
+      "created_at": "2026-11-06T16:45:38+08:00",
+      "quote": "8px 0.1.3音乐版，战斗中，画面下方我方角色信息的hp的下面那以后，有乱码（50/50、36/36等的下面那一行），图4我方角色hp的右侧也出现乱码    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "0e0b8162e0df8b9a35be1a4316085f2b450c5f7601b3b0426ffc0859ddc49529",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112851698#154112851698",
+          "sha256": "2350fa76f0903ee960bd63f8e062c139d012094451e0cd61c3769684b35c0872",
+          "bytes": 183533,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112851698#154112851698",
+          "sha256": "743762defd54ac7cbb5822be6ff46a1011170dc9bb8adbcb368d28d373ee8f55",
+          "bytes": 184966,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112851698#154112851698",
+          "sha256": "7b4c3222b03f806b290f12a0156f535f63b1e9bdd08c6171eed5b8450403efcf",
+          "bytes": 176815,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112851698#154112851698",
+          "sha256": "a15bdd89f9fb6c1a2529c13cf2ee3acadf1de51bce6b445387acf762545405d6",
+          "bytes": 163339,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112845388",
+      "parent_pid": "154045038567",
+      "floor": 148,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+      "created_at": "2026-11-06T16:43:39+08:00",
+      "quote": "8px 0.1.3音乐版，战斗中，指令选择“能力”“魔法”“道具”后均会出现大面积乱码     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "3e8e54d7a0de267de4299f26d4719c38987ddf70a0090d2ecc457a3fb990e76f",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+          "sha256": "743762defd54ac7cbb5822be6ff46a1011170dc9bb8adbcb368d28d373ee8f55",
+          "bytes": 184966,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+          "sha256": "6e734190e4381b219cf38f93a5560b294987848c9aa8d4405c0c29d24bddbf8a",
+          "bytes": 208108,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+          "sha256": "ba0d9a770899045e8fa61532ea1ba4ea0aa6885e5f6d28bf793624210cdd18e7",
+          "bytes": 187639,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+          "sha256": "7dc020f6e167c1e42c817b012fc7f2a013f3f02c1f0e1ed149338cf8d1167de5",
+          "bytes": 191432,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112845388#154112845388",
+          "sha256": "46cce5a143129aa48edca7fde9f03dc843f6174673645158cd3ffede173b029c",
+          "bytes": 191314,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00"
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00"
 }

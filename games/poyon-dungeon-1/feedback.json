@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "poyon-dungeon-1",
   "game_name": "波永的迷宫1",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -911,6 +911,150 @@
       "public_nicknames_recorded": [
         "球总好学"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112796947",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+      "created_at": "2026-11-06T16:28:19+08:00",
+      "quote": "8px 1.04，请确认这几个道具“红色屏障”“蓝色屏障”“黄金屏障”的说明文本中，属性符号的显示（图2、图4、图6的画面下方）是否正确，参考角色状态界面的属性符号：图7。属性符号在道具的说明文本中，“火”“水”“大地”“大气”“爆炸”这五个属性符号的显示都不对，显示异常符号       ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "28dc4a003a667f82c7d72a6d9ee00e45604e7a329ea79fa2c29325334de1d412",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "6e4599ef9b4729f03b6622fd431f9a0caf6f8fbe104939cd3ff851bd363c7976",
+          "bytes": 192101,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "07d639d24bdb002cddaf7632c11ed3a37c1ba23800ef26a98ae50c8e306ac064",
+          "bytes": 189711,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "8da9b39ad8f8bc857d8980e9ea5c61ce2dff8ee9e35a4de28c5a53eca8b335ba",
+          "bytes": 192034,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "01fb426b24d1d56686ecbf474131402e3ba86cdebe996eb9b55b546f1a347890",
+          "bytes": 190003,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "0da89299c7dcd4c4f157e284e0bf73c60edd8f02f1846afbe8bcb62c3cc4d7d7",
+          "bytes": 191877,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "98f000caca1d921134a15b11867cbc6cb7259069334c9465263658f8f1ace302",
+          "bytes": 192594,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 7,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112796947#154112796947",
+          "sha256": "6676878deaa452dbc75e2c250881c48e55c1066051e8b3b1d60f170dde70aed8",
+          "bytes": 192415,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154112808061",
+      "parent_pid": "154024571119",
+      "floor": 47,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+      "created_at": "2026-11-06T16:31:52+08:00",
+      "quote": "8px 1.04，请确认召唤兽的招式名称，翻译是否正确。各截图右侧，“梅嘎”“古拉”“邦”“哈多”，这几个招式名是否翻译正确，请确认    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "493cdb85d8e354146065bd47606e78ab1917a142f05c0872ef3ca7ef1405997c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "b59535202f06a1013e4754e8de3f0cdea5d43ba6111539f1de84a87e31abdaae",
+          "bytes": 165939,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "7977683ce3d0972f67b4b59c33bf2be4e190478eedf96f6cc5bc8b3896f06406",
+          "bytes": 172298,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "25d46b342da2909edf13f88fbfe2b67ea4a4265263788a73b08633c0daf39192",
+          "bytes": 179394,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154112808061#154112808061",
+          "sha256": "63bb63d0d62a058849cba169486f21cd7ba6fac9f3bacf1cd70ea0a5e406bf36",
+          "bytes": 177714,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1129,6 +1273,150 @@
           "closed_scope_only_verified_original_case": true,
           "new_diary_scope": null,
           "original_script_tokens": null
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b6d5619a2f5a8645",
+      "public_problem_key": "problem-b29adea3311463c8",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：道具说明属性符号异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-1",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112796947": 7
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|poyon1-item-attribute-glyphs",
+          "game_ids": [
+            "poyon-dungeon-1"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "波永的迷宫1：道具说明属性符号异常",
+          "feedback_summary": "玩家在红色屏障、蓝色屏障、黄金屏障的说明中看到异常属性符号，提供角色状态属性符号作对照。火、水、大地、大气、爆炸五项按图和原话保留。",
+          "source_feedback_keys": [
+            "11092365551|154112796947"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-003155c5c6937f0e",
+      "public_problem_key": null,
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：召唤兽招式名核对",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "TERMINOLOGY_REVIEW",
+      "issue_state": null,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "public_feedback_keys": [
+        "11092365551|154112808061"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154112808061"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "STANDALONE_REVIEW",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-1",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "9e8c11f2163d7e0006073caef0854ee0da5e5494fc0be02aeac0759fb798b100",
+          "output_SHA256": "9e1dcee6947b63532c0528ecea863e51008b94030b86d78ac2459e52e464a0d7",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154112808061": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261106-2333|poyon1-summon-names-review",
+          "game_ids": [
+            "poyon-dungeon-1"
+          ],
+          "kind": "TERMINOLOGY_REVIEW",
+          "summary": "波永的迷宫1：召唤兽招式名核对",
+          "feedback_summary": "玩家询问“梅嘎”“古拉”“邦”“哈多”四个招式名是否准确，术语原文及译意待核。",
+          "source_feedback_keys": [
+            "11092365551|154112808061"
+          ],
+          "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
         }
       ]
     }
@@ -1367,6 +1655,28 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b29adea3311463c8",
+      "game_ids": [
+        "poyon-dungeon-1"
+      ],
+      "summary": "波永的迷宫1：道具说明属性符号异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-b6d5619a2f5a8645"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154112796947"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -1411,9 +1721,9 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00",
   "reviewed_open_problem_counts": {
-    "BUG": 3,
+    "BUG": 4,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   }

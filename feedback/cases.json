@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
-  "case_count": 248,
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+  "case_count": 256,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -15530,10 +15530,10 @@
         "mini-yonku-gb-2"
       ],
       "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "feedback_kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
       "issue_state": "open",
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "public_feedback_keys": [
         "11092365551|154115000372",
         "11092365551|154115014262"
@@ -15597,6 +15597,15 @@
           "maintainer_reproduction_attempted": false,
           "new_fix_claimed": false,
           "is_repair_completion": false
+        }
+      ],
+      "classification_correction_history": [
+        {
+          "at": "2026-11-07T15:50:47.530068+00:00",
+          "previous_classification": "UNCLASSIFIED",
+          "classification": "BUG",
+          "reason": "CURRENT_REOPENED_DISPLAY_BUG_SCOPE_CLASSIFICATION_CORRECTION",
+          "prior_version_repair_and_acceptance_history_preserved": true
         }
       ]
     },
@@ -15745,7 +15754,623 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-045410fcfabfd451",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "大字版前期战斗满屏0补证",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154116346004"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154116346004"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "9770b8accd70d8849a24f5ae2a18c95979f2d1186e5fcd02d0edd3b08553a2e1"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.3",
+        "reported_font": "10px-dialogue",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154116346004": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|kuro-v103-10px-battle-zero",
+          "game_ids": [
+            "devil-children-kuro"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "大字版前期战斗满屏0补证",
+          "feedback_summary": "玩家提供黑之书v1.0.3对白大字版完整文件名，并报告前期战斗界面满屏0字符。图像和触发阶段已补入既有战斗显示问题，尚未由维护独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154116346004"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v1.0.3",
+          "reported_font": "10px-dialogue",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-1e84e9900dc818dc",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "选项、战斗与商店日文残留和城堡图块待核",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115475307": 5,
+        "154115481667": 2,
+        "154115485840": 4,
+        "154115490724": 4,
+        "154115494711": 4,
+        "154115501455": 2,
+        "154115510978": 1,
+        "154115532495": 2,
+        "154115551048": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|soul-v091-dialogue-battle-shop-coverage",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "选项、战斗与商店日文残留和城堡图块待核",
+          "feedback_summary": "普通8px v0.9.1的九条来源补充对白与选择项、雕塑保存、战斗魔法与败北提示、升级能力结算、防具说明、吊坠方块说明，以及城堡调查对象图块疑问。图块是否异常仍需场景原图对照，未确认回归或实施修复。",
+          "source_feedback_keys": [
+            "11092365551|154115475307",
+            "11092365551|154115481667",
+            "11092365551|154115485840",
+            "11092365551|154115490724",
+            "11092365551|154115494711",
+            "11092365551|154115501455",
+            "11092365551|154115510978",
+            "11092365551|154115532495",
+            "11092365551|154115551048"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-42f7a861f7b5fb8c",
+      "public_problem_key": "problem-eb4eee6c728c0090",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115523558": 2,
+        "154115529519": 3,
+        "154115535479": 1,
+        "154115535524": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|soul-v091-armor-shop-ui",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+          "feedback_summary": "普通8px v0.9.1的防具店反馈含装备确认光标与“是”重叠、购买后列表“夹克”前多字、资金不足提示框右边线缺段。相同提示框的两条来源合并为一项，原话和图片各自保留，根因尚待复现。",
+          "source_feedback_keys": [
+            "11092365551|154115523558",
+            "11092365551|154115529519",
+            "11092365551|154115535479",
+            "11092365551|154115535524"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-340c4db819f1b862",
+      "public_problem_key": "problem-8b75a0ff520ab684",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "练习模式难度与控制提示文字叠加",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "xtreme-sports",
+          "version": "v0.9.3",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8",
+          "output_SHA256": "15a85421130784241b22786657fc6c924a1e7a2815b52052d3532eba26e8116a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.3",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115838426": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|xtreme-v093-practice-menu-layer",
+          "game_ids": [
+            "xtreme-sports"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "练习模式难度与控制提示文字叠加",
+          "feedback_summary": "普通8px v0.9.3从标题进入练习模式后，玩家报告右上难度文字及左下选择和取消提示与原图片文字相撞。保存各难度画面作为新菜单消费者线索，尚未独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154115838426"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.3",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-8e532963a5b2f677",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "旧日期标记版本学会敌技后的日文残留补证",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154116060612"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154116060612"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "20261025版",
+        "reported_font": null,
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154116060612": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|poyon2-native-20261025-learn-enemy-japanese",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "旧日期标记版本学会敌技后的日文残留补证",
+          "feedback_summary": "玩家仍以“20261025版”报告学会敌人招式后的日文残留，已补入既有同场景反馈。截图文件名仅用于定位，实际ROM完整版本与SHA仍未知。当前v0.1.8的发布哈希单列为参照，历史修复不作为玩家现版复现或验收证明。",
+          "source_feedback_keys": [
+            "11092365551|154116060612"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "20261025版",
+          "reported_font": null,
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-95d4f781f205aadc",
+      "public_problem_key": "problem-b511cd69501aa915",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "大地图地名和必杀触发条残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "NEW_COVERAGE_FEEDBACK",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "gb-harobots",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "859d69833e8d422440a4268d30bec4df238550b969cb3bc3b2f262136de63b6f",
+          "output_SHA256": "1f69fc8098de07f9f3084df2407a463da0bd45f0fcf24350064274c8f7a0a5fa"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115756231": 1,
+        "154115774653": 5
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|harobots-v012-map-special-coverage",
+          "game_ids": [
+            "gb-harobots"
+          ],
+          "kind": "NEW_COVERAGE_FEEDBACK",
+          "summary": "大地图地名和必杀触发条残留日文",
+          "feedback_summary": "普通8px v0.1.2大地图右下地名及战斗释放必杀时的触发条残留日文，两个消费者分别记录。旧版属性图表及菜单标签的限定修复历史保留，尚未确认这两处覆盖或实现新的修复。",
+          "source_feedback_keys": [
+            "11092365551|154115756231",
+            "11092365551|154115774653"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-248e711d8fe427e8",
+      "public_problem_key": "problem-5b4250fa5e668d6c",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "通关状态页标题残留日文",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115787942"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115787942"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "mario-tennis-gb",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
+          "output_SHA256": "015f59f383576bd808fd82621b325c6901cb80fda23ddfc5fe85eb94bbd060ee"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115787942": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|mario-tennis-v104-clear-status-japanese",
+          "game_ids": [
+            "mario-tennis-gb"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "通关状态页标题残留日文",
+          "feedback_summary": "普通8px v1.0.4从菜单进入通关状态页后，上方标题仍为日文，已补充到既有深层RPG覆盖反馈。此前局部修复的验收范围保留。",
+          "source_feedback_keys": [
+            "11092365551|154115787942"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-eb97a1f4d97bbd7c",
+      "public_problem_key": "problem-46c323897be7868f",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "赛车成绩页上方两行异常文字",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "mini-yonku-gb",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "output_SHA256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115467856": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|mini1-v012-race-result-glyph",
+          "game_ids": [
+            "mini-yonku-gb"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "赛车成绩页上方两行异常文字",
+          "feedback_summary": "初代普通8px v0.1.2新开局菜单进入赛车成绩，玩家报告该页面上方两行乱码。前一图保存摘要和后一图赛车成绩分别保留，当前消费者与既有车辆、配件及摘要页修复分别核验，尚未独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154115467856"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00"
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00"
 }

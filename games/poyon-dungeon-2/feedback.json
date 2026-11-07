@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "poyon-dungeon-2",
   "game_name": "波永的迷宫2",
-  "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -1957,6 +1957,33 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154116060612",
+      "parent_pid": "154026720257",
+      "floor": 61,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154116060612#154116060612",
+      "created_at": "2026-11-07T15:33:42+08:00",
+      "quote": "20261025版，在战斗中学会敌人招式后，日文残留，图片画面左下方 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "182763e44b36ec9f9dca7faa9a1236dd9f375950307e46119821625c823745a8",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154116060612#154116060612",
+          "sha256": "eeb1b1a817d434af653a6a0802a8ed485f35c0000c8fbb259c7ce8daaa49e8b3",
+          "bytes": 192958,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -3187,6 +3214,77 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-8e532963a5b2f677",
+      "public_problem_key": "problem-f0b3edaaeebec4f9",
+      "game_ids": [
+        "poyon-dungeon-2"
+      ],
+      "summary": "旧日期标记版本学会敌技后的日文残留补证",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154116060612"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154116060612"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "poyon-dungeon-2",
+          "version": "v0.1.8",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ec80348ce790c4afca7d0447c21b4146968bc55fd450960cae9334cf283d2148",
+          "output_SHA256": "0540567042665cd522ec25ee2478db40dbe5c035c0c8b2af41899771bd5420c6"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "20261025版",
+        "reported_font": null,
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154116060612": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|poyon2-native-20261025-learn-enemy-japanese",
+          "game_ids": [
+            "poyon-dungeon-2"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "旧日期标记版本学会敌技后的日文残留补证",
+          "feedback_summary": "玩家仍以“20261025版”报告学会敌人招式后的日文残留，已补入既有同场景反馈。截图文件名仅用于定位，实际ROM完整版本与SHA仍未知。当前v0.1.8的发布哈希单列为参照，历史修复不作为玩家现版复现或验收证明。",
+          "source_feedback_keys": [
+            "11092365551|154116060612"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "20261025版",
+          "reported_font": null,
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -3197,7 +3295,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -3210,7 +3308,8 @@
         "case-ee765e7f6e0fb0e3",
         "case-85d54877938339d8",
         "case-b7ce67bca3c8d132",
-        "case-7089346d0e6867dc"
+        "case-7089346d0e6867dc",
+        "case-8e532963a5b2f677"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -3262,7 +3361,8 @@
         "11092365551|154078060981",
         "11092365551|154105373340",
         "11092365551|154105410019",
-        "11092365551|154105448692"
+        "11092365551|154105448692",
+        "11092365551|154116060612"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -3651,7 +3751,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-11-04T15:28:25.706470+00:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261024-0412|poyon2-v014-five-consumers",

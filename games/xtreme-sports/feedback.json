@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "xtreme-sports",
   "game_name": "极限运动",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -147,6 +147,63 @@
       "public_nicknames_recorded": [
         "球总好学"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115838426",
+      "parent_pid": "154026345282",
+      "floor": 60,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115838426#154115838426",
+      "created_at": "2026-11-07T14:17:14+08:00",
+      "quote": "8px 0.9.3，标题画面选择“练习模式”后的界面，有显示问题，汉化文字和原本图片冲突。图2、图3、图4画面的右上方，第一个选项看不清是什么，第三个选项“困难”和其他英文字母有冲突；图2、图3、图4左下方“选择”“取消”有显示乱码或者冲突    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "554bdc3c91506bbdfb794fd6bb321aab7931dbcdd2a7c9d1d1b60562756cc3d5",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115838426#154115838426",
+          "sha256": "8b5b39e3f994b64c1cdd85c26c18d01c7fed0fea34475758189b498c95146a6d",
+          "bytes": 159681,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115838426#154115838426",
+          "sha256": "689af15e9b05b3b826acec58a567035f757dcb7241b170083ddab3c3ca0cb49d",
+          "bytes": 171187,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115838426#154115838426",
+          "sha256": "848e990b24bd5fab90839576891974f1975bdd20d01cdcc7e53af3a92fa4fa02",
+          "bytes": 175955,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115838426#154115838426",
+          "sha256": "cd51edca1f9eb190a7bc816fcbd59dfab0c515a09a7adcc2f6b08d2c90821d3f",
+          "bytes": 175169,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -260,6 +317,77 @@
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_case_key": "case-340c4db819f1b862",
+      "public_problem_key": "problem-8b75a0ff520ab684",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "练习模式难度与控制提示文字叠加",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "xtreme-sports",
+          "version": "v0.9.3",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "c7cc3b37b21529a933c4e5c11582a5e111911130bfb9f1797f7cb32c983d69e8",
+          "output_SHA256": "15a85421130784241b22786657fc6c924a1e7a2815b52052d3532eba26e8116a"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.3",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115838426": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|xtreme-v093-practice-menu-layer",
+          "game_ids": [
+            "xtreme-sports"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "练习模式难度与控制提示文字叠加",
+          "feedback_summary": "普通8px v0.9.3从标题进入练习模式后，玩家报告右上难度文字及左下选择和取消提示与原图片文字相撞。保存各难度画面作为新菜单消费者线索，尚未独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154115838426"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.3",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -441,13 +569,35 @@
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+    },
+    {
+      "public_problem_key": "problem-8b75a0ff520ab684",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "练习模式难度与控制提示文字叠加",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-340c4db819f1b862"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
   "acknowledgements": [],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "scoped_public_feedback_events": [],
   "metadata_state_alignment_history": [
     {
@@ -465,7 +615,7 @@
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 2,
+    "BUG": 3,
     "REQUEST_OR_OTHER": 0,
     "UNCLASSIFIED": 0
   }

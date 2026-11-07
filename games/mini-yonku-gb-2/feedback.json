@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mini-yonku-gb-2",
   "game_name": "四驱兄弟：全明星对战",
-  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -538,10 +538,10 @@
         "mini-yonku-gb-2"
       ],
       "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "feedback_kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
       "issue_state": "open",
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "public_feedback_keys": [
         "11092365551|154115000372",
         "11092365551|154115014262"
@@ -606,6 +606,15 @@
           "new_fix_claimed": false,
           "is_repair_completion": false
         }
+      ],
+      "classification_correction_history": [
+        {
+          "at": "2026-11-07T15:50:47.530068+00:00",
+          "previous_classification": "UNCLASSIFIED",
+          "classification": "BUG",
+          "reason": "CURRENT_REOPENED_DISPLAY_BUG_SCOPE_CLASSIFICATION_CORRECTION",
+          "prior_version_repair_and_acceptance_history_preserved": true
+        }
       ]
     }
   ],
@@ -617,7 +626,7 @@
       ],
       "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-9056deb77ed5bdd1",
         "case-57bda7254bc3ac1b"
@@ -633,7 +642,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "reopen_history": [
         {
           "at": "2026-11-07T03:44:48.273213+00:00",
@@ -643,6 +652,17 @@
           "source_public_case_keys": [
             "case-57bda7254bc3ac1b"
           ],
+          "prior_version_repair_and_acceptance_history_preserved": true
+        }
+      ],
+      "semantic_type": "PURE_BUG",
+      "classification_basis": "CURRENT_PUBLIC_REPORTED_DISPLAY_BUG_AND_REOPEN_SCOPE_REVIEW",
+      "classification_correction_history": [
+        {
+          "at": "2026-11-07T15:50:47.530068+00:00",
+          "previous_classification": "UNCLASSIFIED",
+          "classification": "BUG",
+          "reason": "CURRENT_REOPENED_DISPLAY_BUG_SCOPE_CLASSIFICATION_CORRECTION",
           "prior_version_repair_and_acceptance_history_preserved": true
         }
       ]
@@ -740,7 +760,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "reviewed_open_problem_counts": {
     "BUG": 1,
     "REQUEST_OR_OTHER": 1,

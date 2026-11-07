@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "soul-getter",
   "game_name": "放课后冒险RPG",
-  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -377,6 +377,577 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115475307",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+      "created_at": "2026-11-07T12:13:11+08:00",
+      "quote": "8px 0.9.1，对话中夹杂未翻译的日文文本，多为选项     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "2438095b7fce05c6370c575b435078039e17e7b1c54b43ecaf5f608261da71ee",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+          "sha256": "62ab76e3f4888011a0fe4ad129aeb3863bb768700869d35f9272993e5e611388",
+          "bytes": 171134,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+          "sha256": "7392ef53492c6928656dd7b1b15dd17de3c20566ac41231057451419fa33501d",
+          "bytes": 165514,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+          "sha256": "c0ac1f4e82394b9afb9f33017aa87cfe5b8f882451fd4cdd60d3821f183e7a69",
+          "bytes": 176859,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+          "sha256": "c5147c091f86695a3bfa521e034d92c4818bd5f31e5a15d0b233faf71a36c59b",
+          "bytes": 168326,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115475307#154115475307",
+          "sha256": "64b1bf0d6a2b02bcbdb2b3cf10ffa51e46842a8991f59114e0334536e7088a33",
+          "bytes": 170453,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115481667",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115481667#154115481667",
+      "created_at": "2026-11-07T12:15:35+08:00",
+      "quote": "8px 0.9.1，这个面对调查的图块是否为显示异常，请确认。捉迷藏后不久自动来到的一个城堡里  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "97f9f8c2e70c039ce77f0509ee9fe3c874c3d52989c2900545a466d50354de8c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115481667#154115481667",
+          "sha256": "f458375278d279f86ddaa0a20df5ac4574b03aa6b0b24e8e5deffe92f3dbc81f",
+          "bytes": 157797,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115481667#154115481667",
+          "sha256": "b42d9ca6f2078496ed5a9f782d2640324547163e6f045dd53750ac266847a0c5",
+          "bytes": 170619,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115485840",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115485840#154115485840",
+      "created_at": "2026-11-07T12:17:08+08:00",
+      "quote": "8px 0.9.1，对话时不时夹带未翻译的日文，多为选项    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fefbe759dc8edf85ded4c384245b9c49bc6c2743b26ace4baccb1f86ab9de0bc",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115485840#154115485840",
+          "sha256": "462cf7cc834db38e29c19863f904bddbaca4c7182e1bd65e88eb711c88aabf9d",
+          "bytes": 229871,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115485840#154115485840",
+          "sha256": "ce6a2b26b0c3c3c8e8598de5ad78222b6799282011b39a3103a13b9f660446a2",
+          "bytes": 228820,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115485840#154115485840",
+          "sha256": "ea7c425d7ae8b8620b1081b4caa3f4cb1485fb79ae555e862750652ab13d5d56",
+          "bytes": 227113,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115485840#154115485840",
+          "sha256": "9ab64e0d3ec36cdaffa67ecec817620cfb2a5317471b126b08b41f51780fd414",
+          "bytes": 223570,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115490724",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115490724#154115490724",
+      "created_at": "2026-11-07T12:18:54+08:00",
+      "quote": "8px 0.9.1，对话中有日文残留，多为带选项选择时    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "486465f5f01e202ac9f36392b10bdcb11f451961715bd381e245db8f0367bd17",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115490724#154115490724",
+          "sha256": "eeb281a90af48cae845af1e7fee156983bef20291a2cf5dcf70a9992f6fc4f2d",
+          "bytes": 216799,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115490724#154115490724",
+          "sha256": "08acec4faa170afff4ea9628ed310a6a5a416e50527c9f92e7612a95b6abe05b",
+          "bytes": 215244,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115490724#154115490724",
+          "sha256": "9e5b7987e348544499969b868db7ffbd59cf1b933eb161022e9575a46d0bbe20",
+          "bytes": 214938,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115490724#154115490724",
+          "sha256": "ed5ffa63c181fcba398fe481fd2b60e108423dfec30e87d40d88499f071dca2c",
+          "bytes": 216563,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115494711",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115494711#154115494711",
+      "created_at": "2026-11-07T12:20:22+08:00",
+      "quote": "8px 0.9.1，对着雕塑保存进度时有日文残留    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "aacd9b0d6a067e142dbf9f7e9fbf91b2bdf37a040764358985b5fd309ef3a456",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115494711#154115494711",
+          "sha256": "26c051b44c7003e0049a877c7bec6a613152fe5a50c8f54405d58e7a0a51f473",
+          "bytes": 229773,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115494711#154115494711",
+          "sha256": "7c2abd295b88a638563b48ba2854e323b30cf28824bd95972c4b3055b60234f3",
+          "bytes": 229875,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115494711#154115494711",
+          "sha256": "70635ebdb29f7b8a2a73e6b58e92e33e5789eba5812059f1860432f8b7933c29",
+          "bytes": 227325,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115494711#154115494711",
+          "sha256": "9953e3075c08744c3a848fdfeb2f629f68ba3d3b0620c6db7f100d6a5971a3bf",
+          "bytes": 230666,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115501455",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115501455#154115501455",
+      "created_at": "2026-11-07T12:22:46+08:00",
+      "quote": "8px 0.9.1，战斗中，选择魔法时，会出现日文残留（图1）。似乎战斗中我方被打败时也会出现一句日文残留，请确认  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "a26b3d8dd2418ae00fd3aacc9d227bedcfea53baf052ded34b29db05189feeef",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115501455#154115501455",
+          "sha256": "c38cdd1bbbdfd5177fcb08aeebb7f7834c56fbad5b6acf4638769042042bd596",
+          "bytes": 178351,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115501455#154115501455",
+          "sha256": "e36a5b13deb258f54e81d60c7099d9e918fee217ef5b4f653bcce6271c988832",
+          "bytes": 179508,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115510978",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115510978#154115510978",
+      "created_at": "2026-11-07T12:26:07+08:00",
+      "quote": "8px 0.9.1，战斗胜利后，我方升级时的能力提升结算界面，有日文残留（图1画面下方四个日文单词） ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "c682811248a53c12c6cd54067ba6bf8cceb826793ca91f81832759f7800749f7",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115510978#154115510978",
+          "sha256": "08cbcdfce9b3ce88a33f68bc5d261cb4a991e1d3655c21661bb908027843c3a9",
+          "bytes": 152090,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115532495",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115532495#154115532495",
+      "created_at": "2026-11-07T12:33:28+08:00",
+      "quote": "8px 0.9.1，第一个城市防具店，“火焰”的说明文字为日文，未翻译（画面下方）  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "0ed65674f27c5e1d8acbfd68726cbcc7de51094e42f85e3aef32ec1259380a67",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115532495#154115532495",
+          "sha256": "79c7d90de45867a8173dd2102793bb89f259afd4a76816215a811f5b4d8b91e0",
+          "bytes": 151024,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115532495#154115532495",
+          "sha256": "7d2aa45721c3c333dfed4e726d9dbd8653fd1fb2f8b7823cfd3c6cbbfe3fbbbc",
+          "bytes": 149968,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115551048",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115551048#154115551048",
+      "created_at": "2026-11-07T12:39:46+08:00",
+      "quote": "8px 0.9.1，菜单-“吊坠”，拼装魔法方块时，红色方块的下方的说明文字未翻译（图3、图4）    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "80b8e386273539d424fdc39a96125f13e80ddeee6a23b40e13b8cf8308bde34c",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115551048#154115551048",
+          "sha256": "1d58026207524873b1bdda0c354be272bab20ecca3980bda639460252525cbd9",
+          "bytes": 173864,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115551048#154115551048",
+          "sha256": "1532a822088d2e09600c722110dca6117d4f34b872255c28362a5a36f612e463",
+          "bytes": 151339,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115551048#154115551048",
+          "sha256": "a12e174a56de3b500af32b27c2379750cdc4e4c183070e623e0901728d084140",
+          "bytes": 121835,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115551048#154115551048",
+          "sha256": "ae37b4bcb17ead1c9c1874c592221b64917e3ae2b0c01a92b996600e0c012323",
+          "bytes": 153136,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115523558",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115523558#154115523558",
+      "created_at": "2026-11-07T12:30:26+08:00",
+      "quote": "8px 0.9.1，在第一个城市防具店里，在买了一个防具提示是否直接装备上时，画面右下方，指针和确认选项“是”有重叠  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "8d8c0e040fcf9764ff1f87055b5b7b21e0b7f44c966bb7dedae2382b83731047",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115523558#154115523558",
+          "sha256": "91722464df50a5ba414d58433312758e394a4e46b89e98729ebc7d968a5e42ec",
+          "bytes": 155623,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115523558#154115523558",
+          "sha256": "1150266c4a9dd2e676353d031c9046f62ba8578cd388832152f35e433dfa3d4a",
+          "bytes": 155877,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115529519",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115529519#154115529519",
+      "created_at": "2026-11-07T12:32:25+08:00",
+      "quote": "8px 0.9.1，在第一个城市防具店，画面上方，“购买”的下面一行，“夹克”变成了“是夹克”，显示错误。在购买了夹克并装备上了之后触发   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "764575e51947f5bcfa715850cca26cd491750d5dbd6e6511e9e973d63cbc3345",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115529519#154115529519",
+          "sha256": "88d7510511dfba464dee7c68103b0886e4c2ea831bcb8ce4a74eb7cdd9cff04e",
+          "bytes": 157140,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115529519#154115529519",
+          "sha256": "09b5b482d8f687fa3dade3a68501e5938cff67686a31835264df06dfaa051aec",
+          "bytes": 157337,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115529519#154115529519",
+          "sha256": "b7beb5a471844eeae48e0ea83a583c8db0acb7205a323163c30cb815fc348a59",
+          "bytes": 157163,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115535479",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115535479#154115535479",
+      "created_at": "2026-11-07T12:34:31+08:00",
+      "quote": "8px 0.9.1，在第一个城市防具店，购买时由于金钱不足时的提示，文本框右侧横线确实（画面右下角） ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fd3d1feb69c992514b53051ec8c94dc365f155faf02021348d4f7188dc97d4c3",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115535479#154115535479",
+          "sha256": "cfbfffa0aa9671bae5f59979e2e8ac5474245d509bad533cac72b261735c0912",
+          "bytes": 148000,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115535524",
+      "parent_pid": "154024633512",
+      "floor": 53,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115535524#154115535524",
+      "created_at": "2026-11-07T12:34:32+08:00",
+      "quote": "8px 0.9.1，在第一个城市防具店，购买时由于金钱不足时的提示，文本框右侧横线确实（画面右下角） ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "fd3d1feb69c992514b53051ec8c94dc365f155faf02021348d4f7188dc97d4c3",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115535524#154115535524",
+          "sha256": "cfbfffa0aa9671bae5f59979e2e8ac5474245d509bad533cac72b261735c0912",
+          "bytes": 148000,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -541,6 +1112,192 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-1e84e9900dc818dc",
+      "public_problem_key": "problem-7de6b80f6a01ddfe",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "选项、战斗与商店日文残留和城堡图块待核",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115475307": 5,
+        "154115481667": 2,
+        "154115485840": 4,
+        "154115490724": 4,
+        "154115494711": 4,
+        "154115501455": 2,
+        "154115510978": 1,
+        "154115532495": 2,
+        "154115551048": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|soul-v091-dialogue-battle-shop-coverage",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "选项、战斗与商店日文残留和城堡图块待核",
+          "feedback_summary": "普通8px v0.9.1的九条来源补充对白与选择项、雕塑保存、战斗魔法与败北提示、升级能力结算、防具说明、吊坠方块说明，以及城堡调查对象图块疑问。图块是否异常仍需场景原图对照，未确认回归或实施修复。",
+          "source_feedback_keys": [
+            "11092365551|154115475307",
+            "11092365551|154115481667",
+            "11092365551|154115485840",
+            "11092365551|154115490724",
+            "11092365551|154115494711",
+            "11092365551|154115501455",
+            "11092365551|154115510978",
+            "11092365551|154115532495",
+            "11092365551|154115551048"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-42f7a861f7b5fb8c",
+      "public_problem_key": "problem-eb4eee6c728c0090",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "soul-getter",
+          "version": "v0.9.1",
+          "font": "8px",
+          "audio_variant": null,
+          "original_input_SHA256": "b035b19a2d38a3c1d122a3f0e47647d42b9f9f94d1ccd9e613d56dad7ffc1b84",
+          "output_SHA256": "6bea0e23855dd6da9dff9ca2aa6a438e36607e8a87c764a71ddacae5f4fc0a98"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.9.1",
+        "reported_font": "8px",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115523558": 2,
+        "154115529519": 3,
+        "154115535479": 1,
+        "154115535524": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|soul-v091-armor-shop-ui",
+          "game_ids": [
+            "soul-getter"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+          "feedback_summary": "普通8px v0.9.1的防具店反馈含装备确认光标与“是”重叠、购买后列表“夹克”前多字、资金不足提示框右边线缺段。相同提示框的两条来源合并为一项，原话和图片各自保留，根因尚待复现。",
+          "source_feedback_keys": [
+            "11092365551|154115523558",
+            "11092365551|154115529519",
+            "11092365551|154115535479",
+            "11092365551|154115535524"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.9.1",
+          "reported_font": "8px",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -575,7 +1332,8 @@
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-5d18817a84d0581e",
-        "case-ae9c000e25a9e33d"
+        "case-ae9c000e25a9e33d",
+        "case-1e84e9900dc818dc"
       ],
       "public_feedback_keys": [
         "11092365551|154046043369",
@@ -587,22 +1345,56 @@
         "11092365551|154112987907",
         "11092365551|154112992634",
         "11092365551|154113004825",
-        "11092365551|154113007714"
+        "11092365551|154113007714",
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
+    },
+    {
+      "public_problem_key": "problem-eb4eee6c728c0090",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-42f7a861f7b5fb8c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
   "acknowledgements": [],
-  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "scoped_public_feedback_events": [],
   "metadata_state_alignment_history": [
     {
@@ -620,7 +1412,7 @@
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 0,
+    "BUG": 1,
     "REQUEST_OR_OTHER": 1,
     "UNCLASSIFIED": 0
   }

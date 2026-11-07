@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mario-tennis-gb",
   "game_name": "马里奥网球GB",
-  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -407,6 +407,43 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115787942",
+      "parent_pid": "154030119928",
+      "floor": 78,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115787942#154115787942",
+      "created_at": "2026-11-07T14:01:18+08:00",
+      "quote": "8px 1.0.4，菜单-“通关状态”，选项进入后，界面上方日文残留（图2上方）  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "6e59b5c0bad71d2c552d7f096b843ca32518413a8af959c1ccc167d7ff8c2c34",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115787942#154115787942",
+          "sha256": "ba13d8e9b3867229917e6e0a806d846e096a71adc815f4ea863650a1c12e60a5",
+          "bytes": 196051,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115787942#154115787942",
+          "sha256": "ab787a0a4205356db72c8765da8f546ebd67e22047c8ad483386ab9f4138e035",
+          "bytes": 155760,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -652,6 +689,77 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-248e711d8fe427e8",
+      "public_problem_key": "problem-5b4250fa5e668d6c",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "通关状态页标题残留日文",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115787942"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115787942"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "mario-tennis-gb",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
+          "output_SHA256": "015f59f383576bd808fd82621b325c6901cb80fda23ddfc5fe85eb94bbd060ee"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115787942": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|mario-tennis-v104-clear-status-japanese",
+          "game_ids": [
+            "mario-tennis-gb"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "通关状态页标题残留日文",
+          "feedback_summary": "普通8px v1.0.4从菜单进入通关状态页后，上方标题仍为日文，已补充到既有深层RPG覆盖反馈。此前局部修复的验收范围保留。",
+          "source_feedback_keys": [
+            "11092365551|154115787942"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -799,7 +907,8 @@
       "classification": "BUG",
       "case_keys": [
         "case-383aabb2a8a00bf0",
-        "case-302001c3c2cf05ca"
+        "case-302001c3c2cf05ca",
+        "case-248e711d8fe427e8"
       ],
       "public_feedback_keys": [
         "11092365551|154040518630",
@@ -809,13 +918,14 @@
         "11092365551|154047283624",
         "11092365551|154047288277",
         "11092365551|154047289739",
-        "11092365551|154114990883"
+        "11092365551|154114990883",
+        "11092365551|154115787942"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -913,7 +1023,7 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "reviewed_open_problem_counts": {
     "BUG": 2,
     "REQUEST_OR_OTHER": 1,

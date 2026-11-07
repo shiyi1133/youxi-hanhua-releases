@@ -1,9 +1,9 @@
 {
   "schema": "public_sanitized_problem_index_actual_state_v1",
-  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
-  "problem_count": 160,
-  "open_pure_BUG_count": 79,
-  "open_requests_or_other_count": 23,
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+  "problem_count": 164,
+  "open_pure_BUG_count": 82,
+  "open_requests_or_other_count": 24,
   "open_classification_unconfirmed_count": 3,
   "problems": [
     {
@@ -413,7 +413,8 @@
         "case-421cc52e095e8b26",
         "case-9410b8521f5f1572",
         "case-8131ae89ea4e59b2",
-        "case-4223d9dc9356be04"
+        "case-4223d9dc9356be04",
+        "case-045410fcfabfd451"
       ],
       "public_feedback_keys": [
         "11092365551|154024013324",
@@ -445,13 +446,14 @@
         "11092365551|154039554134",
         "11092365551|154039562196",
         "11092365551|154039563920",
-        "11092365551|154078077752"
+        "11092365551|154078077752",
+        "11092365551|154116346004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -747,7 +749,7 @@
       ],
       "summary": "[待复现] 波永的迷宫2 8px v0.1：状态图块、门/脚印列表文字异常；未译范围继续完善；波永2：8px v0.1.0战斗选项说明及道具菜单错误；原报告者补充五组可定位问题：初始村上方右2房间手动/自动说明词条意义不明；自动成长四类型选项错误、不全、偏位或空白；从该房间选格中/步下时后武器盾牌的已装备标记异常；菜单→职业的地图/战斗技能栏缺字。",
       "state": "open",
-      "state_checked_at": "2026-11-04T15:28:25.706470+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification": "BUG",
       "case_keys": [
         "case-515c3e3b410c3f8b",
@@ -760,7 +762,8 @@
         "case-ee765e7f6e0fb0e3",
         "case-85d54877938339d8",
         "case-b7ce67bca3c8d132",
-        "case-7089346d0e6867dc"
+        "case-7089346d0e6867dc",
+        "case-8e532963a5b2f677"
       ],
       "public_feedback_keys": [
         "11092365551|154029487823",
@@ -812,7 +815,8 @@
         "11092365551|154078060981",
         "11092365551|154105373340",
         "11092365551|154105410019",
-        "11092365551|154105448692"
+        "11092365551|154105448692",
+        "11092365551|154116060612"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
@@ -1595,7 +1599,8 @@
       "classification": "BUG",
       "case_keys": [
         "case-383aabb2a8a00bf0",
-        "case-302001c3c2cf05ca"
+        "case-302001c3c2cf05ca",
+        "case-248e711d8fe427e8"
       ],
       "public_feedback_keys": [
         "11092365551|154040518630",
@@ -1605,13 +1610,14 @@
         "11092365551|154047283624",
         "11092365551|154047288277",
         "11092365551|154047289739",
-        "11092365551|154114990883"
+        "11092365551|154114990883",
+        "11092365551|154115787942"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -1778,7 +1784,7 @@
       ],
       "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
       "state": "open",
-      "classification": "UNCLASSIFIED",
+      "classification": "BUG",
       "case_keys": [
         "case-9056deb77ed5bdd1",
         "case-57bda7254bc3ac1b"
@@ -1794,7 +1800,7 @@
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "reopen_history": [
         {
           "at": "2026-11-07T03:44:48.273213+00:00",
@@ -1804,6 +1810,17 @@
           "source_public_case_keys": [
             "case-57bda7254bc3ac1b"
           ],
+          "prior_version_repair_and_acceptance_history_preserved": true
+        }
+      ],
+      "semantic_type": "PURE_BUG",
+      "classification_basis": "CURRENT_PUBLIC_REPORTED_DISPLAY_BUG_AND_REOPEN_SCOPE_REVIEW",
+      "classification_correction_history": [
+        {
+          "at": "2026-11-07T15:50:47.530068+00:00",
+          "previous_classification": "UNCLASSIFIED",
+          "classification": "BUG",
+          "reason": "CURRENT_REOPENED_DISPLAY_BUG_SCOPE_CLASSIFICATION_CORRECTION",
           "prior_version_repair_and_acceptance_history_preserved": true
         }
       ]
@@ -2474,7 +2491,8 @@
       "classification": "REQUEST_OR_OTHER",
       "case_keys": [
         "case-5d18817a84d0581e",
-        "case-ae9c000e25a9e33d"
+        "case-ae9c000e25a9e33d",
+        "case-1e84e9900dc818dc"
       ],
       "public_feedback_keys": [
         "11092365551|154046043369",
@@ -2486,13 +2504,22 @@
         "11092365551|154112987907",
         "11092365551|154112992634",
         "11092365551|154113004825",
-        "11092365551|154113007714"
+        "11092365551|154113007714",
+        "11092365551|154115475307",
+        "11092365551|154115481667",
+        "11092365551|154115485840",
+        "11092365551|154115490724",
+        "11092365551|154115494711",
+        "11092365551|154115501455",
+        "11092365551|154115510978",
+        "11092365551|154115532495",
+        "11092365551|154115551048"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "FEATURE_OR_SUGGESTION"
     },
@@ -6098,13 +6125,105 @@
       "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
       "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-eb4eee6c728c0090",
+      "game_ids": [
+        "soul-getter"
+      ],
+      "summary": "防具店确认光标、购买列表和资金不足提示框显示异常",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-42f7a861f7b5fb8c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115523558",
+        "11092365551|154115529519",
+        "11092365551|154115535479",
+        "11092365551|154115535524"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-8b75a0ff520ab684",
+      "game_ids": [
+        "xtreme-sports"
+      ],
+      "summary": "练习模式难度与控制提示文字叠加",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-340c4db819f1b862"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115838426"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b511cd69501aa915",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "大地图地名和必杀触发条残留日文",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-95d4f781f205aadc"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "COVERAGE_FEEDBACK"
+    },
+    {
+      "public_problem_key": "problem-46c323897be7868f",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "赛车成绩页上方两行异常文字",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-eb97a1f4d97bbd7c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "source_issue_numbers_not_exposed": true,
   "public_Issues_created": 0,
   "open_is_not_active_repair": true,
   "closed_is_not_full_game_acceptance": true,
-  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "newly_GET_checked_problem_keys": [
     "problem-3b238f909725b329",
     "problem-4595919452458fb1",

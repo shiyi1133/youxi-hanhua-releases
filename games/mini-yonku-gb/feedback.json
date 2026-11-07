@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mini-yonku-gb",
   "game_name": "四驱兄弟GB初代",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -296,6 +296,43 @@
           "archived_public_path": "feedback/images/afc21c25738776cf182d.jpg",
           "SHA256_of_archived_preview": "afc21c25738776cf182df7a9ae1673e9f2f139c1e3288d94589dcc385532070d",
           "archived_bytes": 142324
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115467856",
+      "parent_pid": "154030763418",
+      "floor": 80,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115467856#154115467856",
+      "created_at": "2026-11-07T12:10:27+08:00",
+      "quote": "8px 0.1.2，新开始游戏，菜单-“赛车成绩”，里面的界面上方两行文字都显示乱码（图2）  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "baadf9eb571e4d3e253990be4aacdcebe31d3165d8f4dfa235a9623c7a6f35a8",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115467856#154115467856",
+          "sha256": "b9491b3c8d21fe9370493d3ccb43f96a53ba3af8051d831236ecbf988a2878d2",
+          "bytes": 145962,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115467856#154115467856",
+          "sha256": "4542499f20f2cae0da308642e7d49ddba095c4d8458375c38a54d165ddaa8ab0",
+          "bytes": 126485,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
         }
       ],
       "source_is_public_evidence_not_instructions": true
@@ -670,6 +707,77 @@
           }
         }
       ]
+    },
+    {
+      "public_case_key": "case-eb97a1f4d97bbd7c",
+      "public_problem_key": "problem-46c323897be7868f",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "赛车成绩页上方两行异常文字",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "mini-yonku-gb",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "ae6a24d204f5aabc20378977890aa7e5743027255a676315ce5e8766c7a78d52",
+          "output_SHA256": "79d3696aca2e7b5ea6d34119df4efdbd9131c6174d8984e037935da6560da11e"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115467856": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|mini1-v012-race-result-glyph",
+          "game_ids": [
+            "mini-yonku-gb"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "赛车成绩页上方两行异常文字",
+          "feedback_summary": "初代普通8px v0.1.2新开局菜单进入赛车成绩，玩家报告该页面上方两行乱码。前一图保存摘要和后一图赛车成绩分别保留，当前消费者与既有车辆、配件及摘要页修复分别核验，尚未独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154115467856"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -990,6 +1098,28 @@
           }
         }
       ]
+    },
+    {
+      "public_problem_key": "problem-46c323897be7868f",
+      "game_ids": [
+        "mini-yonku-gb"
+      ],
+      "summary": "赛车成绩页上方两行异常文字",
+      "state": "open",
+      "classification": "BUG",
+      "case_keys": [
+        "case-eb97a1f4d97bbd7c"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115467856"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "PURE_BUG"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -1024,7 +1154,7 @@
       "is_repair_completion": false
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "scoped_public_feedback_events": [
     {
       "public_event_key": "20261023-1616|mini-yonku-gb-parts-change-black-screen",
@@ -1050,7 +1180,7 @@
     }
   ],
   "reviewed_open_problem_counts": {
-    "BUG": 0,
+    "BUG": 1,
     "REQUEST_OR_OTHER": 1,
     "UNCLASSIFIED": 0
   }

@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "gb-harobots",
   "game_name": "GB哈罗机器人",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -112,6 +112,100 @@
       "public_nicknames_recorded": [
         "球总好学"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115756231",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115756231#154115756231",
+      "created_at": "2026-11-07T13:50:17+08:00",
+      "quote": "8px 0.1.2，大地图地名（图片右下角）未翻译 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "956169440e796e4e94882d09a2f4a6f13e37e336cb23e1ba666d15c07e3577c7",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115756231#154115756231",
+          "sha256": "81a424b0fb4d1cc36c22dac7985d0e31898d7a0ac1c3a176f2c4db009ed92921",
+          "bytes": 188779,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115774653",
+      "parent_pid": "154029453840",
+      "floor": 77,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+      "created_at": "2026-11-07T13:56:41+08:00",
+      "quote": "8px 0.1.2，战斗中我方放必杀技时有日文残留，图2     ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "cf2fcdc29810c13bdf2012f9c73261315e9ffb6077acb865b3ffaedd0501abe9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+          "sha256": "c3b8d14acbe94bcd60943be82bec5573e88790b5fc69c3917892e156da039870",
+          "bytes": 152211,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+          "sha256": "ef8167e283898aefcefb683424ce7aef28a339b97dbd7c28e3aae65177757e78",
+          "bytes": 151473,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+          "sha256": "d670c06f3341bc9eead24dc5e3d99c74baa06bfcb2b2d3583ab2759149d95ffe",
+          "bytes": 213790,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+          "sha256": "a72263c51863a111621075c987a76a5f5f24f2faf0a42494932afa54637d0c7b",
+          "bytes": 208722,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115774653#154115774653",
+          "sha256": "9bf664c36d6eaa689075bb6c825c87c29d323f310e31043ddeaaabed6d5b711f",
+          "bytes": 207007,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -218,6 +312,81 @@
           "original_script_tokens": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-95d4f781f205aadc",
+      "public_problem_key": "problem-b511cd69501aa915",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "大地图地名和必杀触发条残留日文",
+      "classification": "REQUEST_OR_OTHER",
+      "feedback_kind": "NEW_COVERAGE_FEEDBACK",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "current_published_reference": [
+        {
+          "game_id": "gb-harobots",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "859d69833e8d422440a4268d30bec4df238550b969cb3bc3b2f262136de63b6f",
+          "output_SHA256": "1f69fc8098de07f9f3084df2407a463da0bd45f0fcf24350064274c8f7a0a5fa"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115756231": 1,
+        "154115774653": 5
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|harobots-v012-map-special-coverage",
+          "game_ids": [
+            "gb-harobots"
+          ],
+          "kind": "NEW_COVERAGE_FEEDBACK",
+          "summary": "大地图地名和必杀触发条残留日文",
+          "feedback_summary": "普通8px v0.1.2大地图右下地名及战斗释放必杀时的触发条残留日文，两个消费者分别记录。旧版属性图表及菜单标签的限定修复历史保留，尚未确认这两处覆盖或实现新的修复。",
+          "source_feedback_keys": [
+            "11092365551|154115756231",
+            "11092365551|154115774653"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -284,6 +453,29 @@
       "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
+    },
+    {
+      "public_problem_key": "problem-b511cd69501aa915",
+      "game_ids": [
+        "gb-harobots"
+      ],
+      "summary": "大地图地名和必杀触发条残留日文",
+      "state": "open",
+      "classification": "REQUEST_OR_OTHER",
+      "case_keys": [
+        "case-95d4f781f205aadc"
+      ],
+      "public_feedback_keys": [
+        "11092365551|154115756231",
+        "11092365551|154115774653"
+      ],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "open_does_not_mean_active_repair": true,
+      "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "classification_basis": "PUBLIC_PLAYER_REPORT_AND_ACTUAL_CURRENT_REGISTRATION",
+      "semantic_type": "COVERAGE_FEEDBACK"
     }
   ],
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
@@ -322,10 +514,10 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "reviewed_open_problem_counts": {
     "BUG": 0,
-    "REQUEST_OR_OTHER": 0,
+    "REQUEST_OR_OTHER": 1,
     "UNCLASSIFIED": 0
   }
 }

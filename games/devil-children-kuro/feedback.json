@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "devil-children-kuro",
   "game_name": "真·女神转生 恶魔之子 黑之书",
-  "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+  "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -809,6 +809,33 @@
       "download_locator_redactions": [],
       "images": [],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154116346004",
+      "parent_pid": "154023828144",
+      "floor": 45,
+      "public_nickname": "bantuwang1",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154116346004#154116346004",
+      "created_at": "2026-11-07T17:12:19+08:00",
+      "quote": "版本时黑之书大字版：devil-children-kuro-v1.0.3-10px.gbc； 前期战斗界面，出现图中满屏0字符 ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7e2b593d7844bb13b0f89b33dbb8d8294df46ecfda311cdb0d1097638c5fd499",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154116346004#154116346004",
+          "sha256": "b9975dd9000177ca9331e06b5fdc6db8b9f845bcaab9c2ace84a5a1e319e7b83",
+          "bytes": 431755,
+          "width": 1080,
+          "height": 1148,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -1345,6 +1372,77 @@
       "previous_same_report_confirmation_reply_PID": "154091453907",
       "confirmation_repeated_this_increment": false,
       "previous_reply_not_new_receipt_for_this_source": true
+    },
+    {
+      "public_case_key": "case-045410fcfabfd451",
+      "public_problem_key": "problem-00a7fcfad349cf25",
+      "game_ids": [
+        "devil-children-kuro"
+      ],
+      "summary": "大字版前期战斗满屏0补证",
+      "classification": "BUG",
+      "feedback_kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+      "public_feedback_keys": [
+        "11092365551|154116346004"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154116346004"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "current_published_reference": [
+        {
+          "game_id": "devil-children-kuro",
+          "version": "v1.0.3",
+          "font": "10px-dialogue",
+          "audio_variant": null,
+          "original_input_SHA256": "0b0a034327b63d61eb02aeb0ce84458ac77b3687df94bb0e0f2806be0de79fba",
+          "output_SHA256": "9770b8accd70d8849a24f5ae2a18c95979f2d1186e5fcd02d0edd3b08553a2e1"
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.3",
+        "reported_font": "10px-dialogue",
+        "reported_audio_variant": null,
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154116346004": 1
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-2341|kuro-v103-10px-battle-zero",
+          "game_ids": [
+            "devil-children-kuro"
+          ],
+          "kind": "EXISTING_PUBLIC_FEEDBACK_SUPPLEMENT",
+          "summary": "大字版前期战斗满屏0补证",
+          "feedback_summary": "玩家提供黑之书v1.0.3对白大字版完整文件名，并报告前期战斗界面满屏0字符。图像和触发阶段已补入既有战斗显示问题，尚未由维护独立运行复现。",
+          "source_feedback_keys": [
+            "11092365551|154116346004"
+          ],
+          "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
+          "reported_version": "v1.0.3",
+          "reported_font": "10px-dialogue",
+          "reported_audio_variant": null,
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -1496,7 +1594,8 @@
         "case-421cc52e095e8b26",
         "case-9410b8521f5f1572",
         "case-8131ae89ea4e59b2",
-        "case-4223d9dc9356be04"
+        "case-4223d9dc9356be04",
+        "case-045410fcfabfd451"
       ],
       "public_feedback_keys": [
         "11092365551|154024013324",
@@ -1528,13 +1627,14 @@
         "11092365551|154039554134",
         "11092365551|154039562196",
         "11092365551|154039563920",
-        "11092365551|154078077752"
+        "11092365551|154078077752",
+        "11092365551|154116346004"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-11-01T05:26:35.321140+08:00",
+      "state_checked_at": "2026-11-07T15:50:47.530068+00:00",
       "classification_basis": "ROOT_REVIEWED_LITERAL_PUBLIC_SOURCE_AND_EXISTING_LEDGER_PER_NUMBER_NO_PRIVATE_BODY_COPY",
       "semantic_type": "PURE_BUG"
     },
@@ -1564,7 +1664,7 @@
   "actual_player_ROM_identity_unknown_is_not_replaced_with_current_reference_SHA": true,
   "private_issue_bodies_copied": false,
   "public_issues_created": 0,
-  "last_incremental_update_at": "2026-11-01T05:26:35.321140+08:00",
+  "last_incremental_update_at": "2026-11-07T15:50:47.530068+00:00",
   "reviewed_open_problem_counts": {
     "BUG": 3,
     "REQUEST_OR_OTHER": 0,

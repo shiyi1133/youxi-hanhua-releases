@@ -2,7 +2,7 @@
   "schema": "public_single_game_Tieba_evidence_and_actual_problem_state_v1",
   "game_id": "mini-yonku-gb-2",
   "game_name": "四驱兄弟：全明星对战",
-  "state_checked_at": "2026-10-26T01:07:46.515027+08:00",
+  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
   "rows": [
     {
       "tid": "11092365551",
@@ -276,6 +276,140 @@
       "public_nicknames_recorded": [
         "球总好学"
       ]
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115000372",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+      "created_at": "2026-11-07T09:17:39+08:00",
+      "quote": "8px 0.1.2，片头前短暂的开场cg有几处显示乱码，图1、图2中间和左边，图3、图4、图5、图6中间      ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "acb29409be8203bead40b88f5bcb03a6393905b03671c8214231f2dcb1026f44",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "04672fe91e8072f0785be410aa37d7c2dfa9b7db8b93a8a7a4bb61b0de4ad73a",
+          "bytes": 129579,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "dcfb1b8b89436373e5aa5dbb28b7c8791fe87e09010e0c6af02a9dc5710db007",
+          "bytes": 129135,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "0c3e78e168fc9195b9a7e9829dc533af884e6b3c959641a6549cf5218571de81",
+          "bytes": 131633,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "7e1ae2140bd8126d4317dcf0025612db3a357a60f91a4302dfc37fc690ece9d2",
+          "bytes": 19024,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "bd0e36e7ae4ac413b8f1d4a0c3ca026d16113296cd291aa47ae1377af2636c8e",
+          "bytes": 17242,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "09ecfba2b35a4a8ebfdfc6ab6105e3d3b68d69b6b22849c4466afb509a90eda4",
+          "bytes": 133054,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115014262",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+      "created_at": "2026-11-07T09:24:11+08:00",
+      "quote": "8px 0.1.2，开始游戏不久后，自由移动到阿龙的帐篷。选择“成绩”-“赛车成绩”，之后的页面（图4），画面上方“买易胜你芯车咩充电”，画面中间三个词条“买易胜”“达用”“结选”，语句意思都不通顺，意义不明，请修改    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7ea8d18390dd7c30f9051a7f6ad66917372bafcdb2e67e5cdff9f90ccede341d",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "39a2ab6d7dc87aeea5e91136ad550c7dff44331d3dd279586695b11600e2b475",
+          "bytes": 252108,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "a85a67c0c2edb20b0c3546d42d45d10c950eb844366b78aa5ade4bbfd86f7972",
+          "bytes": 181916,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "1854bf76d6199e7d654ae483556becbee78f3fae4e9e4d161db2d4411130106c",
+          "bytes": 162912,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "47e69d390e92754497688049e0ea061da4106b2fc81e084751dadd8918a42a9e",
+          "bytes": 143984,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "cases": [
@@ -396,6 +530,83 @@
           "original_script_tokens": null
         }
       ]
+    },
+    {
+      "public_case_key": "case-57bda7254bc3ac1b",
+      "public_problem_key": "problem-eea3443a4d24d33b",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
+      "classification": "UNCLASSIFIED",
+      "feedback_kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115000372",
+        "11092365551|154115014262"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115000372",
+        "11092365551|154115014262"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "existing_problem_reopened": true,
+      "current_published_reference": [
+        {
+          "game_id": "mini-yonku-gb-2",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+          "output_SHA256": "7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115000372": 6,
+        "154115014262": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-1137|mini2-v012-intro-and-score-return-report",
+          "game_ids": [
+            "mini-yonku-gb-2"
+          ],
+          "kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
+          "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
+          "feedback_summary": "玩家在普通8px v0.1.2报告开场短暂转场出现异常文字，以及阿龙帐篷“成绩→赛车成绩”页标题和三列标签语句异常。已有问题根据这些当前版本线索再次开放。历史v0.1.1限定修复与验收记录保留；本次尚未独立运行复现，也未确认属于回归。静图不能单独判断动画片段的持续性。",
+          "source_feedback_keys": [
+            "11092365551|154115000372",
+            "11092365551|154115014262"
+          ],
+          "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
   "problems": [
@@ -405,21 +616,36 @@
         "mini-yonku-gb-2"
       ],
       "summary": "六图含开场转场重复字形（正式标题恢复）、车辆名/介绍乱码、帐篷成绩项目异常中文。；该游戏为mini-yonku-gb-2，与旧mini-yonku-gb的既有反馈不同；保留为非纯排版的复合显示/内容问题并分项复现，不推断共同根因。",
-      "state": "closed",
+      "state": "open",
       "classification": "UNCLASSIFIED",
       "case_keys": [
-        "case-9056deb77ed5bdd1"
+        "case-9056deb77ed5bdd1",
+        "case-57bda7254bc3ac1b"
       ],
       "public_feedback_keys": [
         "11092365551|154042170820",
         "11092365551|154042173337",
-        "11092365551|154042177461"
+        "11092365551|154042177461",
+        "11092365551|154115000372",
+        "11092365551|154115014262"
       ],
       "public_issue_url": null,
       "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
       "open_does_not_mean_active_repair": true,
       "closed_does_not_alone_certify_all_reported_symptoms_fixed": true,
-      "state_checked_at": "2026-10-26T01:07:46.515027+08:00"
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "reopen_history": [
+        {
+          "at": "2026-11-07T03:44:48.273213+00:00",
+          "previous_state": "closed",
+          "state": "open",
+          "reason": "CURRENT_VERSION_PLAYER_REPORT_WITHOUT_INDEPENDENT_REPRODUCTION",
+          "source_public_case_keys": [
+            "case-57bda7254bc3ac1b"
+          ],
+          "prior_version_repair_and_acceptance_history_preserved": true
+        }
+      ]
     },
     {
       "public_problem_key": "problem-b8328f670d349620",
@@ -514,9 +740,9 @@
       "classification": "BUG"
     }
   ],
-  "last_incremental_update_at": "2026-10-26T01:07:46.515027+08:00",
+  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00",
   "reviewed_open_problem_counts": {
-    "BUG": 0,
+    "BUG": 1,
     "REQUEST_OR_OTHER": 1,
     "UNCLASSIFIED": 0
   }

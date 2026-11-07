@@ -1,7 +1,7 @@
 {
   "schema": "public_game_feedback_cases_with_public_evidence_v2",
-  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
-  "case_count": 244,
+  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+  "case_count": 248,
   "cases": [
     {
       "public_case_key": "case-86310be58df28d1c",
@@ -15449,7 +15449,303 @@
           "is_repair_completion": false
         }
       ]
+    },
+    {
+      "public_case_key": "case-302001c3c2cf05ca",
+      "public_problem_key": "problem-5b4250fa5e668d6c",
+      "game_ids": [
+        "mario-tennis-gb"
+      ],
+      "summary": "开场CG残留日文及中文标语译意待核",
+      "classification": "BUG",
+      "feedback_kind": "COVERAGE_AND_TRANSLATION_MEANING_REVIEW",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "public_feedback_keys": [
+        "11092365551|154114990883"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154114990883"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "existing_problem_reopened": false,
+      "current_published_reference": [
+        {
+          "game_id": "mario-tennis-gb",
+          "version": "v1.0.4",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "bc9d363cd702693a3af5c3e089e6881fbdbe2d9162995fe601243d2029fd26d7",
+          "output_SHA256": "015f59f383576bd808fd82621b325c6901cb80fda23ddfc5fe85eb94bbd060ee",
+          "output_bytes": 4194304
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v1.0.4",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154114990883": 3
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-1137|mario-tennis-v104-opening-coverage",
+          "game_ids": [
+            "mario-tennis-gb"
+          ],
+          "kind": "COVERAGE_AND_TRANSLATION_MEANING_REVIEW",
+          "summary": "开场CG残留日文及中文标语译意待核",
+          "feedback_summary": "玩家在普通8px v1.0.4开场CG中提供一幅中文标语和两幅日文标语，要求统一覆盖，并询问“继续对拉吧”的译意。保存原文及画面定位，译意尚未对照原文，相关问题继续排查。",
+          "source_feedback_keys": [
+            "11092365551|154114990883"
+          ],
+          "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+          "reported_version": "v1.0.4",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-57bda7254bc3ac1b",
+      "public_problem_key": "problem-eea3443a4d24d33b",
+      "game_ids": [
+        "mini-yonku-gb-2"
+      ],
+      "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
+      "classification": "UNCLASSIFIED",
+      "feedback_kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "public_feedback_keys": [
+        "11092365551|154115000372",
+        "11092365551|154115014262"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154115000372",
+        "11092365551|154115014262"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "existing_problem_reopened": true,
+      "current_published_reference": [
+        {
+          "game_id": "mini-yonku-gb-2",
+          "version": "v0.1.2",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "947961a18107e7a6fb4bbb892858e4ca724e3fd1272df016713440c36a1232a0",
+          "output_SHA256": "7521f52b0c067dd76b21c0aa9f53d946c45482d3eb2d78302b00629ab6d30011",
+          "output_bytes": 1048576
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.2",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154115000372": 6,
+        "154115014262": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-1137|mini2-v012-intro-and-score-return-report",
+          "game_ids": [
+            "mini-yonku-gb-2"
+          ],
+          "kind": "CURRENT_VERSION_REPORT_REOPENED_EXISTING_SCOPE",
+          "summary": "当前版开场转场及帐篷赛车成绩文字异常，问题再次开放",
+          "feedback_summary": "玩家在普通8px v0.1.2报告开场短暂转场出现异常文字，以及阿龙帐篷“成绩→赛车成绩”页标题和三列标签语句异常。已有问题根据这些当前版本线索再次开放。历史v0.1.1限定修复与验收记录保留；本次尚未独立运行复现，也未确认属于回归。静图不能单独判断动画片段的持续性。",
+          "source_feedback_keys": [
+            "11092365551|154115000372",
+            "11092365551|154115014262"
+          ],
+          "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+          "reported_version": "v0.1.2",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-b8273b0cc0c24f95",
+      "public_problem_key": "problem-7cee56fa3698cbd3",
+      "game_ids": [
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "对白自定义姓名后多余空格补证",
+      "classification": "BUG",
+      "feedback_kind": "DIALOGUE_LAYOUT_BATCH_SOURCE_EVIDENCE_SUPPLEMENT",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "public_feedback_keys": [
+        "11092365551|154114969609"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154114969609"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": true,
+      "new_anonymous_problem_created": false,
+      "existing_problem_reopened": false,
+      "current_published_reference": [
+        {
+          "game_id": "zelda-links-awakening-gb",
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "d37d36cc47e42a42146ef04bed47d2fe127f5f98daf9cb499dc1a0e676574e78",
+          "output_SHA256": "e4b0c813010071f95bd3c5a109b22406d195be3d96ab9b2363e76ed45968b947",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.1",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154114969609": 2
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-1137|zelda-gb-v011-name-spacing",
+          "game_ids": [
+            "zelda-links-awakening-gb"
+          ],
+          "kind": "DIALOGUE_LAYOUT_BATCH_SOURCE_EVIDENCE_SUPPLEMENT",
+          "summary": "对白自定义姓名后多余空格补证",
+          "feedback_summary": "玩家在黑白GB普通8px v0.1.1中报告“杨咩咩”后与后续文字之间有多余空格，已补入集中排版反馈。保留必要语义空格和控制边界，尚未实施或验收新的修复。",
+          "source_feedback_keys": [
+            "11092365551|154114969609"
+          ],
+          "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+          "reported_version": "v0.1.1",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
+    },
+    {
+      "public_case_key": "case-60614c6eaca87f66",
+      "public_problem_key": "problem-27d57131a64e44de",
+      "game_ids": [
+        "zelda-links-awakening-gb"
+      ],
+      "summary": "复制存档页面“返回”右侧多余小圆圈",
+      "classification": "BUG",
+      "feedback_kind": "NEW_INDEPENDENT_BUG",
+      "issue_state": "open",
+      "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+      "public_feedback_keys": [
+        "11092365551|154114974880"
+      ],
+      "primary_feedback_keys": [
+        "11092365551|154114974880"
+      ],
+      "context_feedback_keys": [],
+      "public_issue_url": null,
+      "public_issue_sync": "PENDING_REVIEW_AND_CREATION",
+      "existing_problem_reused": false,
+      "new_anonymous_problem_created": true,
+      "existing_problem_reopened": false,
+      "current_published_reference": [
+        {
+          "game_id": "zelda-links-awakening-gb",
+          "version": "v0.1.1",
+          "font": "8px",
+          "audio_variant": "unchanged",
+          "original_input_SHA256": "d37d36cc47e42a42146ef04bed47d2fe127f5f98daf9cb499dc1a0e676574e78",
+          "output_SHA256": "e4b0c813010071f95bd3c5a109b22406d195be3d96ab9b2363e76ed45968b947",
+          "output_bytes": 524288
+        }
+      ],
+      "current_reference_is_not_reporter_ROM_identity": true,
+      "actual_reporter_input_sha256": null,
+      "actual_reporter_output_sha256": null,
+      "reported_identity": {
+        "reported_version": "v0.1.1",
+        "reported_font": "8px",
+        "reported_audio_variant": "unchanged",
+        "actual_ROM_SHA256": null,
+        "reported_identity_is_not_byte_verification": true
+      },
+      "source_image_counts": {
+        "154114974880": 4
+      },
+      "open_does_not_mean_active_repair": true,
+      "public_feedback_updates": [
+        {
+          "public_update_key": "20261107-1137|zelda-gb-v011-copy-save-return-dot",
+          "game_ids": [
+            "zelda-links-awakening-gb"
+          ],
+          "kind": "NEW_INDEPENDENT_BUG",
+          "summary": "复制存档页面“返回”右侧多余小圆圈",
+          "feedback_summary": "玩家在黑白GB普通8px v0.1.1中，从游戏开始界面进入复制存档后的页面，报告左下方“返回”右侧有多余小圆圈。四图保存入口和页面位置；已登记为独立显示问题，尚未独立运行复现或确认根因。",
+          "source_feedback_keys": [
+            "11092365551|154114974880"
+          ],
+          "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+          "reported_version": "v0.1.1",
+          "reported_font": "8px",
+          "reported_audio_variant": "unchanged",
+          "actual_player_input_SHA256": null,
+          "actual_player_output_SHA256": null,
+          "maintainer_new_runtime_tests": false,
+          "maintainer_reproduction_attempted": false,
+          "new_fix_claimed": false,
+          "is_repair_completion": false
+        }
+      ]
     }
   ],
-  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00"
+  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00"
 }

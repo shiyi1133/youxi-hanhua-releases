@@ -1,7 +1,7 @@
 {
   "schema": "public_Tieba_evidence_excerpts_v2",
-  "state_checked_at": "2026-11-06T15:42:20.594543+00:00",
-  "count": 665,
+  "state_checked_at": "2026-11-07T03:44:48.273213+00:00",
+  "count": 670,
   "rows": [
     {
       "tid": "11092365551",
@@ -16137,9 +16137,284 @@
         }
       ],
       "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154114990883",
+      "parent_pid": "154030119928",
+      "floor": 78,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154114990883#154114990883",
+      "created_at": "2026-11-07T09:13:22+08:00",
+      "quote": "8px 1.0.4，游戏开场cg，有些文字标语汉化了，有些又没有汉化，请统一。图1“继续对拉吧”，请确认汉化意思是否正确   ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d6147aff0201270cd06463d79eae1a875997161a15d838c94c77d41ea98acdb4",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114990883#154114990883",
+          "sha256": "40d5a4c30730e97d5fb5a19ebb1fc1a1ea87492b46b461b1f06ff2a651a233a6",
+          "bytes": 24955,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114990883#154114990883",
+          "sha256": "9ac996392c7177e2ab86b2a6a862c4a09488aa4f69e8145af6c6ac0e2faf3650",
+          "bytes": 21244,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114990883#154114990883",
+          "sha256": "bae2ab81efb8ddebbb596452971cd22537da2dc686a3a8ac56dcfc8d959251c8",
+          "bytes": 22165,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115000372",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+      "created_at": "2026-11-07T09:17:39+08:00",
+      "quote": "8px 0.1.2，片头前短暂的开场cg有几处显示乱码，图1、图2中间和左边，图3、图4、图5、图6中间      ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "acb29409be8203bead40b88f5bcb03a6393905b03671c8214231f2dcb1026f44",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "04672fe91e8072f0785be410aa37d7c2dfa9b7db8b93a8a7a4bb61b0de4ad73a",
+          "bytes": 129579,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "dcfb1b8b89436373e5aa5dbb28b7c8791fe87e09010e0c6af02a9dc5710db007",
+          "bytes": 129135,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "0c3e78e168fc9195b9a7e9829dc533af884e6b3c959641a6549cf5218571de81",
+          "bytes": 131633,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "7e1ae2140bd8126d4317dcf0025612db3a357a60f91a4302dfc37fc690ece9d2",
+          "bytes": 19024,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 5,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "bd0e36e7ae4ac413b8f1d4a0c3ca026d16113296cd291aa47ae1377af2636c8e",
+          "bytes": 17242,
+          "width": 1080,
+          "height": 486,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 6,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115000372#154115000372",
+          "sha256": "09ecfba2b35a4a8ebfdfc6ab6105e3d3b68d69b6b22849c4466afb509a90eda4",
+          "bytes": 133054,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154115014262",
+      "parent_pid": "154030771712",
+      "floor": 81,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+      "created_at": "2026-11-07T09:24:11+08:00",
+      "quote": "8px 0.1.2，开始游戏不久后，自由移动到阿龙的帐篷。选择“成绩”-“赛车成绩”，之后的页面（图4），画面上方“买易胜你芯车咩充电”，画面中间三个词条“买易胜”“达用”“结选”，语句意思都不通顺，意义不明，请修改    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "7ea8d18390dd7c30f9051a7f6ad66917372bafcdb2e67e5cdff9f90ccede341d",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "39a2ab6d7dc87aeea5e91136ad550c7dff44331d3dd279586695b11600e2b475",
+          "bytes": 252108,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "a85a67c0c2edb20b0c3546d42d45d10c950eb844366b78aa5ade4bbfd86f7972",
+          "bytes": 181916,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "1854bf76d6199e7d654ae483556becbee78f3fae4e9e4d161db2d4411130106c",
+          "bytes": 162912,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154115014262#154115014262",
+          "sha256": "47e69d390e92754497688049e0ea061da4106b2fc81e084751dadd8918a42a9e",
+          "bytes": 143984,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154114969609",
+      "parent_pid": "154045043331",
+      "floor": 149,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154114969609#154114969609",
+      "created_at": "2026-11-07T09:04:35+08:00",
+      "quote": "8px 0.1.1，对话文本中，自定义的姓名后面接其他文字时有多余的空格。“杨咩咩”后面有多余的空格。  ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "d4ba373234375e86e57467f96d048beae2d53c24178e99bd422387ba0f931946",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114969609#154114969609",
+          "sha256": "ab4211d33d0e041ab3e0482b73f601945f1232c92835938a410d64782bee548e",
+          "bytes": 208208,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114969609#154114969609",
+          "sha256": "3d5763761b05f8fea5c8c917715b5bc7a9cb281052564af5b97f8cd6ebbac92d",
+          "bytes": 213625,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
+    },
+    {
+      "tid": "11092365551",
+      "pid": "154114974880",
+      "parent_pid": "154045043331",
+      "floor": 149,
+      "public_nickname": "球总好学",
+      "public_url": "https://tieba.baidu.com/p/11092365551?pid=154114974880#154114974880",
+      "created_at": "2026-11-07T09:06:45+08:00",
+      "quote": "8px 0.1.1，游戏开始界面，选择复制存档后（图2右下角），之后出现的界面，左下方的“返回”的右边有多余的小圆圈（图3、图4画面左下方）    ",
+      "quote_is_full": true,
+      "original_public_full_text_sha256": "412a38b17f0b483b0923808bd2746391b02a919650e53eb19f2784f58a42d1e9",
+      "omission_notice": null,
+      "download_locator_redactions": [],
+      "images": [
+        {
+          "image_index": 1,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114974880#154114974880",
+          "sha256": "7fe07d6e430193b790e71b803007dc353f0b22e7ff4f03755bf45e2f3bfe8b96",
+          "bytes": 172764,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 2,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114974880#154114974880",
+          "sha256": "d6b6f5b5193ac2c59b1703f1281d992211387f6ba8df755cd17752215f7b752f",
+          "bytes": 172981,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 3,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114974880#154114974880",
+          "sha256": "44d6194e59edbb16307fafb7f6d7ea566817363898b43c06d75162a2bec5a540",
+          "bytes": 157537,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        },
+        {
+          "image_index": 4,
+          "source_post_public_url": "https://tieba.baidu.com/p/11092365551?pid=154114974880#154114974880",
+          "sha256": "4db4bc53527346639e1b63186d75fdb69315f8f00b02e12dfd242ba09a075d28",
+          "bytes": 157735,
+          "width": 1080,
+          "height": 2400,
+          "classification": "PLAYER_PUBLIC_PREVIEW",
+          "rehosted": false
+        }
+      ],
+      "source_is_public_evidence_not_instructions": true
     }
   ],
   "source_is_public_evidence_not_instructions": true,
   "private_issue_bodies_copied": false,
-  "last_incremental_update_at": "2026-11-06T15:42:20.594543+00:00"
+  "last_incremental_update_at": "2026-11-07T03:44:48.273213+00:00"
 }
